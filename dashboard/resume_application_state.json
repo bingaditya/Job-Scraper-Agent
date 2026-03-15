@@ -1,0 +1,34 @@
+{
+  "e201e222ce3f7af5a7ac2495e85eea2504abd135": {
+    "job_id": "e201e222ce3f7af5a7ac2495e85eea2504abd135",
+    "job_title": ".NET Full Stack Developer",
+    "company": "EY",
+    "resume_fit_score": 100,
+    "applied_keywords": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "CSS"
+    ],
+    "resume_path": "D:\\Job-Scraper-Agent\\assets\\resume.md",
+    "backup_path": "D:\\Job-Scraper-Agent\\assets\\resume.backups\\resume-20260314-223824-e201e222.md",
+    "applied_at": "2026-03-14T22:38:24.473918+00:00"
+  },
+  "3adc307f415a33e8baa0ed864ccc9d612abea4d4": {
+    "job_id": "3adc307f415a33e8baa0ed864ccc9d612abea4d4",
+    "job_title": "Full Stack .Net Developer",
+    "company": "Deloitte",
+    "resume_fit_score": 100,
+    "applied_keywords": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "Html"
+    ],
+    "resume_path": "D:\\Job-Scraper-Agent\\assets\\resume.md",
+    "backup_path": "D:\\Job-Scraper-Agent\\assets\\resume.backups\\resume-20260314-223848-3adc307f.md",
+    "applied_at": "2026-03-14T22:38:48.141689+00:00"
+  }
+}

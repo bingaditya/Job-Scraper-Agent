@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Job Hunter Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">AUTOMATED JOB DISCOVERY</p>
+      <h1>AI Job Hunter Dashboard</h1>
+      <p class="hero-copy">
+        A lightweight control surface for the jobs your agent scraped, scored, and prepared for resume tailoring.
+      </p>
+      <div class="dashboard-status" id="dashboard-status"></div>
+      <div class="hero-stats" id="stats"></div>
+    </header>
+
+    <main>
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">SHORTLIST</p>
+            <h2>Ranked opportunities</h2>
+          </div>
+          <p class="muted" id="generated-at">Waiting for the first agent run.</p>
+        </div>
+        <div class="job-grid" id="job-grid"></div>
+      </section>
+    </main>
+  </div>
+
+  <template id="job-card-template">
+    <article class="job-card">
+      <div class="job-card-top">
+        <span class="source-badge"></span>
+        <div class="pill-row">
+          <span class="score-pill"></span>
+          <span class="resume-pill"></span>
+        </div>
+      </div>
+      <h3 class="job-title"></h3>
+      <p class="company-line"></p>
+      <p class="reason-line"></p>
+      <p class="tailor-line"></p>
+      <div class="tag-list"></div>
+      <div class="card-footer">
+        <span class="location"></span>
+        <div class="action-cluster">
+          <button class="resume-button" type="button">Tailor Resume</button>
+          <a class="apply-link" target="_blank" rel="noreferrer">Apply</a>
+        </div>
+      </div>
+      <p class="resume-status"></p>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

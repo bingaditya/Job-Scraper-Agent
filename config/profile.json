@@ -1,0 +1,92 @@
+{
+  "candidate": {
+    "name": "Candidate Name",
+    "experience_years": 4,
+    "skills": [
+      "Python",
+      "Azure",
+      "PySpark",
+      "SQL",
+      "C#",
+      ".Net",
+      "Azure Container Apps",
+      ".net Core 8 API Development",
+      "DataDog",
+      "CI/CD Pipelines",
+      "Html",
+      "CSS",
+      "JavaScript",
+      "FastAPI"
+
+    ],
+    "preferred_titles": [
+      ".net Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "preferred_locations": [
+      "India",
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Noida",
+      "Mumbai",
+      "Chennai",
+      "Gurugram"
+    ],
+    "remote_first": false,
+    "resume_path": "assets/resume.md"
+  },
+  "search": {
+    "queries": [
+      ".Net Developer",
+      "Full Stack Developer",
+      "Python Developer"
+    ],
+    "keywords": [
+      "Python",
+      "Azure",
+      "PySpark",
+      "SQL",
+      "C#",
+      ".Net",
+      "Azure Container Apps",
+      ".net Core 8 API Development",
+      "DataDog",
+      "CI/CD Pipelines",
+      "Html",
+      "CSS",
+      "JavaScript",
+      "FastAPI"
+    ],
+    "strict_location_match": true,
+    "min_score": 45,
+    "top_n": 25
+  },
+  "sources": {
+    "enabled": [
+      "arbeitnow",
+      "remoteok",
+      "linkedin",
+      "builtin",
+      "himalayas",
+      "indeed",
+      "naukri"
+    ],
+    "arbeitnow_pages": 2,
+    "linkedin_pages": 1,
+    "builtin_pages": 1,
+    "himalayas_pages": 1,
+    "source_job_limit": 20
+  },
+  "notifications": {
+    "telegram_enabled": true,
+    "telegram_bot_token": "8535304782:AAHAtkUpAIqHAN81isry7tVfKmU5F-uM9zo",
+    "telegram_chat_id": "7498734426"
+  },
+  "ai": {
+    "ollama_model": "llama3.1",
+    "ollama_base_url": "http://127.0.0.1:11434",
+    "max_tailored_jobs": 5
+  }
+}

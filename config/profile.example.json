@@ -1,0 +1,70 @@
+{
+  "candidate": {
+    "name": "Candidate Name",
+    "experience_years": 4,
+    "skills": [
+      "Python",
+      "Azure",
+      "Snowflake",
+      "PySpark",
+      "SQL",
+      "ETL",
+      "Data Factory"
+    ],
+    "preferred_titles": [
+      "Data Engineer",
+      "Analytics Engineer",
+      "Python Developer"
+    ],
+    "preferred_locations": [
+      "Remote",
+      "India",
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "remote_first": true,
+    "resume_path": "assets/resume.md"
+  },
+  "search": {
+    "queries": [
+      "Data Engineer",
+      "Analytics Engineer",
+      "Python Developer"
+    ],
+    "keywords": [
+      "data engineer",
+      "analytics engineer",
+      "python",
+      "snowflake",
+      "azure"
+    ],
+    "strict_location_match": false,
+    "min_score": 45,
+    "top_n": 25
+  },
+  "sources": {
+    "enabled": [
+      "arbeitnow",
+      "remoteok",
+      "linkedin",
+      "builtin",
+      "himalayas"
+    ],
+    "arbeitnow_pages": 2,
+    "linkedin_pages": 1,
+    "builtin_pages": 1,
+    "himalayas_pages": 1,
+    "source_job_limit": 20
+  },
+  "notifications": {
+    "telegram_enabled": false,
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+  },
+  "ai": {
+    "ollama_model": "",
+    "ollama_base_url": "http://127.0.0.1:11434",
+    "max_tailored_jobs": 5
+  }
+}
