@@ -354,7 +354,7 @@
       "company": "Infosys",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402197135",
-      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India 2 days ago",
+      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India Actively Hiring 2 days ago",
       "tags": [
         ".net"
       ],
@@ -383,7 +383,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402114594",
-      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India 3 days ago",
+      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India Actively Hiring 3 days ago",
       "tags": [
         ".net"
       ],
@@ -412,7 +412,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 4 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 4 days ago",
       "tags": [
         ".net"
       ],
@@ -420,35 +420,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "547303bf24b7f3314f3c3bd2bcc0e4a93fc06d70"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4388481078",
-      "title": ".NET Developer [DNA]",
-      "company": "Virtusa",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 4 days ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-04-15",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "728b7011ec3cce4aaeb8d72aeb59641d24d3d6dc"
     }
   },
   {
@@ -470,7 +441,7 @@
       "company": "Deloitte",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
-      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India 1 week ago",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 1 week ago",
       "tags": [
         ".net"
       ],
@@ -499,7 +470,7 @@
       "company": "Volvo Group",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-volvo-group-4365045136",
-      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India 2 weeks ago",
+      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -507,6 +478,36 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "322bd6d30308cf1c1fc85fcacd6b87bdcaa9d6fa"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: SQL, JavaScript",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience fit around 1+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4337835394",
+      "title": "Full Stack Engineer",
+      "company": "Meril",
+      "location": "Kanpur, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-meril-4337835394",
+      "description": "Job Title: Full stack Developer Experience: 0 \u2013 3 Years Location: Kanpur (New Technopark @ IIT Kanpur) Job Type: Full-Time Key Responsibilities: \u00b7 Design, develop, and maintain full-stack applications using MERN stack + PostgreSQL. \u00b7 Build and integrate RESTful APIs for seamless communication between front-end and back-end services. \u00b7 Develop responsive, interactive, and user-friendly front-end applications with React.js (JavaScript/TypeScript). \u00b7 Write clean, modular, and maintainable code following industry best practices. \u00b7 Ensure security, scalability, and high performance of applications in production. \u00b7 Troubleshoot, debug, and optimize system performance. \u00b7 Participate in code reviews, documentation, and knowledge sharing. Required Skills: \u00b7 0\u20133 years of professional experience in full-stack development. \u00b7 Strong expertise in MERN stack (MongoDB, Express.js, React.js, Node.js). \u00b7 Proficiency in JavaScript/TypeScript for front-end and back-end. \u00b7 Knowledge of authentication and authorization mechanisms (JWT, OAuth2). \u00b7 Good understanding of complete SDLC. Preferred / Additional Skills: \u00b7 Experience with testing frameworks (Vitest, Mocha, Cypress, PyTest). \u00b7 Strong awareness of security best practices, performance tuning, and optimization. \u00b7 Practical experience with Docker. Employment Bond: 1 Years Kindly share your resume on pratibha.shukla@nuvo.ai",
+      "tags": [
+        "sql",
+        "javascript"
+      ],
+      "published_at": "2026-02-12",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "10a9c978bb5f1ea0fcafcfff80cbf20c17966210"
     }
   },
   {
@@ -528,7 +529,7 @@
       "company": "JPMorganChase",
       "location": "Hyderabad, Telangana, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-net-c%23-at-jpmorganchase-4386585560",
-      "description": "Software Engineer III - .Net, C# Software Engineer III - .Net, C# JPMorganChase Hyderabad, Telangana, India 1 week ago",
+      "description": "Software Engineer III - .Net, C# Software Engineer III - .Net, C# JPMorganChase Hyderabad, Telangana, India Actively Hiring 1 week ago",
       "tags": [
         ".net",
         "c#"
