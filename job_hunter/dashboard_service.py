@@ -35,6 +35,13 @@ class DashboardService:
             "dashboard_dir": str(self.dashboard_dir),
         }
 
+    def get_resume_content(self) -> tuple[str, str]:
+        config = load_config(self.profile_path)
+        resume_path = self._resume_path(config.candidate.resume_path)
+        if not resume_path.exists():
+            raise FileNotFoundError("Resume file not found.")
+        return resume_path.read_text(encoding="utf-8"), resume_path.name
+
     def get_resume_metadata(self) -> dict[str, Any]:
         config = load_config(self.profile_path)
         resume_path = self._resume_path(config.candidate.resume_path)
