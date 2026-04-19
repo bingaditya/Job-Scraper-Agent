@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 
 from job_hunter.dashboard_service import DashboardService
 
-
+# This server serves the dashboard static files and provides APIs for health check, resume metadata retrieval, and resume tailoring.
 class DashboardRequestHandler(SimpleHTTPRequestHandler):
     def __init__(
         self,
