@@ -2,177 +2,6 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, CSS",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4372583911",
-      "title": ".NET Full Stack Developer",
-      "company": "EY",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-ey-4372583911",
-      "description": "At EY, we\u2019re all in to shape your future with confidence. We\u2019ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Analyst Engineer \u2013 Supervising Associate Enterprise Technology provides reliable, secure and resilient technology services and solutions to support over 300,000 EY people. As part of Enterprise Technology, you\u2019ll be at the forefront of enabling innovative technologies including emerging collaboration tools and world-class technology infrastructure. Our aim is to build an outstanding customer experience with clear investment in innovation, alongside operational excellence that delivers efficient, quality services and solutions. You will work with technologists and business specialists to meet the increasing pace of our business. That means more growth for you, exciting learning opportunities, career choices, and the chance to make a real impact. The opportunity This role is responsible for delivering IT products to schedule, budget and quality. This role requires knowledge and expertise in the Microsoft stack of technical solutions including but not limited to: Microsoft Visual Studio, Microsoft .NET Framework, Microsoft SQL Server. The role must have adequate technical skills to successfully deliver quality code in a teaming environment. Your Key Responsibilities The candidate should have expertise in developing/enhancing technology solutions. The development platforms include but not limited to: coding in the .NET framework and development of SSIS packages, writing Power BI and/or SSRS reports and writing scripting for custom components. The candidate will work in a team environment delivering user stories which are assigned in a timely manner. The candidate will participate in all aspects of the delivery cycle from sprint planning through release. The candidate will be expected to deliver quality, robust code which performs well and has the ability to scale as needed. Skills And Attributes For Success To qualify for the role you must have IT background with experience across the development life cycle using Agile methodology Expertise in technology development that includes coding, testing, scripting, custom components and various common tools/tasks Experience of implementing solutions with personal accountability for delivering on-time Excellent written and verbal communication skills \u2013 must be able to communicate fluently in English both verbally and in writing Strong team working skills across client, supplier and geographically dispersed virtual teams .NET skills (C#.NET, ASP.NET, MVC, Windows Services) Database skills (MS SQL Server, stored procedures, views, functions, T-SQLs) Client Web Technology (JavaScript, CSS, Bootstrap, JQuery, NodeJS, Angular, HTTP REST calls) Ideally, you\u2019ll also have Azure (azure dev ops environment) Reporting Skills (Power BI, Power Query, SSRS) SharePoint skills (Server Object Model, JSOM/CSOM, SharePoint REST API, PHA, SHA) Proactively identify risks/issues with deliverables and communicate how to mitigate Demonstrates commitment to IT methodologies, processes and standards What We Look For The candidate should be a self-starter with the ability to work independently as well as in a team environment. The candidate should have effective communication skills where ideas are presented in a clear, concise manner. The candidate should have good analytical and problem- solving skills to manage multiple factors on a project simultaneously. The role requires the ability to multi-task using Agile Methodology. What Working At EY Offers We offer a competitive reeration package where you\u2019ll be rewarded for your individual and team performance. Our comprehensive Total Rewards package includes support for flexible working and career development, and with FlexEY you can select benefits that suit your needs, covering holidays, health and well-being, insurance, savings and a wide range of discounts, offers and promotions. Plus, we offer: Support, coaching and feedback from some of the most engaging colleagues around Opportunities to develop new skills and progress your career The freedom and flexibility to handle your role in a way that\u2019s right for you EY | Building a better working world EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets. Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow. EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-03-10",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "e201e222ce3f7af5a7ac2495e85eea2504abd135"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .NET Full Stack Developer at EY by foregrounding Azure, SQL, C#, .Net, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, Html",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience fit around 3+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4291061872",
-      "title": "Associate \u2013 Dotnet Developer_MS Dynamics _Dotnet/POS Technical_Advisory _Bangalore or Mumbai",
-      "company": "PwC India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/associate-%E2%80%93-dotnet-developer-ms-dynamics-dotnet-pos-technical-advisory-bangalore-or-mumbai-at-pwc-india-4291061872",
-      "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Operations Management Level Associate Job Description & Summary A career in our Microsoft Dynamics team will provide the opportunity to help our clients transform their technology landscape across Front, Back and Mid-Office functions leveraging Microsoft Dynamics. We focus on contributing to PwC\u2019s value proposition of \u201cstrategy led and technology enabled\u201d, by aligning our Consulting Solutions\u2019 industry focus with the Microsoft technologies such as Dynamics 365, Azure, Power Platform and Power BI. *Why PWC At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose-led and values-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility programmes and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more about us . Responsibilities- \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Minimum 3-4 years of experience in C# \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Minimum 3 years of experience in .Net. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Object Oriented Programming and Design experience \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Minimum 3 years of experience in SQL Server. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Experience on LINQ, Web API and Web Services. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Add on : Experience in JavaScript, Typescript and HTML designing. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Add on : Experience in Microsoft AX POS Retail (AX/D365). *Mandatory skill sets C#, Dotnet, OOP,SQL, LINQ, Web API and Web Services. *Preferred skill sets Microsoft AX POS Retail (AX/D365). *Year of experience required 4 to 6 years of Work experience in IT Industry *Educational Qualification \u2022 BE/BTech Education (if blank, degree and/or field of study not specified) Degrees/Field of Study required: Bachelor of Engineering Degrees/Field of Study preferred: Certifications (if blank, certifications not specified) Required Skills Microsoft .NET Development, Structured Query Language (SQL), Web APIs, Web Services Optional Skills Desired Languages (If blank, desired languages not specified) Travel Requirements Not Specified Available for Work Visa Sponsorship? No Government Clearance Required? No Job Posting End Date",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-03-08",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "16bfd8312e2cb383fd054490c4ea912fceb7b3b8"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Associate \u2013 Dotnet Developer_MS Dynamics _Dotnet/POS Technical_Advisory _Bangalore or Mumbai at PwC India by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, Html",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: Azure",
-      "Preferred location: Mumbai",
-      "Role asks for 8+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4361708681",
-      "title": "Full Stack .Net Developer",
-      "company": "Deloitte",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-deloitte-4361708681",
-      "description": "Your potential, unleashed. India\u2019s impact on the global economy has increased at an exponential rate and Deloitte presents an opportunity to unleash and realize your potential amongst cutting edge leaders, and organisations shaping the future of the region, and indeed, the world beyond. At Deloitte, your whole self to work, every day. Combine that with our drive to propel with purpose and you have the perfect playground to collaborate, innovate, grow, and make an impact that matters. The team The Enabling Area \u2013 Information Technology team is responsible for building & maintaining different applications for Deloitte South Asia that focuses on providing employee experience. Skills Required Full stack experienced developer having strong technical skills. Good in managing stakeholder communication. Strong proficiency in C#, ASP.NET MVC, .NET Core. Advanced knowledge of SQL Server, including T-SQL, indexing, and query optimization. Experience with Entity Framework, LINQ, and ADO.NET. Experience working in React with good knowledge in front-end technologies such as JavaScript, HTML, CSS. Experience developing RESTful APIs. Proficient in working with version control system (Git/ADO repo). Good communication and teamwork skills. Good to have experience on agile processes. Good to have experience in Azure cloud. Experience required, Any Specific Industry / Company exposure: 8+ years of experience in full stack development Desired qualifications Bachelor\u2019s degree in Information Technology, Computer Science, or a related field. Location and way of working Base location: Mumbai, Noida, Hyderabad This profile may involve travel for work. Hybrid is our default way of working. How you\u2019ll grow Connect for impact Our exceptional team of professionals across the globe are solving some of the world\u2019s most complex business problems, as well as directly supporting our communities, the planet, and each other. Know more in our Global Impact Report and our India Impact Report. Empower to lead You can be a leader irrespective of your career level. Our colleagues are characterized by their ability to inspire, support, and provide opportunities for people to deliver their best and grow both as professionals and human beings. Know more about Deloitte and our One Young World partnership. Inclusion for all At Deloitte, people are valued and respected for who they are and are trusted to add value to their clients, teams and communities in a way that reflects their own unique capabilities. Know more about everyday steps that you can take to be more inclusive. At Deloitte, we believe in the unique skills, attitude and potential each and every one of us brings to the table to make an impact that matters. Drive your career At Deloitte, you are encouraged to take ownership of your career. We recognize there is no one size fits all career path, and global, cross-business mobility and up / re-skilling are all within the range of possibilities to shape a unique and fulfilling career. Know more about Life at Deloitte. Everyone\u2019s welcome\u2026 entrust your happiness to us Our workspaces and initiatives are geared towards your 360-degree happiness. This includes specific needs you may have in terms of accessibility, flexibility, safety and security, and caregiving. Here\u2019s a glimpse of things that are in store for you. Interview tips We want job seekers exploring opportunities at Deloitte to feel prepared, confident, and comfortable. To help you with your interview, we suggest that you do your research, know some background about the organization and the business area you\u2019re applying to. Check out recruiting tips from Deloitte professionals.",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-03-03",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "3adc307f415a33e8baa0ed864ccc9d612abea4d4"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack .Net Developer at Deloitte by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
       "Matched skills: Python, Azure, SQL, C#, .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: Python",
@@ -204,7 +33,7 @@
         "c#",
         "javascript"
       ],
-      "published_at": "2026-02-28",
+      "published_at": "2026-04-12",
       "remote": false,
       "metadata": {},
       "fingerprint": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f"
@@ -219,282 +48,12 @@
         "C#",
         ".Net"
       ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
+      "missing_resume_keywords": [],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4327202397",
-      "title": "Full Stack (.Net Core & Angular/React) Developer",
-      "company": "PwC India",
-      "location": "Kolkata, West Bengal, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-net-core-angular-react-developer%09-at-pwc-india-4327202397",
-      "description": "Strong understanding of the .NET Framework, .NET Core; proficiency in C# Familiarity with Web API development and RESTful services Experience with Entity Framework or ADO.NET for data access Strong skills in SQL; ability to design and optimize queries and work with databases like SQL Server Knowledge of HTML, CSS, and JavaScript Experience with front-end frameworks like Angular, React, or Vue.js Experience with version control systems, particularly Git Familiarity with unit testing frameworks such as MSTest, NUnit, or xUnit Understanding of common design patterns and best practices in software architecture Experience with CI/CD tools and pipelines Exposure to Agile methodology",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript",
-        "ci/cd"
-      ],
-      "published_at": "2026-02-27",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "51df5c9ed371b5537011da6001ebc9ae8bbbc9e0"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack (.Net Core & Angular/React) Developer at PwC India by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, JavaScript",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4350216691",
-      "title": ".NET Developer",
-      "company": "Virtusa",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-virtusa-4350216691",
-      "description": "Primary Responsibilities Design and develop business functionality in multi tier web solutions while improving code quality and infrastructure. Build scalable and unit testable solutions for website applications and perform code reviews. Follow strong security practices coding standards architecture patterns and documentation practices. Work across all phases of the software development lifecycle including planning design implementation deployment operations and support. Work within a cross disciplinary Agile team to understand requirements perform product backlog grooming sprint planning execution and retrospectives. Communicate effectively with associates and business contacts and promote a strong sense of teamwork. Optimize website speed and performance and enhance SEO. Knowledge Skills And Abilities Experience in C# ASP.Net MVC HTML JavaScript and Visual Studio or Visual Studio Code. Experience with relational databases such as SQL Server MySQL and NoSQL experience is a plus. Experience with JavaScript frameworks such as ReactJS AngularJS Node.js and jQuery. Proficient in using built in browser tools such as Chrome Developer Tools. Practical understanding of data structures algorithms and design patterns in a web environment. Experience with unit testing frameworks such as MSTest NUnit Cypress Mocha Jasmine and mocking frameworks like Moq. Experience using BitBucket or Git for source control. Experience with prototyping and discovery. Strong collaboration and communication skills with teammates and business partners. Ability to communicate technical direction and cross team architecture impacts across the organization.",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-02-22",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "9ee20930f4d3d0f3a6094a88ed3866b6ece46208"
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Python, SQL, CI/CD Pipelines, Html, CSS",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: Python",
-      "Preferred location: India",
-      "Experience fit around 1+ years"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "CI/CD Pipelines",
-      "Html",
-      "CSS",
-      "JavaScript",
-      "FastAPI"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4304149179",
-      "title": "Full Stack Developer - 1",
-      "company": "NxtWave",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-1-at-nxtwave-4304149179",
-      "description": "Responsibilities Get first-hand experience of building applications and see them released quickly to the NxtWave learners (within weeks). Get to take ownership of the features you build and work closely with the product team. Work in a great culture that continuously empowers you to grow in your career. Enjoy freedom to experiment and learn from mistakes (Fail Fast, Learn Faster). NxtWave is one of the fastest-growing edtech startups. Get first-hand experience in scaling the features you build as the company grows rapidly. Build in a world-class developer environment by applying clean coding principles, code architecture, etc. Design, implement, and ship user-centric features spanning frontend, backend, and database systems under guidance. Define and implement RESTful/GraphQL APIs and efficient, scalable database schemas. Build reusable, maintainable frontend components using modern state management practices. Develop backend services in Node.js or Python, adhering to clean-architecture principles. Write and maintain unit, integration, and end-to-end tests to ensure code quality and reliability. Containerize applications and configure CI/CD pipelines for automated builds and deployments. Enforce secure coding practices, accessibility standards (WCAG), and SEO fundamentals. Collaborate effectively with Product, Design, and engineering teams to understand and implement feature requirements. Own feature delivery from planning through production, and mentor interns or junior developers. Requirements 1+ years of experience building full-stack web applications. Proficiency in JavaScript (ES6+), TypeScript, HTML5 and CSS3 (Flexbox/Grid). Advanced experience with React(Hooks, Context, Router) or equivalent modern UI framework. Hands-on with state management patterns (Redux, MobX, or custom solutions). Strong backend skills in Node.js (Express/Fastify) or Java or Python (Django/Flask/FastAPI). Expertise in designing REST and/or GraphQL APIs and integrating with backend services. Solid knowledge of MySQL/PostgreSQL and familiarity with NoSQL stores (Elasticsearch, Redis). Experience using build tools (Webpack, Vite), package managers (npm/Yarn), and Git workflows. Skilled in writing and maintaining tests with Jest, React Testing Library, Pytest, and Cypress. Familiar with Docker, CI / CD tools (GitHub Actions, Jenkins), and basic cloud deployments. Product-first thinker with strong problem-solving, debugging, and communication skills. Qualities We'd Love To Find In You The attitude is to always strive for the best outcomes and an enthusiasm to deliver high-quality software. Strong collaboration abilities and a flexible and friendly approach to working with teams. Strong determination with a constant eye on solutions. Creative ideas with a problem-solving mindset. Be open to receiving objective criticism and improving upon it. Eagerness to learn and zeal to grow. Strong communication skills are a huge plus. This job was posted by Arifulla Gori Mohammad from NxtWave.",
-      "tags": [
-        "python",
-        "sql",
-        "fastapi",
-        "javascript",
-        "ci/cd"
-      ],
-      "published_at": "2025-09-22",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0bc3535edb5aa5b7821fa88ccc1a9ae12bdd1a75"
-    }
-  },
-  {
-    "score": 98,
-    "reasons": [
-      "Matched skills: Python, Azure, SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: Python",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Python",
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4377365817",
-      "title": "Full Stack .Net Developer",
-      "company": "Deloitte",
-      "location": "Greater Delhi Area",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-deloitte-4377365817",
-      "description": "Your potential, unleashed. India\u2019s impact on the global economy has increased at an exponential rate and Deloitte presents an opportunity to unleash and realize your potential amongst cutting edge leaders, and organisations shaping the future of the region, and indeed, the world beyond. At Deloitte, your whole self to work, every day. Combine that with our drive to propel with purpose and you have the perfect playground to collaborate, innovate, grow, and make an impact that matters. The team The Enabling Area \u2013 Information Technology team is responsible for building & maintaining different applications for Deloitte South Asia that focuses on providing employee experience. Your work profile: As an Assistant Manager in our IT Team, you\u2019ll build and nurture positive working relationships with teams and clients with the intention to exceed client expectations: - Primary purpose of the role: Tech Stack Requirements: \u2022 Frontend: React.js Or Nest.js or Express.js or TypeScript \u2022 Backend: .NET/.NET Core using C# or Node.js \u2022 Database: SQL Server \u2022 Good to Have: Azure Cloud, Node.js/ Python / AI / ML exposure What he/she\u2019ll Do: \u2022 Build and maintain scalable web applications & APIs \u2022 Work across frontend + backend + database \u2022 Collaborate with cross-functional teams in Agile setup \u2022 (Optional) Contribute to AI/ML-powered feature development What We\u2019re Looking For: \u2022 Strong ownership and problem-solving skills \u2022 Ability to lead modules or mentor juniors \u2022 Passion for continuous learning & innovation Desired qualifications: Bachelor\u2019s degree Location and way of working Base location: Delhi Your role as an Assistant Manager We expect our people to embrace and live our purpose by challenging themselves to identify issues that are most important for our clients, our people, and for society. In addition to living our purpose, Senior Executive across our organization must strive to be: \u2022 Inspiring - Leading with integrity to build inclusion and motivation \u2022 Committed to creating purpose - Creating a sense of vision and purpose \u2022 Agile - Achieving high-quality results through collaboration and Team unity \u2022 Skilled at building diverse capability - Developing diverse capabilities for the future \u2022 Persuasive / Influencing - Persuading and influencing stakeholders \u2022 Collaborating - Partnering to build new solutions \u2022 Delivering value - Showing commercial acumen \u2022 Committed to expanding business - Leveraging new business opportunities \u2022 Analytical Acumen - Leveraging data to recommend impactful approach and solutions through the power of analysis and visualization \u2022 Effective communication \u2013 Must be well abled to have well-structured and well-articulated conversations to achieve win-win possibilities \u2022 Engagement Management / Delivery Excellence - Effectively managing engagement(s) to ensure timely and proactive execution as well as course correction for the success of engagement(s) \u2022 Managing change - Responding to changing environment with resilience \u2022 Managing Quality & Risk - Delivering high quality results and mitigating risks with utmost integrity and precision \u2022 Strategic Thinking & Problem Solving - Applying strategic mindset to solve business issues and complex problems \u2022 Tech Savvy - Leveraging ethical technology practices to deliver high impact for clients and for Deloitte \u2022 Empathetic leadership and inclusivity - creating a safe and thriving environment where everyone's valued for who they are, use empathy to understand others to adapt our behaviours and attitudes to become more inclusive. How you\u2019ll grow Connect for impact Our exceptional team of professionals across the globe are solving some of the world\u2019s most complex business problems, as well as directly supporting our communities, the planet, and each other. Know more in our Global Impact Report and our India Impact Report. Empower to lead You can be a leader irrespective of your career level. Our colleagues are characterized by their ability to inspire, support, and provide opportunities for people to deliver their best and grow both as professionals and human beings. Know more about Deloitte and our One Young World partnership. Inclusion for all At Deloitte, people are valued and respected for who they are and are trusted to add value to their clients, teams and communities in a way that reflects their own unique capabilities. Know more about everyday steps that you can take to be more inclusive. At Deloitte, we believe in the unique skills, attitude and potential each and every one of us brings to the table to make an impact that matters. Drive your career At Deloitte, you are encouraged to take ownership of your career. We recognize there is no one size fits all career path, and global, cross-business mobility and up / re-skilling are all within the range of possibilities to shape a unique and fulfilling career. Know more about Life at Deloitte. Everyone\u2019s welcome\u2026 entrust your happiness to us Our workspaces and initiatives are geared towards your 360-degree happiness. This includes specific needs you may have in terms of accessibility, flexibility, safety and security, and caregiving. Here\u2019s a glimpse of things that are in store for you. Interview tips We want job seekers exploring opportunities at Deloitte to feel prepared, confident, and comfortable. To help you with your interview, we suggest that you do your research, know some background about the organization and the business area you\u2019re applying to. Check out recruiting tips from Deloitte professionals.",
-      "tags": [
-        "python",
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-03-02",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "570a801d1ffed3d501521146fa9a70bfd7dc28bd"
-    }
-  },
-  {
-    "score": 96,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4372321803",
-      "title": "C# .NET Developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/c%23-net-developer-at-infosys-4372321803",
-      "description": "C# Microsoft development using the .NET Framework 3.0 onwards. WPF, XAML, MVVM SQL Server Unit and Integration testing OOPS, Design Patterns, Multi-threading SQL Server Unit and Integration testing REST APIs, WEB-APIs React.JS, Node.JS AWS/Azure Cloud Computing",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-03-09",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b326daa798faf374e4795b57e546eaf4619d1a0f"
-    }
-  },
-  {
-    "score": 88,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience fit around 3+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4382229567",
-      "title": ".Net Developer",
-      "company": "BSH Home Appliances Group",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-bsh-home-appliances-group-4382229567",
-      "description": "Tomorrow is our home. Start at BSH Home Appliances Group if you believe in delivering quality: As a leading manufacturer of home appliances and solutions, we can rely on our employees who do their best. With our global brands Bosch, Siemens, Gaggenau and Neff as well as our local brands, we fully trust in their excellent work. In return, they know we will give them the chance to extend their skills and grow. Join us now and give your career a home. BSH Household Appliances Manufacturing Private Limited | Full time | .Net Developer Bangalore Your responsibilities We're hiring a .NET Developer with experience in Industry 4.0, IoT, and manufacturing apps. Must have skills in .NET Core, REST APIs, SQL Server, Angular Material, and DevOps. Exposure to MES/OT platforms and cloud is a strong plus. Develop scalable web apps using C#, .NET Core, and Microservices Design REST APIs for shopfloor and manufacturing systems Build responsive UIs with Angular Material (3+ years experience) Work with MS SQL Server for database design and programming Integrate with Industry 4.0, IoT devices, and cloud platforms & Apply DevOps concepts (Docker, Containers, Kubernetes) and mentor junior developers Your profile Develop scalable web apps using C#, .NET Core, and Microservices Design REST APIs for shopfloor and manufacturing systems Build responsive UIs with Angular Material (3+ years experience) Work with MS SQL Server for database design and programming Integrate with Industry 4.0, IoT devices, and cloud platforms & Apply DevOps concepts (Docker, Containers, Kubernetes) and mentor junior developers Your benefits Great Culture MNC Great place to work certified Further information Please visit bsh-group.com/career. We would love to welcome you in our team!",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-03-10",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "a99fd1fa581e9c25bae248bc7479ce3f028447b1"
-    }
-  },
-  {
-    "score": 84,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4329549832",
-      "title": ".Net Developer",
-      "company": "Persistent Systems",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-persistent-systems-4329549832",
-      "description": "About Persistent We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what\u2019s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 12 of the 30 most innovative global companies, 60% of the largest banks in the US and India, and numerous innovators across the healthcare ecosystem. Our disruptor\u2019s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum by reporting $1,409.1M revenue in FY25, delivering 18.8% Y-o-Y growth. Our 23,900+ global team members, located in 19 countries, have been instrumental in helping the market leaders transform their industries. We are also pleased to share that Persistent won in four categories at the prestigious 2024 ISG Star of Excellence\u2122 Awards, including the Overall Award based on the voice of the customer. We were included in the Dow Jones Sustainability World Index, setting high standards in sustainability and corporate responsibility. We were awarded for our state-of-the-art learning and development initiatives at the 16th TISS LeapVault CLO Awards. In addition, we were cited as the fastest-growing IT services brand in the 2024 Brand Finance India 100 Report. Throughout our market-leading growth, we\u2019ve maintained a strong employee satisfaction score of 8.2/10. At Persistent, we embrace diversity to unlock everyone's potential. Our programs empower our workforce by harnessing varied backgrounds for creative, innovative problem-solving. Our inclusive environment fosters belonging, encouraging employees to unleash their full potential. For more details please login to www.persistent.com About The Position We are looking for a .Net developer to build software using languages and technologies of the .NET framework. You will create applications from scratch, configure existing systems and provide user support. In this role, you should be able to write functional code with a sharp eye for spotting defects. You should be a team player and excellent communicator. If you are also passionate about the .NET framework and software design/architecture, we?d like to meet you. Your goal will be to work with internal teams to design, develop and maintain software. What You?ll Do Evaluate and review new and existing software applications and technologies Identify systems solutions to support business strategies and objectives Assist with application maintenance by monitoring and correcting software defects Ensure adherence to, and contribute to continuous improvement of internal policies / procedures, change control practices, etc Provide on-going support for production applications Be responsible for other duties as assigned or developed Work independently, handle a team and interact with the client Expertise You?ll Bring A degree in Computer Science, Information Technology, or similar Experience: As a Developer ASP.NET framework and SQL servers ASP.NET, MVC framework Knowledge: Coding using .NET languages (C#.Net) MVVM, WPF, WCF A keen eye for detail Strong communication skills Benefits Competitive salary and benefits package Culture focused on talent development with quarterly promotion cycles and company-sponsored higher education and certifications Opportunity to work with cutting-edge technologies Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards Annual health check-ups Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents Persistent Ltd. is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds. Inclusive Environment We offer hybrid work options and flexible working hours to accommodate various needs and preferences. Our office is equipped with accessible facilities, including adjustable workstations, ergonomic chairs, and assistive technologies to support employees with physical disabilities. If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment. We are committed to creating an inclusive environment where all employees can thrive. Our company fosters a values-driven and people-centric work environment that enables our employees to: Accelerate growth, both professionally and personally Impact the world in powerful, positive ways, using the latest technologies Enjoy collaborative innovation, with diversity and work-life wellbeing at the core Unlock global opportunities to work and learn with the industry\u2019s best Let\u2019s unleash your full potential at Persistent - persistent.com/careers Net",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-03-05",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "35d30e61478104fa36689349d9fbede01e2ed3c9"
     }
   },
   {
@@ -524,257 +83,77 @@
         "javascript",
         "ci/cd"
       ],
-      "published_at": "2026-03-03",
+      "published_at": "2026-04-09",
       "remote": false,
       "metadata": {},
       "fingerprint": "77dcb28bd8bf5c0651fa9e12b4edfe7ebd178645"
-    }
-  },
-  {
-    "score": 84,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4321289344",
-      "title": ".Net Developer",
-      "company": "Persistent Systems",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-persistent-systems-4321289344",
-      "description": "About Persistent We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what\u2019s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 12 of the 30 most innovative global companies, 60% of the largest banks in the US and India, and numerous innovators across the healthcare ecosystem. Our disruptor\u2019s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum by reporting $1,409.1M revenue in FY25, delivering 18.8% Y-o-Y growth. Our 23,900+ global team members, located in 19 countries, have been instrumental in helping the market leaders transform their industries. We are also pleased to share that Persistent won in four categories at the prestigious 2024 ISG Star of Excellence\u2122 Awards, including the Overall Award based on the voice of the customer. We were included in the Dow Jones Sustainability World Index, setting high standards in sustainability and corporate responsibility. We were awarded for our state-of-the-art learning and development initiatives at the 16th TISS LeapVault CLO Awards. In addition, we were cited as the fastest-growing IT services brand in the 2024 Brand Finance India 100 Report. Throughout our market-leading growth, we\u2019ve maintained a strong employee satisfaction score of 8.2/10. At Persistent, we embrace diversity to unlock everyone's potential. Our programs empower our workforce by harnessing varied backgrounds for creative, innovative problem-solving. Our inclusive environment fosters belonging, encouraging employees to unleash their full potential. For more details please login to www.persistent.com About The Position We are looking for a .Net developer to build software using languages and technologies of the .NET framework. You will create applications from scratch, configure existing systems and provide user support. In this role, you should be able to write functional code with a sharp eye for spotting defects. You should be a team player and excellent communicator. If you are also passionate about the .NET framework and software design/architecture, we?d like to meet you. Your goal will be to work with internal teams to design, develop and maintain software. What You?ll Do Evaluate and review new and existing software applications and technologies Identify systems solutions to support business strategies and objectives Assist with application maintenance by monitoring and correcting software defects Ensure adherence to, and contribute to continuous improvement of internal policies / procedures, change control practices, etc Provide on-going support for production applications Be responsible for other duties as assigned or developed Work independently, handle a team and interact with the client Expertise You?ll Bring A degree in Computer Science, Information Technology, or similar Experience: As a Developer ASP.NET framework and SQL servers ASP.NET, MVC framework Knowledge: Coding using .NET languages (C#.Net) MVVM, WPF, WCF A keen eye for detail Strong communication skills Benefits Competitive salary and benefits package Culture focused on talent development with quarterly promotion cycles and company-sponsored higher education and certifications Opportunity to work with cutting-edge technologies Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards Annual health check-ups Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents Persistent Ltd. is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds. Inclusive Environment We offer hybrid work options and flexible working hours to accommodate various needs and preferences. Our office is equipped with accessible facilities, including adjustable workstations, ergonomic chairs, and assistive technologies to support employees with physical disabilities. If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment. We are committed to creating an inclusive environment where all employees can thrive. Our company fosters a values-driven and people-centric work environment that enables our employees to: Accelerate growth, both professionally and personally Impact the world in powerful, positive ways, using the latest technologies Enjoy collaborative innovation, with diversity and work-life wellbeing at the core Unlock global opportunities to work and learn with the industry\u2019s best Let\u2019s unleash your full potential at Persistent - persistent.com/careers Net",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack Developer at Deloitte by foregrounding SQL, CI/CD Pipelines, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "CI/CD Pipelines",
+        "JavaScript"
       ],
-      "published_at": "2026-02-24",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "ce60a61c73169cfee4c449490c43261bd51329e9"
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
-    "score": 82,
+    "score": 80,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, JavaScript",
+      "Matched skills: Azure, SQL, C#, .Net",
       "Search keyword hit: Azure",
+      "Preferred location: India",
       "Experience fit around 5+ years"
     ],
     "matched_skills": [
       "Azure",
       "SQL",
       "C#",
-      ".Net",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-8704094",
-      "title": ".Net Fullstack Developer - Pune",
-      "company": "Capco",
-      "location": "",
-      "url": "https://builtin.com/job/net-fullstack-developer-pune/8704094",
-      "description": "Job Title: .Net Full stack Developer About Us \u201cCapco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the\u00a0 British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount . With our presence across 32 cities across globe, we support 100+ clients across\u00a0banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY & INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. MAKE AN IMPACT Job Title: .Net Full stack Developer Location: Pune (Hybrid Mode - 3 days WFO per week) We are looking for a highly skilled Full-Stack Engineer with 5+ years of experience to join our growing Engineering team. In this role, you\u2019ll build scalable, reliable, and impactful software that supports the core of our wealth management platform. You\u2019ll work closely with product, design, data, and AI teams to deliver solutions that solve real-world challenges for top-tier financial institutions. This is an opportunity to work on modern technology, contribute to innovative solutions, and help shape the future of financial services. What You\u2019ll Do \u00b7 Design, develop, test, and deploy high-quality full-stack applications using modern frameworks and cloud technologies. \u00b7 Build scalable and secure APIs, services, and user interfaces that integrate with complex financial systems. \u00b7 Collaborate with cross-functional teams (Product, Data Science, AI, UX) to translate business requirements into technical solutions. \u00b7 Implement best practices for code quality, testing, automation, and CI/CD. \u00b7 Contribute to architectural decisions and continuously improve system performance, reliability, and scalability. \u00b7 Participate in code reviews, mentorship, and knowledge sharing within the engineering team. \u00b7 Troubleshoot production issues and support a high-availability SaaS environment. What You Bring \u00b7 5+ years of professional software engineering experience in full-stack development. \u00b7 Solid experience with back-end technologies (.NET & C#). \u00b7 Strong proficiency with front-end frameworks (React, Angular) and JavaScript/TypeScript. \u00b7 Hands-on experience building RESTful APIs and integrating with cloud-based services. \u00b7 Strong understanding of SQL/NoSQL databases (PostgreSQL, SQL Server, MongoDB, etc.). \u00b7 Experience with CI/CD, automated testing frameworks, and Git-based workflows. \u00b7 Familiarity with cloud platforms (AWS, Azure, or GCP). \u00b7 Passion for clean code, good design patterns, and building scalable systems. \u00b7 Excellent communication skills and the ability to work in a collaborative, fast-paced environment. Nice to Have \u00b7 Experience in financial services, wealth management, or fintech. \u00b7 Exposure to AI/ML integrations or data-intensive applications. \u00b7 Background with microservices, event-driven architectures, or distributed systems. \u00b7 Knowledge of security best practices, especially in regulated industries. If you are keen to join us, you will be part of an organization that values your contributions, recognizes your potential, and provides ample opportunities for growth. For more information, visit www.capco.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",
-      "tags": [
-        "4 Days Ago",
-        "Saved",
-        "Fintech \u2022 Professional Services \u2022 Consulting \u2022 Energy \u2022 Financial Services \u2022 Cybersecurity \u2022 Generative AI",
-        "Top Skills:",
-        ".Net",
-        "Angular",
-        "AWS",
-        "Azure"
-      ],
-      "published_at": "4 Days Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "25c11f1da5f510823ff34eb6320a46a602630479"
-    }
-  },
-  {
-    "score": 82,
-    "reasons": [
-      "Matched skills: Azure, C#, .Net, Html, JavaScript",
-      "Search keyword hit: Azure",
-      "Experience fit around 2+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "C#",
-      ".Net",
-      "Html",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-8504430",
-      "title": "Senior Software Engineer - .NET, C#, React, Azure cloud",
-      "company": "Optum",
-      "location": "",
-      "url": "https://builtin.com/job/senior-software-engineer-net-c-react-azure-cloud/8504430",
-      "description": "Requisition Number: 2337679 Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together. Are you passionate about technology? Obsessed with customer delight? Are you a team builder, a team player, a leader extraordinaire? Do you find yourself constantly looking for ways to do better, be better and build better software? Here at Optum, our Product Engineering team is looking for an exceptional Lead Engineer with an insatiable appetite for continuous improvement and innovation. We are looking for a DevOps missionary to take software concepts from paper to production and beyond; to drive relentlessly excellent customer support in production for an always-on suite of products with a global user base. If this sounds like you, the COB Artemis team at Optum in Gurgaon/Hyderabad, India is waiting, so read on. Primary Responsibilities: Partner with Business, Technical and Strategic Product Owner to meet project commitments in an agile framework; rapidly delivering value to our customers via technology solutions. Contribute to the applications' technology stack and drive modern solutions to complex problems Participate in design and development of resilient, reliable, scalable and self-healing solutions to meet and exceed customer requirements Ensure that all parts of the application eco system are thoroughly and effectively covered with telemetry Eliminate \"churn\" and \"waste\" via automation of menial tasks Collaborate with engineers across partner-teams to build cohesive and optimal solutions Communicate clearly and effectively in oral and written forms, and be able to present and demonstrate work to technical and non-technical stakeholders Assist Delivery Manager in interviewing to build a team Be in sync with Architect for application Design Mentor more junior members of the engineering team to develop and perform as highly as possible Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so What you are like Have a great, positive attitude A natural leader - someone people are easily convinced to follow and emulate Never blocked. You find a way! Willing and eager to dive in and figure it out. No system is built from unicorn horn dust. It's just code You take extreme ownership and pride in your work Care deeply about team culture and actively influence a positive culture Will automate something so you don't have to do it twice You build everything 'as code': Infrastructure, pipeline, testing, monitoring, etc. Never stop learning Required Qualifications: Graduate degree or equivalent experience 7+ years of current experience with languages such as .NET, C#, VB.NET as an engineer 4+ years of production experience with Azure cloud technologies (NOT Azure Devops), React, Github Actions & Terraforms 2+ years writing unit or integration tests IT full-stack engineering experience Experience working with teams that leveraged three or more of the following: continuous integration / continuous delivery tools, REST API development, serverless architecture, containerization, IaC, public / private cloud, web applications, web services, application observability and/or messaging/ stream architecture Deep understanding of software engineering and processes: design patterns, algorithms, data structures, schemas and queries, system design, unit testing, code reviews, agile and dev-ops, as well as industry patterns for application architecture and integration AI/ML for team productivity or Business effectiveness like copilot etc. Preferred Qualifications: The more of these you have experience with, the better: Experience with technologies such as: HTML/Javascript, Playwright, NodeJS, Git, SOA Development experience in Docker, Cloud, Kubernetes, Data Streaming via Kafka/Event Hub Instrumenting apps with Azure AppInsights, and creating effective alarms and dashboards SRE principles (error budgets, alarming practices, etc) Healthcare domain background At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.",
-      "tags": [
-        "Reposted 22 Hours Ago",
-        "Saved",
-        "Artificial Intelligence \u2022 Big Data \u2022 Healthtech \u2022 Information Technology \u2022 Machine Learning \u2022 Software \u2022 Analytics",
-        "Top Skills:",
-        ".Net",
-        "Application Observability",
-        "Azure",
-        "Azure Application Insights"
-      ],
-      "published_at": "Reposted 22 Hours Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "1cffaafcca44515d9014f872a138ac102682b27f"
-    }
-  },
-  {
-    "score": 76,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, JavaScript",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "JavaScript"
+      ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4306131097",
-      "title": "Dot Net Developer",
-      "company": "Salus Technologies Pvt Ltd",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-salus-technologies-pvt-ltd-4306131097",
-      "description": "JD- Experience in C# ASP.NET + MVC + Entity Framework development Experience in JavaScript and jQuery Experience in Web Services and third party API Integrations Experience in SQL Server databases Responsibilities Design, code, test, and manage various applications Collaborate with the engineering team and product team Follow outlined standards of quality related to code and systems Deploy tested code to the production environment Skills:- C#, ASP.NET MVC, Entity Framework, jQuery, Webservices, API and SQL server",
+      "source_id": "4390700476",
+      "title": "Dotnet Developer",
+      "company": "PwC India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-pwc-india-4390700476",
+      "description": "Experience : - 5 to 10 YEARS Location :- Bengaluru Must Have: .NET 8, Azure PaaS (Azure Functions, Azure SQL Database, Logic App, Storage Account, API Management, Service Bus, Azure OpenAI), Azure DevOps (AKS), Angular 18 Key Skills 5+ years of hands-on experience in C#, .NET8, Azure, Entity Framework, LINQ, Angular, TypeScript. Hands-on experience with microservices architecture, with a deep understanding of design patterns and best practices. Strong understanding of RESTful API design, OOP, asynchronous programming, and exception handling etc. Hands-on experience with Azure PaaS (Azure Functions, Azure SQL Database, Logic App, Storage Account, API Management, Service Bus, Azure OpenAI etc.) Hands-on experience in deploying and managing applications using Azure DevOps, containerization (Docker), and orchestration (AKS). Experience with both SQL and NoSQL databases. Excellent problem-solving skills and a passion for writing high-quality code. Ability to learn and apply new technologies.",
       "tags": [
+        "azure",
         "sql",
         ".net",
-        "c#",
-        "javascript"
+        "c#"
       ],
-      "published_at": "2025-09-30",
+      "published_at": "2026-03-26",
       "remote": false,
       "metadata": {},
-      "fingerprint": "e06ab33cdcb024aeed64ce5516ea02f341f03f22"
-    }
-  },
-  {
-    "score": 74,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
-      "Search keyword hit: Azure",
-      "Role asks for 15+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "CI/CD Pipelines",
-      "Html",
-      "CSS"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-8738997",
-      "title": "Principal Software Engineer ( C#, .NET, OOPS, Design Patterns, Angular, SQL, Windows Forms )",
-      "company": "Vertafore",
-      "location": "",
-      "url": "https://builtin.com/job/principal-software-engineer-c-net-oops-design-patterns-angular-sql-windows-forms/8738997",
-      "description": "Vertafore is a leading technology company whose innovative software solution are advancing the insurance industry. Our suite of products provides solutions to our customers that help them better manage their business, boost their productivity and efficiencies, and lower costs while strengthening relationships. Our mission is to move InsurTech forward by putting people at the heart of the industry. We are leading the way with product innovation, technology partnerships, and focusing on customer success. Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. We are headquartered in Denver, Colorado, with offices across the U.S., Canada, and India. JOB DESCRIPTION We are seeking a highly skilled Principal Software Engineer - .NET Full Stack with 12-15 years of experience to lead complex enterprise-grade application development. This role requires deep expertise in C#, .NET, OOPS, Design Patterns, Angular, SQL, along with strong architectural leadership. Experience in MongoDB and AWS cloud services is a strong plus. As a Principal Software Engineer, you will define architecture, drive engineering excellence, mentor teams, and ensure high\u2011quality, scalable system delivery. Key Responsibilities Technical Leadership Lead, architect, and oversee end\u2011to\u2011end .NET full\u2011stack solutions. Provide technical direction, decision-making, and guidance to the engineering team. Ensure alignment with enterprise architecture standards and long-term technology vision. Architecture & Design Drive high-level and low-level architecture for distributed, scalable, and secure applications. \u2022    Work closely with the Enterprise Architecture Team to align solutions with organizational architectural guidelines and long\u2011term technology strategy. Actively contribute to and influence key architectural decisions, ensuring proposed solutions consider scalability, resiliency, performance, and security requirements. Architect solutions using Clean Architecture, Layered Architecture, Domain\u2011Driven Design (DDD), or Microservices depending on business need. Ensure adherence to SOLID principles, design patterns, and architectural governance. Evaluate architectural risks, dependencies, performance implications, and maintainability early in project lifecycle. Full-Stack Development Hands-on development using C#, ASP.NET Core, Windows Forms, and Angular. Build APIs, middleware, reusable services, and enterprise UI components. Ensure coding standards, modularity, and long-term maintainability. Collaboration Work closely with Product Managers, UX, QA, DevOps, and cross-functional engineering teams. Collaborate with enterprise architects and cloud teams on strategic initiatives. Code Reviews & Best Practices Conduct and enforce detailed code reviews. Promote the adoption of design patterns Mentorship Mentor senior engineers, provide architectural coaching, and help build a strong engineering culture. DevOps & Deployment Collaborate with DevOps to design CI/CD pipelines (Azure DevOps, Jenkins, GitHub Actions). Implement automation, quality gates, and infrastructure-as-code where applicable. Innovation & Continuous Improvement Stay current with the latest in .NET, Angular, databases, cloud, containers, and observability. Drive innovation, POCs, and continuous improvement initiatives. Required Technical Skills Back-End Development (.NET) Expert in C#, ASP.NET Core, Windows Forms development. Deep understanding of OOPS, SOLID, async programming, and thread management. Experience architecting and building large-scale enterprise applications. Architectural Skills Strong experience designing scalable, high-availability, cloud-compatible architectures. Expertise in: API design & service-oriented architecture Event-driven and asynchronous patterns Microservices and container-based deployments (Docker/Kubernetes - optional but valuable) Design documentation, UML Ability to review existing architecture, identify gaps, and propose target-state improvements. Database Management SQL Server Expertise : Advanced SQL, indexing, query optimization Stored procedures, schema design, performance tuning MongoDB (Good to Have) : Understanding of NoSQL modeling Experience with document design, indexing strategies, and aggregation pipelines Exposure to hybrid SQL + NoSQL solutions Front-End Development (Angular) Strong experience with Angular 10+, TypeScript, RxJS, and component-driven UI architecture. Proficient in responsive UI building with HTML5, CSS3, SCSS, and Angular Material. Cloud & Deployment AWS Cloud (Good to Have): Familiarity with AWS services. Understanding of cloud-native patterns, scalability concepts, and cost optimization. AI-Assisted Development (Good to Have) Experience using GitHub Copilot or Microsoft 365 Copilot to improve development productivity and code quality. Ability to guide teams in adopting AI-assisted development tools effectively. Testing Unit testing with xUnit/NUnit/MSTest. Familiarity with UI testing tools (Jasmine/Karma) is beneficial. Version Control & CI/CD Expertise with Git workflows. Experience configuring CI/CD pipelines with Azure DevOps/Jenkins/GitHub Actions. Performance & Security Conduct performance profiling, optimize memory/CPU usage, implement caching strategies. Apply OWASP security principles and secure coding practices across tiers. Soft Skills Leadership & Communication Proven leadership delivering high\u2011quality, enterprise-level systems. Strong ability to communicate architectural concepts to technical and non\u2011technical stakeholders. Problem-Solving & Innovation Analytical thinker with a strong inclination toward simplifying complex systems. Ability to make trade-offs between short-term delivery and long-term architecture health. Collaboration Tools Experience with JIRA, Azure Boards, Confluence, Teams. Agile Methodologies Hands-on experience in Agile/Scrum environments. Qualifications Bachelor's or Master's degree in Computer Science, Engineering, or related field. 12-15 years of proven experience in C#, .NET, OOPS, Design Patterns, Angular, SQL, Windows Forms . Strong design and implementation skills for enterprise-grade applications. Experience with secure coding, scalability, cloud readiness, and performance optimization. Strong enthusiasm for coding, architecture, mentoring, and solving complex engineering problems. Have an intense passion for building software and mentoring their teams. Enjoy solving problems through the entire application stack. Are interested and capable of learning other programming languages as needed. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics. Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance. Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs. Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone. if you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
-      "tags": [
-        "Yesterday",
-        "Saved",
-        "Information Technology \u2022 Insurance \u2022 Software",
-        "Top Skills:",
-        ".Net",
-        "Angular",
-        "AWS",
-        "Azure Devops"
+      "fingerprint": "cb6835c304c57ed21360d59ada53a9a829197f5f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at PwC India by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
       ],
-      "published_at": "Yesterday",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "a3d4077a487bc94b5777b270cf85a30372561f13"
-    }
-  },
-  {
-    "score": 70,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4367044774",
-      "title": ".Net Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4367044774",
-      "description": "What will make you a successful Principal Software Engineer: Extensive knowledge and proven experience as a software developer, with exposure to elements of our back-end technology stack including C# and .NET Core. Experience working with Amazon Web Services, Microservices, API development. Knowledge and application of software engineering practices, e.g. Unit testing, TDD, CI/CD, SOLID, BDD, etc. Proven ability to analyse, scope, size, design and develop complex features Proven ability to work as part of an Agile delivery team. Ability to analyse and solve problems. Excellent communication and team working skills. Lead User Story refinement meetings to ensure stories are understood and decomposed adequately Collaborate with cross-functional teams to architect, design, document and implement quality solutions Work independently and as part of a team with deep focus on hard technical problems and explain the why, how, and what, that makes your solution technically sound, provide constructive feedback regarding best practices, performance, and maintainability Stay ahead of the curve with respect to new technologies and techniques with an eye towards continual improvement of both the team\u2019s skill set and the product goals To act as technical expert for coding, process and best practices (e.g. adherence to Definition of Done) and effectively communicate this to the team Collaborate across teams to improve working practices and skill levels To carry out all responsibilities in accordance with the Quality Policy and all applicable procedures Contribute to the development and maintenance of all aspects of the applications and services owned by the team. The following criteria are desirable, but are not essential since training will be provided for you: Continuous delivery, with pipelines implemented in Spinnaker, Kubernetes, Docker Experience implementing Data Dog - ability to create monitors, alerts and dashboards. Experience using GitHub and GitHub Actions Behaviour Driven Development (BDD), with Gherkin Atlassian Jira, Confluence Software security best practices and implementation, e.g. OWASP, PKI, X509 Certificates, TLS Software development for regulated environments, e.g. 21CFR Part 11.",
-      "tags": [
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-03-13",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "01b5905f4d8b6f97a00bf6be1d0d4580e32de457"
-    }
-  },
-  {
-    "score": 70,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4332748077",
-      "title": ".Net Developer",
-      "company": "Softtek",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-softtek-4332748077",
-      "description": "C# .NET Development AWS Cloud Services (EC2, RDS, CloudWatch) DevOps & CI/CD: Jenkins, Git, GitHub API Integration and RESTful Services",
-      "tags": [
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2025-10-29",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "8440dad3113183d2d4bb7071f754cd1e2bb5be70"
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -791,46 +170,312 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4367009165",
+      "source_id": "4402197135",
       "title": ".Net Developer",
       "company": "Infosys",
       "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4367009165",
-      "description": "Primary skills: .Net, ReactJS , AWS A day in the life of an Infoscion As part of the Infosys delivery team, your primary role would be to provide best fit architectural solutions for one or more projects. You would also provide technology consultation and assist in defining scope and sizing of work You would implement solutions, create technology differentiation and leverage partner technologies. Additionally, you would participate in competency development with the objective of ensuring the best-fit and high quality technical solutions. You would be a key contributor in creating thought leadership within the area of technology specialization and in compliance with guidelines, policies and norms of Infosys. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Knowledge of architectural design patterns, performance tuning, database and functional designs Hands-on experience in Service Oriented Architecture Ability to lead solution development and delivery for the design solutions Experience in designing high level and low level documents is a plus Good understanding of SDLC is a pre-requisite Awareness of latest technologies and trends Logical thinking and problem solving skills along with an ability to collaborate",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402197135",
+      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India 2 days ago",
       "tags": [
         ".net"
       ],
-      "published_at": "2026-03-14",
+      "published_at": "2026-04-16",
       "remote": false,
       "metadata": {},
-      "fingerprint": "adf2e43fe0b6ae41c214a182ce012ebfc1ac64c9"
+      "fingerprint": "ff06bed4f543767b8f4b0126561247fc14d7961f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Infosys by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4402114594",
+      "title": ".Net Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402114594",
+      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India 3 days ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-16",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "83ec5de589847d4a67e87192b7004074ad95c7ad"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Infosys by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4388475390",
+      "title": ".NET Developer [DNA]",
+      "company": "Virtusa",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 4 days ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-15",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "547303bf24b7f3314f3c3bd2bcc0e4a93fc06d70"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4388481078",
+      "title": ".NET Developer [DNA]",
+      "company": "Virtusa",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 4 days ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-15",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "728b7011ec3cce4aaeb8d72aeb59641d24d3d6dc"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4388469544",
+      "title": ".NET Developer [DNA]",
+      "company": "Virtusa",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388469544",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 4 days ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-15",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "83ff1e37ed94bc0967727efcd1623227b71b6f49"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: Full Stack Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4398468449",
+      "title": ".Net Full Stack developer",
+      "company": "Deloitte",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India 1 week ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-08",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "c3425c42fd2c82bf12ba102204e3d74efbf2cdf9"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4365045136",
+      "title": ".Net Developer",
+      "company": "Volvo Group",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-volvo-group-4365045136",
+      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India 2 weeks ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-02",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "322bd6d30308cf1c1fc85fcacd6b87bdcaa9d6fa"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: Python",
+      "Preferred title match: Python Developer",
+      "Search keyword hit: Python",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "Python"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4392281466",
+      "title": "Full Stack Python Developer",
+      "company": "Deloitte",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-python-developer-at-deloitte-4392281466",
+      "description": "Full Stack Python Developer Full Stack Python Developer Deloitte Bengaluru, Karnataka, India 3 weeks ago",
+      "tags": [
+        "python"
+      ],
+      "published_at": "2026-03-27",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "51a7d95fadb541efce7f5bb36808fba8a29b5a77"
     }
   },
   {
     "score": 50,
     "reasons": [
-      "Matched skills: Azure, .Net",
-      "Search keyword hit: Azure",
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
     "matched_skills": [
-      "Azure",
+      "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4370007370",
-      "title": "Software Developers ( Java / Azure /AWS / .Net )",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-developers-java-azure-aws-net-at-infosys-4370007370",
-      "description": "A day in the life of an Infoscion As part of the Infosys delivery team, your primary role would be to interface with the client for quality assurance, issue resolution and ensuring high customer satisfaction. You will understand requirements, create and review designs, validate the architecture and ensure high levels of service offerings to clients in the technology domain. You will participate in project estimation, provide inputs for solution delivery, conduct technical risk planning, perform code reviews and unit test plan reviews. You will lead and guide your teams towards developing optimized high quality code deliverables, continual knowledge management and adherence to the organizational guidelines and processes. You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Knowledge of more than one technology Basics of Architecture and Design fundamentals Knowledge of Testing tools Knowledge of agile methodologies Understanding of Project life cycle activities on development and maintenance projects Understanding of one or more Estimation methodologies, Knowledge of Quality processes Basics of business domain to understand the business requirements Analytical abilities, Strong Technical Skills, Good communication skills Good understanding of the technology and domain Ability to demonstrate a sound understanding of software quality assurance principles, SOLID design principles and modelling methods Awareness of latest technologies and trends Excellent problem solving, analytical and debugging skills",
-      "tags": [],
-      "published_at": "2026-02-28",
+      "source_id": "4386585560",
+      "title": "Software Engineer III - .Net, C#",
+      "company": "JPMorganChase",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-net-c%23-at-jpmorganchase-4386585560",
+      "description": "Software Engineer III - .Net, C# Software Engineer III - .Net, C# JPMorganChase Hyderabad, Telangana, India 1 week ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-04-07",
       "remote": false,
       "metadata": {},
-      "fingerprint": "d150c92e0040f34a35669a5f45fc015e81d4cd48"
+      "fingerprint": "4c6612b1971f515510753ca508cdfbebeba9b4c9"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net, JavaScript",
+      "Search keyword hit: Azure",
+      "Role asks for 8+ years"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "builtin",
+      "source_id": "job-card-3614687",
+      "title": "Software Engineer . Net",
+      "company": "IPS Technology Services IPSTS",
+      "location": "",
+      "url": "https://builtin.com/job/software-engineer-net/2396288",
+      "description": "Company Description IPS Technology Services adds value to customers\u2019 businesses by cultivating partnership and delivering quality services to meet or exceed customer expectations. Our FOCUS is on understanding customer requirements, teamwork, and communication. Our GOAL is a repeat customer. Job Description Title: Software Engineer . Net 100% REMOTE 6 months contract **Permanent work from home position - Detroit , MI or Indianapolis based. Must be in MI or Indianapolis. Summary: The Software Engineer must have a diverse skillset within the Microsoft development stack. The engineer will have responsibilities for developing SQL and stored procedures, new web sites, upgrade existing websites with API technologies, constantly improve the performance and security of these websites in one or more programming languages and Modern JavaScript frameworks (React, Angular, etc.). Must have experience in Design Patterns (strategy, Abstract Factory, Singleton, Adapter, etc.) The Software Engineer must be able to create specifications software solutions and assisting in documenting them and to ensure they are built properly in the first place, and then are easier to maintain thereafter. Must also have an eagerness to learn new technologies and practices. Remote position, but home base must be Detroit or Indianapolis. Primary Responsibilities Use IT Request system to review Client requests and provide a prompt response Follow programming standards for version control, development, and maintenance of programming artifacts (web classes, APIs, and frameworks) Develop and execute unit test cases. Be an advocate of and understand structured Software Development methodologies. Follow current guidelines as established at the company-wide and department levels and provide input for modifying existing standards. Qualifications Required Qualifications: Minimum of 3-8 years of recent experience in writing software solutions with the latest Microsoft technologies. Must have proper understanding of web and application security. Extensive experience with C#, .NET Core MVC and Web API Experience developing software in Azure. Expertise in SQL. Ability to work independently with minimal supervision. Ability to troubleshoot existing application issues. Ability to do application mick-ups and design documents. Redeveloping existing systems by analyzing and identifying areas for modification and improvement. Assisting in creating technical specifications and test plans, as requested. Implementing new software into a production environment via our agreed upon change control processes. Good interpersonal and oral communication skills Ability to conduct research into security related products as required Experience working in a team-oriented, collaborative environment Ability to prioritize and coordinate job duties, resources and personnel. Ability to adjust priorities, listen receptively to ideas and problems. Ability to reach acceptable compromise and to maintain strict confidentiality. Ability to work under time constraints; ability to communicate clearly and work effectively as a team member. Ability to read, interpret and formulate contracts. Ability to analyze and compile data. Additional Information All your information will be kept confidential according to EEO guidelines.",
+      "tags": [
+        "Reposted 15 Hours Ago",
+        "Saved",
+        "Information Technology",
+        "Top Skills:",
+        ".Net Core Mvc",
+        "Angular",
+        "Azure",
+        "C#"
+      ],
+      "published_at": "Reposted 15 Hours Ago",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "aac63beb7974216bb85f7cb0996a3e96a97213c1"
     }
   }
 ]

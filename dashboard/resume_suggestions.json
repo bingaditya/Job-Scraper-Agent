@@ -1,77 +1,5 @@
 [
   {
-    "job_id": "e201e222ce3f7af5a7ac2495e85eea2504abd135",
-    "title": ".NET Full Stack Developer",
-    "company": "EY",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .NET Full Stack Developer at EY by foregrounding Azure, SQL, C#, .Net, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "16bfd8312e2cb383fd054490c4ea912fceb7b3b8",
-    "title": "Associate \u2013 Dotnet Developer_MS Dynamics _Dotnet/POS Technical_Advisory _Bangalore or Mumbai",
-    "company": "PwC India",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Associate \u2013 Dotnet Developer_MS Dynamics _Dotnet/POS Technical_Advisory _Bangalore or Mumbai at PwC India by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "3adc307f415a33e8baa0ed864ccc9d612abea4d4",
-    "title": "Full Stack .Net Developer",
-    "company": "Deloitte",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack .Net Developer at Deloitte by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f",
     "title": ".Net Developer",
     "company": "Qualcomm",
@@ -85,9 +13,7 @@
         "C#",
         ".Net"
       ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
+      "missing_resume_keywords": [],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
@@ -96,25 +22,76 @@
     }
   },
   {
-    "job_id": "51df5c9ed371b5537011da6001ebc9ae8bbbc9e0",
-    "title": "Full Stack (.Net Core & Angular/React) Developer",
-    "company": "PwC India",
+    "job_id": "77dcb28bd8bf5c0651fa9e12b4edfe7ebd178645",
+    "title": "Full Stack Developer",
+    "company": "Deloitte",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Full Stack (.Net Core & Angular/React) Developer at PwC India by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "summary": "Target Full Stack Developer at Deloitte by foregrounding SQL, CI/CD Pipelines, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
+        "CI/CD Pipelines",
+        "JavaScript"
       ],
       "missing_resume_keywords": [
-        ".Net"
+        "CI/CD Pipelines"
       ],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "cb6835c304c57ed21360d59ada53a9a829197f5f",
+    "title": "Dotnet Developer",
+    "company": "PwC India",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at PwC India by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "ff06bed4f543767b8f4b0126561247fc14d7961f",
+    "title": ".Net Developer",
+    "company": "Infosys",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Infosys by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "83ec5de589847d4a67e87192b7004074ad95c7ad",
+    "title": ".Net Developer",
+    "company": "Infosys",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Infosys by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }

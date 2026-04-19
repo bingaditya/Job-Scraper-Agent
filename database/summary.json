@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-03-14T22:37:02.131311+00:00",
+  "generated_at": "2026-04-19T15:18:21.020653+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 87,
-  "deduplicated_jobs": 87,
-  "shortlisted_jobs": 21,
-  "new_jobs": 3,
-  "notifications_sent": 3,
+  "raw_jobs": 76,
+  "deduplicated_jobs": 76,
+  "shortlisted_jobs": 13,
+  "new_jobs": 11,
+  "notifications_sent": 11,
   "score_threshold": 45,
   "top_sources": [
     [
       "linkedin",
-      18
+      12
     ],
     [
       "builtin",
-      3
+      1
     ]
   ],
   "source_stats": [
@@ -26,7 +26,7 @@
     {
       "source": "remoteok",
       "status": "ok",
-      "jobs_fetched": 18
+      "jobs_fetched": 16
     },
     {
       "source": "linkedin",
@@ -40,8 +40,8 @@
     },
     {
       "source": "himalayas",
-      "status": "ok",
-      "jobs_fetched": 9
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://himalayas.app/jobs?query=.Net+Developer&page=1"
     },
     {
       "source": "indeed",
