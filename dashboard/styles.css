@@ -166,7 +166,8 @@ body {
 .resume-pill,
 .apply-link,
 .tag,
-.resume-button {
+.resume-button,
+.download-button {
   border-radius: 999px;
 }
 
@@ -242,6 +243,15 @@ body {
 .resume-button:disabled {
   cursor: not-allowed;
   opacity: 0.55;
+}
+
+.download-button {
+  border: 0;
+  padding: 10px 14px;
+  color: var(--ink);
+  background: rgba(85, 121, 108, 0.15);
+  font-weight: 700;
+  cursor: pointer;
 }
 
 .resume-status {

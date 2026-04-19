@@ -163,6 +163,7 @@ function renderJobs(jobs) {
 
     const resumeButton = clone.querySelector(".resume-button");
     const resumeStatus = clone.querySelector(".resume-status");
+    const downloadButton = clone.querySelector(".download-button");
     resumeButton.textContent = isBusy
       ? "Tailoring..."
       : applicationState
@@ -170,6 +171,8 @@ function renderJobs(jobs) {
         : "Tailor Resume";
     resumeButton.disabled = isBusy || !state.apiAvailable || !suggestion;
     resumeButton.addEventListener("click", () => tailorResume(jobId));
+    downloadButton.hidden = !state.apiAvailable || !applicationState;
+    downloadButton.addEventListener("click", () => downloadResume());
 
     if (!state.apiAvailable) {
       resumeStatus.textContent = "Start dashboard_server.py to enable resume updates.";
@@ -215,6 +218,23 @@ async function tailorResume(jobId) {
   } finally {
     state.busyJobIds.delete(jobId);
     renderJobs(state.jobs);
+  }
+}
+
+async function downloadResume() {
+  try {
+    const response = await fetch(`${API_BASE}/api/resume/download`);
+    if (!response.ok) throw new Error("Resume download failed.");
+    const text = await response.text();
+    const blob = new Blob([text], { type: "text/markdown" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "resume.md";
+    a.click();
+    URL.revokeObjectURL(url);
+  } catch (error) {
+    dashboardStatusEl.textContent = error.message;
   }
 }
 
