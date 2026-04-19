@@ -4,6 +4,8 @@ const jobGridEl = document.getElementById("job-grid");
 const generatedAtEl = document.getElementById("generated-at");
 const template = document.getElementById("job-card-template");
 
+let API_BASE = "";
+
 const state = {
   apiAvailable: false,
   applicationState: {},
@@ -15,13 +17,16 @@ const state = {
 };
 
 async function loadDashboard() {
+  const apiConfig = await fetchJson("api_config.json", {});
+  API_BASE = (apiConfig.api_url || "").replace(/\/$/, "");
+
   state.apiAvailable = await detectApi();
   const [jobs, summary, suggestions, applicationState, resumeMeta] = await Promise.all([
     fetchJson("jobs.json", []),
     fetchJson("summary.json", null),
     fetchJson("resume_suggestions.json", []),
     fetchJson("resume_application_state.json", {}),
-    state.apiAvailable ? fetchJson("/api/resume", null) : Promise.resolve(null),
+    state.apiAvailable ? fetchJson(`${API_BASE}/api/resume`, null) : Promise.resolve(null),
   ]);
 
   state.jobs = jobs;
@@ -37,7 +42,7 @@ async function loadDashboard() {
 
 async function detectApi() {
   try {
-    const response = await fetch("/api/health", { cache: "no-store" });
+    const response = await fetch(`${API_BASE}/api/health`, { cache: "no-store" });
     return response.ok;
   } catch {
     return false;
@@ -190,7 +195,7 @@ async function tailorResume(jobId) {
   renderJobs(state.jobs);
 
   try {
-    const response = await fetch("/api/tailor-resume", {
+    const response = await fetch(`${API_BASE}/api/tailor-resume`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -202,7 +207,7 @@ async function tailorResume(jobId) {
       throw new Error(payload.error ?? "Resume tailoring failed.");
     }
     state.applicationState[jobId] = payload;
-    state.resumeMeta = await fetchJson("/api/resume", state.resumeMeta);
+    state.resumeMeta = await fetchJson(`${API_BASE}/api/resume`, state.resumeMeta);
     renderStatusBanner();
     renderStats(state.summary, state.jobs);
   } catch (error) {

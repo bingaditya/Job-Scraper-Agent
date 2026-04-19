@@ -85,6 +85,7 @@ class JobHunterAgent:
             seen_job_ids=all_seen_job_ids,
             database_dir=self.database_dir,
             dashboard_dir=self.dashboard_dir,
+            dashboard_api_url=self.config.dashboard_api_url,
         )
         return summary
 

@@ -47,6 +47,7 @@ def write_outputs(
     seen_job_ids: set[str],
     database_dir: Path,
     dashboard_dir: Path,
+    dashboard_api_url: str | None = None,
 ) -> None:
     database_dir.mkdir(parents=True, exist_ok=True)
     dashboard_dir.mkdir(parents=True, exist_ok=True)
@@ -101,4 +102,9 @@ def write_outputs(
         application_state,
         database_dir=database_dir,
         dashboard_dir=dashboard_dir,
+    )
+
+    (dashboard_dir / "api_config.json").write_text(
+        json.dumps({"api_url": dashboard_api_url or ""}, indent=2),
+        encoding="utf-8",
     )
