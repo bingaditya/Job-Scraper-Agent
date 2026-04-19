@@ -65,6 +65,7 @@ class AppConfig:
     sources: SourceConfig
     notifications: NotificationConfig
     ai: AIConfig
+    dashboard_api_url: str | None = None
 
 
 def load_config(path: Path) -> AppConfig:
@@ -81,6 +82,7 @@ def load_config(path: Path) -> AppConfig:
         "ollama_base_url",
         "http://127.0.0.1:11434",
     )
+    dashboard_api_url = os.getenv("DASHBOARD_API_URL") or raw.get("dashboard_api_url") or None
 
     return AppConfig(
         candidate=CandidateProfile(**raw["candidate"]),
@@ -96,4 +98,5 @@ def load_config(path: Path) -> AppConfig:
             ollama_base_url=ollama_base_url,
             max_tailored_jobs=ai.get("max_tailored_jobs", 5),
         ),
+        dashboard_api_url=dashboard_api_url,
     )

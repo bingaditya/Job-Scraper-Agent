@@ -34,6 +34,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
+          DASHBOARD_API_URL: ${{ secrets.DASHBOARD_API_URL }}
         run: python main_agent.py
 
       - name: Commit generated artifacts
