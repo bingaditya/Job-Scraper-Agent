@@ -35,6 +35,21 @@ class DashboardRequestHandler(SimpleHTTPRequestHandler):
         if parsed.path == "/api/resume":
             self._send_json(self.service.get_resume_metadata())
             return
+        if parsed.path == "/api/resume/download":
+            try:
+                content, filename = self.service.get_resume_content()
+            except FileNotFoundError as exc:
+                self._send_json({"error": str(exc)}, status=404)
+                return
+            body = content.encode("utf-8")
+            self.send_response(200)
+            self.send_header("Content-Type", "text/markdown; charset=utf-8")
+            self.send_header("Content-Disposition", f'attachment; filename="{filename}"')
+            self.send_header("Content-Length", str(len(body)))
+            self._add_cors_headers()
+            self.end_headers()
+            self.wfile.write(body)
+            return
         self.path = parsed.path
         super().do_GET()
 
