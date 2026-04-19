@@ -42,6 +42,13 @@ class DashboardService:
             raise FileNotFoundError("Resume file not found.")
         return resume_path.read_text(encoding="utf-8"), resume_path.name
 
+    def get_resume_docx(self) -> tuple[bytes, str]:
+        from job_hunter.resume_converter import md_to_docx
+        content, _ = self.get_resume_content()
+        config = load_config(self.profile_path)
+        stem = self._resume_path(config.candidate.resume_path).stem
+        return md_to_docx(content), f"{stem}.docx"
+
     def get_resume_metadata(self) -> dict[str, Any]:
         config = load_config(self.profile_path)
         resume_path = self._resume_path(config.candidate.resume_path)
