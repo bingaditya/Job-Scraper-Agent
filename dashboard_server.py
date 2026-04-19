@@ -37,13 +37,15 @@ class DashboardRequestHandler(SimpleHTTPRequestHandler):
             return
         if parsed.path == "/api/resume/download":
             try:
-                content, filename = self.service.get_resume_content()
+                body, filename = self.service.get_resume_docx()
             except FileNotFoundError as exc:
                 self._send_json({"error": str(exc)}, status=404)
                 return
-            body = content.encode("utf-8")
             self.send_response(200)
-            self.send_header("Content-Type", "text/markdown; charset=utf-8")
+            self.send_header(
+                "Content-Type",
+                "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            )
             self.send_header("Content-Disposition", f'attachment; filename="{filename}"')
             self.send_header("Content-Length", str(len(body)))
             self._add_cors_headers()

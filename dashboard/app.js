@@ -225,12 +225,14 @@ async function downloadResume() {
   try {
     const response = await fetch(`${API_BASE}/api/resume/download`);
     if (!response.ok) throw new Error("Resume download failed.");
-    const text = await response.text();
-    const blob = new Blob([text], { type: "text/markdown" });
+    const buffer = await response.arrayBuffer();
+    const blob = new Blob([buffer], {
+      type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = "resume.md";
+    a.download = "resume.docx";
     a.click();
     URL.revokeObjectURL(url);
   } catch (error) {
