@@ -57,64 +57,6 @@
     }
   },
   {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Python, SQL, CI/CD Pipelines, Html, CSS",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: Python",
-      "Preferred location: India",
-      "Experience fit around 1+ years"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "CI/CD Pipelines",
-      "Html",
-      "CSS",
-      "JavaScript",
-      "FastAPI"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4304149179",
-      "title": "Full Stack Developer - 1",
-      "company": "NxtWave",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-1-at-nxtwave-4304149179",
-      "description": "Responsibilities Get first-hand experience of building applications and see them released quickly to the NxtWave learners (within weeks). Get to take ownership of the features you build and work closely with the product team. Work in a great culture that continuously empowers you to grow in your career. Enjoy freedom to experiment and learn from mistakes (Fail Fast, Learn Faster). NxtWave is one of the fastest-growing edtech startups. Get first-hand experience in scaling the features you build as the company grows rapidly. Build in a world-class developer environment by applying clean coding principles, code architecture, etc. Design, implement, and ship user-centric features spanning frontend, backend, and database systems under guidance. Define and implement RESTful/GraphQL APIs and efficient, scalable database schemas. Build reusable, maintainable frontend components using modern state management practices. Develop backend services in Node.js or Python, adhering to clean-architecture principles. Write and maintain unit, integration, and end-to-end tests to ensure code quality and reliability. Containerize applications and configure CI/CD pipelines for automated builds and deployments. Enforce secure coding practices, accessibility standards (WCAG), and SEO fundamentals. Collaborate effectively with Product, Design, and engineering teams to understand and implement feature requirements. Own feature delivery from planning through production, and mentor interns or junior developers. Requirements 1+ years of experience building full-stack web applications. Proficiency in JavaScript (ES6+), TypeScript, HTML5 and CSS3 (Flexbox/Grid). Advanced experience with React(Hooks, Context, Router) or equivalent modern UI framework. Hands-on with state management patterns (Redux, MobX, or custom solutions). Strong backend skills in Node.js (Express/Fastify) or Java or Python (Django/Flask/FastAPI). Expertise in designing REST and/or GraphQL APIs and integrating with backend services. Solid knowledge of MySQL/PostgreSQL and familiarity with NoSQL stores (Elasticsearch, Redis). Experience using build tools (Webpack, Vite), package managers (npm/Yarn), and Git workflows. Skilled in writing and maintaining tests with Jest, React Testing Library, Pytest, and Cypress. Familiar with Docker, CI / CD tools (GitHub Actions, Jenkins), and basic cloud deployments. Product-first thinker with strong problem-solving, debugging, and communication skills. Qualities We'd Love To Find In You The attitude is to always strive for the best outcomes and an enthusiasm to deliver high-quality software. Strong collaboration abilities and a flexible and friendly approach to working with teams. Strong determination with a constant eye on solutions. Creative ideas with a problem-solving mindset. Be open to receiving objective criticism and improving upon it. Eagerness to learn and zeal to grow. Strong communication skills are a huge plus. This job was posted by Arifulla Gori Mohammad from NxtWave.",
-      "tags": [
-        "python",
-        "sql",
-        "fastapi",
-        "javascript",
-        "ci/cd"
-      ],
-      "published_at": "2025-09-22",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0bc3535edb5aa5b7821fa88ccc1a9ae12bdd1a75"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack Developer - 1 at NxtWave by foregrounding Python, SQL, CI/CD Pipelines, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Python",
-        "SQL",
-        "CI/CD Pipelines",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "CI/CD Pipelines"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 96,
     "reasons": [
       "Matched skills: SQL, Html, CSS, JavaScript",
@@ -298,6 +240,22 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "cb6835c304c57ed21360d59ada53a9a829197f5f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at PwC India by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -370,80 +328,6 @@
     }
   },
   {
-    "score": 74,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-8143508",
-      "title": "Sr .NET Developer",
-      "company": "Infojini Inc",
-      "location": "",
-      "url": "https://builtin.com/job/sr-net-developer/8143508",
-      "description": "Company Description Infojini Consulting is a full service IT consulting, services, and staffing firm with offices in Linthicum Heights ,Maryland, Washington, DC and Mumbai, India. Infojini Consulting is recognized as one of the fastest growing IT services and software development Companies. With a partnership of all major technology vendors, Infojini Consulting has built a strong Government and commercial customer base including fortune 100 companies and most state and federal agencies such as State of North Carolina, State of South Carolina, State of Maryland, State of California, State of Pennsylvania, State of Virginia, State of Washington and many others. Infojini Consulting is an equal opportunity employer and considers all qualified individuals for employment irrespective of their race, gender, age, color, sexual orientation. We offer an excellent compensation package Job Description We have a requirement for a Sr .NET Developer at Raleigh, NC for 12 months contract position Job details mentioned below Title: Sr .NET Developer Location: Raleigh, NC Duration: 12 months Required experience in the following: ASP.NET(C#), .NET 4.0 MVC 4 Entity Framework  6 WCF  and Web API MS SQL Server, including database design, T-SQL, and stored procedures Responsibilities: Consult with project manager and designers to understand business requirement for application being implemented. Create milestones and project time line estimates . Maintain and refine estimates as work is completed in TFS or other ALM tool. Recording work progress on a daily basis Documentation develop large scale web/database applications per NCDOT standards with a focus on future system maintainability. Maintain existing software systems by identifying and correcting software defects. Additional Information",
-      "tags": [
-        "Reposted 13 Hours Ago",
-        "Saved",
-        "Information Technology \u2022 Software",
-        "Top Skills:",
-        ".Net 4.0",
-        "Asp.Net",
-        "C#",
-        "Entity Framework 6"
-      ],
-      "published_at": "Reposted 13 Hours Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "497923e58198c5d2722715964c9b509a85ee9a53"
-    }
-  },
-  {
-    "score": 66,
-    "reasons": [
-      "Matched skills: Python, SQL, C#, .Net",
-      "Search keyword hit: Python",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-8143513",
-      "title": ".Net software engineer",
-      "company": "Infojini Inc",
-      "location": "",
-      "url": "https://builtin.com/job/net-software-engineer/8143513",
-      "description": "Company Description Infojini Consulting is a full service IT consulting, services, and staffing firm with offices in Linthicum Heights ,Maryland, Washington, DC and Mumbai, India. Infojini Consulting is recognized as one of the fastest growing IT services and software development Companies. With a partnership of all major technology vendors, Infojini Consulting has built a strong Government and commercial customer base including fortune 100 companies and most state and federal agencies such as State of North Carolina, State of South Carolina, State of Maryland, State of California, State of Pennsylvania, State of Virginia, State of Washington and many others. Infojini Consulting is an equal opportunity employer and considers all qualified individuals for employment irrespective of their race, gender, age, color, sexual orientation. We offer an excellent compensation package Job Description Job details mentioned below Title: .Net software engineer Location: Baltimore, MD Duration : Full time position Minimum Qualifications Proficient in one or more high-level languages, e.g.,  C++, C#, C. Familiar with multiple high-level scripting languages, e.g., python, perl, ruby, scala Proficient in multiple scripting languages, e.g., awk, bash, ksh, csh, powershell Familiar with Big Data technologies, e.g., Hadoop, HBase, Hive, MapReduce Familiar with search technologies, e.g., Lucene, Solr Familiar with NoSQL technologies, e.g., Cassandra, Redis, CouchBase, MongoDB, memCached Proficient in multiple operating systems, e.g., Windows, Linux, MacOs Proficient in multiple database technologies and concepts, e.g., MySQL, SQL Server, Oracle, stored procedures, views, triggers Familiar with columnar-oriented databases, e.g., InfoBright, RedShift, Cloudera, HBase Familiar with continuous integration tools, e.g., CruiseControl, Jenkins, Hudson, TeamCity, Bamboo Familiar with source control systems, e.g., SVN, CVS, perforce, git, ClearCase Familiar in software control frameworks, e.g., StrutureMap, Spring, Autofac Proficient in design and analysis tools, e.g., Visio, Excel, UML, Rational Rose Preferred Qualifications Master's in Computer Science or a related field and two years\u2019 relevant recent experience, or equivalent education and experience. Should have taken at least 5 advanced courses in any of: Operating Systems Parallel or concurrent Programming Distributed Programming Databases Computer Systems Security Programming Languages Programming Practices Algorithms Theory of Computation Compilers Software Development Design Patterns Expert Systems Pattern Recognition Machine Learning Thanks & Regards, Alex Pallett Talent Acquisition Executive Contact: 443-283-2025 Fax: 443-283-4249 Additional Information",
-      "tags": [
-        "Reposted 13 Hours Ago",
-        "Saved",
-        "Information Technology \u2022 Software",
-        "Top Skills:",
-        "Autofac",
-        "Awk",
-        "Bamboo",
-        "Bash"
-      ],
-      "published_at": "Reposted 13 Hours Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b5bea086f1aac4b0565f01b3235b9475212d6d3c"
-    }
-  },
-  {
     "score": 54,
     "reasons": [
       "Matched skills: .Net",
@@ -462,7 +346,7 @@
       "company": "Infosys",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402197135",
-      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India 4 days ago",
+      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India Actively Hiring 4 days ago",
       "tags": [
         ".net"
       ],
@@ -491,7 +375,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402114594",
-      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India 4 days ago",
+      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India Actively Hiring 5 days ago",
       "tags": [
         ".net"
       ],
@@ -520,7 +404,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 6 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 6 days ago",
       "tags": [
         ".net"
       ],
@@ -549,7 +433,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 6 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 6 days ago",
       "tags": [
         ".net"
       ],
@@ -578,7 +462,7 @@
       "company": "Deloitte",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
-      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India 1 week ago",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 1 week ago",
       "tags": [
         ".net"
       ],
@@ -607,7 +491,7 @@
       "company": "Volvo Group",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-volvo-group-4365045136",
-      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India 2 weeks ago",
+      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -615,39 +499,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "322bd6d30308cf1c1fc85fcacd6b87bdcaa9d6fa"
-    }
-  },
-  {
-    "score": 48,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-8143423",
-      "title": "Sr .Net Developer with WPF Exp",
-      "company": "Infojini Inc",
-      "location": "",
-      "url": "https://builtin.com/job/sr-net-developer-wpf-exp/8143423",
-      "description": "Company Description Infojini Consulting is a full service IT consulting, services, and staffing firm with offices in Linthicum Heights ,Maryland, Washington, DC and Mumbai, India. Infojini Consulting is recognized as one of the fastest growing IT services and software development Companies. With a partnership of all major technology vendors, Infojini Consulting has built a strong Government and commercial customer base including fortune 100 companies and most state and federal agencies such as State of North Carolina, State of South Carolina, State of Maryland, State of California, State of Pennsylvania, State of Virginia, State of Washington and many others. Infojini Consulting is an equal opportunity employer and considers all qualified individuals for employment irrespective of their race, gender, age, color, sexual orientation. We offer an excellent compensation package Job Description We are looking for Sr .Net Developer with WPF Exp in Mountain View, CA for 6+ months contract position. Please refer someone else if you are not available at this time or you are not right match for this job opportunity. We have great Referral Bonus up to $2500!!! Please don't miss to refer someone who are looking for projects. Job details mentioned below- \u200bTitle: Sr .Net Developer with WPF Exp Location: Mountain View, CA Duration: \u200b6+ months Client: Direct Client Required Skills: \u00b7         10 years of experience using .Net. \u00b7         5 years of experience with WPF Additional Information All your information will be kept confidential according to EEO guidelines.",
-      "tags": [
-        "Reposted 13 Hours Ago",
-        "Saved",
-        "Information Technology \u2022 Software",
-        "Top Skills:",
-        ".Net",
-        "Wpf"
-      ],
-      "published_at": "Reposted 13 Hours Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "c1987bac318640f634b4e6e74749a9142962edc4"
     }
   }
 ]
