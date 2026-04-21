@@ -115,53 +115,52 @@
     }
   },
   {
-    "score": 92,
+    "score": 96,
     "reasons": [
-      "Matched skills: C#, .Net, Html, CSS, JavaScript",
-      "Search keyword hit: C#",
+      "Matched skills: SQL, Html, CSS, JavaScript",
+      "Preferred title match: Full Stack Developer",
+      "Search keyword hit: SQL",
       "Preferred location: India",
-      "Experience fit around 5+ years"
+      "Experience requirement not strict"
     ],
     "matched_skills": [
-      "C#",
-      ".Net",
+      "SQL",
       "Html",
       "CSS",
       "JavaScript"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4398825552",
-      "title": "Dot Net Developer",
-      "company": "Virtusa",
+      "source_id": "4391670963",
+      "title": "Full Stack Developer",
+      "company": "hackajob",
       "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-virtusa-4398825552",
-      "description": "Experience :3-8 yrs 5+ years of experience with .NET Core (C#) for building scalable server-side applications and APIs. Strong analytical and problem-solving skills with the ability to develop creative and efficient solutions. Expert knowledge of front-end technologies: HTML5, CSS3, SASS. Experience with code quality tools such as LINT, SonarQube, etc. Proficient in TDD and unit testing frameworks (Jasmine, Karma, Jest). Solid understanding of web services integration and RESTful API concepts. Familiarity with server-side JavaScript (NodeJS) is a plus. Experience with version control systems (e.g., Git). Excellent communication and teamwork skills. Design, develop, and maintain robust web applications using .NET Core. Collaborate with cross-functional teams to define, design, and ship new features. Write clean, maintainable, and efficient code following best practices and coding standards. Integrate web services and APIs, with a strong understanding of RESTful concepts. Implement and advocate for Test-Driven Development (TDD) using tools such as Jasmine, Karma, or Jest. Utilize code quality tools (e.g., LINT, SonarQube) to ensure high standards of code quality and maintainability. Provide technical leadership, mentorship, and guidance to junior team members. Participate in code reviews, troubleshooting, and performance tuning. Stay updated with emerging trends and technologies in software development.",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-hackajob-4391670963",
+      "description": "hackajob is collaborating with Barclays to connect them with exceptional professionals for this role. Join us as a Full Stack Developer at Barclays where you will spearhead the evolution of our infrastructure and deployment pipelines, driving innovation and operational excellence. You will harness cutting-edge technology to build and manage robust, scalable and secure infrastructure, ensuring seamless delivery of our digital solutions. To be successful as a Full Stack Developer, you should have experience with: Java8/17/21, SpringBoot3, Spring Security React JS/ React Native HTML, CSS, JavaScript Redux Some Other Highly Valued Skills May Include Message Queue services (JMS, ActiveMQ, RabbitMQ) Database technologies (JPA/Hibernate, PostgreSQL/MySQL) and microservices architecture DevOps tools (Docker, GitLab CI/CD, Maven/Gradle) and testing frameworks (JUnit, Jest, React Testing Library) You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job-specific technical skills. The role is based out of Pune. Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively contribute to the organization\u2019s technology communities to foster a culture of technical excellence and growth. Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions. Implementation of effective unit testing practices to ensure proper code design, readability, and reliability. Analyst Expectations To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement. Requires in-depth technical knowledge and experience in their assigned area of expertise Thorough understanding of the underlying principles and concepts within the area of expertise They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L \u2013 Listen and be authentic, E \u2013 Energise and inspire, A \u2013 Align across the enterprise, D \u2013 Develop others. OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate. Will have an impact on the work of related teams within the area. Partner with other functions and business areas. Takes responsibility for end results of a team\u2019s operational processing and activities. Escalate breaches of policies / procedure appropriately. Take responsibility for embedding new policies/ procedures adopted due to risk mitigation. Advise and influence decision making within own area of expertise. Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct. Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function. Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function. Make evaluative judgements based on the analysis of factual information, paying attention to detail. Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Guide and persuade team members and communicate complex / sensitive information. Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation. All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship \u2013 our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset \u2013 to Empower, Challenge and Drive \u2013 the operating manual for how we behave.",
       "tags": [
-        ".net",
-        "c#",
-        "javascript"
+        "sql",
+        "javascript",
+        "ci/cd"
       ],
-      "published_at": "2026-04-09",
+      "published_at": "2026-04-21",
       "remote": false,
       "metadata": {},
-      "fingerprint": "cb7b3c51db6be97e76de8b694f4450686a6c4183"
+      "fingerprint": "8186f4e46255e22e364bdfb8c11c275fc2ff7626"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "summary": "Target Full Stack Developer at hackajob by foregrounding SQL, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "C#",
-        ".Net",
+        "SQL",
         "Html",
         "CSS",
         "JavaScript"
       ],
       "missing_resume_keywords": [],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CSS to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -392,7 +391,7 @@
       "url": "https://builtin.com/job/sr-net-developer/8143508",
       "description": "Company Description Infojini Consulting is a full service IT consulting, services, and staffing firm with offices in Linthicum Heights ,Maryland, Washington, DC and Mumbai, India. Infojini Consulting is recognized as one of the fastest growing IT services and software development Companies. With a partnership of all major technology vendors, Infojini Consulting has built a strong Government and commercial customer base including fortune 100 companies and most state and federal agencies such as State of North Carolina, State of South Carolina, State of Maryland, State of California, State of Pennsylvania, State of Virginia, State of Washington and many others. Infojini Consulting is an equal opportunity employer and considers all qualified individuals for employment irrespective of their race, gender, age, color, sexual orientation. We offer an excellent compensation package Job Description We have a requirement for a Sr .NET Developer at Raleigh, NC for 12 months contract position Job details mentioned below Title: Sr .NET Developer Location: Raleigh, NC Duration: 12 months Required experience in the following: ASP.NET(C#), .NET 4.0 MVC 4 Entity Framework  6 WCF  and Web API MS SQL Server, including database design, T-SQL, and stored procedures Responsibilities: Consult with project manager and designers to understand business requirement for application being implemented. Create milestones and project time line estimates . Maintain and refine estimates as work is completed in TFS or other ALM tool. Recording work progress on a daily basis Documentation develop large scale web/database applications per NCDOT standards with a focus on future system maintainability. Maintain existing software systems by identifying and correcting software defects. Additional Information",
       "tags": [
-        "Reposted 7 Hours Ago",
+        "Reposted 13 Hours Ago",
         "Saved",
         "Information Technology \u2022 Software",
         "Top Skills:",
@@ -401,7 +400,7 @@
         "C#",
         "Entity Framework 6"
       ],
-      "published_at": "Reposted 7 Hours Ago",
+      "published_at": "Reposted 13 Hours Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "497923e58198c5d2722715964c9b509a85ee9a53"
@@ -429,7 +428,7 @@
       "url": "https://builtin.com/job/net-software-engineer/8143513",
       "description": "Company Description Infojini Consulting is a full service IT consulting, services, and staffing firm with offices in Linthicum Heights ,Maryland, Washington, DC and Mumbai, India. Infojini Consulting is recognized as one of the fastest growing IT services and software development Companies. With a partnership of all major technology vendors, Infojini Consulting has built a strong Government and commercial customer base including fortune 100 companies and most state and federal agencies such as State of North Carolina, State of South Carolina, State of Maryland, State of California, State of Pennsylvania, State of Virginia, State of Washington and many others. Infojini Consulting is an equal opportunity employer and considers all qualified individuals for employment irrespective of their race, gender, age, color, sexual orientation. We offer an excellent compensation package Job Description Job details mentioned below Title: .Net software engineer Location: Baltimore, MD Duration : Full time position Minimum Qualifications Proficient in one or more high-level languages, e.g.,  C++, C#, C. Familiar with multiple high-level scripting languages, e.g., python, perl, ruby, scala Proficient in multiple scripting languages, e.g., awk, bash, ksh, csh, powershell Familiar with Big Data technologies, e.g., Hadoop, HBase, Hive, MapReduce Familiar with search technologies, e.g., Lucene, Solr Familiar with NoSQL technologies, e.g., Cassandra, Redis, CouchBase, MongoDB, memCached Proficient in multiple operating systems, e.g., Windows, Linux, MacOs Proficient in multiple database technologies and concepts, e.g., MySQL, SQL Server, Oracle, stored procedures, views, triggers Familiar with columnar-oriented databases, e.g., InfoBright, RedShift, Cloudera, HBase Familiar with continuous integration tools, e.g., CruiseControl, Jenkins, Hudson, TeamCity, Bamboo Familiar with source control systems, e.g., SVN, CVS, perforce, git, ClearCase Familiar in software control frameworks, e.g., StrutureMap, Spring, Autofac Proficient in design and analysis tools, e.g., Visio, Excel, UML, Rational Rose Preferred Qualifications Master's in Computer Science or a related field and two years\u2019 relevant recent experience, or equivalent education and experience. Should have taken at least 5 advanced courses in any of: Operating Systems Parallel or concurrent Programming Distributed Programming Databases Computer Systems Security Programming Languages Programming Practices Algorithms Theory of Computation Compilers Software Development Design Patterns Expert Systems Pattern Recognition Machine Learning Thanks & Regards, Alex Pallett Talent Acquisition Executive Contact: 443-283-2025 Fax: 443-283-4249 Additional Information",
       "tags": [
-        "Reposted 7 Hours Ago",
+        "Reposted 13 Hours Ago",
         "Saved",
         "Information Technology \u2022 Software",
         "Top Skills:",
@@ -438,7 +437,7 @@
         "Bamboo",
         "Bash"
       ],
-      "published_at": "Reposted 7 Hours Ago",
+      "published_at": "Reposted 13 Hours Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "b5bea086f1aac4b0565f01b3235b9475212d6d3c"
@@ -521,7 +520,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 5 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 6 days ago",
       "tags": [
         ".net"
       ],
@@ -550,7 +549,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 5 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 6 days ago",
       "tags": [
         ".net"
       ],
@@ -638,14 +637,14 @@
       "url": "https://builtin.com/job/sr-net-developer-wpf-exp/8143423",
       "description": "Company Description Infojini Consulting is a full service IT consulting, services, and staffing firm with offices in Linthicum Heights ,Maryland, Washington, DC and Mumbai, India. Infojini Consulting is recognized as one of the fastest growing IT services and software development Companies. With a partnership of all major technology vendors, Infojini Consulting has built a strong Government and commercial customer base including fortune 100 companies and most state and federal agencies such as State of North Carolina, State of South Carolina, State of Maryland, State of California, State of Pennsylvania, State of Virginia, State of Washington and many others. Infojini Consulting is an equal opportunity employer and considers all qualified individuals for employment irrespective of their race, gender, age, color, sexual orientation. We offer an excellent compensation package Job Description We are looking for Sr .Net Developer with WPF Exp in Mountain View, CA for 6+ months contract position. Please refer someone else if you are not available at this time or you are not right match for this job opportunity. We have great Referral Bonus up to $2500!!! Please don't miss to refer someone who are looking for projects. Job details mentioned below- \u200bTitle: Sr .Net Developer with WPF Exp Location: Mountain View, CA Duration: \u200b6+ months Client: Direct Client Required Skills: \u00b7         10 years of experience using .Net. \u00b7         5 years of experience with WPF Additional Information All your information will be kept confidential according to EEO guidelines.",
       "tags": [
-        "Reposted 7 Hours Ago",
+        "Reposted 13 Hours Ago",
         "Saved",
         "Information Technology \u2022 Software",
         "Top Skills:",
         ".Net",
         "Wpf"
       ],
-      "published_at": "Reposted 7 Hours Ago",
+      "published_at": "Reposted 13 Hours Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "c1987bac318640f634b4e6e74749a9142962edc4"

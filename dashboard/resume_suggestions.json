@@ -46,24 +46,23 @@
     }
   },
   {
-    "job_id": "cb7b3c51db6be97e76de8b694f4450686a6c4183",
-    "title": "Dot Net Developer",
-    "company": "Virtusa",
+    "job_id": "8186f4e46255e22e364bdfb8c11c275fc2ff7626",
+    "title": "Full Stack Developer",
+    "company": "hackajob",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "summary": "Target Full Stack Developer at hackajob by foregrounding SQL, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "C#",
-        ".Net",
+        "SQL",
         "Html",
         "CSS",
         "JavaScript"
       ],
       "missing_resume_keywords": [],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CSS to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
