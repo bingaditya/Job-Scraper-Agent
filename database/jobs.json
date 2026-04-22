@@ -57,107 +57,6 @@
     }
   },
   {
-    "score": 96,
-    "reasons": [
-      "Matched skills: SQL, Html, CSS, JavaScript",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4391670963",
-      "title": "Full Stack Developer",
-      "company": "hackajob",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-hackajob-4391670963",
-      "description": "hackajob is collaborating with Barclays to connect them with exceptional professionals for this role. Join us as a Full Stack Developer at Barclays where you will spearhead the evolution of our infrastructure and deployment pipelines, driving innovation and operational excellence. You will harness cutting-edge technology to build and manage robust, scalable and secure infrastructure, ensuring seamless delivery of our digital solutions. To be successful as a Full Stack Developer, you should have experience with: Java8/17/21, SpringBoot3, Spring Security React JS/ React Native HTML, CSS, JavaScript Redux Some Other Highly Valued Skills May Include Message Queue services (JMS, ActiveMQ, RabbitMQ) Database technologies (JPA/Hibernate, PostgreSQL/MySQL) and microservices architecture DevOps tools (Docker, GitLab CI/CD, Maven/Gradle) and testing frameworks (JUnit, Jest, React Testing Library) You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job-specific technical skills. The role is based out of Pune. Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively contribute to the organization\u2019s technology communities to foster a culture of technical excellence and growth. Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions. Implementation of effective unit testing practices to ensure proper code design, readability, and reliability. Analyst Expectations To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement. Requires in-depth technical knowledge and experience in their assigned area of expertise Thorough understanding of the underlying principles and concepts within the area of expertise They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L \u2013 Listen and be authentic, E \u2013 Energise and inspire, A \u2013 Align across the enterprise, D \u2013 Develop others. OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate. Will have an impact on the work of related teams within the area. Partner with other functions and business areas. Takes responsibility for end results of a team\u2019s operational processing and activities. Escalate breaches of policies / procedure appropriately. Take responsibility for embedding new policies/ procedures adopted due to risk mitigation. Advise and influence decision making within own area of expertise. Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct. Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function. Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function. Make evaluative judgements based on the analysis of factual information, paying attention to detail. Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Guide and persuade team members and communicate complex / sensitive information. Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation. All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship \u2013 our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset \u2013 to Empower, Challenge and Drive \u2013 the operating manual for how we behave.",
-      "tags": [
-        "sql",
-        "javascript",
-        "ci/cd"
-      ],
-      "published_at": "2026-04-21",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "8186f4e46255e22e364bdfb8c11c275fc2ff7626"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack Developer at hackajob by foregrounding SQL, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "Html",
-        "CSS",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect CSS to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 92,
-    "reasons": [
-      "Matched skills: C#, .Net, Html, CSS, JavaScript",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4398825552",
-      "title": "Dot Net Developer",
-      "company": "Virtusa",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-virtusa-4398825552",
-      "description": "Experience :3-8 yrs 5+ years of experience with .NET Core (C#) for building scalable server-side applications and APIs. Strong analytical and problem-solving skills with the ability to develop creative and efficient solutions. Expert knowledge of front-end technologies: HTML5, CSS3, SASS. Experience with code quality tools such as LINT, SonarQube, etc. Proficient in TDD and unit testing frameworks (Jasmine, Karma, Jest). Solid understanding of web services integration and RESTful API concepts. Familiarity with server-side JavaScript (NodeJS) is a plus. Experience with version control systems (e.g., Git). Excellent communication and teamwork skills. Design, develop, and maintain robust web applications using .NET Core. Collaborate with cross-functional teams to define, design, and ship new features. Write clean, maintainable, and efficient code following best practices and coding standards. Integrate web services and APIs, with a strong understanding of RESTful concepts. Implement and advocate for Test-Driven Development (TDD) using tools such as Jasmine, Karma, or Jest. Utilize code quality tools (e.g., LINT, SonarQube) to ensure high standards of code quality and maintainability. Provide technical leadership, mentorship, and guidance to junior team members. Participate in code reviews, troubleshooting, and performance tuning. Stay updated with emerging trends and technologies in software development.",
-      "tags": [
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-04-09",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "cb7b3c51db6be97e76de8b694f4450686a6c4183"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "C#",
-        ".Net",
-        "Html",
-        "CSS",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 92,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, JavaScript",
@@ -206,6 +105,61 @@
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 88,
+    "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "CI/CD Pipelines"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4403506225",
+      "title": "Software Engineer- Dot Net",
+      "company": "Chubb",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-dot-net-at-chubb-4403506225",
+      "description": "Job Description About Chubb : Chubb is a world leader in insurance. With operations in 54 countries and territories, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. The company is defined by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength and local operations globally. Parent company Chubb Limited is listed on the New York Stock Exchange (NYSE: CB) and is a component of the S&P 500 index. Chubb employs approximately 40,000 people worldwide. Additional information can be found at: www.chubb.com. About Chubb India At Chubb India, we are on an exciting journey of digital transformation driven by a commitment to engineering excellence and analytics. With a team of over 2500 talented professionals, we foster a startup mindset that promotes collaboration, diverse perspectives, and a solution-driven attitude. We are dedicated to building expertise in engineering, analytics, and automation, empowering our teams to excel in a dynamic digital landscape. We offer an environment where you will be part of an organization that is dedicated to solving real-world challenges in the insurance industry. Together, we will work to shape the future through innovation and continuous learning. Position Details Job Title : Junior .NET Angular Full Stack Function/Department : EAS Location : Bangalore WFO) Employment Type : Full-time Job Description We are seeking a motivated Junior .NET Angular Full Stack Developer to join our team. The ideal candidate will have a solid foundation in .NET and Angular frameworks, strong analytical and debugging skills, and a passion for building robust, scalable web applications. You will work closely with senior developers and business analysts to deliver innovative solutions to complex business problems. Key Responsibilities Develop, maintain, and enhance web applications using .NET (C#, ASP.NET Core) and Angular. Debug and analyze existing codebases to identify and resolve issues efficiently. Collaborate with team members to design and implement innovative solutions for business requirements. Write clean, maintainable, and well-documented code following best practices. Work with SQL databases: write complex queries, optimize performance, and understand joins, indexes, and other SQL concepts. Analyze and maintain SQL objects such as stored procedures, views, and functions. Participate in code reviews and contribute to team knowledge sharing. Build responsive and user-friendly front-end applications using Angular, ensuring cross-browser compatibility and performance. Stay updated with the latest trends and advancements in .NET, Angular, and related technologies. Qualifications Required Skills & Qualifications:: Bachelor\u2019s degree in Computer Science, Information Technology, or related field (or equivalent experience). Good understanding of .NET concepts, including object-oriented programming, dependency injection, and RESTful API development. Experience with debugging and analyzing .NET codebases. Strong problem-solving skills and ability to propose innovative solutions. Proficient in SQL: writing queries, understanding joins, indexes, and analyzing stored procedures. Hands-on experience with Angular (preferably Angular 8+), including components, services, modules, and state management. Ability to build and maintain front-end applications with a focus on usability and performance Familiarity with version control systems (e.g., Git). Excellent communication and teamwork skills. Preferred Skills: Exposure to Entity Framework or other ORM tools. Experience with Agile development methodologies. Basic understanding of DevOps practices and CI/CD pipelines. Familiarity with cloud platforms (Azure, AWS) is a plus Why Chubb? Join Chubb to be part of a leading global insurance company! Our constant focus on employee experience along with a start-up-like culture empowers you to achieve impactful results. Industry leader: Chubb is a world leader in the insurance industry, powered by underwriting and engineering excellence A Great Place to work: Chubb India has been recognized as a Great Place to Work\u00ae for the years 2023-2024 and 2024-2025 Laser focus on excellence: At Chubb we pride ourselves on our culture of greatness where excellence is a mindset and a way of being. We constantly seek new and innovative ways to excel at work and deliver outstanding results Start-Up Culture: Embracing the spirit of a start-up, our focus on speed and agility enables us to respond swiftly to market requirements, while a culture of ownership empowers employees to drive results that matterin our commitment to provide our employees with the best work experience , enabling them to advance their careers in a conducive environment plan their finances Upskilling and career growth opportunities: With a focus on continuous learning, we offer customized programs that support upskilling like Education Reimbursement Programs, Certification programs and access to global learning programs. Health and Welfare Benefits: We care about our employees\u2019 well-being in and out of work and have benefits like Employee Assistance Program (EAP), Yearly Free Health campaigns and comprehensive Insurance benefits. Application Process Our recruitment process is designed to be transparent, and inclusive. Step 1: Submit your application via the Chubb Careers Portal. Step 2: Engage with our recruitment team for an initial discussion. Step 3: Participate in Hacker Rank assessments/technical/functional interviews and assessments (if applicable). Step 4: Final interaction with Chubb leadership. Apply Now : Chubb External Careers Join Us With you Chubb is better. Whether you are solving challenges on a global stage or creating innovative solutions for local markets, your contributions will help shape the future. If you value integrity, innovation, and inclusion, and are ready to make a difference, we invite you to be part of Chubb India\u2019s journey .",
+      "tags": [
+        "azure",
+        "sql",
+        ".net",
+        "c#",
+        "ci/cd"
+      ],
+      "published_at": "2026-04-17",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "98438437226d5b62ab4b9c7617028841a388cdec"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Software Engineer- Dot Net at Chubb by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
+      ],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -291,6 +245,22 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "cb6835c304c57ed21360d59ada53a9a829197f5f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at PwC India by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -326,6 +296,40 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "1108a44b8872b530d428855e8d78fdc2115a3939"
+    }
+  },
+  {
+    "score": 76,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, JavaScript",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306131097",
+      "title": "Dot Net Developer",
+      "company": "Salus Technologies Pvt Ltd",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-salus-technologies-pvt-ltd-4306131097",
+      "description": "JD- Experience in C# ASP.NET + MVC + Entity Framework development Experience in JavaScript and jQuery Experience in Web Services and third party API Integrations Experience in SQL Server databases Responsibilities Design, code, test, and manage various applications Collaborate with the engineering team and product team Follow outlined standards of quality related to code and systems Deploy tested code to the production environment Skills:- C#, ASP.NET MVC, Entity Framework, jQuery, Webservices, API and SQL server",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "e06ab33cdcb024aeed64ce5516ea02f341f03f22"
     }
   },
   {
@@ -405,7 +409,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 6 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 1 week ago",
       "tags": [
         ".net"
       ],
@@ -434,7 +438,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 6 days ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 1 week ago",
       "tags": [
         ".net"
       ],
@@ -463,7 +467,7 @@
       "company": "Deloitte",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
-      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 1 week ago",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net"
       ],
