@@ -57,6 +57,116 @@
     }
   },
   {
+    "score": 100,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, CI/CD Pipelines, Html",
+      "Search keyword hit: SQL",
+      "Experience fit around 3+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "CI/CD Pipelines",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "builtin",
+      "source_id": "job-card-9128878",
+      "title": "Software Engineer (C#/.Net)",
+      "company": "Allstate",
+      "location": "",
+      "url": "https://builtin.com/job/software-engineer-c-net/9128878",
+      "description": "At Allstate, great things happen when our people work together to protect families and their belongings from life\u2019s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers\u2019 evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection. Job Description The Full Stack Software Engineer designs and builds enterprise web applications using C#, ASP.NET and Vue.js, following best practices for scalable and maintainable systems. In this role, you will be developing and implementing products and services supporting Sales department for Allstate\u2019s Individual Health business. You will leverage test driven development and continuous integration to ensure agility and quality of products. You will participate in the decision-making process of the team ensuring that the simplest appropriate technology and design is chosen to meet user needs. \u2022 Participates in iteration planning meetings ensuring that the team has a common understanding of each story and chores in a team\u2019s backlog \u2022 Participate in executing the strategy, keeping the customer needs and wants in mind \u2022 Collaborates within the team in designing systems and apps \u2022 Participates in daily product team standups \u2022 Participates in retrospectives to gather feedback and derive actionable items to improve the team and the product \u2022 Support software products in user environments \u2022 Participates in knowledge sharing, and contributes to the overall growth of the collective knowledge of the team \u2022 Practices test-driven development in writing software and building products \u2022 Establishes continuous integration, continuous delivery, and continuous deployment pipelines and practices Qualifications \u2022 3 years or more of ASP.NET and C# of backend development for enterprise applications (Preferred) \u2022 Experience with MVC architecture and developing RESTful APIs \u2022 Experience working with front-end frameworks, such as Vue.js, React.js, or Angular (Preferred) \u2022 Solid understanding of modern JavaScript, HTML5, CSS3, and responsive design principles \u2022 Proven experience with Microsoft SQL Server and ability to write and optimize complex T-SQL queries \u2022 Exposure to Oracle databases and integration with enterprise data repositories (EDR) \u2022 Experience building scalable, secure, and maintainable web applications \u2022 Familiarity with source control tools (e.g., Git) and CI/CD pipelines \u2022 Strong problem-solving and debugging skills in both front-end and back-end environments \u2022Ability to work collaboratively in Agile/Scrum development teams Skills Agile Methodology, ASP.NET, C Sharp (Programming Language), Enterprise Web Applications, Microsoft .NET, React.js, Software Development, Web Applications Compensation Compensation offered for this role is 90,700.00 - 153,925.00 annually and is based on experience and qualifications. The candidate(s) offered this position will be required to submit to a background investigation. Joining our team isn\u2019t just a job \u2014 it\u2019s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to challenge the status quo. One where you can shape the future of protection while supporting causes that mean the most to you. Joining our team means being part of something bigger \u2013 a winning team making a meaningful impact. Allstate generally does not sponsor individuals for employment-based visas for this position. Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component. For jobs in San Francisco, please click \u201c here \u201d for information regarding the San Francisco Fair Chance Ordinance. For jobs in Los Angeles, please click \u201c here \u201d for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance. To view the \u201cEEO Know Your Rights\u201d poster click \u201c here \u201d. This poster provides information concerning the laws and procedures for filing complaints of violations of the laws with the Office of Federal Contract Compliance Programs. To view the FMLA poster, click \u201c here \u201d. This poster summarizing the major provisions of the Family and Medical Leave Act (FMLA) and telling employees how to file a complaint. It is the Company\u2019s policy to employ the best qualified individuals available for all jobs. Therefore, any discriminatory action taken on account of an employee\u2019s ancestry, age, color, disability, genetic information, gender, gender identity, gender expression, sexual and reproductive health decision, marital status, medical condition, military or veteran status, national origin, race (include traits historically associated with race, including, but not limited to, hair texture and protective hairstyles), religion (including religious dress), sex, or sexual orientation that adversely affects an employee's terms or conditions of employment is prohibited. This policy applies to all aspects of the employment relationship, including, but not limited to, hiring, training, salary administration, promotion, job assignment, benefits, discipline, and separation of employment.",
+      "tags": [
+        "2 Hours Ago",
+        "Saved",
+        "Insurance",
+        "Top Skills:",
+        "Asp.Net",
+        "C#",
+        "Git",
+        "Microsoft Sql Server"
+      ],
+      "published_at": "2 Hours Ago",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "81e7ded665c284123e4c2ec465c95bc7ee9720c3"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Software Engineer (C#/.Net) at Allstate by foregrounding SQL, C#, .Net, CI/CD Pipelines, Html and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines",
+        "Html"
+      ],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 92,
+    "reasons": [
+      "Matched skills: C#, .Net, Html, CSS, JavaScript",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4398825552",
+      "title": "Dot Net Developer",
+      "company": "Virtusa",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-virtusa-4398825552",
+      "description": "Experience :3-8 yrs 5+ years of experience with .NET Core (C#) for building scalable server-side applications and APIs. Strong analytical and problem-solving skills with the ability to develop creative and efficient solutions. Expert knowledge of front-end technologies: HTML5, CSS3, SASS. Experience with code quality tools such as LINT, SonarQube, etc. Proficient in TDD and unit testing frameworks (Jasmine, Karma, Jest). Solid understanding of web services integration and RESTful API concepts. Familiarity with server-side JavaScript (NodeJS) is a plus. Experience with version control systems (e.g., Git). Excellent communication and teamwork skills. Design, develop, and maintain robust web applications using .NET Core. Collaborate with cross-functional teams to define, design, and ship new features. Write clean, maintainable, and efficient code following best practices and coding standards. Integrate web services and APIs, with a strong understanding of RESTful concepts. Implement and advocate for Test-Driven Development (TDD) using tools such as Jasmine, Karma, or Jest. Utilize code quality tools (e.g., LINT, SonarQube) to ensure high standards of code quality and maintainability. Provide technical leadership, mentorship, and guidance to junior team members. Participate in code reviews, troubleshooting, and performance tuning. Stay updated with emerging trends and technologies in software development.",
+      "tags": [
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-04-09",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "cb7b3c51db6be97e76de8b694f4450686a6c4183"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "C#",
+        ".Net",
+        "Html",
+        "CSS",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 92,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, JavaScript",
@@ -194,23 +304,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "77dcb28bd8bf5c0651fa9e12b4edfe7ebd178645"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack Developer at Deloitte by foregrounding SQL, CI/CD Pipelines, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "CI/CD Pipelines",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [
-        "CI/CD Pipelines"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -245,22 +338,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "cb6835c304c57ed21360d59ada53a9a829197f5f"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at PwC India by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -296,40 +373,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "1108a44b8872b530d428855e8d78fdc2115a3939"
-    }
-  },
-  {
-    "score": 76,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, JavaScript",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306131097",
-      "title": "Dot Net Developer",
-      "company": "Salus Technologies Pvt Ltd",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-salus-technologies-pvt-ltd-4306131097",
-      "description": "JD- Experience in C# ASP.NET + MVC + Entity Framework development Experience in JavaScript and jQuery Experience in Web Services and third party API Integrations Experience in SQL Server databases Responsibilities Design, code, test, and manage various applications Collaborate with the engineering team and product team Follow outlined standards of quality related to code and systems Deploy tested code to the production environment Skills:- C#, ASP.NET MVC, Entity Framework, jQuery, Webservices, API and SQL server",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "e06ab33cdcb024aeed64ce5516ea02f341f03f22"
     }
   },
   {
@@ -380,7 +423,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402114594",
-      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India Actively Hiring 5 days ago",
+      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India Actively Hiring 6 days ago",
       "tags": [
         ".net"
       ],
