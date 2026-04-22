@@ -109,6 +109,57 @@
   {
     "score": 92,
     "reasons": [
+      "Matched skills: C#, .Net, Html, CSS, JavaScript",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4398825552",
+      "title": "Dot Net Developer",
+      "company": "Virtusa",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-virtusa-4398825552",
+      "description": "Experience :3-8 yrs 5+ years of experience with .NET Core (C#) for building scalable server-side applications and APIs. Strong analytical and problem-solving skills with the ability to develop creative and efficient solutions. Expert knowledge of front-end technologies: HTML5, CSS3, SASS. Experience with code quality tools such as LINT, SonarQube, etc. Proficient in TDD and unit testing frameworks (Jasmine, Karma, Jest). Solid understanding of web services integration and RESTful API concepts. Familiarity with server-side JavaScript (NodeJS) is a plus. Experience with version control systems (e.g., Git). Excellent communication and teamwork skills. Design, develop, and maintain robust web applications using .NET Core. Collaborate with cross-functional teams to define, design, and ship new features. Write clean, maintainable, and efficient code following best practices and coding standards. Integrate web services and APIs, with a strong understanding of RESTful concepts. Implement and advocate for Test-Driven Development (TDD) using tools such as Jasmine, Karma, or Jest. Utilize code quality tools (e.g., LINT, SonarQube) to ensure high standards of code quality and maintainability. Provide technical leadership, mentorship, and guidance to junior team members. Participate in code reviews, troubleshooting, and performance tuning. Stay updated with emerging trends and technologies in software development.",
+      "tags": [
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-04-09",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "cb7b3c51db6be97e76de8b694f4450686a6c4183"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "C#",
+        ".Net",
+        "Html",
+        "CSS",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 92,
+    "reasons": [
       "Matched skills: SQL, C#, .Net, Html, JavaScript",
       "Search keyword hit: SQL",
       "Preferred location: India",
@@ -240,22 +291,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "cb6835c304c57ed21360d59ada53a9a829197f5f"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at PwC India by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -294,40 +329,6 @@
     }
   },
   {
-    "score": 76,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, JavaScript",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306131097",
-      "title": "Dot Net Developer",
-      "company": "Salus Technologies Pvt Ltd",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-salus-technologies-pvt-ltd-4306131097",
-      "description": "JD- Experience in C# ASP.NET + MVC + Entity Framework development Experience in JavaScript and jQuery Experience in Web Services and third party API Integrations Experience in SQL Server databases Responsibilities Design, code, test, and manage various applications Collaborate with the engineering team and product team Follow outlined standards of quality related to code and systems Deploy tested code to the production environment Skills:- C#, ASP.NET MVC, Entity Framework, jQuery, Webservices, API and SQL server",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "e06ab33cdcb024aeed64ce5516ea02f341f03f22"
-    }
-  },
-  {
     "score": 54,
     "reasons": [
       "Matched skills: .Net",
@@ -346,7 +347,7 @@
       "company": "Infosys",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402197135",
-      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India Actively Hiring 4 days ago",
+      "description": ".Net Developer .Net Developer Infosys Pune Division, Maharashtra, India Actively Hiring 5 days ago",
       "tags": [
         ".net"
       ],
