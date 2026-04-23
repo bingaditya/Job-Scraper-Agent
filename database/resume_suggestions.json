@@ -22,6 +22,30 @@
     }
   },
   {
+    "job_id": "0bc3535edb5aa5b7821fa88ccc1a9ae12bdd1a75",
+    "title": "Full Stack Developer - 1",
+    "company": "NxtWave",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack Developer - 1 at NxtWave by foregrounding Python, SQL, CI/CD Pipelines, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "SQL",
+        "CI/CD Pipelines",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "job_id": "81e7ded665c284123e4c2ec465c95bc7ee9720c3",
     "title": "Software Engineer (C#/.Net)",
     "company": "Allstate",
@@ -42,28 +66,6 @@
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "cb7b3c51db6be97e76de8b694f4450686a6c4183",
-    "title": "Dot Net Developer",
-    "company": "Virtusa",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "C#",
-        ".Net",
-        "Html",
-        "CSS",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -90,26 +92,24 @@
     }
   },
   {
-    "job_id": "98438437226d5b62ab4b9c7617028841a388cdec",
-    "title": "Software Engineer- Dot Net",
-    "company": "Chubb",
+    "job_id": "77dcb28bd8bf5c0651fa9e12b4edfe7ebd178645",
+    "title": "Full Stack Developer",
+    "company": "Deloitte",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Software Engineer- Dot Net at Chubb by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "summary": "Target Full Stack Developer at Deloitte by foregrounding SQL, CI/CD Pipelines, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Azure",
         "SQL",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines"
+        "CI/CD Pipelines",
+        "JavaScript"
       ],
       "missing_resume_keywords": [
         "CI/CD Pipelines"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
