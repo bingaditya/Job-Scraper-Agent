@@ -455,6 +455,35 @@
     "score": 54,
     "reasons": [
       "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4388469544",
+      "title": ".NET Developer [DNA]",
+      "company": "Virtusa",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388469544",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 1 week ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-15",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "83ff1e37ed94bc0967727efcd1623227b71b6f49"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
       "Preferred title match: Full Stack Developer",
       "Search keyword hit: .Net",
       "Preferred location: India",
@@ -478,65 +507,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "c3425c42fd2c82bf12ba102204e3d74efbf2cdf9"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4365045136",
-      "title": ".Net Developer",
-      "company": "Volvo Group",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-volvo-group-4365045136",
-      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-04-02",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "322bd6d30308cf1c1fc85fcacd6b87bdcaa9d6fa"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4403988509",
-      "title": "Software Developer/Engineer (C# and .NET)",
-      "company": "Siemens",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-engineer-c%23-and-net-at-siemens-4403988509",
-      "description": "Software Developer/Engineer (C# and .NET) Software Developer/Engineer (C# and .NET) Siemens Gurugram, Haryana, India 1 day ago",
-      "tags": [
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-04-21",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "15544c2b07a4c2ccdf83369d4ed7f9fcd6c0394e"
     }
   }
 ]

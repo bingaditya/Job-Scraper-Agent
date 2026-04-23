@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-23T07:45:42.829100+00:00",
+  "generated_at": "2026-04-23T13:20:03.015327+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 74,
-  "deduplicated_jobs": 74,
-  "shortlisted_jobs": 14,
-  "new_jobs": 1,
-  "notifications_sent": 1,
+  "raw_jobs": 71,
+  "deduplicated_jobs": 71,
+  "shortlisted_jobs": 13,
+  "new_jobs": 0,
+  "notifications_sent": 0,
   "score_threshold": 45,
   "top_sources": [
     [
       "linkedin",
-      14
+      13
     ]
   ],
   "source_stats": [
@@ -37,12 +37,12 @@
     {
       "source": "himalayas",
       "status": "ok",
-      "jobs_fetched": 3
+      "jobs_fetched": 0
     },
     {
       "source": "indeed",
       "status": "error",
-      "error": "Indeed blocked automated requests with a security check (403)."
+      "error": "Indeed page shape changed and parser is not implemented for the new markup."
     },
     {
       "source": "naukri",
