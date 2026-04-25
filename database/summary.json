@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T02:03:46.952134+00:00",
+  "generated_at": "2026-04-25T07:09:32.717956+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 76,
-  "deduplicated_jobs": 76,
+  "raw_jobs": 73,
+  "deduplicated_jobs": 73,
   "shortlisted_jobs": 14,
   "new_jobs": 0,
   "notifications_sent": 0,
@@ -41,12 +41,12 @@
     {
       "source": "himalayas",
       "status": "ok",
-      "jobs_fetched": 3
+      "jobs_fetched": 0
     },
     {
       "source": "indeed",
       "status": "error",
-      "error": "Indeed page shape changed and parser is not implemented for the new markup."
+      "error": "Indeed blocked automated requests with a security check (403)."
     },
     {
       "source": "naukri",
