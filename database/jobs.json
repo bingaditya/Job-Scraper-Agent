@@ -2,59 +2,6 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4402252969",
-      "title": "Dot Net Developer",
-      "company": "Capgemini",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-capgemini-4402252969",
-      "description": "At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world\u2019s most\u202finnovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they\u202fprovide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are\u202fthe same. Your Role A person with good attitude, zeal to learn new things as per the latest trend, taking responsibility and completing the tasks as per the SLA. Strong communication and team skills in a distributed global environment. Strong analytical skills and passion to solve problems. Understanding of Agile methodologies. Experience with unit testing, code coverage and security scan tools. Proficient in working with source control tools like GitHub/Bitbucket Your Profile 5+ years of hands-on experience in C# .NET or other object-oriented languages with solid understanding of object-oriented programming/design. Familiarity with .NET core, Micro services, REST API, RDBMS like SQL Server Knowledge of frontend development technologies such as JavaScript, JS Frameworks/libraries (Angular, JQuery, React, Next.js etc), HTML5 concepts, CSS abstraction (Less, SASS etc) and Web services (REST) What Will You Love Working At Capgemini You will have the opportunity to learn on one of the industry's largest digital learning platforms, with access to 250,000+ courses and numerous certifications. We\u2019re committed to ensure that people of all backgrounds feel encouraged and have a sense of belonging at Capgemini.You are valued for who you are, and you can bring your original self to work. At Capgemini, you can work on cutting-edge projects in tech and engineering with industry leaders or create solutions to overcome societal and environmental challenges. Capgemini office campuses in India are green and run on 100% renewable electricity. We have installed Solar plants across India locations and \u2018Battery Energy Storage Solution\u2019 (BESS) in the Noida and Mumbai campuses. You will have chance to make a difference everyday Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-04-15",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "457ba4c8906b220c9bee3afe6bd1cf65873c229d"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at Capgemini by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
       "Matched skills: Python, Azure, SQL, C#, .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: Python",
@@ -110,167 +57,6 @@
     }
   },
   {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Python, SQL, CI/CD Pipelines, Html, CSS",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: Python",
-      "Preferred location: India",
-      "Experience fit around 1+ years"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "CI/CD Pipelines",
-      "Html",
-      "CSS",
-      "JavaScript",
-      "FastAPI"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4304149179",
-      "title": "Full Stack Developer - 1",
-      "company": "NxtWave",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-1-at-nxtwave-4304149179",
-      "description": "Responsibilities Get first-hand experience of building applications and see them released quickly to the NxtWave learners (within weeks). Get to take ownership of the features you build and work closely with the product team. Work in a great culture that continuously empowers you to grow in your career. Enjoy freedom to experiment and learn from mistakes (Fail Fast, Learn Faster). NxtWave is one of the fastest-growing edtech startups. Get first-hand experience in scaling the features you build as the company grows rapidly. Build in a world-class developer environment by applying clean coding principles, code architecture, etc. Design, implement, and ship user-centric features spanning frontend, backend, and database systems under guidance. Define and implement RESTful/GraphQL APIs and efficient, scalable database schemas. Build reusable, maintainable frontend components using modern state management practices. Develop backend services in Node.js or Python, adhering to clean-architecture principles. Write and maintain unit, integration, and end-to-end tests to ensure code quality and reliability. Containerize applications and configure CI/CD pipelines for automated builds and deployments. Enforce secure coding practices, accessibility standards (WCAG), and SEO fundamentals. Collaborate effectively with Product, Design, and engineering teams to understand and implement feature requirements. Own feature delivery from planning through production, and mentor interns or junior developers. Requirements 1+ years of experience building full-stack web applications. Proficiency in JavaScript (ES6+), TypeScript, HTML5 and CSS3 (Flexbox/Grid). Advanced experience with React(Hooks, Context, Router) or equivalent modern UI framework. Hands-on with state management patterns (Redux, MobX, or custom solutions). Strong backend skills in Node.js (Express/Fastify) or Java or Python (Django/Flask/FastAPI). Expertise in designing REST and/or GraphQL APIs and integrating with backend services. Solid knowledge of MySQL/PostgreSQL and familiarity with NoSQL stores (Elasticsearch, Redis). Experience using build tools (Webpack, Vite), package managers (npm/Yarn), and Git workflows. Skilled in writing and maintaining tests with Jest, React Testing Library, Pytest, and Cypress. Familiar with Docker, CI / CD tools (GitHub Actions, Jenkins), and basic cloud deployments. Product-first thinker with strong problem-solving, debugging, and communication skills. Qualities We'd Love To Find In You The attitude is to always strive for the best outcomes and an enthusiasm to deliver high-quality software. Strong collaboration abilities and a flexible and friendly approach to working with teams. Strong determination with a constant eye on solutions. Creative ideas with a problem-solving mindset. Be open to receiving objective criticism and improving upon it. Eagerness to learn and zeal to grow. Strong communication skills are a huge plus. This job was posted by Arifulla Gori Mohammad from NxtWave.",
-      "tags": [
-        "python",
-        "sql",
-        "fastapi",
-        "javascript",
-        "ci/cd"
-      ],
-      "published_at": "2025-09-22",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0bc3535edb5aa5b7821fa88ccc1a9ae12bdd1a75"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack Developer - 1 at NxtWave by foregrounding Python, SQL, CI/CD Pipelines, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Python",
-        "SQL",
-        "CI/CD Pipelines",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "CI/CD Pipelines"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 92,
-    "reasons": [
-      "Matched skills: C#, .Net, Html, CSS, JavaScript",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4398825552",
-      "title": "Dot Net Developer",
-      "company": "Virtusa",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-virtusa-4398825552",
-      "description": "Experience :3-8 yrs 5+ years of experience with .NET Core (C#) for building scalable server-side applications and APIs. Strong analytical and problem-solving skills with the ability to develop creative and efficient solutions. Expert knowledge of front-end technologies: HTML5, CSS3, SASS. Experience with code quality tools such as LINT, SonarQube, etc. Proficient in TDD and unit testing frameworks (Jasmine, Karma, Jest). Solid understanding of web services integration and RESTful API concepts. Familiarity with server-side JavaScript (NodeJS) is a plus. Experience with version control systems (e.g., Git). Excellent communication and teamwork skills. Design, develop, and maintain robust web applications using .NET Core. Collaborate with cross-functional teams to define, design, and ship new features. Write clean, maintainable, and efficient code following best practices and coding standards. Integrate web services and APIs, with a strong understanding of RESTful concepts. Implement and advocate for Test-Driven Development (TDD) using tools such as Jasmine, Karma, or Jest. Utilize code quality tools (e.g., LINT, SonarQube) to ensure high standards of code quality and maintainability. Provide technical leadership, mentorship, and guidance to junior team members. Participate in code reviews, troubleshooting, and performance tuning. Stay updated with emerging trends and technologies in software development.",
-      "tags": [
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-04-09",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "cb7b3c51db6be97e76de8b694f4450686a6c4183"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "C#",
-        ".Net",
-        "Html",
-        "CSS",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 92,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, JavaScript",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4322897041",
-      "title": "Dotnet Developer",
-      "company": "Infosys",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-infosys-4322897041",
-      "description": "Job description Hiring for .Net Full stack Developer with experience range 5 to 8years. Mandatory Skills: .Net Full stack Location - Bengaluru, pune, Hyderabad, Chennai Education: BE/B.Tech/MCA/M.Tech/MSc./MSts The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. Responsibilities Design, code, test and manage various applications Collaborate with engineering team and product team to establish best products Follow outlined standards of quality related to code and systems Develop automated tests and conduct performance tuning Qualifications Bachelor's degree in Computer Science or relevant field 5+ years of experience working with .NET or relevant experiences Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle Experience working in agile development environment",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-01-05",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "f7881e2db5dc9ab59666b67b0757aa7bb8c7d887"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at Infosys by foregrounding SQL, C#, .Net, Html, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 84,
     "reasons": [
       "Matched skills: SQL, CI/CD Pipelines, JavaScript",
@@ -301,40 +87,23 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "77dcb28bd8bf5c0651fa9e12b4edfe7ebd178645"
-    }
-  },
-  {
-    "score": 80,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4390700476",
-      "title": "Dotnet Developer",
-      "company": "PwC India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-pwc-india-4390700476",
-      "description": "Experience : - 5 to 10 YEARS Location :- Bengaluru Must Have: .NET 8, Azure PaaS (Azure Functions, Azure SQL Database, Logic App, Storage Account, API Management, Service Bus, Azure OpenAI), Azure DevOps (AKS), Angular 18 Key Skills 5+ years of hands-on experience in C#, .NET8, Azure, Entity Framework, LINQ, Angular, TypeScript. Hands-on experience with microservices architecture, with a deep understanding of design patterns and best practices. Strong understanding of RESTful API design, OOP, asynchronous programming, and exception handling etc. Hands-on experience with Azure PaaS (Azure Functions, Azure SQL Database, Logic App, Storage Account, API Management, Service Bus, Azure OpenAI etc.) Hands-on experience in deploying and managing applications using Azure DevOps, containerization (Docker), and orchestration (AKS). Experience with both SQL and NoSQL databases. Excellent problem-solving skills and a passion for writing high-quality code. Ability to learn and apply new technologies.",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack Developer at Deloitte by foregrounding SQL, CI/CD Pipelines, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "CI/CD Pipelines",
+        "JavaScript"
       ],
-      "published_at": "2026-03-26",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "cb6835c304c57ed21360d59ada53a9a829197f5f"
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -357,7 +126,7 @@
       "company": "Onit, Inc.",
       "location": "Pune, Maharashtra",
       "url": "https://remoteOK.com/remote-jobs/remote-solution-engineer-i-onit-inc-1131270",
-      "description": "About Onit We're redefining the future of legal operations through the power of AI. Our cutting-edge platform streamlines enterprise legal management, matter management, spend management and contract lifecycle processes, transforming manual workflows into intelligent, automated solutions. We\u00e2\u0080\u0099re a team of innovators using AI at the core to help legal departments become faster, smarter, and more strategic. As we continue to grow and expand the capabilities of our new AI-centric platform, we\u00e2\u0080\u0099re looking for bold thinkers and builders who are excited to shape the next chapter of legal tech. If you're energized by meaningful work, love solving complex problems, and want to help modernize how legal teams operate, we\u00e2\u0080\u0099d love to meet you. \\n Role Expectations: You can code in some capacity (in any language) and have built one or more basic to moderately advanced programs. While the Onit platform is primarily a \"low code\" solution, a general understanding of programming fundamentals will be important to your success You enjoy working in a fast paced and dynamic environment, with minimal oversight and direction You take responsibility for projects end-to-end, from idea to completion Provide assistance to colleagues where needed Work well in both individual and team settings Participate effectively as an individual and team contributor within a multifaceted technology environment Support delivery and implementation services as necessary Mandatory Skills: Relational Database experience - designing database schemas, working with multiple tables Basic knowledge of HTML, CSS and JavaScript General understanding of programming fundamentals Demonstrated ability to quickly understand business requirements and expectations Excellent verbal and written communication skills Detail-oriented with strong organizational skills Desired Skills: 2 - 4\u00a0years of related application support or software implementation experience is preferred. Prior experience working on integrations is a plus Prior experience working on Business Process automation / management tools is a plus Liquid templating language experience a plus Excellent Microsoft Office Suite and general documentation proficiency Ability to multi-task and prioritize across several projects simultaneously Qualifications: Bachelor's degree in computer science, MIS or similar discipline preferred. \\n Benefits & Perks That Support You: Onit offers a comprehensive total rewards package designed to support the whole employee at work and beyond: Health Coverage: Employee and immediate family members. Time Away:\u00a0Flexible paid time off and 10 company paid holidays annually. Family Support: Exceptional paid leave for birth parents, non-birth parents, and caregivers.\u00a0 Onit also offers surrogacy and adoption reimbursement. Income Protection: 100% employer-paid life and disability insurance. Additional Coverage Options:\u00a0Voluntary benefits including hospital indemnity, critical illness, accident . Tax-Advantaged Accounts: Flexi, NPS . Community Engagement:\u00a0One paid volunteer day each year to give back to the community. Our Commitment to Applicants We know that not everyone will check every box in a job description. At Onit, we value diversity, inclusion, and authenticity. If you\u00e2\u0080\u0099re excited about this role but your experience doesn\u00e2\u0080\u0099t align perfectly with every qualification, we encourage you to apply. You may be exactly who we\u00e2\u0080\u0099re looking for. Onit Values Customer First - Customer success is our success. We deliver value, listen, and act on customer needs. Purposeful Innovation - Innovation fuels our growth. We harness creativity to solve problems and lead with the intentions and expertise. Win as One - Teamwork is how we win. We are accountable, act with integrity, and communicate openly. Intentional Growth - Our people are the difference. We create an environment with compelling work, impactful contributions, and career growth. Please mention the word **RESPECTABLE** and tag RMzIuMTkyLjIyNy45Mg== when applying to show you read the job post completely (#RMzIuMTkyLjIyNy45Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "About Onit We're redefining the future of legal operations through the power of AI. Our cutting-edge platform streamlines enterprise legal management, matter management, spend management and contract lifecycle processes, transforming manual workflows into intelligent, automated solutions. We\u00e2\u0080\u0099re a team of innovators using AI at the core to help legal departments become faster, smarter, and more strategic. As we continue to grow and expand the capabilities of our new AI-centric platform, we\u00e2\u0080\u0099re looking for bold thinkers and builders who are excited to shape the next chapter of legal tech. If you're energized by meaningful work, love solving complex problems, and want to help modernize how legal teams operate, we\u00e2\u0080\u0099d love to meet you. \\n Role Expectations: You can code in some capacity (in any language) and have built one or more basic to moderately advanced programs. While the Onit platform is primarily a \"low code\" solution, a general understanding of programming fundamentals will be important to your success You enjoy working in a fast paced and dynamic environment, with minimal oversight and direction You take responsibility for projects end-to-end, from idea to completion Provide assistance to colleagues where needed Work well in both individual and team settings Participate effectively as an individual and team contributor within a multifaceted technology environment Support delivery and implementation services as necessary Mandatory Skills: Relational Database experience - designing database schemas, working with multiple tables Basic knowledge of HTML, CSS and JavaScript General understanding of programming fundamentals Demonstrated ability to quickly understand business requirements and expectations Excellent verbal and written communication skills Detail-oriented with strong organizational skills Desired Skills: 2 - 4\u00a0years of related application support or software implementation experience is preferred. Prior experience working on integrations is a plus Prior experience working on Business Process automation / management tools is a plus Liquid templating language experience a plus Excellent Microsoft Office Suite and general documentation proficiency Ability to multi-task and prioritize across several projects simultaneously Qualifications: Bachelor's degree in computer science, MIS or similar discipline preferred. \\n Benefits & Perks That Support You: Onit offers a comprehensive total rewards package designed to support the whole employee at work and beyond: Health Coverage: Employee and immediate family members. Time Away:\u00a0Flexible paid time off and 10 company paid holidays annually. Family Support: Exceptional paid leave for birth parents, non-birth parents, and caregivers.\u00a0 Onit also offers surrogacy and adoption reimbursement. Income Protection: 100% employer-paid life and disability insurance. Additional Coverage Options:\u00a0Voluntary benefits including hospital indemnity, critical illness, accident . Tax-Advantaged Accounts: Flexi, NPS . Community Engagement:\u00a0One paid volunteer day each year to give back to the community. Our Commitment to Applicants We know that not everyone will check every box in a job description. At Onit, we value diversity, inclusion, and authenticity. If you\u00e2\u0080\u0099re excited about this role but your experience doesn\u00e2\u0080\u0099t align perfectly with every qualification, we encourage you to apply. You may be exactly who we\u00e2\u0080\u0099re looking for. Onit Values Customer First - Customer success is our success. We deliver value, listen, and act on customer needs. Purposeful Innovation - Innovation fuels our growth. We harness creativity to solve problems and lead with the intentions and expertise. Win as One - Teamwork is how we win. We are accountable, act with integrity, and communicate openly. Intentional Growth - Our people are the difference. We create an environment with compelling work, impactful contributions, and career growth. Please mention the word **RESPECTABLE** and tag RMjMuODQuODkuMjAw when applying to show you read the job post completely (#RMjMuODQuODkuMjAw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "support",
         "software",
@@ -378,6 +147,21 @@
         "salary_max": 0
       },
       "fingerprint": "41b7f95074ed2c96e65a704ec67c648ffac4cb2b"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Solution Engineer I at Onit, Inc. by foregrounding Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Html",
+        "CSS",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CSS to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -399,7 +183,7 @@
       "company": "Volvo Group",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-volvo-group-4365045136",
-      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India Actively Hiring 1 day ago",
+      "description": ".Net Developer .Net Developer Volvo Group Bengaluru, Karnataka, India Actively Hiring 2 days ago",
       "tags": [
         ".net"
       ],
@@ -407,6 +191,17 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "322bd6d30308cf1c1fc85fcacd6b87bdcaa9d6fa"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Volvo Group by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -436,6 +231,17 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "ff06bed4f543767b8f4b0126561247fc14d7961f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Infosys by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -529,6 +335,35 @@
     "score": 54,
     "reasons": [
       "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4388469544",
+      "title": ".NET Developer [DNA]",
+      "company": "Virtusa",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388469544",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 1 week ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-04-15",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "83ff1e37ed94bc0967727efcd1623227b71b6f49"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
       "Preferred title match: Full Stack Developer",
       "Search keyword hit: .Net",
       "Preferred location: India",
@@ -552,6 +387,94 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "c3425c42fd2c82bf12ba102204e3d74efbf2cdf9"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: Python",
+      "Preferred title match: Python Developer",
+      "Search keyword hit: Python",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "Python"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4392281466",
+      "title": "Full Stack Python Developer",
+      "company": "Deloitte",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-python-developer-at-deloitte-4392281466",
+      "description": "Full Stack Python Developer Full Stack Python Developer Deloitte Bengaluru, Karnataka, India Actively Hiring 4 weeks ago",
+      "tags": [
+        "python"
+      ],
+      "published_at": "2026-03-27",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "51a7d95fadb541efce7f5bb36808fba8a29b5a77"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4387370475",
+      "title": ".NET Developer (Fresher)",
+      "company": "Colan Infotech Private Limited",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-fresher-at-colan-infotech-private-limited-4387370475",
+      "description": ".NET Developer (Fresher) .NET Developer (Fresher) Colan Infotech Private Limited Chennai, Tamil Nadu, India Actively Hiring 1 month ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-03-19",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "b4043976e1f95ebdae6ff7051b95a44a03c7236b"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: Azure, C#",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "Azure",
+      "C#"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4248969973",
+      "title": "Intermediate Software Engineer- Full Stack-C#, Dotnet, MVC, Angular, Azure Cloud",
+      "company": "UPS",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/intermediate-software-engineer-full-stack-c%23-dotnet-mvc-angular-azure-cloud-at-ups-4248969973",
+      "description": "Intermediate Software Engineer- Full Stack-C#, Dotnet, MVC, Angular, Azure Cloud Intermediate Software Engineer- Full Stack-C#, Dotnet, MVC, Angular, Azure Cloud UPS Chennai, Tamil Nadu, India Actively Hiring 1 week ago",
+      "tags": [
+        "azure",
+        "c#"
+      ],
+      "published_at": "2026-04-11",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "dd2afe65bc648baa192421c1664ef8c564a278a5"
     }
   }
 ]
