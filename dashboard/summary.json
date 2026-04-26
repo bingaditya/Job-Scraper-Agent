@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-04-26T07:23:52.204634+00:00",
+  "generated_at": "2026-04-26T12:58:44.020232+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 55,
-  "deduplicated_jobs": 55,
-  "shortlisted_jobs": 1,
+  "raw_jobs": 77,
+  "deduplicated_jobs": 77,
+  "shortlisted_jobs": 14,
   "new_jobs": 0,
   "notifications_sent": 0,
   "score_threshold": 45,
   "top_sources": [
+    [
+      "linkedin",
+      13
+    ],
     [
       "remoteok",
       1
@@ -17,17 +21,17 @@
     {
       "source": "arbeitnow",
       "status": "ok",
-      "jobs_fetched": 19
+      "jobs_fetched": 20
     },
     {
       "source": "remoteok",
       "status": "ok",
-      "jobs_fetched": 16
+      "jobs_fetched": 17
     },
     {
       "source": "linkedin",
-      "status": "error",
-      "error": "429 Client Error: Too Many Requests for url: https://www.linkedin.com/jobs/search/?keywords=.Net+Developer&location=India&start=0"
+      "status": "ok",
+      "jobs_fetched": 20
     },
     {
       "source": "builtin",

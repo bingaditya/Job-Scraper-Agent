@@ -1,21 +1,113 @@
 [
   {
-    "job_id": "41b7f95074ed2c96e65a704ec67c648ffac4cb2b",
-    "title": "Solution Engineer I",
-    "company": "Onit, Inc.",
+    "job_id": "457ba4c8906b220c9bee3afe6bd1cf65873c229d",
+    "title": "Dot Net Developer",
+    "company": "Capgemini",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Solution Engineer I at Onit, Inc. by foregrounding Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "summary": "Target Dot Net Developer at Capgemini by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f",
+    "title": ".Net Developer",
+    "company": "Qualcomm",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Qualcomm by foregrounding Python, Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "0bc3535edb5aa5b7821fa88ccc1a9ae12bdd1a75",
+    "title": "Full Stack Developer - 1",
+    "company": "NxtWave",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack Developer - 1 at NxtWave by foregrounding Python, SQL, CI/CD Pipelines, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "SQL",
+        "CI/CD Pipelines",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "cb7b3c51db6be97e76de8b694f4450686a6c4183",
+    "title": "Dot Net Developer",
+    "company": "Virtusa",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "C#",
+        ".Net",
         "Html",
         "CSS",
         "JavaScript"
       ],
       "missing_resume_keywords": [],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect CSS to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "f7881e2db5dc9ab59666b67b0757aa7bb8c7d887",
+    "title": "Dotnet Developer",
+    "company": "Infosys",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at Infosys by foregrounding SQL, C#, .Net, Html, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
