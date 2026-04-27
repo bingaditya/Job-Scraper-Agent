@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-27T08:16:05.340517+00:00",
+  "generated_at": "2026-04-27T13:44:44.171610+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 79,
-  "deduplicated_jobs": 79,
+  "raw_jobs": 85,
+  "deduplicated_jobs": 85,
   "shortlisted_jobs": 14,
   "new_jobs": 0,
   "notifications_sent": 0,
@@ -21,7 +21,7 @@
     {
       "source": "arbeitnow",
       "status": "ok",
-      "jobs_fetched": 20
+      "jobs_fetched": 19
     },
     {
       "source": "remoteok",
@@ -41,7 +41,7 @@
     {
       "source": "himalayas",
       "status": "ok",
-      "jobs_fetched": 0
+      "jobs_fetched": 7
     },
     {
       "source": "indeed",
