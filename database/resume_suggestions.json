@@ -1,29 +1,5 @@
 [
   {
-    "job_id": "83ec5de589847d4a67e87192b7004074ad95c7ad",
-    "title": ".Net Developer",
-    "company": "Infosys",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at Infosys by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines"
-      ],
-      "missing_resume_keywords": [
-        "CI/CD Pipelines"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "457ba4c8906b220c9bee3afe6bd1cf65873c229d",
     "title": "Dot Net Developer",
     "company": "Capgemini",
@@ -68,46 +44,70 @@
     }
   },
   {
-    "job_id": "d6844ca7b7ea4e09946542e0d3570e691d8fb02a",
-    "title": "Full Stack (.Net Core & Angular/React) Developer",
-    "company": "PwC India",
+    "job_id": "0bc3535edb5aa5b7821fa88ccc1a9ae12bdd1a75",
+    "title": "Full Stack Developer - 1",
+    "company": "NxtWave",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Full Stack (.Net Core & Angular/React) Developer at PwC India by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "summary": "Target Full Stack Developer - 1 at NxtWave by foregrounding Python, SQL, CI/CD Pipelines, Html, CSS and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
+        "Python",
         "SQL",
-        "C#",
-        ".Net",
+        "CI/CD Pipelines",
         "Html",
         "CSS"
       ],
-      "missing_resume_keywords": [],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
       "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
   {
-    "job_id": "1988b8684afd78916537bdd361ae64ab3ae4b7c3",
-    "title": "Full Stack Developer",
-    "company": "Easebuzz",
+    "job_id": "cb7b3c51db6be97e76de8b694f4450686a6c4183",
+    "title": "Dot Net Developer",
+    "company": "Virtusa",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Full Stack Developer at Easebuzz by foregrounding Python, SQL, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
+      "summary": "Target Dot Net Developer at Virtusa by foregrounding C#, .Net, Html, CSS, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Python",
-        "SQL",
+        "C#",
+        ".Net",
         "Html",
         "CSS",
         "JavaScript"
       ],
       "missing_resume_keywords": [],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "f7881e2db5dc9ab59666b67b0757aa7bb8c7d887",
+    "title": "Dotnet Developer",
+    "company": "Infosys",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at Infosys by foregrounding SQL, C#, .Net, Html, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
