@@ -1,5 +1,29 @@
 [
   {
+    "job_id": "9131f267b04f7180515301374f7329fa3898fab3",
+    "title": "Engineer Software",
+    "company": "Calabrio",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Engineer Software at Calabrio by foregrounding Azure, SQL, C#, .Net, DataDog and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "DataDog"
+      ],
+      "missing_resume_keywords": [
+        "DataDog"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "job_id": "457ba4c8906b220c9bee3afe6bd1cf65873c229d",
     "title": "Dot Net Developer",
     "company": "Capgemini",
@@ -86,28 +110,6 @@
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect Html to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "f7881e2db5dc9ab59666b67b0757aa7bb8c7d887",
-    "title": "Dotnet Developer",
-    "company": "Infosys",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at Infosys by foregrounding SQL, C#, .Net, Html, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }

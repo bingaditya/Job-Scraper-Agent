@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:55:26.536652+00:00",
+  "generated_at": "2026-04-28T19:28:07.894902+00:00",
   "candidate": "Candidate Name",
   "raw_jobs": 80,
   "deduplicated_jobs": 80,
-  "shortlisted_jobs": 15,
-  "new_jobs": 0,
-  "notifications_sent": 0,
+  "shortlisted_jobs": 16,
+  "new_jobs": 1,
+  "notifications_sent": 1,
   "score_threshold": 45,
   "top_sources": [
     [
@@ -13,11 +13,11 @@
       13
     ],
     [
-      "builtin",
-      1
+      "remoteok",
+      2
     ],
     [
-      "remoteok",
+      "builtin",
       1
     ]
   ],
