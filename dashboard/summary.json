@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T19:28:07.894902+00:00",
+  "generated_at": "2026-04-29T02:35:48.942316+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 80,
-  "deduplicated_jobs": 80,
+  "raw_jobs": 83,
+  "deduplicated_jobs": 83,
   "shortlisted_jobs": 16,
-  "new_jobs": 1,
-  "notifications_sent": 1,
+  "new_jobs": 0,
+  "notifications_sent": 0,
   "score_threshold": 45,
   "top_sources": [
     [
@@ -45,7 +45,7 @@
     {
       "source": "himalayas",
       "status": "ok",
-      "jobs_fetched": 0
+      "jobs_fetched": 3
     },
     {
       "source": "indeed",
