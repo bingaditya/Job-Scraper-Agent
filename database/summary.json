@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-01T08:07:47.321755+00:00",
+  "generated_at": "2026-05-01T13:12:01.283819+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 82,
-  "deduplicated_jobs": 82,
+  "raw_jobs": 80,
+  "deduplicated_jobs": 80,
   "shortlisted_jobs": 14,
   "new_jobs": 0,
   "notifications_sent": 0,
@@ -40,8 +40,8 @@
     },
     {
       "source": "himalayas",
-      "status": "ok",
-      "jobs_fetched": 2
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://himalayas.app/jobs?query=.Net+Developer&page=1"
     },
     {
       "source": "indeed",
