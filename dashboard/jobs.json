@@ -2,6 +2,63 @@
   {
     "score": 100,
     "reasons": [
+      "Matched skills: Python, Azure, SQL, C#, .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: Python",
+      "Preferred location: India",
+      "Experience fit around 2+ years"
+    ],
+    "matched_skills": [
+      "Python",
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4308560805",
+      "title": ".Net Developer",
+      "company": "Qualcomm",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-qualcomm-4308560805",
+      "description": "Company: Qualcomm India Private Limited Job Area: Engineering Group, Engineering Group > Software Engineering General Summary: Job Overview : QCT Software Automation and Tools (QSWAT) group is looking for Full Time Engineers to develop and maintain cutting edge Application and these are used by majority of QCT Software development and test organizations. Candidates shall be responsible for Design, development, and testing. Majority of the Tools are Web Based (ASP.NET MVC) and might have a scripting (Perl / Python) component. Minimum Qualifications: Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 2+ years of Software Engineering or related work experience. OR Master's degree in Engineering, Information Systems, Computer Science, or related field and 1+ year of Software Engineering or related work experience. OR PhD in Engineering, Information Systems, Computer Science, or related field. 2+ years of academic or work experience with Programming Language such as C, C++, Java, Python, etc. Minimum Qualifications: 2 or more years of academic or industry experience in the following areas Experience in at least one of the following: Continuous Integration, build infrastructure, building tools, with knowledge on Configuration management. C#/PHP and .NET framework experience including enterprise application development Full stack web development (ASP.NET MVC or PHP) Scripting languages such as Python/Perl/Bash SQL Server 2012/2014 or related databases including working with ORMs such as Entity Framework and/or Dapper Web client-side technologies such as Typescript/JavaScript, Angular, CSS etc. Perforce or Gerrit Experience in Cloud technologies like AWS, Azure is preferred. Experience in Docker and Kubernetes is preferred. Education Requirements: Required: Bachelor's, Computer Engineering and/or Computer Science and/or Information Technology Preferred: Master\u2019s, Computer Engineering and/or Computer Science and/or Information Technology Applicants : Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries). Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law. To all Staffing and Recruiting Agencies : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications. If you would like more information about this role, please contact Qualcomm Careers.",
+      "tags": [
+        "python",
+        "azure",
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-05-03",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Qualcomm by foregrounding Python, Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 100,
+    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net, DataDog",
       "Search keyword hit: Azure",
       "Experience fit around 3+ years"
@@ -24,7 +81,7 @@
       "company": "Calabrio",
       "location": "Remote",
       "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
-      "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly shifting market challenges and deliver impactful results for our customers. Our commitment to attracting and retaining a talented, diverse, and engaged team creates a collaborative environment that openly celebrates all cultures and affords personal and professional growth opportunities. Learn more at\u00c2\u00a0www.verint.com. Overview of Job Function: As a Software Engineer, you will be a core contributor to Verint's QM and PM engineering team. You will design and build full-stack features end-to-end, write high-quality automated tests, support production systems, and collaborate daily with Product Managers, Designers, QA Engineers, and globally distributed engineering peers. This is a role for engineers who take pride in their craft, are eager to grow through challenging problems, and want their work to have a visible impact on enterprise customers worldwide. You will be surrounded by experienced engineers who are invested in your growth, working in a modern Agile environment on software that matters. Principal Duties and Essential Responsibilities: Full-Stack Development Design, develop, and maintain production-grade full-stack features spanning Java/C# backend services, REST/GraphQL APIs, and React/Ext JS frontend applications. Translate product requirements and UX designs into well-structured, testable, and performant code. Implement scalable microservices and modular frontend components that support high concurrency and enterprise-scale data volumes. Participate in design and architecture reviews; contribute to discussions on API contracts, data models, and service boundaries. Proactively identify and address performance bottlenecks, security gaps, and technical debt. Write clean, idiomatic code following team standards; actively contribute to improving those standards over time. Quality Assurance and Testing Write comprehensive unit, integration, and end-to-end automated tests using JUnit, Jest, Playwright, and Cucumber (BDD). Enforce code quality through peer reviews, static analysis, and adherence to the team's Definition of Done. Investigate and reproduce reported defects; perform root-cause analysis and deliver timely, well-tested fixes. Champion a shift-left testing mindset \u00e2\u0080\u0094 integrating quality checks early and continuously in the development lifecycle. Production Support and Maintenance Triage, prioritize, and resolve bugs, regression issues, and customer-reported problems within agreed SLA windows. Provide Tier-2/3 technical support for production incidents; participate in post-incident reviews and implement corrective actions. Monitor application health using observability tooling (logs, metrics, traces); proactively surface anomalies before they impact customers. Maintain and improve runbooks and operational documentation for supported features. AI/ML Integration and Continuous Improvement Integrate AI/ML capabilities \u00e2\u0080\u0094 including LLM-powered features, automated scoring, and speech-to-text \u00e2\u0080\u0094 into product features in collaboration with Verint's AI research teams. Evaluate and pilot emerging technologies; propose adoption where they improve quality, performance, or developer productivity. Identify and contribute to refactoring initiatives that reduce complexity and improve long-term maintainability. Stay current with industry engineering trends through reading, experimentation, and participation in technical communities. Collaboration and Communication Work in cross-functional squads with Product Managers, UX Designers, QA Engineers, DevOps, and Data Engineers. Actively participate in all Agile Scrum ceremonies: sprint planning, daily stand-ups, backlog refinement, sprint reviews, and retrospectives. Provide accurate effort estimates and proactively surface risks, blockers, and dependencies. Collaborate effectively with distributed engineering teams in Atlanta, Israel, and India using async-first communication practices. Support the growth of junior engineers through constructive code reviews and knowledge sharing. CI/CD and DevOps Practices Build, maintain, and improve CI/CD pipelines using Jenkins, GitHub Actions, or Azure DevOps \u00e2\u0080\u0094 ensuring reliable, automated build-test-deploy workflows. Containerize services with Docker and deploy to Kubernetes clusters (EKS/AKS) following GitOps and IaC principles. Implement secure deployment practices: secrets management, environment-specific configuration, and staged rollout strategies. Optimize pipeline performance to minimize build times and deliver faster feedback loops to the team. Bachelor\u00e2\u0080\u0099s degree in computer science / software engineering (or similar) or equivalent experience 3 years experience with Java Spring Boot, practical experience of software development or proven equivalent seniority in software development with product teams Proven track record of delivering full-stack features in an Agile/Scrum team with regular sprint cadences. Hands-on experience with both backend API development and frontend UI implementation in a production codebase. Back-End: Solid proficiency in Java (Spring Boot, Spring MVC, JPA/Hibernate) and/or C# (.NET / .NET Core). Good understanding of RESTful API design, OAuth 2.0/JWT, and basic microservices patterns. Front-End: Working proficiency in JavaScript/TypeScript with hands-on React experience (hooks, context, state management). HTML5, CSS3, and foundational accessible UI development. Ext JS / Sencha familiarity is a plus. Databases: Working knowledge of relational databases (PostgreSQL, MS SQL, Oracle) including schema design, SQL query writing, and basic indexing. Exposure to NoSQL stores (Redis, Elasticsearch, MongoDB) is a plus. Cloud and Infrastructure: Exposure to AWS or Azure core services. Familiarity with Docker and basic Kubernetes concepts. Testing: JUnit/TestNG/Jest unit tests and integration tests. Exposure to E2E testing tools (Playwright, Cypress, or Selenium). BDD with Cucumber is a plus. CI/CD and DevOps: Working knowledge of Jenkins, GitHub Actions, GitLab CI, or Azure DevOps. Git branching strategies and pull request workflows. AI and Emerging Tech: Exposure to LLM APIs or AI-powered tooling is a plus; curiosity and eagerness to develop these skills in the role. Strong analytical thinking and a structured approach to debugging and problem-solving. Clear written and verbal communication in English; able to document technical work clearly and participate actively in team discussions. Self-motivated and eager to learn: takes initiative to understand problems deeply and asks good questions when stuck. Collaborative and team-oriented: contributes positively to squad culture and values diverse perspectives. Growth mindset: receptive to feedback, committed to continuous improvement, and excited to be challenged. Solid experience with Agile Scrum or Kanban; comfortable with all sprint ceremonies. Familiarity with Jira, Confluence, or Azure DevOps Boards for backlog tracking and documentation. Exposure to test-driven development (TDD) and behavior-driven development (BDD) practices. Preferred Skills: Experience or academic exposure to workforce management, customer experience, or enterprise analytics domains. Familiarity with Verint WFO, QM, or PM products or comparable SaaS platforms. AWS Certified Developer or Azure Developer Associate certification, or active pursuit of one. Experience with observability tools such as Datadog, Grafana/Prometheus, or ELK. Contributions to open-source projects or a portfolio of personal/side projects. Exposure to OWASP Top 10 security practices and secure coding principles. Please mention the word **INSIGHTFULLY** and tag RNjQuMjMuMjM3LjE4Nw== when applying to show you read the job post completely (#RNjQuMjMuMjM3LjE4Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly shifting market challenges and deliver impactful results for our customers. Our commitment to attracting and retaining a talented, diverse, and engaged team creates a collaborative environment that openly celebrates all cultures and affords personal and professional growth opportunities. Learn more at\u00c2\u00a0www.verint.com. Overview of Job Function: As a Software Engineer, you will be a core contributor to Verint's QM and PM engineering team. You will design and build full-stack features end-to-end, write high-quality automated tests, support production systems, and collaborate daily with Product Managers, Designers, QA Engineers, and globally distributed engineering peers. This is a role for engineers who take pride in their craft, are eager to grow through challenging problems, and want their work to have a visible impact on enterprise customers worldwide. You will be surrounded by experienced engineers who are invested in your growth, working in a modern Agile environment on software that matters. Principal Duties and Essential Responsibilities: Full-Stack Development Design, develop, and maintain production-grade full-stack features spanning Java/C# backend services, REST/GraphQL APIs, and React/Ext JS frontend applications. Translate product requirements and UX designs into well-structured, testable, and performant code. Implement scalable microservices and modular frontend components that support high concurrency and enterprise-scale data volumes. Participate in design and architecture reviews; contribute to discussions on API contracts, data models, and service boundaries. Proactively identify and address performance bottlenecks, security gaps, and technical debt. Write clean, idiomatic code following team standards; actively contribute to improving those standards over time. Quality Assurance and Testing Write comprehensive unit, integration, and end-to-end automated tests using JUnit, Jest, Playwright, and Cucumber (BDD). Enforce code quality through peer reviews, static analysis, and adherence to the team's Definition of Done. Investigate and reproduce reported defects; perform root-cause analysis and deliver timely, well-tested fixes. Champion a shift-left testing mindset \u00e2\u0080\u0094 integrating quality checks early and continuously in the development lifecycle. Production Support and Maintenance Triage, prioritize, and resolve bugs, regression issues, and customer-reported problems within agreed SLA windows. Provide Tier-2/3 technical support for production incidents; participate in post-incident reviews and implement corrective actions. Monitor application health using observability tooling (logs, metrics, traces); proactively surface anomalies before they impact customers. Maintain and improve runbooks and operational documentation for supported features. AI/ML Integration and Continuous Improvement Integrate AI/ML capabilities \u00e2\u0080\u0094 including LLM-powered features, automated scoring, and speech-to-text \u00e2\u0080\u0094 into product features in collaboration with Verint's AI research teams. Evaluate and pilot emerging technologies; propose adoption where they improve quality, performance, or developer productivity. Identify and contribute to refactoring initiatives that reduce complexity and improve long-term maintainability. Stay current with industry engineering trends through reading, experimentation, and participation in technical communities. Collaboration and Communication Work in cross-functional squads with Product Managers, UX Designers, QA Engineers, DevOps, and Data Engineers. Actively participate in all Agile Scrum ceremonies: sprint planning, daily stand-ups, backlog refinement, sprint reviews, and retrospectives. Provide accurate effort estimates and proactively surface risks, blockers, and dependencies. Collaborate effectively with distributed engineering teams in Atlanta, Israel, and India using async-first communication practices. Support the growth of junior engineers through constructive code reviews and knowledge sharing. CI/CD and DevOps Practices Build, maintain, and improve CI/CD pipelines using Jenkins, GitHub Actions, or Azure DevOps \u00e2\u0080\u0094 ensuring reliable, automated build-test-deploy workflows. Containerize services with Docker and deploy to Kubernetes clusters (EKS/AKS) following GitOps and IaC principles. Implement secure deployment practices: secrets management, environment-specific configuration, and staged rollout strategies. Optimize pipeline performance to minimize build times and deliver faster feedback loops to the team. Bachelor\u00e2\u0080\u0099s degree in computer science / software engineering (or similar) or equivalent experience 3 years experience with Java Spring Boot, practical experience of software development or proven equivalent seniority in software development with product teams Proven track record of delivering full-stack features in an Agile/Scrum team with regular sprint cadences. Hands-on experience with both backend API development and frontend UI implementation in a production codebase. Back-End: Solid proficiency in Java (Spring Boot, Spring MVC, JPA/Hibernate) and/or C# (.NET / .NET Core). Good understanding of RESTful API design, OAuth 2.0/JWT, and basic microservices patterns. Front-End: Working proficiency in JavaScript/TypeScript with hands-on React experience (hooks, context, state management). HTML5, CSS3, and foundational accessible UI development. Ext JS / Sencha familiarity is a plus. Databases: Working knowledge of relational databases (PostgreSQL, MS SQL, Oracle) including schema design, SQL query writing, and basic indexing. Exposure to NoSQL stores (Redis, Elasticsearch, MongoDB) is a plus. Cloud and Infrastructure: Exposure to AWS or Azure core services. Familiarity with Docker and basic Kubernetes concepts. Testing: JUnit/TestNG/Jest unit tests and integration tests. Exposure to E2E testing tools (Playwright, Cypress, or Selenium). BDD with Cucumber is a plus. CI/CD and DevOps: Working knowledge of Jenkins, GitHub Actions, GitLab CI, or Azure DevOps. Git branching strategies and pull request workflows. AI and Emerging Tech: Exposure to LLM APIs or AI-powered tooling is a plus; curiosity and eagerness to develop these skills in the role. Strong analytical thinking and a structured approach to debugging and problem-solving. Clear written and verbal communication in English; able to document technical work clearly and participate actively in team discussions. Self-motivated and eager to learn: takes initiative to understand problems deeply and asks good questions when stuck. Collaborative and team-oriented: contributes positively to squad culture and values diverse perspectives. Growth mindset: receptive to feedback, committed to continuous improvement, and excited to be challenged. Solid experience with Agile Scrum or Kanban; comfortable with all sprint ceremonies. Familiarity with Jira, Confluence, or Azure DevOps Boards for backlog tracking and documentation. Exposure to test-driven development (TDD) and behavior-driven development (BDD) practices. Preferred Skills: Experience or academic exposure to workforce management, customer experience, or enterprise analytics domains. Familiarity with Verint WFO, QM, or PM products or comparable SaaS platforms. AWS Certified Developer or Azure Developer Associate certification, or active pursuit of one. Experience with observability tools such as Datadog, Grafana/Prometheus, or ELK. Contributions to open-source projects or a portfolio of personal/side projects. Exposure to OWASP Top 10 security practices and secure coding principles. Please mention the word **INSIGHTFULLY** and tag RMTcyLjIxNS4yMjMuMjE3 when applying to show you read the job post completely (#RMTcyLjIxNS4yMjMuMjE3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "software",
         "design",
@@ -141,63 +198,6 @@
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Python, Azure, SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: Python",
-      "Preferred location: India",
-      "Experience fit around 2+ years"
-    ],
-    "matched_skills": [
-      "Python",
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4308560805",
-      "title": ".Net Developer",
-      "company": "Qualcomm",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-qualcomm-4308560805",
-      "description": "Company: Qualcomm India Private Limited Job Area: Engineering Group, Engineering Group > Software Engineering General Summary: Job Overview : QCT Software Automation and Tools (QSWAT) group is looking for Full Time Engineers to develop and maintain cutting edge Application and these are used by majority of QCT Software development and test organizations. Candidates shall be responsible for Design, development, and testing. Majority of the Tools are Web Based (ASP.NET MVC) and might have a scripting (Perl / Python) component. Minimum Qualifications: Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 2+ years of Software Engineering or related work experience. OR Master's degree in Engineering, Information Systems, Computer Science, or related field and 1+ year of Software Engineering or related work experience. OR PhD in Engineering, Information Systems, Computer Science, or related field. 2+ years of academic or work experience with Programming Language such as C, C++, Java, Python, etc. Minimum Qualifications: 2 or more years of academic or industry experience in the following areas Experience in at least one of the following: Continuous Integration, build infrastructure, building tools, with knowledge on Configuration management. C#/PHP and .NET framework experience including enterprise application development Full stack web development (ASP.NET MVC or PHP) Scripting languages such as Python/Perl/Bash SQL Server 2012/2014 or related databases including working with ORMs such as Entity Framework and/or Dapper Web client-side technologies such as Typescript/JavaScript, Angular, CSS etc. Perforce or Gerrit Experience in Cloud technologies like AWS, Azure is preferred. Experience in Docker and Kubernetes is preferred. Education Requirements: Required: Bachelor's, Computer Engineering and/or Computer Science and/or Information Technology Preferred: Master\u2019s, Computer Engineering and/or Computer Science and/or Information Technology Applicants : Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries). Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law. To all Staffing and Recruiting Agencies : Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications. If you would like more information about this role, please contact Qualcomm Careers.",
-      "tags": [
-        "python",
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-04-12",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at Qualcomm by foregrounding Python, Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Python",
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -420,7 +420,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -449,7 +449,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -478,7 +478,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388469544",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -507,7 +507,7 @@
       "company": "Deloitte",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
-      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -566,7 +566,7 @@
       "company": "EY",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/ttt-net-full-stack-azure-openai-staff-at-ey-4405137869",
-      "description": "TTT - .NET Full Stack- Azure OpenAI - Staff TTT - .NET Full Stack- Azure OpenAI - Staff EY Bengaluru, Karnataka, India Actively Hiring 5 days ago",
+      "description": "TTT - .NET Full Stack- Azure OpenAI - Staff TTT - .NET Full Stack- Azure OpenAI - Staff EY Bengaluru, Karnataka, India 5 days ago",
       "tags": [
         "azure",
         ".net"
@@ -596,7 +596,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-developers-java-azure-aws-net-at-infosys-4402344042",
-      "description": "Software Developers ( Java / Azure /AWS / .Net ) Software Developers ( Java / Azure /AWS / .Net ) Infosys Bengaluru East, Karnataka, India Actively Hiring 2 weeks ago",
+      "description": "Software Developers ( Java / Azure /AWS / .Net ) Software Developers ( Java / Azure /AWS / .Net ) Infosys Bengaluru East, Karnataka, India 2 weeks ago",
       "tags": [
         "azure",
         ".net"
