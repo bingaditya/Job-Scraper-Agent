@@ -1,5 +1,27 @@
 [
   {
+    "job_id": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f",
+    "title": ".Net Developer",
+    "company": "Qualcomm",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Qualcomm by foregrounding Python, Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "job_id": "9131f267b04f7180515301374f7329fa3898fab3",
     "title": "Engineer Software",
     "company": "Calabrio",
@@ -44,28 +66,6 @@
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "89b8eeb0bb747412d2dd05ab76fe11c75a286a9f",
-    "title": ".Net Developer",
-    "company": "Qualcomm",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at Qualcomm by foregrounding Python, Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Python",
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
