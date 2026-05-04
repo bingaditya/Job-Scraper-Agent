@@ -46,52 +46,6 @@
     }
   },
   {
-    "job_id": "83ec5de589847d4a67e87192b7004074ad95c7ad",
-    "title": ".Net Developer",
-    "company": "Infosys",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at Infosys by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines"
-      ],
-      "missing_resume_keywords": [
-        "CI/CD Pipelines"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "f7881e2db5dc9ab59666b67b0757aa7bb8c7d887",
-    "title": "Dotnet Developer",
-    "company": "Infosys",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at Infosys by foregrounding SQL, C#, .Net, Html, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "77dcb28bd8bf5c0651fa9e12b4edfe7ebd178645",
     "title": "Full Stack Developer",
     "company": "Deloitte",
@@ -110,6 +64,42 @@
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "7e06dbe4d6b28c484c39e6657012bcd85d3481f9",
+    "title": "Azure .NET Developer",
+    "company": "Capgemini",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Azure .NET Developer at Capgemini by foregrounding Azure, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "ff06bed4f543767b8f4b0126561247fc14d7961f",
+    "title": ".Net Developer",
+    "company": "Infosys",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at Infosys by foregrounding Azure, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        ".Net"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
