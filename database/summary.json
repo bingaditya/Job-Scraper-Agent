@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-05T02:27:10.070262+00:00",
+  "generated_at": "2026-05-05T08:04:10.333437+00:00",
   "candidate": "Candidate Name",
   "raw_jobs": 79,
-  "deduplicated_jobs": 79,
-  "shortlisted_jobs": 15,
-  "new_jobs": 0,
-  "notifications_sent": 0,
+  "deduplicated_jobs": 78,
+  "shortlisted_jobs": 14,
+  "new_jobs": 1,
+  "notifications_sent": 1,
   "score_threshold": 45,
   "top_sources": [
     [
       "linkedin",
-      14
+      13
     ],
     [
       "remoteok",

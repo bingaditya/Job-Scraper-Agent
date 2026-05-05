@@ -81,7 +81,7 @@
       "company": "Calabrio",
       "location": "Remote",
       "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
-      "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly shifting market challenges and deliver impactful results for our customers. Our commitment to attracting and retaining a talented, diverse, and engaged team creates a collaborative environment that openly celebrates all cultures and affords personal and professional growth opportunities. Learn more at\u00c2\u00a0www.verint.com. Overview of Job Function: As a Software Engineer, you will be a core contributor to Verint's QM and PM engineering team. You will design and build full-stack features end-to-end, write high-quality automated tests, support production systems, and collaborate daily with Product Managers, Designers, QA Engineers, and globally distributed engineering peers. This is a role for engineers who take pride in their craft, are eager to grow through challenging problems, and want their work to have a visible impact on enterprise customers worldwide. You will be surrounded by experienced engineers who are invested in your growth, working in a modern Agile environment on software that matters. Principal Duties and Essential Responsibilities: Full-Stack Development Design, develop, and maintain production-grade full-stack features spanning Java/C# backend services, REST/GraphQL APIs, and React/Ext JS frontend applications. Translate product requirements and UX designs into well-structured, testable, and performant code. Implement scalable microservices and modular frontend components that support high concurrency and enterprise-scale data volumes. Participate in design and architecture reviews; contribute to discussions on API contracts, data models, and service boundaries. Proactively identify and address performance bottlenecks, security gaps, and technical debt. Write clean, idiomatic code following team standards; actively contribute to improving those standards over time. Quality Assurance and Testing Write comprehensive unit, integration, and end-to-end automated tests using JUnit, Jest, Playwright, and Cucumber (BDD). Enforce code quality through peer reviews, static analysis, and adherence to the team's Definition of Done. Investigate and reproduce reported defects; perform root-cause analysis and deliver timely, well-tested fixes. Champion a shift-left testing mindset \u00e2\u0080\u0094 integrating quality checks early and continuously in the development lifecycle. Production Support and Maintenance Triage, prioritize, and resolve bugs, regression issues, and customer-reported problems within agreed SLA windows. Provide Tier-2/3 technical support for production incidents; participate in post-incident reviews and implement corrective actions. Monitor application health using observability tooling (logs, metrics, traces); proactively surface anomalies before they impact customers. Maintain and improve runbooks and operational documentation for supported features. AI/ML Integration and Continuous Improvement Integrate AI/ML capabilities \u00e2\u0080\u0094 including LLM-powered features, automated scoring, and speech-to-text \u00e2\u0080\u0094 into product features in collaboration with Verint's AI research teams. Evaluate and pilot emerging technologies; propose adoption where they improve quality, performance, or developer productivity. Identify and contribute to refactoring initiatives that reduce complexity and improve long-term maintainability. Stay current with industry engineering trends through reading, experimentation, and participation in technical communities. Collaboration and Communication Work in cross-functional squads with Product Managers, UX Designers, QA Engineers, DevOps, and Data Engineers. Actively participate in all Agile Scrum ceremonies: sprint planning, daily stand-ups, backlog refinement, sprint reviews, and retrospectives. Provide accurate effort estimates and proactively surface risks, blockers, and dependencies. Collaborate effectively with distributed engineering teams in Atlanta, Israel, and India using async-first communication practices. Support the growth of junior engineers through constructive code reviews and knowledge sharing. CI/CD and DevOps Practices Build, maintain, and improve CI/CD pipelines using Jenkins, GitHub Actions, or Azure DevOps \u00e2\u0080\u0094 ensuring reliable, automated build-test-deploy workflows. Containerize services with Docker and deploy to Kubernetes clusters (EKS/AKS) following GitOps and IaC principles. Implement secure deployment practices: secrets management, environment-specific configuration, and staged rollout strategies. Optimize pipeline performance to minimize build times and deliver faster feedback loops to the team. Bachelor\u00e2\u0080\u0099s degree in computer science / software engineering (or similar) or equivalent experience 3 years experience with Java Spring Boot, practical experience of software development or proven equivalent seniority in software development with product teams Proven track record of delivering full-stack features in an Agile/Scrum team with regular sprint cadences. Hands-on experience with both backend API development and frontend UI implementation in a production codebase. Back-End: Solid proficiency in Java (Spring Boot, Spring MVC, JPA/Hibernate) and/or C# (.NET / .NET Core). Good understanding of RESTful API design, OAuth 2.0/JWT, and basic microservices patterns. Front-End: Working proficiency in JavaScript/TypeScript with hands-on React experience (hooks, context, state management). HTML5, CSS3, and foundational accessible UI development. Ext JS / Sencha familiarity is a plus. Databases: Working knowledge of relational databases (PostgreSQL, MS SQL, Oracle) including schema design, SQL query writing, and basic indexing. Exposure to NoSQL stores (Redis, Elasticsearch, MongoDB) is a plus. Cloud and Infrastructure: Exposure to AWS or Azure core services. Familiarity with Docker and basic Kubernetes concepts. Testing: JUnit/TestNG/Jest unit tests and integration tests. Exposure to E2E testing tools (Playwright, Cypress, or Selenium). BDD with Cucumber is a plus. CI/CD and DevOps: Working knowledge of Jenkins, GitHub Actions, GitLab CI, or Azure DevOps. Git branching strategies and pull request workflows. AI and Emerging Tech: Exposure to LLM APIs or AI-powered tooling is a plus; curiosity and eagerness to develop these skills in the role. Strong analytical thinking and a structured approach to debugging and problem-solving. Clear written and verbal communication in English; able to document technical work clearly and participate actively in team discussions. Self-motivated and eager to learn: takes initiative to understand problems deeply and asks good questions when stuck. Collaborative and team-oriented: contributes positively to squad culture and values diverse perspectives. Growth mindset: receptive to feedback, committed to continuous improvement, and excited to be challenged. Solid experience with Agile Scrum or Kanban; comfortable with all sprint ceremonies. Familiarity with Jira, Confluence, or Azure DevOps Boards for backlog tracking and documentation. Exposure to test-driven development (TDD) and behavior-driven development (BDD) practices. Preferred Skills: Experience or academic exposure to workforce management, customer experience, or enterprise analytics domains. Familiarity with Verint WFO, QM, or PM products or comparable SaaS platforms. AWS Certified Developer or Azure Developer Associate certification, or active pursuit of one. Experience with observability tools such as Datadog, Grafana/Prometheus, or ELK. Contributions to open-source projects or a portfolio of personal/side projects. Exposure to OWASP Top 10 security practices and secure coding principles. Please mention the word **INSIGHTFULLY** and tag RMzQuMTgyLjIzMy43NQ== when applying to show you read the job post completely (#RMzQuMTgyLjIzMy43NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly shifting market challenges and deliver impactful results for our customers. Our commitment to attracting and retaining a talented, diverse, and engaged team creates a collaborative environment that openly celebrates all cultures and affords personal and professional growth opportunities. Learn more at\u00c2\u00a0www.verint.com. Overview of Job Function: As a Software Engineer, you will be a core contributor to Verint's QM and PM engineering team. You will design and build full-stack features end-to-end, write high-quality automated tests, support production systems, and collaborate daily with Product Managers, Designers, QA Engineers, and globally distributed engineering peers. This is a role for engineers who take pride in their craft, are eager to grow through challenging problems, and want their work to have a visible impact on enterprise customers worldwide. You will be surrounded by experienced engineers who are invested in your growth, working in a modern Agile environment on software that matters. Principal Duties and Essential Responsibilities: Full-Stack Development Design, develop, and maintain production-grade full-stack features spanning Java/C# backend services, REST/GraphQL APIs, and React/Ext JS frontend applications. Translate product requirements and UX designs into well-structured, testable, and performant code. Implement scalable microservices and modular frontend components that support high concurrency and enterprise-scale data volumes. Participate in design and architecture reviews; contribute to discussions on API contracts, data models, and service boundaries. Proactively identify and address performance bottlenecks, security gaps, and technical debt. Write clean, idiomatic code following team standards; actively contribute to improving those standards over time. Quality Assurance and Testing Write comprehensive unit, integration, and end-to-end automated tests using JUnit, Jest, Playwright, and Cucumber (BDD). Enforce code quality through peer reviews, static analysis, and adherence to the team's Definition of Done. Investigate and reproduce reported defects; perform root-cause analysis and deliver timely, well-tested fixes. Champion a shift-left testing mindset \u00e2\u0080\u0094 integrating quality checks early and continuously in the development lifecycle. Production Support and Maintenance Triage, prioritize, and resolve bugs, regression issues, and customer-reported problems within agreed SLA windows. Provide Tier-2/3 technical support for production incidents; participate in post-incident reviews and implement corrective actions. Monitor application health using observability tooling (logs, metrics, traces); proactively surface anomalies before they impact customers. Maintain and improve runbooks and operational documentation for supported features. AI/ML Integration and Continuous Improvement Integrate AI/ML capabilities \u00e2\u0080\u0094 including LLM-powered features, automated scoring, and speech-to-text \u00e2\u0080\u0094 into product features in collaboration with Verint's AI research teams. Evaluate and pilot emerging technologies; propose adoption where they improve quality, performance, or developer productivity. Identify and contribute to refactoring initiatives that reduce complexity and improve long-term maintainability. Stay current with industry engineering trends through reading, experimentation, and participation in technical communities. Collaboration and Communication Work in cross-functional squads with Product Managers, UX Designers, QA Engineers, DevOps, and Data Engineers. Actively participate in all Agile Scrum ceremonies: sprint planning, daily stand-ups, backlog refinement, sprint reviews, and retrospectives. Provide accurate effort estimates and proactively surface risks, blockers, and dependencies. Collaborate effectively with distributed engineering teams in Atlanta, Israel, and India using async-first communication practices. Support the growth of junior engineers through constructive code reviews and knowledge sharing. CI/CD and DevOps Practices Build, maintain, and improve CI/CD pipelines using Jenkins, GitHub Actions, or Azure DevOps \u00e2\u0080\u0094 ensuring reliable, automated build-test-deploy workflows. Containerize services with Docker and deploy to Kubernetes clusters (EKS/AKS) following GitOps and IaC principles. Implement secure deployment practices: secrets management, environment-specific configuration, and staged rollout strategies. Optimize pipeline performance to minimize build times and deliver faster feedback loops to the team. Bachelor\u00e2\u0080\u0099s degree in computer science / software engineering (or similar) or equivalent experience 3 years experience with Java Spring Boot, practical experience of software development or proven equivalent seniority in software development with product teams Proven track record of delivering full-stack features in an Agile/Scrum team with regular sprint cadences. Hands-on experience with both backend API development and frontend UI implementation in a production codebase. Back-End: Solid proficiency in Java (Spring Boot, Spring MVC, JPA/Hibernate) and/or C# (.NET / .NET Core). Good understanding of RESTful API design, OAuth 2.0/JWT, and basic microservices patterns. Front-End: Working proficiency in JavaScript/TypeScript with hands-on React experience (hooks, context, state management). HTML5, CSS3, and foundational accessible UI development. Ext JS / Sencha familiarity is a plus. Databases: Working knowledge of relational databases (PostgreSQL, MS SQL, Oracle) including schema design, SQL query writing, and basic indexing. Exposure to NoSQL stores (Redis, Elasticsearch, MongoDB) is a plus. Cloud and Infrastructure: Exposure to AWS or Azure core services. Familiarity with Docker and basic Kubernetes concepts. Testing: JUnit/TestNG/Jest unit tests and integration tests. Exposure to E2E testing tools (Playwright, Cypress, or Selenium). BDD with Cucumber is a plus. CI/CD and DevOps: Working knowledge of Jenkins, GitHub Actions, GitLab CI, or Azure DevOps. Git branching strategies and pull request workflows. AI and Emerging Tech: Exposure to LLM APIs or AI-powered tooling is a plus; curiosity and eagerness to develop these skills in the role. Strong analytical thinking and a structured approach to debugging and problem-solving. Clear written and verbal communication in English; able to document technical work clearly and participate actively in team discussions. Self-motivated and eager to learn: takes initiative to understand problems deeply and asks good questions when stuck. Collaborative and team-oriented: contributes positively to squad culture and values diverse perspectives. Growth mindset: receptive to feedback, committed to continuous improvement, and excited to be challenged. Solid experience with Agile Scrum or Kanban; comfortable with all sprint ceremonies. Familiarity with Jira, Confluence, or Azure DevOps Boards for backlog tracking and documentation. Exposure to test-driven development (TDD) and behavior-driven development (BDD) practices. Preferred Skills: Experience or academic exposure to workforce management, customer experience, or enterprise analytics domains. Familiarity with Verint WFO, QM, or PM products or comparable SaaS platforms. AWS Certified Developer or Azure Developer Associate certification, or active pursuit of one. Experience with observability tools such as Datadog, Grafana/Prometheus, or ELK. Contributions to open-source projects or a portfolio of personal/side projects. Exposure to OWASP Top 10 security practices and secure coding principles. Please mention the word **INSIGHTFULLY** and tag RMTMuODcuMjE2LjEyMQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjEyMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "software",
         "design",
@@ -357,7 +357,7 @@
       "company": "Capgemini",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/azure-net-developer-at-capgemini-4408245442",
-      "description": "Azure .NET Developer Azure .NET Developer Capgemini Bengaluru, Karnataka, India Actively Hiring 5 days ago",
+      "description": "Azure .NET Developer Azure .NET Developer Capgemini Bengaluru, Karnataka, India 5 days ago",
       "tags": [
         "azure",
         ".net"
@@ -397,6 +397,37 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "ff06bed4f543767b8f4b0126561247fc14d7961f"
+    }
+  },
+  {
+    "score": 64,
+    "reasons": [
+      "Matched skills: SQL, CSS, JavaScript",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4406520776",
+      "title": "Full-Stack Developer Internship",
+      "company": "Acowale",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-internship-at-acowale-4406520776",
+      "description": "Full-Stack Developer Internship Location: Hybrid in Bengaluru Employment Type: Internship (3-6 months) Experience Level: Entry-Level/Recent Graduate About Acowale We're building Acodash - the world's first AI-powered Smart Operating System for Business. One simple dashboard replaces every digital tool a business needs, integrated with AI Assistants running businesses 24/7. Why we're different: AI-first approach (backed by Microsoft) Simple as WhatsApp, powerful as SAP Multi-location ready and affordable Fast-growing product startup with LoI from 1.5M+ merchants The Role We're seeking a motivated Full-Stack Developer Intern to join our engineering team and contribute to building scalable systems on the AcoMono project. You'll work on both backend and frontend, learn from experienced engineers, and gain hands-on experience with modern technologies in a startup environment. This is a unique opportunity to: Work on real features used by thousands of merchants Learn backend and frontend development best practices Get mentored by experienced engineers Contribute to a mission-critical platform serving millions Experience startup culture and fast-paced development Requirements Backend Development Implement backend features using TypeScript and Node.js under guidance Write clean, maintainable code following team standards Build and optimize PostgreSQL queries with senior engineer support Contribute to API development and documentation Write unit tests using Jest for your code Frontend Development Contribute to React components using TypeScript Work with Vite build tooling and modern frontend practices Implement features designed by the team Ensure UI-backend integration works smoothly Learn state management and data fetching patterns Learning & Collaboration Participate in code reviews and learn from feedback Ask questions and seek mentorship from senior engineers Attend technical discussions and architecture sessions Contribute to improving documentation and code quality Collaborate with team members on feature delivery Requirements Must Have: Strong foundation in JavaScript or TypeScript Basic understanding of React or similar frontend framework Familiarity with SQL and relational databases Git basics and version control understanding Problem-solving mindset and willingness to learn Good communication skills Nice to Have: Experience with Node.js or backend development Knowledge of REST APIs and HTTP concepts Exposure to Docker or containerization Understanding of testing and test-driven development Experience with Agile workflows Personal projects on GitHub showcasing your work Tech Stack Backend: TypeScript, Node.js, PostgreSQL, Express or similar framework Frontend: React, TypeScript, Vite, CSS/Tailwind DevOps: Docker, GitHub Testing: Jest Architecture: Monorepo (pnpm workspaces), API-first design What We're Looking For You're curious and eager to learn cutting-edge technologies You write code you can explain and defend You ask good questions and aren't afraid to say you don't know You're collaborative and enjoy working with others You're excited about building products that impact millions You can work independently but also reach out for help when needed Benefits Why Join Us? Learn modern tech stack in a real product environment Work on a mission-critical platform serving 1.5M+ merchants Get mentored by experienced engineers Experience how a startup operates Potential for full-time conversion based on performance Competitive internship stipend What to Expect You'll start with onboarding and smaller tasks to get familiar with the codebase Within 2-3 weeks, you'll start contributing to real features You'll have regular check-ins with your mentor to discuss progress and learnings Code reviews are part of the process - expect constructive feedback By the end of your internship, you should have shipped meaningful features We'll provide clear feedback on your performance and potential Ready to Learn and Grow? If you're passionate about full-stack development and want to learn from experienced engineers while building a product used by millions, we'd love to meet you. Let's build something remarkable together. Start your journey with us.",
+      "tags": [
+        "sql",
+        "javascript"
+      ],
+      "published_at": "2026-04-27",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "41c7db6b6611830765fbc3cb5f0fbac932f5e6a1"
     }
   },
   {
@@ -451,7 +482,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -480,7 +511,7 @@
       "company": "Virtusa",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
+      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -509,7 +540,7 @@
       "company": "Deloitte",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
-      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -517,36 +548,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "c3425c42fd2c82bf12ba102204e3d74efbf2cdf9"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: SQL, JavaScript",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience fit around 1+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4337835394",
-      "title": "Full Stack Engineer",
-      "company": "Meril",
-      "location": "Kanpur, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-meril-4337835394",
-      "description": "Job Title: Full stack Developer Experience: 0 \u2013 3 Years Location: Kanpur (New Technopark @ IIT Kanpur) Job Type: Full-Time Key Responsibilities: \u00b7 Design, develop, and maintain full-stack applications using MERN stack + PostgreSQL. \u00b7 Build and integrate RESTful APIs for seamless communication between front-end and back-end services. \u00b7 Develop responsive, interactive, and user-friendly front-end applications with React.js (JavaScript/TypeScript). \u00b7 Write clean, modular, and maintainable code following industry best practices. \u00b7 Ensure security, scalability, and high performance of applications in production. \u00b7 Troubleshoot, debug, and optimize system performance. \u00b7 Participate in code reviews, documentation, and knowledge sharing. Required Skills: \u00b7 0\u20133 years of professional experience in full-stack development. \u00b7 Strong expertise in MERN stack (MongoDB, Express.js, React.js, Node.js). \u00b7 Proficiency in JavaScript/TypeScript for front-end and back-end. \u00b7 Knowledge of authentication and authorization mechanisms (JWT, OAuth2). \u00b7 Good understanding of complete SDLC. Preferred / Additional Skills: \u00b7 Experience with testing frameworks (Vitest, Mocha, Cypress, PyTest). \u00b7 Strong awareness of security best practices, performance tuning, and optimization. \u00b7 Practical experience with Docker. Employment Bond: 1 Years Kindly share your resume on pratibha.shukla@nuvo.ai",
-      "tags": [
-        "sql",
-        "javascript"
-      ],
-      "published_at": "2026-02-12",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "10a9c978bb5f1ea0fcafcfff80cbf20c17966210"
     }
   },
   {
@@ -568,7 +569,7 @@
       "company": "EY",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/ttt-net-full-stack-azure-openai-staff-at-ey-4405137869",
-      "description": "TTT - .NET Full Stack- Azure OpenAI - Staff TTT - .NET Full Stack- Azure OpenAI - Staff EY Bengaluru, Karnataka, India Actively Hiring 1 week ago",
+      "description": "TTT - .NET Full Stack- Azure OpenAI - Staff TTT - .NET Full Stack- Azure OpenAI - Staff EY Bengaluru, Karnataka, India 1 week ago",
       "tags": [
         "azure",
         ".net"
@@ -577,36 +578,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "71fb49b65fe7ba5a7d88ebe8b4dd006e40583df7"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: Azure, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4402344042",
-      "title": "Software Developers ( Java / Azure /AWS / .Net )",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-developers-java-azure-aws-net-at-infosys-4402344042",
-      "description": "Software Developers ( Java / Azure /AWS / .Net ) Software Developers ( Java / Azure /AWS / .Net ) Infosys Bengaluru East, Karnataka, India Actively Hiring 2 weeks ago",
-      "tags": [
-        "azure",
-        ".net"
-      ],
-      "published_at": "2026-04-17",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "9de7ccc51ee3bbc435a7a7c805ca5371627af85d"
     }
   }
 ]
