@@ -2,6 +2,62 @@
   {
     "score": 100,
     "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net, Html",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: Azure",
+      "Preferred location: Mumbai",
+      "Role asks for 8+ years"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4408192413",
+      "title": "Full Stack .Net Developer",
+      "company": "Deloitte",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-deloitte-4408192413",
+      "description": "Your potential, unleashed. India\u2019s impact on the global economy has increased at an exponential rate and Deloitte presents an opportunity to unleash and realize your potential amongst cutting edge leaders, and organisations shaping the future of the region, and indeed, the world beyond. At Deloitte, your whole self to work, every day. Combine that with our drive to propel with purpose and you have the perfect playground to collaborate, innovate, grow, and make an impact that matters. The team The Enabling Area \u2013 Information Technology team is responsible for building & maintaining different applications for Deloitte South Asia that focuses on providing employee experience. Skills Required Full stack experienced developer having strong technical skills. Good in managing stakeholder communication. Strong proficiency in C#, ASP.NET MVC, .NET Core. Advanced knowledge of SQL Server, including T-SQL, indexing, and query optimization. Experience with Entity Framework, LINQ, and ADO.NET. Experience working in React with good knowledge in front-end technologies such as JavaScript, HTML, CSS. Experience developing RESTful APIs. Proficient in working with version control system (Git/ADO repo). Good communication and teamwork skills. Good to have experience on agile processes. Good to have experience in Azure cloud. Experience required, Any Specific Industry / Company exposure: 8+ years of experience in full stack development Desired qualifications Bachelor\u2019s degree in Information Technology, Computer Science, or a related field. Location and way of working Base location: Mumbai, Noida, Hyderabad This profile may involve travel for work. Hybrid is our default way of working. How you\u2019ll grow Connect for impact Our exceptional team of professionals across the globe are solving some of the world\u2019s most complex business problems, as well as directly supporting our communities, the planet, and each other. Know more in our Global Impact Report and our India Impact Report. Empower to lead You can be a leader irrespective of your career level. Our colleagues are characterized by their ability to inspire, support, and provide opportunities for people to deliver their best and grow both as professionals and human beings. Know more about Deloitte and our One Young World partnership. Inclusion for all At Deloitte, people are valued and respected for who they are and are trusted to add value to their clients, teams and communities in a way that reflects their own unique capabilities. Know more about everyday steps that you can take to be more inclusive. At Deloitte, we believe in the unique skills, attitude and potential each and every one of us brings to the table to make an impact that matters. Drive your career At Deloitte, you are encouraged to take ownership of your career. We recognize there is no one size fits all career path, and global, cross-business mobility and up / re-skilling are all within the range of possibilities to shape a unique and fulfilling career. Know more about Life at Deloitte. Everyone\u2019s welcome\u2026 entrust your happiness to us Our workspaces and initiatives are geared towards your 360-degree happiness. This includes specific needs you may have in terms of accessibility, flexibility, safety and security, and caregiving. Here\u2019s a glimpse of things that are in store for you. Interview tips We want job seekers exploring opportunities at Deloitte to feel prepared, confident, and comfortable. To help you with your interview, we suggest that you do your research, know some background about the organization and the business area you\u2019re applying to. Check out recruiting tips from Deloitte professionals.",
+      "tags": [
+        "azure",
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-05-05",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "a47a6da80d8fd18111a4636be3c6be2558f1ce85"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack .Net Developer at Deloitte by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "Html"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 100,
+    "reasons": [
       "Matched skills: Python, Azure, SQL, C#, .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: Python",
@@ -59,89 +115,108 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, DataDog",
+      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
+      "Preferred title match: .net Developer",
       "Search keyword hit: Azure",
-      "Experience fit around 3+ years"
+      "Preferred location: India",
+      "Experience requirement not strict"
     ],
     "matched_skills": [
       "Azure",
       "SQL",
       "C#",
       ".Net",
-      "DataDog",
-      "CI/CD Pipelines",
-      "Html",
-      "CSS",
-      "JavaScript"
+      "CI/CD Pipelines"
     ],
     "job": {
-      "source": "remoteok",
-      "source_id": "1131345",
-      "title": "Engineer Software",
-      "company": "Calabrio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
-      "description": "At Verint, we believe customer engagement is the core of every global brand. Our mission is to help organizations elevate Customer Experience (CX) and increase workforce productivity by delivering CX Automation. We hire innovators with the passion, creativity, and drive to answer constantly shifting market challenges and deliver impactful results for our customers. Our commitment to attracting and retaining a talented, diverse, and engaged team creates a collaborative environment that openly celebrates all cultures and affords personal and professional growth opportunities. Learn more at\u00c2\u00a0www.verint.com. Overview of Job Function: As a Software Engineer, you will be a core contributor to Verint's QM and PM engineering team. You will design and build full-stack features end-to-end, write high-quality automated tests, support production systems, and collaborate daily with Product Managers, Designers, QA Engineers, and globally distributed engineering peers. This is a role for engineers who take pride in their craft, are eager to grow through challenging problems, and want their work to have a visible impact on enterprise customers worldwide. You will be surrounded by experienced engineers who are invested in your growth, working in a modern Agile environment on software that matters. Principal Duties and Essential Responsibilities: Full-Stack Development Design, develop, and maintain production-grade full-stack features spanning Java/C# backend services, REST/GraphQL APIs, and React/Ext JS frontend applications. Translate product requirements and UX designs into well-structured, testable, and performant code. Implement scalable microservices and modular frontend components that support high concurrency and enterprise-scale data volumes. Participate in design and architecture reviews; contribute to discussions on API contracts, data models, and service boundaries. Proactively identify and address performance bottlenecks, security gaps, and technical debt. Write clean, idiomatic code following team standards; actively contribute to improving those standards over time. Quality Assurance and Testing Write comprehensive unit, integration, and end-to-end automated tests using JUnit, Jest, Playwright, and Cucumber (BDD). Enforce code quality through peer reviews, static analysis, and adherence to the team's Definition of Done. Investigate and reproduce reported defects; perform root-cause analysis and deliver timely, well-tested fixes. Champion a shift-left testing mindset \u00e2\u0080\u0094 integrating quality checks early and continuously in the development lifecycle. Production Support and Maintenance Triage, prioritize, and resolve bugs, regression issues, and customer-reported problems within agreed SLA windows. Provide Tier-2/3 technical support for production incidents; participate in post-incident reviews and implement corrective actions. Monitor application health using observability tooling (logs, metrics, traces); proactively surface anomalies before they impact customers. Maintain and improve runbooks and operational documentation for supported features. AI/ML Integration and Continuous Improvement Integrate AI/ML capabilities \u00e2\u0080\u0094 including LLM-powered features, automated scoring, and speech-to-text \u00e2\u0080\u0094 into product features in collaboration with Verint's AI research teams. Evaluate and pilot emerging technologies; propose adoption where they improve quality, performance, or developer productivity. Identify and contribute to refactoring initiatives that reduce complexity and improve long-term maintainability. Stay current with industry engineering trends through reading, experimentation, and participation in technical communities. Collaboration and Communication Work in cross-functional squads with Product Managers, UX Designers, QA Engineers, DevOps, and Data Engineers. Actively participate in all Agile Scrum ceremonies: sprint planning, daily stand-ups, backlog refinement, sprint reviews, and retrospectives. Provide accurate effort estimates and proactively surface risks, blockers, and dependencies. Collaborate effectively with distributed engineering teams in Atlanta, Israel, and India using async-first communication practices. Support the growth of junior engineers through constructive code reviews and knowledge sharing. CI/CD and DevOps Practices Build, maintain, and improve CI/CD pipelines using Jenkins, GitHub Actions, or Azure DevOps \u00e2\u0080\u0094 ensuring reliable, automated build-test-deploy workflows. Containerize services with Docker and deploy to Kubernetes clusters (EKS/AKS) following GitOps and IaC principles. Implement secure deployment practices: secrets management, environment-specific configuration, and staged rollout strategies. Optimize pipeline performance to minimize build times and deliver faster feedback loops to the team. Bachelor\u00e2\u0080\u0099s degree in computer science / software engineering (or similar) or equivalent experience 3 years experience with Java Spring Boot, practical experience of software development or proven equivalent seniority in software development with product teams Proven track record of delivering full-stack features in an Agile/Scrum team with regular sprint cadences. Hands-on experience with both backend API development and frontend UI implementation in a production codebase. Back-End: Solid proficiency in Java (Spring Boot, Spring MVC, JPA/Hibernate) and/or C# (.NET / .NET Core). Good understanding of RESTful API design, OAuth 2.0/JWT, and basic microservices patterns. Front-End: Working proficiency in JavaScript/TypeScript with hands-on React experience (hooks, context, state management). HTML5, CSS3, and foundational accessible UI development. Ext JS / Sencha familiarity is a plus. Databases: Working knowledge of relational databases (PostgreSQL, MS SQL, Oracle) including schema design, SQL query writing, and basic indexing. Exposure to NoSQL stores (Redis, Elasticsearch, MongoDB) is a plus. Cloud and Infrastructure: Exposure to AWS or Azure core services. Familiarity with Docker and basic Kubernetes concepts. Testing: JUnit/TestNG/Jest unit tests and integration tests. Exposure to E2E testing tools (Playwright, Cypress, or Selenium). BDD with Cucumber is a plus. CI/CD and DevOps: Working knowledge of Jenkins, GitHub Actions, GitLab CI, or Azure DevOps. Git branching strategies and pull request workflows. AI and Emerging Tech: Exposure to LLM APIs or AI-powered tooling is a plus; curiosity and eagerness to develop these skills in the role. Strong analytical thinking and a structured approach to debugging and problem-solving. Clear written and verbal communication in English; able to document technical work clearly and participate actively in team discussions. Self-motivated and eager to learn: takes initiative to understand problems deeply and asks good questions when stuck. Collaborative and team-oriented: contributes positively to squad culture and values diverse perspectives. Growth mindset: receptive to feedback, committed to continuous improvement, and excited to be challenged. Solid experience with Agile Scrum or Kanban; comfortable with all sprint ceremonies. Familiarity with Jira, Confluence, or Azure DevOps Boards for backlog tracking and documentation. Exposure to test-driven development (TDD) and behavior-driven development (BDD) practices. Preferred Skills: Experience or academic exposure to workforce management, customer experience, or enterprise analytics domains. Familiarity with Verint WFO, QM, or PM products or comparable SaaS platforms. AWS Certified Developer or Azure Developer Associate certification, or active pursuit of one. Experience with observability tools such as Datadog, Grafana/Prometheus, or ELK. Contributions to open-source projects or a portfolio of personal/side projects. Exposure to OWASP Top 10 security practices and secure coding principles. Please mention the word **INSIGHTFULLY** and tag RMTI5LjE1OC4yMzcuMzY= when applying to show you read the job post completely (#RMTI5LjE1OC4yMzcuMzY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "source": "linkedin",
+      "source_id": "4402114594",
+      "title": ".Net Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402114594",
+      "description": "Strong proficiency in C#, ASP.NET, ASP.NET MVC, Web API Hands-on experience with .NET Core / .NET 6+ Extensive experience with MS SQL Server: Query optimization Indexing Stored Procedures Performance tuning Experience with Entity Framework / Dapper / ADO.NET Strong knowledge of RESTful APIs Experience with Git / TFS / Azure DevOps Understanding of OOP, SOLID principles, design patterns Design, develop, test, and maintain enterprise-level applications using .NET Framework / .NET Core Develop and optimize SQL Server databases, queries, stored procedures, views, and functions Collaborate with business analysts, product owners, and other stakeholders to understand requirements Ensure high performance, security, and responsiveness of applications Perform code reviews and ensure adherence to coding standards and best practices Troubleshoot, debug, and resolve application and database issues Participate in architectural discussions and technical decision-making Mentor junior developers and provide technical guidance Contribute to CI/CD pipelines and deployment processes Strong problem-solving and analytical skills Excellent communication and stakeholder management Ability to work independently and as part of a team Mentoring and leadership mindset",
       "tags": [
-        "software",
-        "design",
+        "azure",
+        "sql",
+        ".net",
         "c#",
-        "saas",
-        "react",
-        "frontend",
-        "security",
-        "full-stack",
-        "docker",
-        "technical",
-        "support",
-        "developer",
-        "testing",
-        "growth",
-        "ui",
-        "ux",
-        "code",
-        "scrum",
-        "qa",
-        "devops",
-        "js",
-        "java",
-        "nosql",
-        "git",
-        "api",
-        "junior",
-        "operational",
-        "analytics",
-        "health",
-        "engineer",
-        "engineering",
-        "backend",
-        "digital nomad"
+        "ci/cd"
       ],
-      "published_at": "2026-04-27T16:00:55+00:00",
-      "remote": true,
-      "metadata": {
-        "salary_min": 0,
-        "salary_max": 0
-      },
-      "fingerprint": "9131f267b04f7180515301374f7329fa3898fab3"
+      "published_at": "2026-04-16",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "83ec5de589847d4a67e87192b7004074ad95c7ad"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Engineer Software at Calabrio by foregrounding Azure, SQL, C#, .Net, DataDog and mirroring the role language without adding new claims.",
+      "summary": "Target .Net Developer at Infosys by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         "Azure",
         "SQL",
         "C#",
         ".Net",
-        "DataDog"
+        "CI/CD Pipelines"
       ],
       "missing_resume_keywords": [
-        "DataDog"
+        "CI/CD Pipelines"
       ],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 92,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, JavaScript",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4322897041",
+      "title": "Dotnet Developer",
+      "company": "Infosys",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-infosys-4322897041",
+      "description": "Job description Hiring for .Net Full stack Developer with experience range 5 to 8years. Mandatory Skills: .Net Full stack Location - Bengaluru, pune, Hyderabad, Chennai Education: BE/B.Tech/MCA/M.Tech/MSc./MSts The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. Responsibilities Design, code, test and manage various applications Collaborate with engineering team and product team to establish best products Follow outlined standards of quality related to code and systems Develop automated tests and conduct performance tuning Qualifications Bachelor's degree in Computer Science or relevant field 5+ years of experience working with .NET or relevant experiences Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle Experience working in agile development environment",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-01-05",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f7881e2db5dc9ab59666b67b0757aa7bb8c7d887"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at Infosys by foregrounding SQL, C#, .Net, Html, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -196,6 +271,40 @@
     }
   },
   {
+    "score": 76,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, JavaScript",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306131097",
+      "title": "Dot Net Developer",
+      "company": "Salus Technologies Pvt Ltd",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-salus-technologies-pvt-ltd-4306131097",
+      "description": "JD- Experience in C# ASP.NET + MVC + Entity Framework development Experience in JavaScript and jQuery Experience in Web Services and third party API Integrations Experience in SQL Server databases Responsibilities Design, code, test, and manage various applications Collaborate with the engineering team and product team Follow outlined standards of quality related to code and systems Deploy tested code to the production environment Skills:- C#, ASP.NET MVC, Entity Framework, jQuery, Webservices, API and SQL server",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "e06ab33cdcb024aeed64ce5516ea02f341f03f22"
+    }
+  },
+  {
     "score": 70,
     "reasons": [
       "Matched skills: Azure, .Net",
@@ -215,7 +324,7 @@
       "company": "Capgemini",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/azure-net-developer-at-capgemini-4408245442",
-      "description": "Azure .NET Developer Azure .NET Developer Capgemini Bengaluru, Karnataka, India Actively Hiring 6 days ago",
+      "description": "Azure .NET Developer Azure .NET Developer Capgemini Bengaluru, Karnataka, India 1 week ago",
       "tags": [
         "azure",
         ".net"
@@ -224,19 +333,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "7e06dbe4d6b28c484c39e6657012bcd85d3481f9"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Azure .NET Developer at Capgemini by foregrounding Azure, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        ".Net"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -268,135 +364,39 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "ff06bed4f543767b8f4b0126561247fc14d7961f"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at Infosys by foregrounding Azure, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        ".Net"
-      ],
-      "missing_resume_keywords": [],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
-    "score": 54,
+    "score": 64,
     "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4408192413",
-      "title": "Full Stack .Net Developer",
-      "company": "Deloitte",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-net-developer-at-deloitte-4408192413",
-      "description": "Full Stack .Net Developer Full Stack .Net Developer Deloitte Mumbai Metropolitan Region Actively Hiring 14 hours ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-05-05",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "a47a6da80d8fd18111a4636be3c6be2558f1ce85"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
+      "Matched skills: Azure, C#, .Net",
+      "Search keyword hit: Azure",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
     "matched_skills": [
+      "Azure",
+      "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4402114594",
-      "title": ".Net Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4402114594",
-      "description": ".Net Developer .Net Developer Infosys Bengaluru East, Karnataka, India Actively Hiring 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-04-16",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "83ec5de589847d4a67e87192b7004074ad95c7ad"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4388475390",
-      "title": ".NET Developer [DNA]",
-      "company": "Virtusa",
+      "source_id": "4403994121",
+      "title": "Dotnet Developer",
+      "company": "PwC India",
       "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388475390",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-pwc-india-4403994121",
+      "description": "Responsibilities Design, develop, test, and maintain backend services, APIs, and cloud components using .NET, C#, Azure Functions, and microservices architecture. Ensure backend development coherence across service interactions, data flows, integrations, cloud components, performance expectations, and security constraints. Review code, architectural designs, and cloud setups to ensure high quality, maintainability, and adherence to engineering standards. Promote modern engineering practices such as CI/CD, automated testing, observability, and cloud-native development. Troubleshoot and resolve complex technical issues in distributed and cloud-based backend systems. Support integration with frontend, mobile, and cloud platforms to ensure seamless end-to-end digital experiences. Contribute to technology evaluations and assess architectural impacts, scalability, and long-term sustainability of solution choices.",
       "tags": [
-        ".net"
+        "azure",
+        ".net",
+        "c#",
+        "ci/cd"
       ],
-      "published_at": "2026-04-15",
+      "published_at": "2026-04-21",
       "remote": false,
       "metadata": {},
-      "fingerprint": "547303bf24b7f3314f3c3bd2bcc0e4a93fc06d70"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4388481078",
-      "title": ".NET Developer [DNA]",
-      "company": "Virtusa",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-dna-at-virtusa-4388481078",
-      "description": ".NET Developer [DNA] .NET Developer [DNA] Virtusa Chennai, Tamil Nadu, India Actively Hiring 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-04-15",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "728b7011ec3cce4aaeb8d72aeb59641d24d3d6dc"
+      "fingerprint": "234c7c59dd6a8e8e9b0dc48b87bac6588957497f"
     }
   },
   {
@@ -418,7 +418,7 @@
       "company": "Deloitte",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-deloitte-4398468449",
-      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": ".Net Full Stack developer .Net Full Stack developer Deloitte Bengaluru, Karnataka, India 4 weeks ago",
       "tags": [
         ".net"
       ],
@@ -447,7 +447,7 @@
       "company": "Colan Infotech Private Limited",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-fresher-at-colan-infotech-private-limited-4387370475",
-      "description": ".NET Developer (Fresher) .NET Developer (Fresher) Colan Infotech Private Limited Chennai, Tamil Nadu, India Actively Hiring 1 month ago",
+      "description": ".NET Developer (Fresher) .NET Developer (Fresher) Colan Infotech Private Limited Chennai, Tamil Nadu, India 1 month ago",
       "tags": [
         ".net"
       ],
@@ -476,7 +476,7 @@
       "company": "EY",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/ttt-net-full-stack-azure-openai-staff-at-ey-4405137869",
-      "description": "TTT - .NET Full Stack- Azure OpenAI - Staff TTT - .NET Full Stack- Azure OpenAI - Staff EY Bengaluru, Karnataka, India Actively Hiring 1 week ago",
+      "description": "TTT - .NET Full Stack- Azure OpenAI - Staff TTT - .NET Full Stack- Azure OpenAI - Staff EY Bengaluru, Karnataka, India 1 week ago",
       "tags": [
         "azure",
         ".net"
@@ -506,7 +506,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-developers-java-azure-aws-net-at-infosys-4402344042",
-      "description": "Software Developers ( Java / Azure /AWS / .Net ) Software Developers ( Java / Azure /AWS / .Net ) Infosys Bengaluru East, Karnataka, India Actively Hiring 2 weeks ago",
+      "description": "Software Developers ( Java / Azure /AWS / .Net ) Software Developers ( Java / Azure /AWS / .Net ) Infosys Bengaluru East, Karnataka, India 2 weeks ago",
       "tags": [
         "azure",
         ".net"
