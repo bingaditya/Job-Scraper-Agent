@@ -1,18 +1,13 @@
 {
-  "generated_at": "2026-05-06T19:42:01.455093+00:00",
+  "generated_at": "2026-07-05T08:47:07.330525+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 76,
-  "deduplicated_jobs": 76,
-  "shortlisted_jobs": 13,
+  "raw_jobs": 50,
+  "deduplicated_jobs": 50,
+  "shortlisted_jobs": 0,
   "new_jobs": 0,
   "notifications_sent": 0,
   "score_threshold": 45,
-  "top_sources": [
-    [
-      "linkedin",
-      13
-    ]
-  ],
+  "top_sources": [],
   "source_stats": [
     {
       "source": "arbeitnow",
@@ -22,12 +17,12 @@
     {
       "source": "remoteok",
       "status": "ok",
-      "jobs_fetched": 16
+      "jobs_fetched": 10
     },
     {
       "source": "linkedin",
-      "status": "ok",
-      "jobs_fetched": 20
+      "status": "error",
+      "error": "429 Client Error: Too Many Requests for url: https://www.linkedin.com/jobs/search/?keywords=.Net+Developer&location=India&start=0"
     },
     {
       "source": "builtin",
@@ -42,7 +37,7 @@
     {
       "source": "indeed",
       "status": "error",
-      "error": "Indeed blocked automated requests with a security check (403)."
+      "error": "Indeed page shape changed and parser is not implemented for the new markup."
     },
     {
       "source": "naukri",
