@@ -2,4 +2,6 @@
 __pycache__/
 *.pyc
 config/profile.local.json
+config/profile.json
+assets/resume.md
 assets/resume.backups/
