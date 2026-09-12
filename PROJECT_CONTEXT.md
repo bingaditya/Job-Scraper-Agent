@@ -1058,4 +1058,40 @@ version (`fit_score: 100`) → all test data cleaned up from Supabase afterward.
 
 ---
 
+# 44. Scheduled Scraper Workflow — Disabled, Diagnosed, and Fixed (2026-09-13)
+
+User noticed the scraper hadn't been running on its normal schedule. Investigation found GitHub
+had auto-disabled `ai-agent.yml` (`disabled_inactivity`) — last successful-looking run was 10
+days prior, and the runs before that were all failing. Three distinct real bugs were found and
+fixed across this and the previous two sessions:
+
+1. **Telegram failure crashed the whole run** (fixed 2026-09-11, `job_hunter/agent.py`) — a
+   notification failure now degrades gracefully instead of preventing output from being written.
+2. **`config/profile.json` missing entirely in CI** — a direct, un-anticipated side effect of the
+   2026-09-10 PII purge: the *whole file* got gitignored when only a couple of fields in it were
+   ever sensitive (and some, like Groq/Supabase keys, only became sensitive later when added for
+   local convenience). CI checks out a repo with no `config/profile.json` at all → immediate crash
+   in `load_config()`. **Fixed** (user applied it directly, commit `cfa8007`): restored a
+   git-tracked `config/profile.json` containing the real, non-sensitive candidate/search/sources
+   config (skills, titles, locations, queries — this was never PII), with every secret field
+   (`notifications`, `storage`, `groq`) left as an empty string. `.gitignore` no longer lists
+   `config/profile.json`. **Going forward: real secrets for local runs belong in environment
+   variables (matching `docs/RESUME_API_SETUP.md`'s existing pattern), never inline in this file
+   again** — putting them back would just recreate this exact bug.
+3. **Concurrent-run push race** — `ai-agent.yml` had no `concurrency` guard (unlike `static.yml`,
+   which already had one), so two overlapping runs (observed live: a `push`-triggered run and a
+   `workflow_dispatch` run firing ~40 seconds apart) could both try to `git push` the same ref,
+   with the loser failing with a "fetch first" rejection. **Fixed**: added a
+   `concurrency: {group: ai-agent-${{ github.ref }}, cancel-in-progress: false}` block (queues
+   instead of racing) and `git pull --rebase --autostash origin main` before the push step as
+   defense-in-depth against any other out-of-band push landing mid-run (e.g. a manual `git push`
+   from local dev, which is exactly what caused today's own push to briefly collide too).
+
+**Status: confirmed fixed.** After all three fixes landed, a live run completed with conclusion
+`success`, including the commit-back and Pages-deploy steps. **The workflow itself was manually
+re-enabled by the user** (Actions tab → Enable workflow) — I have no API access to do this
+programmatically; if it ever gets auto-disabled again (60 days with no runs), that's the fix.
+
+---
+
 # END OF PROJECT CONTEXT
