@@ -64,7 +64,12 @@ class JobHunterAgent:
         new_ranked_jobs = [
             job for job in ranked_jobs if job.job.fingerprint() not in seen_job_ids
         ]
-        notifications_sent = notifier.notify(new_ranked_jobs)
+        notification_error: str | None = None
+        try:
+            notifications_sent = notifier.notify(new_ranked_jobs)
+        except Exception as exc:
+            notifications_sent = 0
+            notification_error = str(exc)
         all_seen_job_ids = seen_job_ids | {job.job.fingerprint() for job in ranked_jobs}
 
         summary = {
@@ -75,6 +80,7 @@ class JobHunterAgent:
             "shortlisted_jobs": len(ranked_jobs),
             "new_jobs": len(new_ranked_jobs),
             "notifications_sent": notifications_sent,
+            "notification_error": notification_error,
             "score_threshold": self.config.search.min_score,
             "top_sources": Counter(job.job.source for job in ranked_jobs).most_common(),
             "source_stats": source_stats,
@@ -86,6 +92,7 @@ class JobHunterAgent:
             database_dir=self.database_dir,
             dashboard_dir=self.dashboard_dir,
             dashboard_api_url=self.config.dashboard_api_url,
+            raw_jobs=deduped_jobs,
         )
         return summary
 

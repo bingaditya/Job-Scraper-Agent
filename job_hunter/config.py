@@ -59,12 +59,29 @@ class AIConfig:
 
 
 @dataclass(slots=True)
+class StorageConfig:
+    supabase_url: str | None = None
+    supabase_publishable_key: str | None = None
+    supabase_secret_key: str | None = None
+    resume_bucket: str = "resumes"
+
+
+@dataclass(slots=True)
+class GroqConfig:
+    api_key: str | None = None
+    model: str = "openai/gpt-oss-120b"
+    base_url: str = "https://api.groq.com/openai/v1"
+
+
+@dataclass(slots=True)
 class AppConfig:
     candidate: CandidateProfile
     search: SearchConfig
     sources: SourceConfig
     notifications: NotificationConfig
     ai: AIConfig
+    storage: StorageConfig
+    groq: GroqConfig
     dashboard_api_url: str | None = None
 
 
@@ -74,6 +91,8 @@ def load_config(path: Path) -> AppConfig:
 
     notifications = raw.get("notifications", {})
     ai = raw.get("ai", {})
+    storage = raw.get("storage", {})
+    groq = raw.get("groq", {})
 
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN") or notifications.get("telegram_bot_token")
     chat_id = os.getenv("TELEGRAM_CHAT_ID") or notifications.get("telegram_chat_id")
@@ -97,6 +116,21 @@ def load_config(path: Path) -> AppConfig:
             ollama_model=ollama_model,
             ollama_base_url=ollama_base_url,
             max_tailored_jobs=ai.get("max_tailored_jobs", 5),
+        ),
+        storage=StorageConfig(
+            supabase_url=os.getenv("SUPABASE_URL") or storage.get("supabase_url"),
+            supabase_publishable_key=(
+                os.getenv("SUPABASE_PUBLISHABLE_KEY") or storage.get("supabase_publishable_key")
+            ),
+            supabase_secret_key=(
+                os.getenv("SUPABASE_SECRET_KEY") or storage.get("supabase_secret_key")
+            ),
+            resume_bucket=storage.get("resume_bucket", "resumes"),
+        ),
+        groq=GroqConfig(
+            api_key=os.getenv("GROQ_API_KEY") or groq.get("api_key"),
+            model=os.getenv("GROQ_MODEL") or groq.get("model", "openai/gpt-oss-120b"),
+            base_url=groq.get("base_url", "https://api.groq.com/openai/v1"),
         ),
         dashboard_api_url=dashboard_api_url,
     )

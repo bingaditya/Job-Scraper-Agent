@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "job_id": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7",
+    "title": "Dotnet Developer\nJaipur",
+    "company": "VertexPlus",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "6dcb021bcaeede95d22a2175e8de1f5d315290e3",
+    "title": "Dot Net Developer",
+    "company": "VenPep Group",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at VenPep Group by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "Html"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "191a9f8b6c86627ea7bfda4eae97c4e65dbaae19",
+    "title": "Senior Software Engineer - Java/.net/python/go, API development, gen AI - Chennai, Bangalore",
+    "company": "Optum",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior Software Engineer - Java/.net/python/go, API development, gen AI - Chennai, Bangalore at Optum by foregrounding Python, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
+      ],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "879e3157a612b9bdd754bacc83fc2d6c2c311fab",
+    "title": "Sr.  Software Engineer (8+ Years in C#.Net + .NetCore 6+ +SQL + Azure DevOps)",
+    "company": "Assurant",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Sr.  Software Engineer (8+ Years in C#.Net + .NetCore 6+ +SQL + Azure DevOps) at Assurant by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
+      ],
+      "missing_resume_keywords": [
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "95cd27d4647efb882550c463f39cee4fda1a5cf1",
+    "title": "Sr Software Engineer [.NET]",
+    "company": "Equiniti",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Sr Software Engineer [.NET] at Equiniti by foregrounding Azure, SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  }
+]

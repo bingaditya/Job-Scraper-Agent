@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from job_hunter.models import RankedJob
+from job_hunter.models import JobListing, RankedJob
 
 
 def load_seen_job_ids(state_path: Path) -> set[str]:
@@ -48,9 +48,16 @@ def write_outputs(
     database_dir: Path,
     dashboard_dir: Path,
     dashboard_api_url: str | None = None,
+    raw_jobs: list[JobListing] | None = None,
 ) -> None:
     database_dir.mkdir(parents=True, exist_ok=True)
     dashboard_dir.mkdir(parents=True, exist_ok=True)
+
+    if raw_jobs is not None:
+        (database_dir / "raw_jobs.json").write_text(
+            json.dumps([job.to_dict() for job in raw_jobs], indent=2),
+            encoding="utf-8",
+        )
 
     jobs_payload = [job.to_dict() for job in ranked_jobs]
     suggestions_payload = [

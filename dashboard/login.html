@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Job Hunter — My Resume</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; color: #1a1a1a; }
+  h1 { font-size: 1.4rem; }
+  section { margin-bottom: 28px; padding: 16px; border: 1px solid #ddd; border-radius: 8px; }
+  label { display: block; margin: 8px 0 4px; font-size: 0.9rem; }
+  input[type="email"], input[type="password"], input[type="text"], textarea {
+    width: 100%; padding: 8px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;
+  }
+  textarea { min-height: 100px; }
+  button { margin-top: 12px; padding: 8px 16px; border: none; border-radius: 4px; background: #1f3964; color: #fff; cursor: pointer; }
+  button:disabled { background: #999; cursor: not-allowed; }
+  .row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid #eee; }
+  .muted { color: #666; font-size: 0.85rem; }
+  .error { color: #b00020; font-size: 0.9rem; margin-top: 8px; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+  <h1>AI Job Hunter — My Resume</h1>
+
+  <section id="auth-section">
+    <h2>Sign in</h2>
+    <label for="email">Email</label>
+    <input id="email" type="email" autocomplete="email" />
+    <label for="password">Password</label>
+    <input id="password" type="password" autocomplete="current-password" />
+    <div>
+      <button id="login-btn">Log in</button>
+      <button id="signup-btn">Sign up</button>
+      <button id="logout-btn" hidden>Log out</button>
+    </div>
+    <p id="auth-error" class="error" hidden></p>
+    <p id="auth-status" class="muted"></p>
+  </section>
+
+  <section id="resume-section" hidden>
+    <h2>My resume</h2>
+    <label for="file-input">Upload a .docx resume</label>
+    <input id="file-input" type="file" accept=".docx" />
+    <button id="upload-btn">Upload</button>
+    <p id="upload-status" class="muted"></p>
+    <div id="version-list"></div>
+  </section>
+
+  <section id="jobs-section" hidden>
+    <h2>Job matches for you</h2>
+    <p class="muted">Scored against the skills found in your uploaded resume. Click Apply to tailor your resume for that job.</p>
+    <button id="refresh-jobs-btn">Refresh matches</button>
+    <p id="jobs-status" class="muted"></p>
+    <div id="job-list"></div>
+  </section>
+
+  <section id="tailor-section" hidden>
+    <h2>Or tailor for a job manually</h2>
+    <label for="job-title">Job title</label>
+    <input id="job-title" type="text" placeholder="e.g. Senior Data Engineer" />
+    <label for="job-description">Job description</label>
+    <textarea id="job-description" placeholder="Paste the job description here"></textarea>
+    <label for="skills">Skills to emphasize (comma-separated)</label>
+    <input id="skills" type="text" placeholder="e.g. Python, Azure, SQL" />
+    <button id="tailor-btn">Tailor Resume</button>
+    <p id="tailor-status" class="muted"></p>
+  </section>
+
+  <script type="module">
+    const params = new URLSearchParams(window.location.search);
+    const DEFAULT_API_BASE = "http://127.0.0.1:8001";
+    let API_BASE = params.get("api") || localStorage.getItem("resume_api_base") || DEFAULT_API_BASE;
+    if (params.get("api")) localStorage.setItem("resume_api_base", params.get("api"));
+
+    const authSection = document.getElementById("auth-section");
+    const resumeSection = document.getElementById("resume-section");
+    const authError = document.getElementById("auth-error");
+    const authStatus = document.getElementById("auth-status");
+    const loginBtn = document.getElementById("login-btn");
+    const signupBtn = document.getElementById("signup-btn");
+    const logoutBtn = document.getElementById("logout-btn");
+    const uploadBtn = document.getElementById("upload-btn");
+    const uploadStatus = document.getElementById("upload-status");
+    const versionList = document.getElementById("version-list");
+    const fileInput = document.getElementById("file-input");
+    const tailorSection = document.getElementById("tailor-section");
+    const tailorBtn = document.getElementById("tailor-btn");
+    const tailorStatus = document.getElementById("tailor-status");
+    const jobsSection = document.getElementById("jobs-section");
+    const jobsStatus = document.getElementById("jobs-status");
+    const jobList = document.getElementById("job-list");
+    const refreshJobsBtn = document.getElementById("refresh-jobs-btn");
+
+    let supabaseClient = null;
+
+    async function init() {
+      const configResp = await fetch(`${API_BASE}/api/config`);
+      if (!configResp.ok) {
+        authError.textContent = `Could not reach the resume API at ${API_BASE}/api/config. Add ?api=<your-api-url> to the page URL if it runs elsewhere.`;
+        authError.hidden = false;
+        return;
+      }
+      const config = await configResp.json();
+      supabaseClient = supabase.createClient(config.supabase_url, config.supabase_publishable_key);
+
+      const { data: { session } } = await supabaseClient.auth.getSession();
+      updateAuthUi(session);
+
+      supabaseClient.auth.onAuthStateChange((_event, session) => updateAuthUi(session));
+    }
+
+    function updateAuthUi(session) {
+      authError.hidden = true;
+      if (session) {
+        authStatus.textContent = `Signed in as ${session.user.email}`;
+        logoutBtn.hidden = false;
+        loginBtn.hidden = true;
+        signupBtn.hidden = true;
+        resumeSection.hidden = false;
+        tailorSection.hidden = false;
+        jobsSection.hidden = false;
+        loadVersions();
+        loadJobMatches();
+      } else {
+        authStatus.textContent = "";
+        logoutBtn.hidden = true;
+        loginBtn.hidden = false;
+        signupBtn.hidden = false;
+        resumeSection.hidden = true;
+        tailorSection.hidden = true;
+        jobsSection.hidden = true;
+      }
+    }
+
+    async function currentToken() {
+      const { data: { session } } = await supabaseClient.auth.getSession();
+      return session ? session.access_token : null;
+    }
+
+    loginBtn.addEventListener("click", async () => {
+      const email = document.getElementById("email").value;
+      const password = document.getElementById("password").value;
+      const { error } = await supabaseClient.auth.signInWithPassword({ email, password });
+      if (error) {
+        authError.textContent = error.message;
+        authError.hidden = false;
+      }
+    });
+
+    signupBtn.addEventListener("click", async () => {
+      const email = document.getElementById("email").value;
+      const password = document.getElementById("password").value;
+      const { error } = await supabaseClient.auth.signUp({ email, password });
+      if (error) {
+        authError.textContent = error.message;
+        authError.hidden = false;
+      } else {
+        authStatus.textContent = "Check your email to confirm your account, then log in.";
+      }
+    });
+
+    logoutBtn.addEventListener("click", async () => {
+      await supabaseClient.auth.signOut();
+    });
+
+    uploadBtn.addEventListener("click", async () => {
+      const file = fileInput.files[0];
+      if (!file) {
+        uploadStatus.textContent = "Choose a .docx file first.";
+        return;
+      }
+      uploadStatus.textContent = "Uploading...";
+      const token = await currentToken();
+      const formData = new FormData();
+      formData.append("file", file);
+      const resp = await fetch(`${API_BASE}/api/resumes`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}` },
+        body: formData,
+      });
+      if (!resp.ok) {
+        const body = await resp.json().catch(() => ({}));
+        uploadStatus.textContent = `Upload failed: ${body.detail || resp.statusText}`;
+        return;
+      }
+      uploadStatus.textContent = "Uploaded.";
+      fileInput.value = "";
+      loadVersions();
+    });
+
+    async function loadVersions() {
+      const token = await currentToken();
+      const resp = await fetch(`${API_BASE}/api/resumes`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      if (!resp.ok) return;
+      const versions = await resp.json();
+      versionList.innerHTML = "";
+      if (versions.length === 0) {
+        versionList.innerHTML = '<p class="muted">No resumes uploaded yet.</p>';
+        return;
+      }
+      for (const v of versions) {
+        const row = document.createElement("div");
+        row.className = "row";
+        const label = document.createElement("span");
+        label.textContent = `v${v.version_number} — ${v.original_filename}${v.is_current ? " (current)" : ""}${v.job_title ? ` — tailored for ${v.job_title}` : ""}`;
+        const downloadBtn = document.createElement("button");
+        downloadBtn.textContent = "Download";
+        downloadBtn.addEventListener("click", () => downloadVersion(v.id, v.original_filename));
+        row.appendChild(label);
+        row.appendChild(downloadBtn);
+        versionList.appendChild(row);
+      }
+    }
+
+    async function runTailor({ jobTitle, jobDescription, jobId, skills, statusEl, triggerBtn }) {
+      triggerBtn.disabled = true;
+      statusEl.textContent = "Tailoring... (this can take a few seconds)";
+      const token = await currentToken();
+      try {
+        const resp = await fetch(`${API_BASE}/api/resumes/tailor`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+          body: JSON.stringify({
+            job_title: jobTitle,
+            job_description: jobDescription,
+            job_id: jobId || null,
+            skills: skills || [],
+          }),
+        });
+        const body = await resp.json();
+        if (!resp.ok) {
+          statusEl.textContent = `Tailoring failed: ${body.detail || resp.statusText}`;
+        } else if (!body.changed) {
+          statusEl.textContent = "No changes were needed — your resume already covers these skills.";
+        } else {
+          statusEl.textContent = `Tailored resume saved as v${body.version.version_number} (mode: ${body.version.tailoring_mode}). Previous version kept as backup.`;
+          loadVersions();
+        }
+      } finally {
+        triggerBtn.disabled = false;
+      }
+    }
+
+    tailorBtn.addEventListener("click", () => {
+      const jobTitle = document.getElementById("job-title").value.trim();
+      const jobDescription = document.getElementById("job-description").value.trim();
+      const skills = document.getElementById("skills").value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      if (!jobTitle || !jobDescription) {
+        tailorStatus.textContent = "Job title and description are required.";
+        return;
+      }
+      runTailor({ jobTitle, jobDescription, skills, statusEl: tailorStatus, triggerBtn: tailorBtn });
+    });
+
+    async function loadJobMatches() {
+      jobsStatus.textContent = "Loading matches...";
+      const token = await currentToken();
+      const resp = await fetch(`${API_BASE}/api/jobs`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      if (!resp.ok) {
+        jobsStatus.textContent = "Could not load job matches.";
+        return;
+      }
+      const body = await resp.json();
+      jobList.innerHTML = "";
+      if (body.message) {
+        jobsStatus.textContent = body.message;
+      } else {
+        jobsStatus.textContent = `${body.jobs.length} match(es) found.`;
+      }
+      for (const job of body.jobs) {
+        const row = document.createElement("div");
+        row.className = "row";
+        const info = document.createElement("span");
+        info.innerHTML = `<strong>${job.title}</strong> at ${job.company} — ${job.location} (score ${job.score}/100)<br><span class="muted">${job.reasons.join("; ")}</span>`;
+        const applyBtn = document.createElement("button");
+        applyBtn.textContent = "Apply";
+        const jobStatus = document.createElement("span");
+        jobStatus.className = "muted";
+        applyBtn.addEventListener("click", () => {
+          runTailor({
+            jobTitle: job.title,
+            jobDescription: job.description,
+            jobId: job.job_id,
+            skills: job.matched_skills,
+            statusEl: jobStatus,
+            triggerBtn: applyBtn,
+          });
+        });
+        row.appendChild(info);
+        row.appendChild(applyBtn);
+        jobList.appendChild(row);
+        jobList.appendChild(jobStatus);
+      }
+    }
+
+    refreshJobsBtn.addEventListener("click", loadJobMatches);
+
+    async function downloadVersion(versionId, filename) {
+      const token = await currentToken();
+      const resp = await fetch(`${API_BASE}/api/resumes/${versionId}/download`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      if (!resp.ok) return;
+      const blob = await resp.blob();
+      const url = URL.createObjectURL(blob);
+      const anchor = document.createElement("a");
+      anchor.href = url;
+      anchor.download = filename;
+      document.body.appendChild(anchor);
+      anchor.click();
+      anchor.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    init();
+  </script>
+</body>
+</html>

@@ -66,5 +66,16 @@
     "ollama_model": "",
     "ollama_base_url": "http://127.0.0.1:11434",
     "max_tailored_jobs": 5
+  },
+  "storage": {
+    "supabase_url": "",
+    "supabase_publishable_key": "",
+    "supabase_secret_key": "",
+    "resume_bucket": "resumes"
+  },
+  "groq": {
+    "api_key": "",
+    "model": "openai/gpt-oss-120b",
+    "base_url": "https://api.groq.com/openai/v1"
   }
 }

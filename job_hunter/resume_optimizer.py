@@ -7,6 +7,7 @@ from pathlib import Path
 import requests
 
 from job_hunter.config import AIConfig, CandidateProfile
+from job_hunter.keyword_utils import fit_score, present_keywords
 from job_hunter.models import JobListing, ResumeSuggestion
 
 
@@ -227,15 +228,11 @@ class ResumeOptimizer:
         ]
 
     def resume_fit_score(self, resume_text: str, keywords: list[str]) -> int:
-        if not keywords:
-            return 100
-        matched = len(self._present_keywords(resume_text, keywords))
-        return int(round((matched / len(keywords)) * 100))
+        return fit_score(resume_text, keywords)
 
     @staticmethod
     def _present_keywords(resume_text: str, keywords: list[str]) -> list[str]:
-        lowered_resume = resume_text.lower()
-        return [keyword for keyword in keywords if keyword.lower() in lowered_resume]
+        return present_keywords(resume_text, keywords)
 
     def _with_tailoring_comment(
         self,
