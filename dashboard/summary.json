@@ -1,21 +1,17 @@
 {
-  "generated_at": "2026-09-12T13:34:12.286921+00:00",
+  "generated_at": "2026-09-12T19:53:14.603758+00:00",
   "candidate": "Candidate Name",
   "raw_jobs": 76,
   "deduplicated_jobs": 76,
-  "shortlisted_jobs": 22,
-  "new_jobs": 22,
+  "shortlisted_jobs": 16,
+  "new_jobs": 1,
   "notifications_sent": 0,
-  "notification_error": "401 Client Error: Unauthorized for url: https://api.telegram.org/bot8535304782:AAHAtkUpAIqHAN81isry7tVfKmU5F-uM9zo/sendMessage",
+  "notification_error": null,
   "score_threshold": 45,
   "top_sources": [
     [
       "linkedin",
-      15
-    ],
-    [
-      "builtin",
-      7
+      16
     ]
   ],
   "source_stats": [
