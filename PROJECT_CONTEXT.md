@@ -1003,4 +1003,59 @@ health checks identically).
 
 ---
 
+# 43. Production Deployment (2026-09-12, DONE)
+
+**Live URLs**:
+- Frontend: `https://bingaditya.github.io/Job-Scraper-Agent/dashboard/login.html` (served by the
+  "deploy whole repo" `static.yml` workflow — this is the one actually active for Pages, not the
+  `dashboard/`-only artifact `ai-agent.yml` also uploads; the two workflows overlapping is a
+  pre-existing characteristic of this repo, not something changed today. If Pages behavior ever
+  seems inconsistent, check which workflow's artifact is actually the current Pages source.)
+- Resume API: `https://job-scraper-resume-api.onrender.com` (new second Render service, defined
+  in `render.yaml` alongside the pre-existing `job-scraper-agent-api` service which is unaffected)
+
+## What was done to deploy
+
+1. Fixed a real blocker before deploying: the resume API's `create_app()` calls `load_config()`,
+   which requires `candidate`/`search` keys that only exist in the gitignored real
+   `config/profile.json` — never present on Render. Fixed by setting `PROFILE_PATH=config/profile.example.json`
+   for the new service (valid placeholder candidate/search data) with real secrets injected via
+   Render env vars for the fields that matter (`storage`/`groq`), which env-var overrides already
+   take priority for. No code change needed — verified locally with this exact combination before
+   deploying.
+2. Committed and pushed all of Sections 41/42's work (39 files) — git identity had to be set
+   first (`git config user.name/user.email`, per-repo, at explicit user request: "Aditya Raj" /
+   `cusat.adityaraj@gmail.com` — this machine had no git identity configured at all before this).
+3. User created the second Render web service manually (not via Blueprint sync — their existing
+   service predates the render.yaml Blueprint pattern) with build command
+   `pip install -r requirements.txt` and start command
+   `uvicorn job_hunter.api.app:app --host 0.0.0.0 --port $PORT`.
+4. **Real bug found and fixed live**: `ALLOWED_ORIGINS` was initially set to
+   `https://bingaditya.github.io/Job-Scraper-Agent/` (full path + trailing slash) — CORS `Origin`
+   headers are always scheme+host only, so this never matched and every browser request from the
+   real Pages site was rejected with "Disallowed CORS origin". Fixed by correcting the env var to
+   exactly `https://bingaditya.github.io`. **If CORS errors ever recur, check this value first —
+   it must never include a path or trailing slash.**
+5. Updated `dashboard/login.html`'s `DEFAULT_API_BASE` from `http://127.0.0.1:8001` to the
+   production Render URL (committed/pushed separately) — local dev still works via
+   `?api=http://127.0.0.1:8001` once, remembered in `localStorage` after that.
+
+## Live verification — PASSED (full chain, against the actual deployed URLs, not local)
+
+Real signup (admin-created + confirmed, same technique as local testing) → real upload to the
+deployed API → `GET /api/jobs` correctly personalized against the real 76-job pool already
+committed to `database/raw_jobs.json` (a genuine resume scored "Senior Data Engineer" at 94,
+sensible lower scores below it) → Apply/tailor via the deployed API produced a real Groq-tailored
+version (`fit_score: 100`) → all test data cleaned up from Supabase afterward.
+
+## Known operational notes
+
+- Render free-tier services sleep after inactivity; the first request after idle time will be
+  slow (~30-60s cold start) — not a bug.
+- `database/raw_jobs.json` (and the rest of `database/*.json`) only gets refreshed when
+  `main_agent.py` actually runs (GitHub Actions, every 6h, or manually) — the resume API reads
+  whatever is currently committed, it does not scrape anything itself.
+
+---
+
 # END OF PROJECT CONTEXT
