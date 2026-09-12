@@ -71,7 +71,8 @@
 
   <script type="module">
     const params = new URLSearchParams(window.location.search);
-    const DEFAULT_API_BASE = "http://127.0.0.1:8001";
+    // Local dev: open this page with ?api=http://127.0.0.1:8001 once; it's remembered after that.
+    const DEFAULT_API_BASE = "https://job-scraper-resume-api.onrender.com";
     let API_BASE = params.get("api") || localStorage.getItem("resume_api_base") || DEFAULT_API_BASE;
     if (params.get("api")) localStorage.setItem("resume_api_base", params.get("api"));
 
