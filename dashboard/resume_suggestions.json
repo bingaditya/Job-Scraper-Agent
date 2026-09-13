@@ -28,92 +28,12 @@
     }
   },
   {
-    "job_id": "f9767c3aee32174788c8cffbde7202a476e9579b",
-    "title": "Senior .NET/C# Developer",
-    "company": "Aspire Software",
+    "job_id": "06634cdcd3017295be00e978e1fb3c39f861c60b",
+    "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
+    "company": "Citrus Informatics (India) Pvt Ltd",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "609fc921235b463e49e47038ad890f8a68c91578",
-    "title": ".Net Senior Developer",
-    "company": "Infosys",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Senior Developer at Infosys by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "16064c17be34e2df48d83dd484da233ef396817c",
-    "title": "Dot Net Developer",
-    "company": "Fiddle Leaf Solutions",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at Fiddle Leaf Solutions by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "dd0559f26ad8d5a7cc114fa5f31a5a2157c1ba8f",
-    "title": ".NET Backend Engineer",
-    "company": "Ascendion",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .NET Backend Engineer at Ascendion by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         "SQL",
         "C#",
@@ -128,6 +48,82 @@
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "84ce8f1b56bb86d0f392eb9238338c8fe555383f",
+    "title": "Dotnet Developer",
+    "company": "VAYUZ Technologies",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "3a73524ece99d3a942a163f93c40b2a50a9a5bfb",
+    "title": "Senior Dotnet Developer",
+    "company": "Saxo Bank",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior Dotnet Developer at Saxo Bank by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "c6bfde02e5931608803092fca00331edb55998a4",
+    "title": "Software Engineer II (Angular/.NET/MsSql)",
+    "company": "Vertafore",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Software Engineer II (Angular/.NET/MsSql) at Vertafore by foregrounding SQL, .Net, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        ".Net",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        ".Net",
+        "JavaScript"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
