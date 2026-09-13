@@ -14,7 +14,10 @@ from job_hunter.resume_store import ResumeStore
 
 _SENTRY_DSN = os.environ.get("SENTRY_DSN")
 if _SENTRY_DSN:
-    sentry_sdk.init(dsn=_SENTRY_DSN, traces_sample_rate=0.1)
+    try:
+        sentry_sdk.init(dsn=_SENTRY_DSN, traces_sample_rate=0.1)
+    except Exception as exc:
+        print(f"Sentry init failed, continuing without error reporting: {exc}")
 
 
 def create_app() -> FastAPI:

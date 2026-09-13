@@ -14,7 +14,10 @@ from job_hunter.dashboard_service import DashboardService
 
 _SENTRY_DSN = os.environ.get("SENTRY_DSN")
 if _SENTRY_DSN:
-    sentry_sdk.init(dsn=_SENTRY_DSN, traces_sample_rate=0.1)
+    try:
+        sentry_sdk.init(dsn=_SENTRY_DSN, traces_sample_rate=0.1)
+    except Exception as exc:
+        print(f"Sentry init failed, continuing without error reporting: {exc}")
 
 
 # This server serves the dashboard static files and provides APIs for health check, resume metadata retrieval, and resume tailoring.
