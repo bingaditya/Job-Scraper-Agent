@@ -53,10 +53,14 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload dashboard artifact
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dashboard
+          # Upload the whole repo (not just dashboard/) so the deployed URL scheme matches
+          # https://bingaditya.github.io/Job-Scraper-Agent/dashboard/login.html. This is now the
+          # sole Pages deployer (static.yml was removed) since a push made by this job's own
+          # GITHUB_TOKEN commit does not retrigger other workflows.
+          path: '.'
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4

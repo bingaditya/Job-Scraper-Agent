@@ -1169,9 +1169,60 @@ DSN/monitor setup needed the user directly (no API access/credentials for either
 this session).
 
 **Status**: code changes made and unit-tested (`sentry-sdk` installed locally, `create_app()`
-still imports/inits cleanly with `SENTRY_DSN` unset, all 31 existing tests still pass). **Not yet
-live-verified** — that requires the user to actually create the Sentry/Better Stack accounts and
-supply the real DSN/monitor URLs; do that before considering this feature done end-to-end.
+still imports/inits cleanly with `SENTRY_DSN` unset, all 31 existing tests still pass). **Live
+verification, part 1 — real Sentry event delivered**: user created the Sentry project and shared
+the real DSN; a real test exception was sent from this session and confirmed delivered (event id
+returned, flush succeeded). **Both Better Stack uptime monitors also set up** by the user
+afterward, against the corrected `/api/health` URLs above, with the `job-scraper-agent` monitor's
+method explicitly set to GET.
+
+**Real incident during rollout — bad DSN crashed both production services.** The value pasted
+into Render's `SENTRY_DSN` for both services was actually Sentry's **OTLP Endpoint** URL (a
+different field on the same project settings page), not the DSN — it lacks the `<key>@` userinfo
+segment that a DSN requires, so `sentry_sdk.init()` raised `BadDsn: Missing public key` at import
+time and crashed both `dashboard_server.py` and `job_hunter/api/app.py` on boot, taking down both
+Render services. **Fixed two ways**: (1) immediately wrapped both `sentry_sdk.init()` calls in
+`try/except`, logging a warning and continuing without error reporting instead of crashing — a
+malformed monitoring credential must never be able to take down the app it's monitoring; (2) told
+the user to correct the env var to the actual DSN (`https://<key>@<org>.ingest.us.sentry.io/
+<project-id>`), not the OTLP endpoint. **Lesson for future config-via-env-var features**: treat
+every externally-supplied credential/config value as untrusted input at startup — wrap
+initialization in try/except rather than assuming a copy-pasted value is well-formed.
+
+---
+
+# 47. GitHub Pages Deploy Race — Two Workflows, One Environment (2026-09-13, FIXED)
+
+**Symptom**: the documented production login URL,
+`https://bingaditya.github.io/Job-Scraper-Agent/dashboard/login.html` (Section 43), started
+404ing. Investigated via the GitHub REST API (no `gh` CLI available in this session's shell) —
+`GET /repos/.../pages` 404'd, but the site itself was live at the *repo root* with `login.html`
+(no `/dashboard/` prefix) serving the correct page content.
+
+**Root cause**: two workflows both deployed to the same `github-pages` Actions environment on
+every push to `main`, with different content roots:
+- `static.yml` ("Deploy static content to Pages", GitHub's default template) uploaded the whole
+  repo (`path: '.'`) → URL scheme `/dashboard/login.html`.
+- `ai-agent.yml` uploaded only `path: ./dashboard` → URL scheme `/login.html` (no prefix).
+
+Both trigger on `push: [main]`; GitHub Pages only ever serves the *last* deployment to finish, so
+the live URL scheme silently flipped depending on which workflow's run finished last — a genuine
+race, not a one-time misconfiguration. `ai-agent.yml` additionally needs to self-deploy Pages
+after its own scrape run because a push made using a workflow's own `GITHUB_TOKEN` does **not**
+retrigger other workflows (a GitHub anti-loop protection) — so simply deleting `ai-agent.yml`'s
+Pages step would have made the dashboard go stale between manual pushes, since only
+`ai-agent.yml`'s own commits actually contain the fresh `dashboard/*.json` scrape output.
+
+**Fix chosen** (of 3 options given to the user — keep both workflows in sync a different way, or
+just document the current URL, or this): changed `ai-agent.yml`'s upload step to `path: '.'`
+(matching `static.yml`'s scheme) and deleted `static.yml` entirely, since it becomes fully
+redundant once `ai-agent.yml` covers the same push trigger with the same content root. This keeps
+the documented `/dashboard/login.html` URL **permanently** correct with no race, since there is
+now exactly one Pages-deploying workflow.
+
+**Status**: YAML change validated locally (`pyyaml.safe_load`), pushed. Not yet re-verified live
+against a fresh push (the next push to `main` — including the next 6-hourly scrape run — will be
+the real test that `/dashboard/login.html` stays live).
 
 ---
 
