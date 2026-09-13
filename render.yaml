@@ -4,6 +4,9 @@ services:
     runtime: python
     buildCommand: pip install -r requirements.txt
     startCommand: python dashboard_server.py --host 0.0.0.0
+    envVars:
+      - key: SENTRY_DSN
+        sync: false
 
   - type: web
     name: job-scraper-resume-api
@@ -24,4 +27,6 @@ services:
       - key: GROQ_API_KEY
         sync: false
       - key: ALLOWED_ORIGINS
+        sync: false
+      - key: SENTRY_DSN
         sync: false

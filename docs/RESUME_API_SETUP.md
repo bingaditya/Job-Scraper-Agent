@@ -65,3 +65,40 @@ it's remembered in `localStorage` after that.
 Add the same environment variables to the Render service running this API, and set
 `ALLOWED_ORIGINS` to the actual origin(s) serving `dashboard/login.html` in production
 (avoid leaving it as `*` for this authenticated surface).
+
+## 7. Monitoring (Sentry + Better Stack)
+
+Both Render services (`job-scraper-agent-api` and `job-scraper-resume-api`) now report
+unhandled exceptions to Sentry if `SENTRY_DSN` is set (no-op otherwise, and every existing test
+already runs with it unset). Errors and uptime are two separate free tools — set up both:
+
+### Sentry (error tracking)
+
+1. Sign up free at [sentry.io](https://sentry.io) and create a project — choose **Python** as the
+   platform (works for both services; FastAPI is auto-detected for the resume API, the
+   `dashboard_server.py` one reports via manual `capture_exception` calls).
+2. Copy the **DSN** shown on the project's setup page (looks like
+   `https://<key>@<org>.ingest.sentry.io/<project>`).
+3. Set `SENTRY_DSN` to that value:
+   - Locally: `$env:SENTRY_DSN="https://..."` before running either server.
+   - On Render: **Dashboard → each service → Environment → Add Environment Variable** →
+     `SENTRY_DSN` (already declared in `render.yaml` with `sync: false`, so Render will prompt
+     for the value instead of expecting it committed).
+4. Trigger a real error (e.g. hit `/api/tailor-resume` with a bad `job_id` — or temporarily raise
+   an exception) and confirm it shows up in the Sentry project's Issues tab.
+
+### Better Stack (uptime monitoring)
+
+1. Sign up free at [betterstack.com](https://betterstack.com) → **Uptime**.
+2. Add a monitor for each service's health endpoint (both are under `/api/health` — the resume
+   API's router has an `/api` prefix too, not `/health` on its own):
+   - `https://job-scraper-agent.onrender.com/api/health` — note the exact hostname has no `-api`
+     suffix (see `dashboard/api_config.json`); `job-scraper-agent-api.onrender.com` is NOT a live
+     host. Also, this service only implements `GET`, not `HEAD`, on this path — make sure the
+     monitor is configured to use GET or it will falsely report down.
+   - `https://job-scraper-resume-api.onrender.com/api/health`
+3. Set the check interval (free tier supports down to 3 minutes) and add your email/phone under
+   **On-call** for alerts.
+4. Note: Render free-tier services sleep after inactivity, so expect an occasional false "down"
+   alert on cold start (~30-60s) — this is expected, not a real outage (see `PROJECT_CONTEXT.md`
+   Section 43's "Known operational notes").

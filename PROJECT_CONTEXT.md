@@ -1094,4 +1094,85 @@ programmatically; if it ever gets auto-disabled again (60 days with no runs), th
 
 ---
 
+# 45. Live Per-User Job Queries for API Sources (2026-09-13)
+
+**Problem**: `GET /api/jobs` (Section 42) only ranked jobs from the shared, periodically-crawled
+pool (`database/raw_jobs.json`, refreshed every 6h by `main_agent.py`). That pool's *content* is
+the same for every user regardless of their resume — only the *ranking/filtering* was
+per-user. The user wanted results that are genuinely fetched based on each user's own resume,
+not just re-sorted from one shared crawl.
+
+**Decision**: query Arbeitnow and RemoteOK **live, at request time**, using that user's own
+extracted titles/skills as the search terms — chosen over (a) increasing shared-crawl frequency
+or (b) live-querying all five sources, because Arbeitnow/RemoteOK are real JSON APIs (fast, no
+rate-limit/ban risk) while LinkedIn/BuiltIn/Himalayas are fragile HTML scrapes that stay
+shared-crawl-only. This reuses the existing `ArbeitnowSource`/`RemoteOKSource` classes
+unmodified (`job_hunter/sources/`) and doesn't touch the scraping pipeline at all.
+
+**Implementation** (`job_hunter/api/routes_jobs.py`):
+- New `get_live_sources(request)` dependency, defaulting to fresh `ArbeitnowSource`/
+  `RemoteOKSource` instances (capped at `LIVE_QUERY_JOB_LIMIT = 15` each) unless
+  `app.state.live_job_sources` is set — same override pattern as `get_raw_jobs_path`.
+- `_fetch_live_jobs()` calls `queries=preferred_titles`, `keywords=dedupe(titles + skills)` on
+  each live source and **swallows any exception per-source** — a slow/down live API degrades to
+  "just the shared pool," never a broken response.
+- `_dedupe_jobs()` merges live results with the loaded shared pool by URL (fallback:
+  fingerprint) before scoring, so a job both live-fetched and already in the shared pool isn't
+  shown twice.
+- Existing `score_job`/`job_matches_location` ranking logic is untouched.
+
+**Tests added** (`tests/test_jobs_route.py`): live jobs merge into results; a duplicate between
+live and shared pool isn't repeated; a live source that raises doesn't break the response. The
+test harness now overrides `get_live_sources` to `[]` by default so existing tests never make
+real network calls — only the new tests pass in fakes deliberately.
+
+**Known trade-off (accepted)**: LinkedIn/BuiltIn/Himalayas results still only ever come from the
+shared periodic crawl, never a fresh per-user search — acceptable since scraping them live on
+every request would reintroduce the exact rate-limit/ban risk the shared, infrequent crawl exists
+to avoid.
+
+---
+
+# 46. Monitoring: Sentry (errors) + Better Stack (uptime) (2026-09-13)
+
+User asked for a free Datadog-alternative. Decision: two focused free tools rather than one
+all-in-one platform, since Datadog's main value here (error visibility + "is it up") splits
+cleanly and each specialist tool has a more generous free tier than an APM suite would:
+
+- **Sentry** for exception tracking, wired into both Render services behind an optional
+  `SENTRY_DSN` env var (unset = no-op, so all existing tests are unaffected):
+  - `job_hunter/api/app.py` — `sentry_sdk.init()` at import time; FastAPI/Starlette integration
+    auto-enables since sentry-sdk detects installed frameworks, so unhandled exceptions in any
+    route are captured automatically.
+  - `dashboard_server.py` (a raw `http.server`/`ThreadingHTTPServer` app, not a framework Sentry
+    auto-instruments) — same `sentry_sdk.init()` guard, plus explicit `capture_exception()` calls
+    added in `do_GET`'s `/api/resume` and `/api/resume/download` handlers and `do_POST`'s generic
+    exception branch. Bonus fix bundled in: `/api/resume` previously had no exception handling at
+    all (an error would hang the client with no response) — now returns 500 JSON like the other
+    routes.
+- **Better Stack** (Uptime) for availability alerts, pointed at each service's existing health
+  endpoint — no code changes needed, pure external dashboard config:
+  `job-scraper-agent.onrender.com/api/health` and `job-scraper-resume-api.onrender.com/api/health`
+  (both under `/api/health` — the resume API's router has an `/api` prefix too, corrected after
+  an initial doc typo said `/health`). Also corrected the scraper/dashboard service's hostname
+  itself — it's `job-scraper-agent.onrender.com` (no `-api` suffix, confirmed against
+  `dashboard/api_config.json` and a live curl); `job-scraper-agent-api.onrender.com` returns
+  Render's `x-render-routing: no-server` (nothing bound to that host) and is not a real URL for
+  this project — an error carried over from an earlier session's notes, now corrected everywhere
+  it appeared (this doc and `docs/RESUME_API_SETUP.md`). That service's `/api/health` also only
+  supports `GET`, not `HEAD` (its `do_HEAD` isn't overridden) — point uptime monitors at GET.
+
+`requirements.txt` gained `sentry-sdk>=2.17,<3`. `render.yaml` gained a `SENTRY_DSN` (`sync:
+false`) env var on both services. Full step-by-step (create accounts, get DSN, add Render env
+var, set up uptime monitors) is in `docs/RESUME_API_SETUP.md` Section 7 — account creation and
+DSN/monitor setup needed the user directly (no API access/credentials for either service from
+this session).
+
+**Status**: code changes made and unit-tested (`sentry-sdk` installed locally, `create_app()`
+still imports/inits cleanly with `SENTRY_DSN` unset, all 31 existing tests still pass). **Not yet
+live-verified** — that requires the user to actually create the Sentry/Better Stack accounts and
+supply the real DSN/monitor URLs; do that before considering this feature done end-to-end.
+
+---
+
 # END OF PROJECT CONTEXT

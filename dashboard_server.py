@@ -8,7 +8,14 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlparse
 
+import sentry_sdk
+
 from job_hunter.dashboard_service import DashboardService
+
+_SENTRY_DSN = os.environ.get("SENTRY_DSN")
+if _SENTRY_DSN:
+    sentry_sdk.init(dsn=_SENTRY_DSN, traces_sample_rate=0.1)
+
 
 # This server serves the dashboard static files and provides APIs for health check, resume metadata retrieval, and resume tailoring.
 class DashboardRequestHandler(SimpleHTTPRequestHandler):
@@ -33,13 +40,21 @@ class DashboardRequestHandler(SimpleHTTPRequestHandler):
             self._send_json(self.service.health())
             return
         if parsed.path == "/api/resume":
-            self._send_json(self.service.get_resume_metadata())
+            try:
+                self._send_json(self.service.get_resume_metadata())
+            except Exception as exc:
+                sentry_sdk.capture_exception(exc)
+                self._send_json({"error": str(exc)}, status=500)
             return
         if parsed.path == "/api/resume/download":
             try:
                 body, filename = self.service.get_resume_docx()
             except FileNotFoundError as exc:
                 self._send_json({"error": str(exc)}, status=404)
+                return
+            except Exception as exc:
+                sentry_sdk.capture_exception(exc)
+                self._send_json({"error": str(exc)}, status=500)
                 return
             self.send_response(200)
             self.send_header(
@@ -76,6 +91,7 @@ class DashboardRequestHandler(SimpleHTTPRequestHandler):
             self._send_json({"error": str(exc)}, status=400)
             return
         except Exception as exc:
+            sentry_sdk.capture_exception(exc)
             self._send_json({"error": str(exc)}, status=500)
             return
 

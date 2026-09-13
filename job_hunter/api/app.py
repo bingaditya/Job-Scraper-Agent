@@ -3,6 +3,7 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
+import sentry_sdk
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -10,6 +11,10 @@ from job_hunter.api.routes_jobs import router as jobs_router
 from job_hunter.api.routes_resume import router as resume_router
 from job_hunter.config import load_config
 from job_hunter.resume_store import ResumeStore
+
+_SENTRY_DSN = os.environ.get("SENTRY_DSN")
+if _SENTRY_DSN:
+    sentry_sdk.init(dsn=_SENTRY_DSN, traces_sample_rate=0.1)
 
 
 def create_app() -> FastAPI:
