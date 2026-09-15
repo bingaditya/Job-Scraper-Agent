@@ -467,6 +467,35 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4458724768",
+      "title": "Senior .NET Developer",
+      "company": "Flight Centre Travel Group",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-flight-centre-travel-group-4458724768",
+      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 3 weeks ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-08-25",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "80f12f5add408f6b08f0e111e2466e30acf7ffc6"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4455435063",
       "title": ".Net Developer",
       "company": "Kavi India",
@@ -509,35 +538,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4159881637",
-      "title": ".NET Developer",
-      "company": "JISA Softech Private Limited",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
-      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2025-02-20",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
     }
   },
   {
