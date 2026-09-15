@@ -443,7 +443,7 @@
       "company": "Flight Centre Travel Group",
       "location": "Noida, Uttar Pradesh, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-flight-centre-travel-group-4458724768",
-      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 3 hours ago",
+      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 8 hours ago",
       "tags": [
         ".net"
       ],
@@ -501,7 +501,7 @@
       "company": "Kavi India",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-kavi-india-4455435063",
-      "description": ".Net Developer .Net Developer Kavi India Chennai, Tamil Nadu, India Be an early applicant 3 weeks ago",
+      "description": ".Net Developer .Net Developer Kavi India Chennai, Tamil Nadu, India Be an early applicant 4 weeks ago",
       "tags": [
         ".net"
       ],
@@ -538,6 +538,35 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4159881637",
+      "title": ".NET Developer",
+      "company": "JISA Softech Private Limited",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
+      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2025-02-20",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
     }
   },
   {
@@ -589,7 +618,7 @@
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
+      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
       "tags": [
         ".net",
         "c#"
