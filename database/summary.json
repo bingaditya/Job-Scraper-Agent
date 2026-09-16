@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T20:57:24.326998+00:00",
+  "generated_at": "2026-09-16T03:47:07.641627+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 75,
-  "deduplicated_jobs": 75,
+  "raw_jobs": 76,
+  "deduplicated_jobs": 76,
   "shortlisted_jobs": 17,
   "new_jobs": 0,
   "notifications_sent": 0,
@@ -27,7 +27,7 @@
     {
       "source": "remoteok",
       "status": "ok",
-      "jobs_fetched": 15
+      "jobs_fetched": 16
     },
     {
       "source": "linkedin",
