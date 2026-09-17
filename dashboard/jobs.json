@@ -120,67 +120,6 @@
     }
   },
   {
-    "score": 78,
-    "reasons": [
-      "Matched skills: Python, SQL, C#, .Net, Html",
-      "Search keyword hit: Python",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "C#",
-      ".Net",
-      "Html"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-11202330",
-      "title": "Fullstack Developer .Net/SQLServer/Oracle - AVP",
-      "company": "Deutsche Bank",
-      "location": "",
-      "url": "https://builtin.com/job/fullstack-developer-net-sqlserver-oracle-avp/11202330",
-      "description": "Job Description: Job Title: Fullstack Developer .Net/SQLServer/Oracle Location: Bangalore, India Role Description We are looking for Technology Specialist role is part of the DWS Technology team and interacts directly with the various business groups worldwide, e.g. Global Client Group, Trading, Risk, Compliance and Finance as well as various technology and operations teams. You will be primarily responsible for the development & implementation of client reporting change requests from the solutions reporting area. What we\u2019ll offer you As part of our flexible scheme, here are just some of the benefits that you\u2019ll enjoy Best in class leave policy Gender neutral parental leaves 100% reimbursement under childcare assistance benefit (gender neutral) Sponsorship for Industry relevant certifications and education Employee Assistance Program for you and your family members Comprehensive Hospitalization Insurance for you and your dependents Accident and Term life Insurance Complementary Health screening for 35 yrs. and above Your key responsibilities Work with various front office / middle office teams to define business challenges and translate these into business and functional requirements specifications Develop and maintain standard project artifacts, including test cases and project plans Work with development teams, data management and architects to design and implement technology solutions with a high level of quality, flexibility and scalability Analyze and document current system flows and processes to create transparency about the complexity and interdependence between systems and data For internal use only Coordinate and document change requests from the requirement to implementation Work with the Client Reporting department to analyze and develop new client reports Conduct system testing and coordinate end-user testing and plan the rollout Your skills and experience Experience working with SQL, XML, JSON, complex data/technical architecture. Experience in using programming languages like Python, VBA, .Net, C# Advanced knowledge of MS applications (Excel, Word, PowerPoint and Access, Visio) Experience in data analysis and knowledge in Asset Management business Good understanding of SDLC and Agile methodologies Good understanding of trading, portfolio management, assets and asset classes (Fixed Income and Equities) Demonstrated experience with typical Business Analyst deliverables: business requirements, functional specifications, system/workflow diagrams, documentation and execution of functional test plans. Excellent communication skills; fluent English (written and verbal) Proven ability to leverage AI tools to enhance productivity, optimise workflows to solve business problems, while applying critical judgment to ensure responsible and ethical use of data and AI outputs. How we\u2019ll support you Training and development to help you excel in your career Coaching and support from experts in your team A culture of continuous learning to aid progression A range of flexible benefits that you can tailor to suit your needs About us and our teams Please visit our company website for further information: https://www.db.com/company/company.html We at DWS are committed to creating a diverse and inclusive workplace, one that embraces dialogue and diverse views, and treats everyone fairly to drive a high-performance culture. The value we create for our clients and investors is based on our ability to bring together various perspectives from all over the world and from different backgrounds. It is our experience that teams perform better and deliver improved outcomes when they are able to incorporate a wide range of perspectives. We call this #ConnectingTheDots.",
-      "tags": [
-        "Yesterday",
-        "Saved",
-        "Fintech \u2022 Financial Services",
-        "Top Skills:",
-        ".Net",
-        "Agile",
-        "C#",
-        "JSON"
-      ],
-      "published_at": "Yesterday",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "643f0b57f7826dc0f86cc94414633028225c42c5"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Fullstack Developer .Net/SQLServer/Oracle - AVP at Deutsche Bank by foregrounding Python, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Python",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        "Python",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 77,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, CSS",
@@ -326,6 +265,27 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "16064c17be34e2df48d83dd484da233ef396817c"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at Fiddle Leaf Solutions by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -484,7 +444,7 @@
       "company": "Caterpillar Inc.",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India Be an early applicant 1 hour ago",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India Actively Hiring 6 hours ago",
       "tags": [
         ".net"
       ],
@@ -542,7 +502,7 @@
       "company": "Kavi India",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-kavi-india-4455435063",
-      "description": ".Net Developer .Net Developer Kavi India Chennai, Tamil Nadu, India 4 weeks ago",
+      "description": ".Net Developer .Net Developer Kavi India Chennai, Tamil Nadu, India 1 month ago",
       "tags": [
         ".net"
       ],
