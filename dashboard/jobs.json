@@ -242,127 +242,6 @@
     }
   },
   {
-    "score": 76,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4446971068",
-      "title": ".Net Senior Developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-senior-developer-at-infosys-4446971068",
-      "description": "Primary skills:.Net A day in the life of an Infoscion As part of the Infosys delivery team, your primary role would be to ensure effective Design, Development, Validation and Support activities, to assure that our clients are satisfied with the high levels of service in the technology domain. You will gather the requirements and specifications to understand the client requirements in a detailed manner and translate the same into system requirements. You will play a key role in the overall estimation of work requirements to provide the right information on project estimations to Technology Leads and Project Managers. You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Design, develop, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Build robust, scalable, and high-performance backend systems Develop and consume RESTful APIs and microservices Collaborate with frontend developers, architects, and cross-functional teams Perform code reviews, unit testing, and debugging Optimize application performance and ensure security best practices Work in Agile/Scrum environments and contribute to sprint planning Strong experience with C#, .NET Framework, .NET Core Hands-on with ASP.NET MVC / Web API Experience in SQL Server / PostgreSQL / any RDBMS Good understanding of Object-Oriented Programming (OOP) and design patterns Knowledge of LINQ, Entity Framework Experience working with Git / Azure DevOps / CI-CD pipelines Familiarity with REST APIs and microservices architecture",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-09-11",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "609fc921235b463e49e47038ad890f8a68c91578"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Senior Developer at Infosys by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 76,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4398273234",
-      "title": "Dot Net Developer",
-      "company": "Fiddle Leaf Solutions",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-fiddle-leaf-solutions-4398273234",
-      "description": "We are looking for a skilled .NET Developer to design, develop, and maintain high-quality web applications and services. The ideal candidate should have strong experience in Microsoft technologies, including .NET Core / .NET Framework, C#, and ASP.NET, along with a good understanding of front-end technologies and database management. You will be responsible for building scalable solutions, writing clean and efficient code, and collaborating with cross-functional teams to deliver robust applications. The role requires expertise in developing RESTful APIs, working with relational databases like SQL Server, and following best practices in software development, including code reviews, testing, and deployment. Familiarity with modern frameworks, cloud platforms (such as Azure), and Agile methodologies will be an added advantage. Skills:- Dot net, .NET, ASP.NET and Entity Framework",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-04-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "16064c17be34e2df48d83dd484da233ef396817c"
-    }
-  },
-  {
-    "score": 64,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4464511954",
-      "title": ".NET Backend Engineer",
-      "company": "Ascendion",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-backend-engineer-at-ascendion-4464511954",
-      "description": "About The Role Senior .Net Developer Design, develop, and maintain web applications using .NET framework / .NET Core Write clean, scalable, and efficient code using C# Develop and manage database interactions using Entity Framework Build and maintain web applications using ASP.NET MVC Collaborate with front-end developers, QA, and product teams Optimize application performance and troubleshoot issues Participate in code reviews and ensure best practices Integrate third-party APIs and services Work in an Agile/Scrum development environment Required Skills Strong proficiency in C# Experience with ASP.NET MVC / .NET Core Hands-on experience with Entity Framework Solid understanding of OOP concepts and design patterns Experience with RESTful APIs / Web APIs Knowledge of SQL Server or relational databases Familiarity with Git or version control systems",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-09-10",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "dd0559f26ad8d5a7cc114fa5f31a5a2157c1ba8f"
-    }
-  },
-  {
     "score": 64,
     "reasons": [
       "Matched skills: SQL, C#, .Net",
@@ -392,6 +271,25 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -467,36 +365,61 @@
     }
   },
   {
-    "score": 56,
+    "score": 54,
     "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: Pune",
-      "Role asks for 8+ years"
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
     ],
     "matched_skills": [
-      "SQL",
-      "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4455316930",
-      "title": "Dot Net Full Stack Developer",
-      "company": "FIS",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-developer-at-fis-4455316930",
-      "description": "Position Type Full time Type Of Hire Experienced (relevant combo of work and education) Education Desired Bachelor of Information Technology Dot Net Full Stack Developer \u2013 6 to 8 Yrs of Experience \u2013 Pune Location \u2013 General Shift About The Role As a Senior Software Engineer, you will design, build, and support high-performance backend solutions for a complex trading platform environment. You will work closely with product, business, quality engineering, and operations teams to deliver scalable, secure, and reliable applications that support critical business functions. Success in this role requires strong software engineering expertise, analytical thinking, and the ability to translate business requirements into robust technical solutions. What You Will Be Doing Design, develop, test, implement, maintain, and support enterprise-grade software applications and services Analyze business requirements and translate them into scalable, maintainable technical solutions Develop high-quality backend applications using C#, .NET Framework, .NET Core, and .NET 8+ Build and maintain RESTful APIs, web services, and microservices-based solutions Collaborate with product owners, business analysts, QA, and DevOps teams throughout the delivery lifecycle Participate in architecture reviews, solution design discussions, and application modernization initiatives Optimize application performance, scalability, availability, and reliability across distributed systems Create and maintain technical specifications, design documentation, and implementation artifacts Troubleshoot production issues, perform root cause analysis, and drive timely resolutions Conduct code reviews, promote engineering best practices, and mentor less experienced developers Lead small to medium-sized development initiatives and coordinate technical deliverables Contribute to Agile ceremonies and support continuous improvement across development teams What You Will Bring Typically requires 6 to 8 years of professional software engineering experience Experience designing and developing enterprise software applications using C#, .NET Framework, .NET Core, and .NET 8+ Strong knowledge of ASP.NET, Web API development, and REST-based integrations Hands-on experience with unit testing frameworks such as xUnit, NUnit, or MSTest Experience working with relational databases such as SQL Server, Oracle, or similar database technologies Strong understanding of microservices architecture, distributed systems, and modern software design principles Experience with Git-based source control and collaborative development practices Strong understanding of Software Development Life Cycle (SDLC) methodologies including Agile, Iterative, and Waterfall Proven analytical, problem-solving, debugging, and technical troubleshooting skills Ability to create technical documentation, solution designs, and implementation plans Excellent verbal and written communication skills with the ability to collaborate across technical and business teams. Nice To Have Skills/knowledge Exposure to Java or Perl development environments Experience supporting trading platforms, financial technology applications, or transaction-processing systems Experience managing multiple priorities and working across concurrent initiatives Experience providing technical leadership, mentoring, and team support Ability to resolve production issues with urgency and a strong customer-focused mindset What We Offer You At FIS, we are as committed to growing our employees\u2019 careers as our own business. We offer~ Opportunities to innovate in fintech Inclusive and diverse team atmosphere Professional and personal development Resources to contribute to your community Competitive salary and benefits Privacy Statement FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice. Sourcing Model Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company. #pridepass",
+      "source_id": "4467511645",
+      "title": "Senior .Net developer -(Remote)",
+      "company": "Augment",
+      "location": "Coimbatore South, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-remote-at-augment-4467511645",
+      "description": "Senior .Net developer -(Remote) Senior .Net developer -(Remote) Augment Coimbatore South, Tamil Nadu, India Be an early applicant 7 minutes ago",
       "tags": [
-        "sql",
-        ".net",
-        "c#"
+        ".net"
       ],
-      "published_at": "2026-09-08",
+      "published_at": "2026-09-17",
       "remote": false,
       "metadata": {},
-      "fingerprint": "2efcf67377535b627fbdd01040c5a836f0903046"
+      "fingerprint": "dba3f167a99276bace42838112a0808aa0f4082f"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4458724768",
+      "title": "Senior .NET Developer",
+      "company": "Flight Centre Travel Group",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-flight-centre-travel-group-4458724768",
+      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 1 day ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-09-15",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "80f12f5add408f6b08f0e111e2466e30acf7ffc6"
     }
   },
   {
