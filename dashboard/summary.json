@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-18T20:33:29.489304+00:00",
+  "generated_at": "2026-09-19T03:36:03.666635+00:00",
   "candidate": "Candidate Name",
   "raw_jobs": 75,
   "deduplicated_jobs": 75,
-  "shortlisted_jobs": 21,
-  "new_jobs": 4,
+  "shortlisted_jobs": 18,
+  "new_jobs": 0,
   "notifications_sent": 0,
   "notification_error": null,
   "score_threshold": 45,
   "top_sources": [
     [
       "linkedin",
-      18
+      15
     ],
     [
       "builtin",

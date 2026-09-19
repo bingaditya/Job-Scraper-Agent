@@ -122,125 +122,6 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, Html",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306118484",
-      "title": "dotNet Developer",
-      "company": "FieldAssist",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-fieldassist-4306118484",
-      "description": "Job Description We are looking for an ASP.NET MVC developer that will be able to develop and support existing applications. The main scope of work will include everything from back-end to client-side code, using optimal and efficient technologies, frameworks, and patterns. Your primary responsibilities will be to design and develop these applications. Therefore, it\u2019s essential that you are skilled at problem solving, solution design, and high-quality coding. Responsibilities Delivering a high-quality application Ensuring a required level of performance Writing test-backed server-side code Analyzing requirements and designing new functionality Supporting and fixing existing functionality Selecting and using the most appropriate and efficient technologies for a particular application Designing and building application layers Translate application storyboards and use cases into functional applications Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues Skills Proficiency in C# Experience using .NET 4.5+ / Core Experience in developing MVC / ASP.NET Core MVC applications Senior knowledge of Entity Framework 6.* / EF Core Proficient knowledge in SQL Server Database design including indexes and data integrity Writing tests with NUnit Implementing enterprise application patterns Understanding of HTML, JS, and CSS Familiarity with the client side framework such as jQuery, Angular Familiarity with Kendo UI is a plus Familiarity with Azure Web Apps Strong understanding of object-oriented programming Familiar with various design and architectural patterns Gurgaon Skills: ASP.NET MVC, SQL server, Object Oriented Programming (OOPs) and Entity Framework",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "523939f31cad9b76e9069cef6d4174ef10d16b05"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target dotNet Developer at FieldAssist by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience fit around 3+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4159881637",
-      "title": ".NET Developer",
-      "company": "JISA Softech Private Limited",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
-      "description": "Job Type: Full Time Experience: 1-3 years Job Category: Software Developer Job Location: Pune Requirements Core Skills: Strong experience of Dot Net Framework 4.0 and above (Core is good to have) Strong knowledge of OOPS Concept Excellent understanding of C#.Net is must have ASP.NET 4.0 and above (Core is good to have) Good knowledge of LINQ Demonstrated design using Web Services (SOAP and REST) Knowledge of Microservices, APIs using ASP.NET MVC WEB API is must have Knowledge of Databases like MySQL, PostgreSQL, Oracle PL/SQL development etc. is good to have Strong coding skills, good analytical and problem-solving skills Excellent understanding of website authentication, Identity Management, REST APIs, security and best practices Excellent understanding of web servers like IIS Other Skills UI Development experience in JavaScript framework Angular or TypeScript is preferred. Good knowledge in JavaScript with fluency in jQuery, AJAX etc. Knowledge in HTML, CSS 3, Bootstrap layouts design is good to have. Responsibilities Design, develop, test and debug software modules for an enterprise security product Find areas of optimization and produce high quality code Collaborate with product managers and other members of the project team in requirements specification and detailed engineering analysis. Collaborate with various stake holders and help bring proactive closure on the issues Evaluate various technology trends and bring in the best practices Innovate and come out of the box solutions Adapt, thrive and deliver in a highly evolving and demanding product development team Come up with ways to provide an improved customer experience",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2025-02-20",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .NET Developer at JISA Softech Private Limited by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
       "Matched skills: SQL, C#, .Net, Html, CSS",
       "Preferred title match: .net Developer",
       "Search keyword hit: SQL",
@@ -263,7 +144,7 @@
       "url": "https://builtin.com/job/net-developer/11247680",
       "description": "Company Description A CMMI Level 3 and ISO 9001:2008 certified organization for off-shore delivery, PreludeSys is an IT & ITES organization with a presence in USA, India, & Malaysia. Please visit us at www.preludesys.com for more information about our organization. Job Description We are searching for experienced software engineers to join our Development team to help build our next generation applications. This is a technical role and the successful candidate must demonstrate a proven track record of developing n-tier, web and desktop applications in a fast paced, dynamic professional environment. Expectation: Ideally 1 to 2 years off professional, hands on experience developing software utilizing C#, ASP.Net (MVC), SQL Server, JavaScript, HTML, CSS and other web technologies Experienced with end-to-end development of software for web applications from client design/development through to web services, server side business logic, to optimal database design, development, storage and access. Job Type: Full-time Salary: $75,000.00 /year Local candidates only: Illinois City, IL Additional Information All your information will be kept confidential according to EEO guidelines.",
       "tags": [
-        "11 Hours Ago",
+        "Yesterday",
         "Saved",
         "Information Technology \u2022 Consulting",
         "Top Skills:",
@@ -272,7 +153,7 @@
         "CSS",
         "HTML"
       ],
-      "published_at": "11 Hours Ago",
+      "published_at": "Yesterday",
       "remote": false,
       "metadata": {},
       "fingerprint": "2e2607e82f5edd367acf37ac1b1b0163ced04bcb"
@@ -299,111 +180,6 @@
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
-    }
-  },
-  {
-    "score": 92,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience fit around 2+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "CI/CD Pipelines"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4463262273",
-      "title": "Dotnet Developer",
-      "company": "Webplat Technologies Pvt. Ltd.",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-webplat-technologies-pvt-ltd-4463262273",
-      "description": "\ud83d\ude80 We\u2019re Hiring: .NET Developer Build. Innovate. Solve Real-World Problems. Are you a passionate .NET Developer who enjoys building scalable applications, solving complex technical challenges, and working with modern technologies? If you\u2019re looking for an opportunity where your development skills can create a real business impact, this could be your next career move! We are looking for 2 talented .NET Developers to join our technology team and work on robust, scalable applications and APIs in the FinTech domain . \ud83d\udccc Job Details Position: .NET Developer Experience: 2+ Years Location: Pune \u2013 Near Navale Bridge, Narhe, Pune - 41 Company: Webplat Technologies Pvt. Ltd. Job Type: Full-Time Industry: IT Software Domain: FinTech Qualification: B.E. / B.Tech / MCA / MCS / B.Sc. / BCA or equivalent qualification in Computer Science, IT, or a related field Open Positions: 2 \ud83d\udee0\ufe0f Technical Skills & Requirements .NET & Programming Minimum 2+ years of hands-on experience in .NET development . Strong knowledge of C# and .NET Core / ASP.NET Core . Good hands-on experience with ASP.NET Core Web API and RESTful API development. Strong understanding of OOP concepts . Good understanding of SOLID principles, design patterns, and clean coding practices . Database Good knowledge of SQL Server and/or PostgreSQL . Strong understanding of SQL queries, joins, stored procedures, indexes, and database optimization. ORM / Data Access Hands-on experience with Entity Framework Core and/or Dapper . API Security Understanding of API security concepts. Knowledge of authentication and authorization. Experience or understanding of JWT authentication . Understanding of Role-Based Access Control (RBAC) . Version Control Good understanding of Git . Experience with Bitbucket and/or GitHub . DevOps & Cloud Basic understanding of DevOps practices . Understanding of CI/CD pipelines and deployment processes. Basic knowledge of Azure, AWS, or any cloud platform will be preferred. Application Reliability Understanding of logging, exception handling, monitoring, troubleshooting, and application performance. Architecture \u2013 Added Advantage Understanding of Microservices Architecture . Knowledge of distributed systems will be an added advantage. Development Methodology Experience working in an Agile/Scrum environment . Strong problem-solving and debugging skills. \ud83c\udfe6 Preferred Domain Experience Candidates with experience in the following domains will be given preference: FinTech Banking Payment Gateway UPI / Digital Payments Financial Services Transaction Processing Systems \ud83d\ude80 Why Join Webplat? This is more than just a development role. At Webplat Technologies , you will have the opportunity to work on real-world FinTech and digital payment technology , solve challenging technical problems, work with modern development practices, and continuously grow your technical expertise. If you are someone who enjoys building, learning, solving, and growing , this is an opportunity to take your .NET career to the next level. \u26a1 Joining Preference Immediate Joiners will be given first preference. Candidates currently serving notice may also be considered depending on their availability and notice period. \ud83d\udce9 Apply Now If you are ready to take the next step in your .NET development career and work on challenging technology solutions, share your updated resume with us and become part of our growing technology team.",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-09-08",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "41e6da14ec7da9dca7a4829262cc702d9d255e07"
-    }
-  },
-  {
-    "score": 92,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience fit around 3+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "CI/CD Pipelines"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4457473254",
-      "title": "Dotnet Developer",
-      "company": "UST",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-ust-4457473254",
-      "description": "Backend Developer \u2013 .NET Location: Navi Mumbai Experience: 3 - 6 Years Work Mode: Onsite (6 Days per week) Job Summary We are looking for an experienced Backend Developer to join our engineering team and build scalable, secure, and high-performance backend applications. The ideal candidate should have strong experience in .NET Core 6, C#, ASP.NET Web API, Azure services, SQL Server, and microservices architecture . Key Responsibilities Design, develop, and maintain scalable backend applications using .NET Core 6 and C# . Develop and maintain RESTful APIs using ASP.NET Web API . Design and implement applications based on microservices architecture . Work with Microsoft Azure services to develop, deploy, and maintain cloud-based applications. Design, develop, and optimize SQL Server databases, queries, stored procedures, and data-access layers. Ensure application performance, scalability, reliability, and security. Integrate backend services with internal and external systems through APIs. Troubleshoot production issues and identify root causes. Write clean, maintainable, reusable, and well-tested code. Collaborate with frontend developers, QA engineers, DevOps teams, and other stakeholders. Participate in code reviews, technical discussions, and architectural decisions. Follow software development best practices, coding standards, and Agile methodologies. Required Skills & Experience Strong hands-on experience with C# and .NET Core 6 . Good experience developing RESTful services using ASP.NET Web API . Strong understanding of microservices architecture and design patterns . Experience working with Microsoft Azure services . Strong knowledge of SQL Server , database design, SQL queries, stored procedures, and performance tuning. Experience with API development, integration, authentication, and authorization. Good understanding of object-oriented programming, SOLID principles, and software design patterns. Experience with debugging, performance optimization, and production support. Strong problem-solving and analytical skills. Good communication and collaboration skills. Preferred Qualifications Experience with Azure-based application deployment and cloud-native development. Knowledge of Azure DevOps, CI/CD pipelines, and Git . Experience with containerization technologies such as Docker . Familiarity with messaging systems and event-driven architectures. Understanding of automated testing and unit testing frameworks. Education Bachelor\u2019s degree in Computer Science, Information Technology, Engineering, or a related field is preferred. Experience 3+ years of relevant backend development experience , with strong hands-on experience in the Microsoft .NET ecosystem.",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-08-25",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "5320403bbd3f6b6aac79ab0c19f3aa2cba07fec2"
-    }
-  },
-  {
-    "score": 84,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306127282",
-      "title": ".NET Developer",
-      "company": "Zeus Learning",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": "Technical Skillsets Asp.Net Core Microservices An added advantage to a candidate who has familiarity with PostgreSQL / MySQL Job Responsibilities Design, build and maintain software applications. Write well-designed, testable, efficient code by using best software development practices. Skills:- ASP.NET, C# and NodeJS (Node.js)",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
     }
   },
   {
@@ -440,6 +216,29 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -474,41 +273,27 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "609fc921235b463e49e47038ad890f8a68c91578"
-    }
-  },
-  {
-    "score": 76,
-    "reasons": [
-      "Matched skills: Python, SQL, C#, .Net",
-      "Search keyword hit: Python",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4443534144",
-      "title": "AVP - C# (.net) Developer - Equity Technology",
-      "company": "Jefferies",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "Job Description Innovation Hub Overview Jefferies is creating a Technology Innovation Hub in Pune, a greenfield opportunity to build the systems that power global markets. As our first India technology center, this hub brings together hands on builders who engineer the platforms behind Jefferies\u2019 growth across capital markets, investment banking, and institutional securities. We\u2019re scaling toward an elite team of 500 engineers while maintaining the agility, ownership, and meritocratic spirit that defines Jefferies. From cloud and data to AI, risk, and core business technologies, teams in Pune will lead high impact work with a global mandate. IT Equities Technology Jefferies\u2019 Equities Technology team builds and runs global, real-time trading and risk platforms across the full equities product spectrum\u2014cash equities, portfolio/algo trading, central risk books, listed & OTC derivatives, convertibles, swaps, and ETF/basket trading. The team supports front-office workflows end-to-end, including order management, quantitative trading, real-time position and risk, AI/ML analytics, trade lifecycle processing, and regulatory/customer reporting. Operating in a 24x7 follow-the-sun model across major trading hubs, the India Technology Innovation Hub will be a core engineering center working closely with New York, London, Hong Kong, and other regions to build and enhance high-performance, scalable systems using technologies such as Python, Java, C++/C#, cloud, modern visualization, low-latency messaging, and in-memory data stores. Role Overview We are seeking a technically strong and motivated C# Developer to join the Securities Finance Technology team within Jefferies\u2019 Equities \u2013 Prime Services division. You will help design, build, and support strategic trading and servicing systems that power a global Securities Borrowing & Lending (SBL) business. The role involves close collaboration with trading, operations, and technology stakeholders, with opportunities to work across modern cloud-native architecture and high-performance platforms. Key Responsibilities Design, develop, and maintain core in-house Securities Borrowing & Lending (SBL) platforms and related services. Deliver new features and enhancements across server-side and client-side components using C# and .NET (Core/Framework). Partner with developers, product stakeholders, and users to clarify requirements, prioritize work, and deliver high-impact outcomes. Build and maintain automated tests (unit/integration) and support UAT/business testing activities. Participate in code reviews, contribute to engineering standards, and drive continuous improvements in code quality, reliability, and SDLC practices. Support production systems as needed, including troubleshooting, root-cause analysis, and incident remediation. Required Qualifications Strong proficiency in C#, with hands-on experience in .NET Core and/or .NET Framework (server-side and client-side development). Working knowledge of AWS, including EKS, EC2, S3, SQS, and SNS. Strong SQL skills; experience with Microsoft SQL Server preferred. Familiarity with modern engineering tools and workflows, including Kafka, RabbitMQ, Jira, Bitbucket, and Bamboo. Experience using GitHub Copilot effectively within a development workflow. Strong communication skills, ownership mindset, and ability to collaborate across teams. Preferred Qualifications Prior experience or understanding of Securities Lending / Securities Finance or related products (e.g., Equity Swaps). Exposure to Java and/or Python. Familiarity with Airflow, Snowflake, and AWS QuickSight. What You\u2019ll Bring Strong problem-solving skills and attention to detail in a production-focused environment. Ability to work effectively in a global team and deliver under time-sensitive business priorities. Interest in building resilient, scalable systems for a high-throughput financial platform. About Us Jefferies is a leading global, full-service investment banking and capital markets firm that provides advisory, sales and trading, research, and wealth and asset management services. With more than 40 offices around the world, we offer insights and expertise to investors, companies, and governments. At Jefferies, we believe that diversity fosters creativity, innovation and thought leadership through the infusion of new ideas and perspectives. We have made a commitment to building a culture that provides opportunities for all employees regardless of our differences and supports a workforce that is reflective of the communities where we work and live. As a result, we are able to pool our collective insights and intelligence to provide fresh and innovative thinking for our clients. Jefferies is an equal employment opportunity employer, and takes affirmative action to ensure that all qualified applicants will receive consideration for employment without regard to race, creed, color, national origin, ancestry, religion, gender, pregnancy, age, physical or mental disability, marital status, sexual orientation, gender identity or expression, veteran or military status, genetic information, reproductive health decisions, or any other factor protected by applicable law. We are committed to hiring the most qualified applicants and complying with all federal, state, and local equal employment opportunity laws. As part of this commitment, Jefferies will extend reasonable accommodations to individuals with disabilities, as required by applicable law.",
-      "tags": [
-        "python",
-        "sql",
-        "snowflake",
-        ".net",
-        "c#"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Senior Developer at Infosys by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
       ],
-      "published_at": "2026-09-03",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "4cc3da02b3742fc65c1e90c643c44ae303d61e31"
+      "missing_resume_keywords": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -546,47 +331,12 @@
     }
   },
   {
-    "score": 68,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, CI/CD Pipelines",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 8+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "CI/CD Pipelines"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4467860217",
-      "title": "Senior .Net Developer",
-      "company": "ePS (eProductivity Software)",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "About EPS Packaging At ePS Packaging, we\u2019re shaping the future of packaging through technology. As a global leader in industry-specific business and production software, we help packaging companies streamline operations, boost efficiency, and unlock growth. With over 30 years of experience, a global footprint, and a deep understanding of the packaging industry, we believe one thing above all: our success grows when our customers thrive. Job Purpose To design, develop, enhance, and support the Radius product, delivering scalable, maintainable, and high-quality solutions using modern .NET technologies. The role requires strong backend development expertise, database knowledge, product understanding, and close collaboration with Product Owners, QA, Support, and customers. Experience in ERP products is highly desirable. Core Responsibilities Design, develop, and enhance features for the Radius product, ensuring scalable, maintainable, secure, and high-performance solutions. Develop robust backend services and APIs using C#, .NET 8 or above, ASP.NET Core, and Entity Framework Core. Design and implement efficient database solutions using Microsoft SQL Server, including queries, stored procedures, data modelling, and performance optimization. Understand existing product architecture and legacy components and contribute to the modernization and evolution of the Radius platform. Actively participate in sprint planning, refinement, estimation, and execution, delivering committed work within defined timelines. Work closely with Product Owners to understand business requirements, refine user stories, identify technical considerations, and contribute to solution design. Collaborate with QA teams to ensure adequate test coverage, support test case development, investigate defects, and provide timely fixes. Develop and maintain unit tests and automated tests to improve product quality, reliability, and regression coverage. Investigate and resolve complex product and customer issues, performing effective root-cause analysis and implementing long-term corrective solutions. Provide technical support for customer issues and work with Support and other teams to troubleshoot and resolve production problems. Participate in customer discussions when required to understand issues, clarify technical details, and help identify appropriate solutions. Contribute to CI/CD pipelines, build automation, and DevOps practices to improve development and release efficiency. Work with Docker and containerized applications, contributing to containerization and deployment of application services. Contribute to cloud-based solutions and demonstrate willingness to work with modern cloud technologies and services. Collaborate with frontend developers and contribute to Angular-based applications where required. Use modern AI-assisted development tools such as GitHub Copilot and similar tools effectively to improve development productivity, code quality, troubleshooting, and solution exploration. Maintain high standards of code quality through design principles, coding standards, peer reviews, automated testing, and continuous refactoring. Prepare and maintain technical documentation, including design specifications, API documentation, database changes, and implementation details. Participate in technical discussions, architecture reviews, knowledge sharing, and continuous improvement initiatives. Other duties as assigned. Required Experience And Skills 5-8 years of hands-on software development experience, with strong experience in C#, .NET / .NET Core, and ASP.NET Core. Strong experience with .NET 8 or above and modern backend development practices. Strong proficiency in developing RESTful Web APIs and backend services using ASP.NET Core. Hands-on experience with Entity Framework Core, including LINQ, relationships, migrations, query optimization, and efficient data access. Strong experience with Microsoft SQL Server, including writing and optimizing complex SQL queries, stored procedures, database design, indexing, and troubleshooting database performance issues. Experience in developing enterprise applications with a focus on performance, scalability, reliability, and maintainability. Experience writing unit tests and understanding of automated testing principles and practices. Experience with CI/CD pipelines and DevOps practices, including build, test, and deployment automation. Experience with Docker and containerized applications is desirable. Exposure to cloud platforms and cloud-native development is desirable. Experience with Angular / TypeScript or other modern frontend technologies is a plus. Experience working on ERP, manufacturing, business management, or other complex enterprise applications is highly desirable. Strong debugging and troubleshooting skills, with the ability to analyse complex technical and customer issues and identify root causes. Experience in application and database performance tuning. Ability to understand and work effectively with existing and legacy codebases, while contributing to modernization initiatives. Strong understanding of software development principles, design patterns, SOLID principles, clean code, and maintainable architecture. Proficiency in using AI-assisted development tools to accelerate development, debugging, code analysis, testing, and technical problem solving. Ability to quickly understand complex business domains and translate business requirements into effective technical solutions. Demonstrated ownership mindset with the ability to work independently and deliver high-quality solutions in an agile environment. Strong problem-solving skills with a practical and execution-focused approach. Ability to balance speed of delivery with quality, maintainability, scalability, and technical debt management. Effective communication and collaboration skills, with the ability to work closely with Product Owners, QA, Support, Architects, and customers. Business-level English proficiency (written and verbal) required, particularly for customer-facing responsibilities. Why Join ePS At ePS, you\u2019ll be part of a global, collaborative, and forward-thinking team that\u2019s redefining what\u2019s possible in the packaging industry. We foster an inclusive workplace where diversity drives innovation and every team member\u2019s voice is valued. You\u2019ll have the opportunity to make a real impact, helping our customers operate smarter and succeed sustainably. Join us and help build the future of packaging technology.",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-09-18",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "8ff866313b76f8aff6a291f3a304b884713afe31"
-    }
-  },
-  {
-    "score": 68,
+    "score": 64,
     "reasons": [
       "Matched skills: SQL, C#, .Net",
       "Search keyword hit: SQL",
       "Preferred location: India",
-      "Experience fit around 3+ years"
+      "Experience requirement not strict"
     ],
     "matched_skills": [
       "SQL",
@@ -595,54 +345,21 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4441795235",
-      "title": ".Net Core Senior Developer",
-      "company": "Infosys",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net-core-senior-developer-at-infosys-4441795235",
-      "description": "NET, ASP.NET, MVC, C#, WPF, WCF, SQL Server, Entity Framework Responsibilities: Analyzing user requirements, envisioning system features and functionality. Design, build, and maintain efficient, reusable, and reliable .Net codes by setting expectations and features priorities throughout development life cycle Identify bottlenecks and bugs, and recommend system solutions by comparing advantages and disadvantages of custom development Contributing to team meetings, troubleshooting development and production problems across multiple environments and operating platforms Understand Architecture Requirements and ensure effective Design, Development, Validation and Support activities Skills: Min. 3 years of relevant experience In-depth knowledge of design issues and best practices Solid understanding of object-oriented programming Familiar with various design, architectural patterns and software development process. Experience with both external and embedded databases Creating database schemas that represent and support business processes Implementing automated testing platforms and unit tests Good verbal and written communication skills Ability to communicate with remote teams in effective manner High flexibility to travel",
+      "source_id": "4405007228",
+      "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
+      "company": "Citrus Informatics (India) Pvt Ltd",
+      "location": "Kochi, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-asp-net-c%23-sql-server-at-citrus-informatics-india-pvt-ltd-4405007228",
+      "description": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] Citrus Informatics (India) Pvt Ltd Kochi, Kerala, India 4 months ago",
       "tags": [
         "sql",
         ".net",
         "c#"
       ],
-      "published_at": "2026-08-31",
+      "published_at": "2026-04-23",
       "remote": false,
       "metadata": {},
-      "fingerprint": "595dbc5aaa905bbdb259abcda36945ae35cd2d03"
-    }
-  },
-  {
-    "score": 61,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 7+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4463302035",
-      "title": ".NET Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": "\ud83d\udea8 Hiring: Senior .NET Developer \ud83d\udccd Location: CV Raman Nagar, Bangalore \ud83c\udfe2 Work Mode: 5 Days Work From Office \ud83d\udcbc Experience: 5\u20137 Years We are looking for an experienced Senior .NET Developer with strong hands-on experience in .NET, .NET Core, React, and Microservices . \ud83d\udd11 Key Skills: \u2022 Strong experience in C# / .NET / .NET Core \u2022 Hands-on experience with ASP.NET Core & Web API \u2022 Strong knowledge of React / ReactJS \u2022 Experience developing Microservices architecture \u2022 Good understanding of REST APIs and backend integration \u2022 Experience with SQL Server / Entity Framework \u2022 Knowledge of Git, Agile/Scrum & Design Patterns \u2022 Strong problem-solving and communication skills \ud83c\udfaf Role & Responsibilities: \u2022 Design, develop, and maintain scalable applications using .NET Core \u2022 Build and integrate RESTful APIs and Microservices \u2022 Develop responsive UI components using React \u2022 Participate in code reviews, testing, debugging, and performance optimization \u2022 Collaborate with cross-functional teams to deliver high-quality solutions \ud83d\udce9 Interested candidates can share their updated resumes / DM me for more details. #Hiring #DotNetDeveloper #NETDeveloper #DotNetCore #ReactJS #Microservices #CSharp #SoftwareDeveloper #BangaloreJobs #BangaloreHiring #TechJobs #HiringNow #WFO",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-09-04",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
+      "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
     }
   },
   {
@@ -702,7 +419,7 @@
       "url": "https://builtin.com/job/software-engineer-ii/10852776",
       "description": "Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. Whether you\u2019re interested in engineering or development, marketing or sales, or something else \u2013 if this sounds like you, then we\u2019d love to hear from you! We are headquartered in Denver, Colorado, with offices in the US, Canada, and India. $75,000 - $90,000 / year The insurance industry runs on Vertafore. We equip agencies, MGAs, and carriers with the core digital systems, specialized AI, and data-driven foundation to eliminate distribution drag across the insurance lifecycle, spanning sales, servicing, and back-office operations. Underpinned by unmatched speed and performance power, we are the trusted backbone that\u2019s taking the insurance industry from friction to flow with Distribution Velocity \u2013 speed, performance, and trust - to drive growth at scale. With over 95% of the top agencies and insurers and 50% of industry compliance transactions running through Vertafore, we lead at the intersection of innovation and trust, giving insurance professionals the confidence to transform and win in the AI era. Our reach is global, with headquarters in Denver, Colorado, and offices across the U.S., Canada, and India. As a Software Engineer II, you will be working within an energetic agile team implementing solutions that support a wide range of customers. You will develop high quality web-based applications for new and existing features. You will also have the opportunity to bring your creative ideas to the table to deliver better solutions to our users. If you love technology, have a passion for software, are hungry to learn, and are driven to contribute to a world-class team of engineers, you\u2019re who we are looking for. Core Requirements and Responsibilities: Essential job functions included but are not limited to the following: Contributes independently to multiple functional and technical areas within a product Responsible for developing new features and supporting/bug fixing existing features Unit and integration testing Creates artifacts/documents that are valuable to the team Debugging issues across the whole stack - OS, DB, applications, JavaScript, and network Share what they know by mentoring other team members Writes well-designed, testable code Develops new features and supporting/bug fixing in existing and new features for a wide range of products Troubleshoots issues across the whole stack - OS, DB, applications, JavaScript, and network Participates in code reviews, both of your own code and as a reviewer. Provides feedback and suggestions for process and product improvement. Conducts technical research on new technology for possible new aspects of a product or components needing redesign or updating. Prepares product documentation, support materials, and internal documentation. Mentors and inspires others to raise the bar for everyone around them Shares what they know;\u00a0 Prepares internal technical training and information sessions Follows industry trends and the open-source community Knowledge, Skills and Abilities: Adheres to quality/technical team standards Able to diagnose issues and provide solutions for multiple functional and technical areas within a product Can independently frame problems and perform relevant research Collaborate with their peers, designing pragmatic solutions Operate best in a fast-paced, flexible work environment Prepare technical training and information sessions for other staff Enjoy solving problems through the entire application stack Effective communication (written and verbal) and interpersonal skills. Problem solver with strong analytical and critical thinking skills An innate curiosity about how things work; proactively acquires new skills and learns new tools and technologies to troubleshoot issues. A team player and excellent collaborator Cares about quality and knows what it means to ship high-quality code; able to define and adhere to quality/technical team standards Proficient with relevant tools and technologies to troubleshoot and resolve complex issues Qualifications: Bachelor\u2019s degree in Computer Science (or related technical field) or equivalent practical experience 2-3 years of professional experience with Java/.NET and common frameworks Experience with JavaScript.\u00a0 React.js or similar Experience working in an Agile environment required Experience working with relational and NoSQL Databases Experience with RESTful web services Experience in security best practices for software and data platforms Are interested and capable of learning other programming languages as needed. Additional Requirements and Details: Travel required up to 10% of the time. Located and working from an office location. Occasional lifting and/or moving up to 10 pounds. Frequent repetitive hand and arm movements required to operate a computer. Specific vision abilities required by this job include close vision (working on a computer, etc.). Frequent sitting and/or standing. #LI-HYBRID Is this role not an exact fit for you? Keep an eye on our Careers Page for other positions! Vertafore is a drug free workplace and conducts preemployment drug and background screenings . The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics.\u00a0 Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance.\u00a0 Eligibility is determined by several factors including:\u00a0start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs.\u00a0 Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone.\u00a0 if you\u00a0would like to contact us regarding\u00a0the accessibility of our website or need assistance completing the application\u00a0process, please contact\u00a0recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
       "tags": [
-        "23 Days Ago",
+        "24 Days Ago",
         "Saved",
         "Information Technology \u2022 Insurance \u2022 Software",
         "Top Skills:",
@@ -711,7 +428,7 @@
         "Java",
         "JavaScript"
       ],
-      "published_at": "23 Days Ago",
+      "published_at": "24 Days Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "c6bfde02e5931608803092fca00331edb55998a4"
@@ -753,6 +470,151 @@
   {
     "score": 54,
     "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4467860217",
+      "title": "Senior .Net Developer",
+      "company": "ePS (eProductivity Software)",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 16 hours ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-09-18",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "8ff866313b76f8aff6a291f3a304b884713afe31"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4468641761",
+      "title": "Software Engineer(Senior .NET Developer)",
+      "company": "Caterpillar Inc.",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 1 day ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-09-17",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "0f19b6b3f4bd2b4a423d5298a8febb93ea3752d3"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4463302035",
+      "title": ".NET Developer",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-09-04",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306127282",
+      "title": ".NET Developer",
+      "company": "Zeus Learning",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 11 months ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4159881637",
+      "title": ".NET Developer",
+      "company": "JISA Softech Private Limited",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
+      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2025-02-20",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
       "Matched skills: SQL, C#, .Net",
       "Search keyword hit: SQL",
       "Experience requirement not strict"
@@ -771,7 +633,7 @@
       "url": "https://builtin.com/job/fulltime-job-opening-dot-net-developer-il-tx-ca/11247678",
       "description": "Company Description A CMMI Level 3 and ISO 9001:2008 certified organization for off-shore delivery, PreludeSys is an IT & ITES organization with a presence in USA, India, & Malaysia. Please visit us at www.preludesys.com for more information about our organization. Job Description Hi, Fulltime Job Opening, send me your Fulltime Salary for the below Position Role : .NET Developer or Lead or Senior Location : Chicago,IL or AustinTX, Irvine,CA Duration: Only Fulltime/Permanent + Benefits Only W2, Citizens and those authorized to work with any employer in U.S.A Telephone Interview Mention the Skills or Technologies in the below column. Job Description: Skill Set : C#, ASP.NET, ASP.NET MVC. SQL Server 2008 & above, LINQ, WCF, Entity Framework, Web API, XML, Experience with Design Patterns, Application Blocks, Designing Enterprise applications are a plus. Thanks & Warm Regards, Nirmal Ravindranath Office Number : 949-269-2250, Extn 4070 Qualifications No Qualification Additional Information NIl",
       "tags": [
-        "11 Hours Ago",
+        "Yesterday",
         "Saved",
         "Information Technology \u2022 Consulting",
         "Top Skills:",
@@ -780,10 +642,40 @@
         "Asp.Net Mvc",
         "C#"
       ],
-      "published_at": "11 Hours Ago",
+      "published_at": "Yesterday",
       "remote": false,
       "metadata": {},
       "fingerprint": "058852cf4800c5775e3d767027781a5a5be7dc49"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4443534144",
+      "title": "AVP - C# (.net) Developer - Equity Technology",
+      "company": "Jefferies",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 2 weeks ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-03",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "4cc3da02b3742fc65c1e90c643c44ae303d61e31"
     }
   },
   {
@@ -814,40 +706,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "a4d9e5a971e6620048a61f03e463785f5f9aea34"
-    }
-  },
-  {
-    "score": 48,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Role asks for 8+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4415791714",
-      "title": "Senior Software Engineer .NET",
-      "company": "Fingent",
-      "location": "Kochi, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-fingent-4415791714",
-      "description": "At Fingent, we believe that technology can make a meaningful difference to the lives around us. The lives of those who use it, the lives of those who build it and to society at large. We create and provide software which is beautiful, usable and compelling, to solve complex business challenges. We nurture smart people who bring out the best in themselves, their peers, and their clients. Skill Set Preferred Build new Web-based systems with .NET Core, C#.NET, Web API. SQL ASP.NET. Must have strong experience in OOPS concepts, Entity Framework, LINQ, Third party API Integration. Good to have exposure to Cloud computing, MS Azure, SQL Azure. Strong knowledge of software implementation best practices. Strong experience designing and working with scalable architectures. The ability to quickly learn new concepts and software is necessary. Roles & Responsibilities Produce well-organized, optimized, and documented source code. Should be well versed in development platforms and best practices. Provide ongoing maintenance, support, and enhancements in existing systems and platforms. Attend client calls to know customer needs and feedback on items delivered. Collaborate cross-functionally with business users, project managers, and other engineers to deliver elegant solutions to customers. Provide recommendations for continuous improvement. Work alongside other engineers on the team to elevate technology and consistently apply best practices. Attention to detail is essential and all tasks must be carried out to the highest standard. Candidates who can join immediately or within a short notice period are preferred. More Information Experience 6 - 8 years",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-05-19",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "a73d1e74f2b9fdf5793cd9a5c33f83b15408d724"
     }
   }
 ]
