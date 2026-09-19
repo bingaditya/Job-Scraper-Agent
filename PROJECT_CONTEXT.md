@@ -1226,4 +1226,46 @@ the real test that `/dashboard/login.html` stays live).
 
 ---
 
+# 48. Multi-page frontend + Enhance Resume / Apply split (2026-09-20)
+
+**Problem**: the multi-tenant product was a single unstyled page, `dashboard/login.html`, that did
+sign-in/sign-up, resume upload/versions, job matches, and a manual tailor form all at once. Two
+issues: (1) the only action on a job match was labeled "Apply" but it actually called
+`/api/resumes/tailor` — there was no way to go apply on the real job posting; (2) no onboarding
+flow (no home page, no separate sign-up, nothing showing the candidate what was extracted from
+their resume).
+
+**Change**: split into five pages under `dashboard/`, sharing `app-shared.js` (API base
+resolution, Supabase client bootstrap, `requireSession`/`currentToken`/`authedFetch`, nav-bar
+render) and an extended `styles.css` (reused the existing warm cream/terracotta design system from
+`index.html`/`app.js` — `page-shell`/`hero`/`panel`/`job-grid`/`job-card` — rather than inventing a
+second visual language):
+- `home.html` (new) — public landing page, CTAs to `signup.html`/`login.html`.
+- `signup.html` (new) — sign-up only.
+- `login.html` (kept filename — it's the documented, live production URL from Section 43/47, so
+  reusing it avoids a dead link) — trimmed to sign-in only; redirects to `preferences.html` on an
+  existing/new session.
+- `preferences.html` (new) — the post-login landing page: resume upload + version list (moved
+  verbatim from the old login.html), plus a **read-only** "job preferences" panel (skills as tags,
+  preferred titles, experience, summary) fed by a new `GET /api/profile` endpoint.
+- `jobs.html` (new) — job matches restyled as the `.job-card` grid (matching `index.html`'s look
+  instead of plain `<div class="row">`s). Each card now has two separate actions: **Enhance
+  Resume** (the old tailor-on-click behavior, renamed) and **Apply** (`<a href="{job.url}"
+  target="_blank">`, a plain link to the real posting, no tailoring). The manual paste-a-JD tailor
+  form moved here too.
+
+**Backend addition**: `GET /api/profile` in `job_hunter/api/routes_resume.py` + `ProfileOut` in
+`job_hunter/api/schemas.py`, wrapping the existing (already implemented, previously unexposed)
+`ResumeStore.get_candidate_profile`. No DB migration — same `candidate_profiles` table from
+Section 41/42. Tests added in `tests/test_api_routes.py` (`test_profile_before_upload_reports_no_profile`,
+`test_profile_after_upload_reflects_extracted_profile`).
+
+**Explicitly deferred**: editable job preferences (would need `PATCH /api/profile` and a decision
+on how a manual override interacts with the next resume re-upload/re-extraction) — the preferences
+page is read-only display for now. `dashboard/index.html`/`app.js` (the separate, older, no-login
+owner-pipeline dashboard) was left untouched — it already had the correct Enhance/Apply pattern and
+was used as the reference, not modified.
+
+---
+
 # END OF PROJECT CONTEXT

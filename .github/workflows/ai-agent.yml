@@ -57,9 +57,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload the whole repo (not just dashboard/) so the deployed URL scheme matches
-          # https://bingaditya.github.io/Job-Scraper-Agent/dashboard/login.html. This is now the
-          # sole Pages deployer (static.yml was removed) since a push made by this job's own
-          # GITHUB_TOKEN commit does not retrigger other workflows.
+          # https://bingaditya.github.io/Job-Scraper-Agent/dashboard/home.html (entry point;
+          # login.html/signup.html/preferences.html/jobs.html are the other multi-tenant pages).
+          # This is now the sole Pages deployer (static.yml was removed) since a push made by
+          # this job's own GITHUB_TOKEN commit does not retrigger other workflows.
           path: '.'
 
       - name: Deploy to GitHub Pages

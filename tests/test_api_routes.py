@@ -179,6 +179,37 @@ class ApiRoutesTests(unittest.TestCase):
         self.assertEqual(profile["skills"], ["Python", "Docker"])
         self.assertEqual(profile["extraction_mode"], "groq")
 
+    def test_profile_before_upload_reports_no_profile(self) -> None:
+        store = FakeResumeStore()
+        client = TestClient(_build_test_app(store))
+        resp = client.get("/api/profile")
+        self.assertEqual(resp.status_code, 200)
+        body = resp.json()
+        self.assertFalse(body["has_profile"])
+        self.assertEqual(body["skills"], [])
+
+    @patch("job_hunter.resume_profile.chat_json")
+    def test_profile_after_upload_reflects_extracted_profile(self, mock_chat_json) -> None:
+        mock_chat_json.return_value = {
+            "skills": ["Python", "Docker"],
+            "preferred_titles": ["Backend Engineer"],
+            "experience_years": 5,
+            "summary": "Backend engineer with Python and Docker experience.",
+        }
+        store = FakeResumeStore()
+        client = TestClient(_build_test_app(store))
+        client.post(
+            "/api/resumes",
+            files={"file": ("resume.docx", _build_docx_bytes(), DOCX_MIME)},
+        )
+        resp = client.get("/api/profile")
+        self.assertEqual(resp.status_code, 200)
+        body = resp.json()
+        self.assertTrue(body["has_profile"])
+        self.assertEqual(body["skills"], ["Python", "Docker"])
+        self.assertEqual(body["preferred_titles"], ["Backend Engineer"])
+        self.assertEqual(body["experience_years"], 5)
+
     def test_rejects_non_docx_upload(self) -> None:
         store = FakeResumeStore()
         client = TestClient(_build_test_app(store))
