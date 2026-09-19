@@ -50,9 +50,11 @@ uvicorn job_hunter.api.app:app --host 127.0.0.1 --port 8001 --reload
 
 ## 5. Open the resume page
 
-Serve `dashboard/` with any static file server (or open `dashboard/login.html` directly) and
+Serve `dashboard/` with any static file server (or open `dashboard/home.html` directly) and
 visit it. If the API isn't at `http://127.0.0.1:8001`, append `?api=http://your-api-host` once —
-it's remembered in `localStorage` after that.
+it's remembered in `localStorage` after that. The flow is `home.html` → `signup.html`/`login.html`
+→ `preferences.html` (upload resume, see extracted skills/titles) → `jobs.html` (matches, with
+separate Enhance Resume and Apply buttons).
 
 ## 6. Verify (M1 round trip)
 
@@ -63,7 +65,7 @@ it's remembered in `localStorage` after that.
 ## Render deployment (when ready)
 
 Add the same environment variables to the Render service running this API, and set
-`ALLOWED_ORIGINS` to the actual origin(s) serving `dashboard/login.html` in production
+`ALLOWED_ORIGINS` to the actual origin(s) serving `dashboard/` in production
 (avoid leaving it as `*` for this authenticated surface).
 
 ## 7. Monitoring (Sentry + Better Stack)

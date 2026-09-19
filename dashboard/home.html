@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Job Hunter</title>
+<link rel="stylesheet" href="styles.css" />
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">AI-POWERED JOB SEARCH</p>
+      <h1>Your resume, tailored for every job you apply to.</h1>
+      <p class="hero-copy">
+        Upload your resume once. We scan the web for roles that match your real skills and
+        experience, show you why each one fits, then rewrite your resume for that specific job —
+        without touching its original design. When you're ready, apply straight on the job portal.
+      </p>
+      <div id="cta-row" class="hero-stats">
+        <a id="cta-primary" href="signup.html" class="btn btn-primary" style="text-decoration:none; text-align:center;">Get Started</a>
+        <a id="cta-secondary" href="login.html" class="btn btn-secondary" style="text-decoration:none; text-align:center;">Sign In</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">HOW IT WORKS</p>
+            <h2>Three steps, no manual searching</h2>
+          </div>
+        </div>
+        <div class="job-grid">
+          <article class="job-card" style="animation-delay:0ms;">
+            <span class="source-badge">STEP 1</span>
+            <h3 class="job-title">Upload your resume</h3>
+            <p class="company-line">A .docx file is all we need. We read it to learn your skills, titles, and experience.</p>
+          </article>
+          <article class="job-card" style="animation-delay:80ms;">
+            <span class="source-badge">STEP 2</span>
+            <h3 class="job-title">Get matched jobs</h3>
+            <p class="company-line">We score live job listings against your resume and rank the ones worth your time.</p>
+          </article>
+          <article class="job-card" style="animation-delay:160ms;">
+            <span class="source-badge">STEP 3</span>
+            <h3 class="job-title">Enhance & apply</h3>
+            <p class="company-line">One click tailors your resume for that role. Another takes you straight to the job posting.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module">
+    import { initSupabase } from "./app-shared.js";
+
+    async function init() {
+      const supabaseClient = await initSupabase(() => {});
+      if (!supabaseClient) return;
+      const { data: { session } } = await supabaseClient.auth.getSession();
+      if (session) {
+        document.getElementById("cta-primary").textContent = "Go to my jobs";
+        document.getElementById("cta-primary").href = "jobs.html";
+        document.getElementById("cta-secondary").textContent = "My Resume";
+        document.getElementById("cta-secondary").href = "preferences.html";
+      }
+    }
+    init();
+  </script>
+</body>
+</html>

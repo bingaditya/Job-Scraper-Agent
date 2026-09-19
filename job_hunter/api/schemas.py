@@ -50,6 +50,26 @@ class TailorResponse(BaseModel):
     suggestion: dict[str, Any] | None = None
 
 
+class ProfileOut(BaseModel):
+    has_profile: bool
+    skills: list[str] = []
+    preferred_titles: list[str] = []
+    experience_years: int | None = None
+    summary: str = ""
+
+    @classmethod
+    def from_row(cls, row: dict[str, Any] | None) -> "ProfileOut":
+        if row is None:
+            return cls(has_profile=False)
+        return cls(
+            has_profile=True,
+            skills=row.get("skills") or [],
+            preferred_titles=row.get("preferred_titles") or [],
+            experience_years=row.get("experience_years"),
+            summary=row.get("summary") or "",
+        )
+
+
 class JobMatchOut(BaseModel):
     job_id: str
     title: str

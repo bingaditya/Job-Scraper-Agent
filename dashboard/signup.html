@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Sign In — AI Job Hunter</title>
+<title>Sign Up — AI Job Hunter</title>
 <link rel="stylesheet" href="styles.css" />
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <body>
   <div class="page-shell">
     <header class="hero form-panel">
-      <p class="eyebrow">WELCOME BACK</p>
-      <h1 style="font-size: 2.2rem;">Sign in</h1>
-      <p class="hero-copy">Sign in to see your resume versions and personalized job matches.</p>
+      <p class="eyebrow">GET STARTED</p>
+      <h1 style="font-size: 2.2rem;">Create your account</h1>
+      <p class="hero-copy">Sign up to upload your resume and start getting matched jobs.</p>
     </header>
 
     <main>
@@ -23,11 +23,12 @@
         </div>
         <div class="field">
           <label for="password">Password</label>
-          <input id="password" type="password" autocomplete="current-password" />
+          <input id="password" type="password" autocomplete="new-password" />
         </div>
-        <button id="login-btn" class="btn btn-primary" type="button">Sign In</button>
+        <button id="signup-btn" class="btn btn-primary" type="button">Sign Up</button>
+        <p id="status" class="muted" style="margin-top:12px;"></p>
         <p id="error" class="form-error" hidden></p>
-        <p class="form-links">Don't have an account? <a href="signup.html">Get started</a></p>
+        <p class="form-links">Already have an account? <a href="login.html">Sign in</a></p>
       </section>
     </main>
   </div>
@@ -36,7 +37,8 @@
     import { initSupabase } from "./app-shared.js";
 
     const errorEl = document.getElementById("error");
-    const loginBtn = document.getElementById("login-btn");
+    const statusEl = document.getElementById("status");
+    const signupBtn = document.getElementById("signup-btn");
 
     let supabaseClient = null;
 
@@ -50,19 +52,19 @@
       if (session) window.location.href = "preferences.html";
     }
 
-    loginBtn.addEventListener("click", async () => {
+    signupBtn.addEventListener("click", async () => {
       errorEl.hidden = true;
       const email = document.getElementById("email").value;
       const password = document.getElementById("password").value;
-      loginBtn.disabled = true;
-      const { error } = await supabaseClient.auth.signInWithPassword({ email, password });
-      loginBtn.disabled = false;
+      signupBtn.disabled = true;
+      const { error } = await supabaseClient.auth.signUp({ email, password });
+      signupBtn.disabled = false;
       if (error) {
         errorEl.textContent = error.message;
         errorEl.hidden = false;
-        return;
+      } else {
+        statusEl.textContent = "Check your email to confirm your account, then sign in.";
       }
-      window.location.href = "preferences.html";
     });
 
     init();

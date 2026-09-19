@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>My Resume — AI Job Hunter</title>
+<link rel="stylesheet" href="styles.css" />
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header id="app-nav" class="nav-bar"></header>
+
+    <main>
+      <section class="panel" style="margin-bottom: 24px;">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">MY RESUME</p>
+            <h2>Upload &amp; versions</h2>
+          </div>
+        </div>
+        <div class="field">
+          <label for="file-input">Upload a .docx resume</label>
+          <input id="file-input" type="file" accept=".docx" />
+        </div>
+        <button id="upload-btn" class="btn btn-primary" type="button">Upload</button>
+        <p id="upload-status" class="muted" style="margin-top:12px;"></p>
+        <div id="version-list" style="margin-top:12px;"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">YOUR JOB PREFERENCES</p>
+            <h2>What we learned from your resume</h2>
+          </div>
+          <a href="jobs.html" class="btn btn-secondary" style="text-decoration:none;">View job matches</a>
+        </div>
+        <p id="profile-empty" class="muted" hidden>Upload a resume above to see your extracted skills and preferred titles.</p>
+        <div id="profile-body" hidden>
+          <div class="profile-fact"><strong>Preferred titles</strong><span id="profile-titles"></span></div>
+          <div class="profile-fact"><strong>Experience</strong><span id="profile-experience"></span></div>
+          <div class="profile-fact"><strong>Summary</strong><span id="profile-summary"></span></div>
+          <div style="margin-top: 16px;">
+            <strong>Skills</strong>
+            <div id="profile-skills" class="tag-list" style="margin-top:10px;"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module">
+    import { initSupabase, requireSession, currentToken, authedFetch, renderNav, API_BASE } from "./app-shared.js";
+
+    const uploadBtn = document.getElementById("upload-btn");
+    const uploadStatus = document.getElementById("upload-status");
+    const versionList = document.getElementById("version-list");
+    const fileInput = document.getElementById("file-input");
+    const profileEmpty = document.getElementById("profile-empty");
+    const profileBody = document.getElementById("profile-body");
+
+    let supabaseClient = null;
+
+    async function init() {
+      supabaseClient = await initSupabase((message) => {
+        uploadStatus.textContent = message;
+      });
+      if (!supabaseClient) return;
+      const session = await requireSession(supabaseClient, "login.html");
+      if (!session) return;
+      renderNav("preferences", supabaseClient);
+      loadVersions();
+      loadProfile();
+    }
+
+    uploadBtn.addEventListener("click", async () => {
+      const file = fileInput.files[0];
+      if (!file) {
+        uploadStatus.textContent = "Choose a .docx file first.";
+        return;
+      }
+      uploadStatus.textContent = "Uploading...";
+      const token = await currentToken(supabaseClient);
+      const formData = new FormData();
+      formData.append("file", file);
+      const resp = await fetch(`${API_BASE}/api/resumes`, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}` },
+        body: formData,
+      });
+      if (!resp.ok) {
+        const body = await resp.json().catch(() => ({}));
+        uploadStatus.textContent = `Upload failed: ${body.detail || resp.statusText}`;
+        return;
+      }
+      uploadStatus.textContent = "Uploaded.";
+      fileInput.value = "";
+      loadVersions();
+      loadProfile();
+    });
+
+    async function loadVersions() {
+      const resp = await authedFetch(supabaseClient, "/api/resumes");
+      if (!resp.ok) return;
+      const versions = await resp.json();
+      versionList.innerHTML = "";
+      if (versions.length === 0) {
+        versionList.innerHTML = '<p class="muted">No resumes uploaded yet.</p>';
+        return;
+      }
+      for (const v of versions) {
+        const row = document.createElement("div");
+        row.className = "version-row";
+        const label = document.createElement("span");
+        label.textContent = `v${v.version_number} — ${v.original_filename}${v.is_current ? " (current)" : ""}${v.job_title ? ` — tailored for ${v.job_title}` : ""}`;
+        const downloadBtn = document.createElement("button");
+        downloadBtn.className = "btn btn-secondary";
+        downloadBtn.textContent = "Download";
+        downloadBtn.addEventListener("click", () => downloadVersion(v.id, v.original_filename));
+        row.appendChild(label);
+        row.appendChild(downloadBtn);
+        versionList.appendChild(row);
+      }
+    }
+
+    async function loadProfile() {
+      const resp = await authedFetch(supabaseClient, "/api/profile");
+      if (!resp.ok) return;
+      const profile = await resp.json();
+      if (!profile.has_profile) {
+        profileEmpty.hidden = false;
+        profileBody.hidden = true;
+        return;
+      }
+      profileEmpty.hidden = true;
+      profileBody.hidden = false;
+      document.getElementById("profile-titles").textContent = profile.preferred_titles.join(", ") || "—";
+      document.getElementById("profile-experience").textContent = profile.experience_years != null ? `${profile.experience_years} years` : "—";
+      document.getElementById("profile-summary").textContent = profile.summary || "—";
+      const skillsEl = document.getElementById("profile-skills");
+      skillsEl.innerHTML = "";
+      for (const skill of profile.skills) {
+        const tag = document.createElement("span");
+        tag.className = "tag";
+        tag.textContent = skill;
+        skillsEl.appendChild(tag);
+      }
+    }
+
+    async function downloadVersion(versionId, filename) {
+      const resp = await authedFetch(supabaseClient, `/api/resumes/${versionId}/download`);
+      if (!resp.ok) return;
+      const blob = await resp.blob();
+      const url = URL.createObjectURL(blob);
+      const anchor = document.createElement("a");
+      anchor.href = url;
+      anchor.download = filename;
+      document.body.appendChild(anchor);
+      anchor.click();
+      anchor.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    init();
+  </script>
+</body>
+</html>

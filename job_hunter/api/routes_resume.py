@@ -6,7 +6,13 @@ from docx import Document
 from fastapi import APIRouter, Depends, HTTPException, Request, UploadFile, status
 from fastapi.responses import StreamingResponse
 
-from job_hunter.api.schemas import ConfigOut, ResumeVersionOut, TailorRequest, TailorResponse
+from job_hunter.api.schemas import (
+    ConfigOut,
+    ProfileOut,
+    ResumeVersionOut,
+    TailorRequest,
+    TailorResponse,
+)
 from job_hunter.auth import AuthUser, get_current_user
 from job_hunter.config import GroqConfig
 from job_hunter.docx_tailor import tailor_docx
@@ -99,6 +105,15 @@ async def upload_resume(
     )
     _update_candidate_profile(store, groq_config, current_user.id, file_bytes, row["id"])
     return ResumeVersionOut.from_row(row)
+
+
+@router.get("/profile", response_model=ProfileOut)
+def get_profile(
+    current_user: AuthUser = Depends(get_current_user),
+    store: ResumeStore = Depends(get_resume_store),
+) -> ProfileOut:
+    row = store.get_candidate_profile(current_user.id)
+    return ProfileOut.from_row(row)
 
 
 @router.get("/resumes", response_model=list[ResumeVersionOut])

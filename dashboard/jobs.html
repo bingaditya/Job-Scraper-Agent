@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Job Matches — AI Job Hunter</title>
+<link rel="stylesheet" href="styles.css" />
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header id="app-nav" class="nav-bar"></header>
+
+    <main>
+      <section class="panel" style="margin-bottom: 24px;">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">JOB MATCHES</p>
+            <h2>Ranked for your resume</h2>
+          </div>
+          <button id="refresh-jobs-btn" class="btn btn-secondary" type="button">Refresh matches</button>
+        </div>
+        <p id="jobs-status" class="muted"></p>
+        <div id="job-grid" class="job-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">MANUAL OPTION</p>
+            <h2>Enhance for a job pasted by hand</h2>
+          </div>
+        </div>
+        <div class="field">
+          <label for="job-title">Job title</label>
+          <input id="job-title" type="text" placeholder="e.g. Senior Data Engineer" />
+        </div>
+        <div class="field">
+          <label for="job-description">Job description</label>
+          <textarea id="job-description" placeholder="Paste the job description here"></textarea>
+        </div>
+        <div class="field">
+          <label for="skills">Skills to emphasize (comma-separated)</label>
+          <input id="skills" type="text" placeholder="e.g. Python, Azure, SQL" />
+        </div>
+        <button id="tailor-btn" class="btn btn-primary" type="button">Enhance Resume</button>
+        <p id="tailor-status" class="muted" style="margin-top:12px;"></p>
+      </section>
+    </main>
+  </div>
+
+  <template id="job-card-template">
+    <article class="job-card">
+      <div class="job-card-top">
+        <span class="source-badge"></span>
+        <span class="score-pill"></span>
+      </div>
+      <h3 class="job-title"></h3>
+      <p class="company-line"></p>
+      <p class="reason-line"></p>
+      <div class="tag-list"></div>
+      <div class="card-footer">
+        <span class="location"></span>
+        <div class="action-cluster">
+          <button class="resume-button" type="button">Enhance Resume</button>
+          <a class="apply-link" target="_blank" rel="noreferrer">Apply</a>
+        </div>
+      </div>
+      <p class="resume-status"></p>
+    </article>
+  </template>
+
+  <script type="module">
+    import { initSupabase, requireSession, authedFetch, renderNav } from "./app-shared.js";
+
+    const jobsStatus = document.getElementById("jobs-status");
+    const jobGrid = document.getElementById("job-grid");
+    const refreshJobsBtn = document.getElementById("refresh-jobs-btn");
+    const tailorBtn = document.getElementById("tailor-btn");
+    const tailorStatus = document.getElementById("tailor-status");
+    const cardTemplate = document.getElementById("job-card-template");
+
+    let supabaseClient = null;
+
+    async function init() {
+      supabaseClient = await initSupabase((message) => {
+        jobsStatus.textContent = message;
+      });
+      if (!supabaseClient) return;
+      const session = await requireSession(supabaseClient, "login.html");
+      if (!session) return;
+      renderNav("jobs", supabaseClient);
+      loadJobMatches();
+    }
+
+    async function runEnhance({ jobTitle, jobDescription, jobId, skills, statusEl, triggerBtn }) {
+      triggerBtn.disabled = true;
+      statusEl.textContent = "Enhancing resume... (this can take a few seconds)";
+      try {
+        const resp = await authedFetch(supabaseClient, "/api/resumes/tailor", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            job_title: jobTitle,
+            job_description: jobDescription,
+            job_id: jobId || null,
+            skills: skills || [],
+          }),
+        });
+        const body = await resp.json();
+        if (!resp.ok) {
+          statusEl.textContent = `Enhance failed: ${body.detail || resp.statusText}`;
+        } else if (!body.changed) {
+          statusEl.textContent = "No changes were needed — your resume already covers these skills.";
+        } else {
+          statusEl.textContent = `Enhanced resume saved as v${body.version.version_number} (mode: ${body.version.tailoring_mode}). See it on the My Resume page.`;
+        }
+      } finally {
+        triggerBtn.disabled = false;
+      }
+    }
+
+    tailorBtn.addEventListener("click", () => {
+      const jobTitle = document.getElementById("job-title").value.trim();
+      const jobDescription = document.getElementById("job-description").value.trim();
+      const skills = document.getElementById("skills").value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      if (!jobTitle || !jobDescription) {
+        tailorStatus.textContent = "Job title and description are required.";
+        return;
+      }
+      runEnhance({ jobTitle, jobDescription, skills, statusEl: tailorStatus, triggerBtn: tailorBtn });
+    });
+
+    async function loadJobMatches() {
+      jobsStatus.textContent = "Loading matches...";
+      const resp = await authedFetch(supabaseClient, "/api/jobs");
+      if (!resp.ok) {
+        jobsStatus.textContent = "Could not load job matches.";
+        return;
+      }
+      const body = await resp.json();
+      jobGrid.innerHTML = "";
+      if (body.message) {
+        jobsStatus.textContent = body.message;
+        return;
+      }
+      jobsStatus.textContent = `${body.jobs.length} match(es) found.`;
+      for (const job of body.jobs) {
+        jobGrid.appendChild(buildJobCard(job));
+      }
+    }
+
+    function buildJobCard(job) {
+      const node = cardTemplate.content.cloneNode(true);
+      node.querySelector(".source-badge").textContent = job.source;
+      node.querySelector(".score-pill").textContent = `${job.score}/100`;
+      node.querySelector(".job-title").textContent = job.title;
+      node.querySelector(".company-line").textContent = `${job.company}`;
+      node.querySelector(".reason-line").textContent = job.reasons.join("; ");
+      node.querySelector(".location").textContent = job.remote ? `${job.location} · Remote` : job.location;
+
+      const tagList = node.querySelector(".tag-list");
+      for (const skill of job.matched_skills) {
+        const tag = document.createElement("span");
+        tag.className = "tag";
+        tag.textContent = skill;
+        tagList.appendChild(tag);
+      }
+
+      const applyLink = node.querySelector(".apply-link");
+      applyLink.href = job.url;
+
+      const resumeButton = node.querySelector(".resume-button");
+      const resumeStatus = node.querySelector(".resume-status");
+      resumeButton.addEventListener("click", () => {
+        runEnhance({
+          jobTitle: job.title,
+          jobDescription: job.description,
+          jobId: job.job_id,
+          skills: job.matched_skills,
+          statusEl: resumeStatus,
+          triggerBtn: resumeButton,
+        });
+      });
+
+      return node;
+    }
+
+    refreshJobsBtn.addEventListener("click", loadJobMatches);
+
+    init();
+  </script>
+</body>
+</html>
