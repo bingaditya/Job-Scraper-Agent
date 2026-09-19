@@ -51,6 +51,31 @@ class ResumeProfileTests(unittest.TestCase):
         self.assertEqual(profile.mode, "rules")
         self.assertEqual(profile.skills, [])
 
+    def test_rule_based_fallback_guesses_title_from_headline_under_name(self) -> None:
+        resume_text = (
+            "Aditya Raj\n"
+            "Software Testing Engineer\n"
+            "Professional Summary\n"
+            "Software Testing professional with hands-on Selenium automation experience.\n"
+            "Skills\n"
+            "Selenium, TestNG, Manual Testing, Java\n"
+        )
+        profile = extract_profile(resume_text, GroqConfig())
+        self.assertEqual(profile.mode, "rules")
+        self.assertEqual(profile.preferred_titles, ["Software Testing Engineer"])
+
+    def test_rule_based_fallback_skips_name_and_section_headers_for_title_guess(self) -> None:
+        resume_text = (
+            "Resume\n"
+            "Professional Summary\n"
+            "Backend engineer with 5 years of experience in Python services.\n"
+            "Skills\n"
+            "Python, SQL, Git, Docker\n"
+        )
+        profile = extract_profile(resume_text, GroqConfig())
+        self.assertEqual(profile.mode, "rules")
+        self.assertEqual(profile.preferred_titles, [])
+
 
 if __name__ == "__main__":
     unittest.main()

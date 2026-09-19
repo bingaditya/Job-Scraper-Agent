@@ -1268,4 +1268,67 @@ was used as the reference, not modified.
 
 ---
 
+# 49. AI occupation-fit reranking for job matching (2026-09-20)
+
+**Problem**: a real user's resume headlined "Software Testing Engineer" (manual + Selenium/TestNG
+automation) but `GET /api/jobs` surfaced "Senior .NET Developer" postings as the top 3 matches
+(scores 96/80/80). Root-caused by actually reading `ranking.py::score_job` and running
+`resume_profile.py::extract_profile` locally against reconstructed resume text (this machine's
+`config/profile.json` currently has an empty `groq.api_key`, confirming the fallback path fires in
+practice, not just in theory):
+1. `score_job` is pure keyword-overlap counting (`+12` per skill substring found anywhere in the
+   job text) with no concept of occupation/domain fit — a resume mentioning "Java, SQL, .NET" only
+   as tools it's "familiar with" scores identically against a real .NET Developer posting as an
+   actual testing role would.
+2. The rule-based fallback (`_rule_based_extract`, fires whenever `chat_json` returns `None` —
+   missing/invalid Groq key, rate limit, network error) never set `preferred_titles` at all, so
+   both the title-match bonus in `score_job` and the live-source search terms in `routes_jobs.py`
+   (`queries=preferred_titles`) went blank whenever Groq was unavailable for a user.
+
+**Fix, three parts**:
+1. New `job_hunter/job_fit_ai.py::rerank_by_fit()` — one batched Groq call (reuses
+   `groq_client.py::chat_json` unchanged) per `/api/jobs` request, given the candidate's
+   summary/preferred_titles/skills and up to `AI_RERANK_CANDIDATE_LIMIT` (30) top keyword-scored
+   jobs, returns `{job_id: 0-100 fit score}`. System prompt explicitly frames the judgment
+   keyword-matching can't make: score low when a job shares only a generic tool/buzzword rather
+   than being the same occupation. Wired into `routes_jobs.py::list_job_matches` via a new
+   `_apply_ai_fit_rerank` step: blends `0.35 * keyword_score + 0.65 * ai_fit_score` for the
+   reranked subset, appends an `"AI fit score: NN/100"` reason, then re-applies the existing
+   `min_score` filter on the blended scores — this is what actually demotes a high-keyword/
+   wrong-occupation job. On any AI failure (`rerank_by_fit` returns `None`), behavior is
+   byte-for-byte identical to before this change — same fallback-never-breaks-the-response
+   philosophy as every other Groq integration in this codebase.
+2. Tightened `resume_profile.py`'s extraction system prompt: `preferred_titles`/`summary` must
+   reflect the candidate's dominant, demonstrated occupation (actual job title / repeated section
+   headers / where most of the experience is), never a different occupation just because a tool
+   for that occupation is mentioned in passing.
+3. Hardened `_rule_based_extract` to guess a `preferred_titles` entry from a headline-like line
+   near the top of the resume (skips the name itself, contact-info-looking lines, generic section
+   headers like "Professional Summary", and skill-list-looking lines) instead of always leaving it
+   empty — so the no-AI fallback path isn't completely blind on occupation even when Groq is down.
+
+**Scope decision**: `ranking.py::score_job` itself and `dashboard_server.py`'s batch pipeline were
+deliberately left untouched — that scorer is shared with the original, single-owner dashboard
+(Section 1-2 era, still live); the AI layer is additive and lives only in the per-user `/api/jobs`
+path (Section 41+). Also deliberately blending + re-filtering rather than a separate hard-exclude
+rule, to keep one scoring/filtering code path instead of two.
+
+**Tests**: `tests/test_job_fit_ai.py` (new, unit tests for `rerank_by_fit` — clamping, and the
+None-on-failure/empty-input fallback contract already used by every other Groq-backed feature in
+this codebase); `tests/test_jobs_route.py` — added
+`test_ai_fit_rerank_demotes_high_keyword_wrong_occupation_job` (mocks `job_fit_ai.chat_json`,
+proves a QA Automation Engineer posting outranks a keyword-heavier .NET Developer posting once the
+AI reranker fires) and defaulted the test harness's `get_groq_config` override to `api_key=None` so
+all pre-existing keyword-only tests are provably unaffected (`chat_json` short-circuits to `None`
+on a missing key, so the reranker is a no-op); `tests/test_resume_profile.py` — added coverage for
+the new headline-title guess and for it correctly staying empty when no plausible line exists.
+Full suite: 40 tests passing.
+
+**Not yet done**: live re-verification against the real reported resume/job pool (would need a real
+Groq key and the real Supabase-stored profile/job data) — the fix was validated via reconstructed
+resume text locally and via unit tests with mocked Groq responses, not an end-to-end run against
+production.
+
+---
+
 # END OF PROJECT CONTEXT
