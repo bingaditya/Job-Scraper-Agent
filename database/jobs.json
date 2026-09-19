@@ -486,7 +486,7 @@
       "company": "ePS (eProductivity Software)",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 23 hours ago",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 1 day ago",
       "tags": [
         ".net"
       ],
@@ -515,7 +515,7 @@
       "company": "Caterpillar Inc.",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 1 day ago",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India Actively Hiring 2 days ago",
       "tags": [
         ".net"
       ],
@@ -544,7 +544,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -573,7 +573,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 11 months ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 11 months ago",
       "tags": [
         ".net"
       ],
@@ -667,7 +667,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 2 weeks ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -697,7 +697,7 @@
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
+      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
       "tags": [
         ".net",
         "c#"
@@ -706,6 +706,40 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "a4d9e5a971e6620048a61f03e463785f5f9aea34"
+    }
+  },
+  {
+    "score": 48,
+    "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Role asks for 8+ years"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4415791714",
+      "title": "Senior Software Engineer .NET",
+      "company": "Fingent",
+      "location": "Kochi, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-fingent-4415791714",
+      "description": "At Fingent, we believe that technology can make a meaningful difference to the lives around us. The lives of those who use it, the lives of those who build it and to society at large. We create and provide software which is beautiful, usable and compelling, to solve complex business challenges. We nurture smart people who bring out the best in themselves, their peers, and their clients. Skill Set Preferred Build new Web-based systems with .NET Core, C#.NET, Web API. SQL ASP.NET. Must have strong experience in OOPS concepts, Entity Framework, LINQ, Third party API Integration. Good to have exposure to Cloud computing, MS Azure, SQL Azure. Strong knowledge of software implementation best practices. Strong experience designing and working with scalable architectures. The ability to quickly learn new concepts and software is necessary. Roles & Responsibilities Produce well-organized, optimized, and documented source code. Should be well versed in development platforms and best practices. Provide ongoing maintenance, support, and enhancements in existing systems and platforms. Attend client calls to know customer needs and feedback on items delivered. Collaborate cross-functionally with business users, project managers, and other engineers to deliver elegant solutions to customers. Provide recommendations for continuous improvement. Work alongside other engineers on the team to elevate technology and consistently apply best practices. Attention to detail is essential and all tasks must be carried out to the highest standard. Candidates who can join immediately or within a short notice period are preferred. More Information Experience 6 - 8 years",
+      "tags": [
+        "azure",
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-05-19",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "a73d1e74f2b9fdf5793cd9a5c33f83b15408d724"
     }
   }
 ]
