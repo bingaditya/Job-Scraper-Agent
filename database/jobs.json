@@ -2,6 +2,65 @@
   {
     "score": 100,
     "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4450710892",
+      "title": "Dotnet Developer\nJaipur",
+      "company": "VertexPlus",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
+      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-08-07",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 100,
+    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net, Html",
       "Search keyword hit: Azure",
       "Preferred location: India",
@@ -61,60 +120,49 @@
     }
   },
   {
-    "score": 100,
+    "score": 84,
     "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Matched skills: SQL, C#, .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: SQL",
-      "Experience fit around 2+ years"
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
     ],
     "matched_skills": [
       "SQL",
       "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
+      ".Net"
     ],
     "job": {
-      "source": "builtin",
-      "source_id": "job-card-11247680",
-      "title": ".net developer",
-      "company": "PreludeSys",
-      "location": "",
-      "url": "https://builtin.com/job/net-developer/11247680",
-      "description": "Company Description A CMMI Level 3 and ISO 9001:2008 certified organization for off-shore delivery, PreludeSys is an IT & ITES organization with a presence in USA, India, & Malaysia. Please visit us at www.preludesys.com for more information about our organization. Job Description We are searching for experienced software engineers to join our Development team to help build our next generation applications. This is a technical role and the successful candidate must demonstrate a proven track record of developing n-tier, web and desktop applications in a fast paced, dynamic professional environment. Expectation: Ideally 1 to 2 years off professional, hands on experience developing software utilizing C#, ASP.Net (MVC), SQL Server, JavaScript, HTML, CSS and other web technologies Experienced with end-to-end development of software for web applications from client design/development through to web services, server side business logic, to optimal database design, development, storage and access. Job Type: Full-time Salary: $75,000.00 /year Local candidates only: Illinois City, IL Additional Information All your information will be kept confidential according to EEO guidelines.",
+      "source": "linkedin",
+      "source_id": "4306127282",
+      "title": ".NET Developer",
+      "company": "Zeus Learning",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
+      "description": "Technical Skillsets Asp.Net Core Microservices An added advantage to a candidate who has familiarity with PostgreSQL / MySQL Job Responsibilities Design, build and maintain software applications. Write well-designed, testable, efficient code by using best software development practices. Skills:- ASP.NET, C# and NodeJS (Node.js)",
       "tags": [
-        "3 Days Ago",
-        "Saved",
-        "Information Technology \u2022 Consulting",
-        "Top Skills:",
-        "Asp.Net Mvc",
-        "C#",
-        "CSS",
-        "HTML"
+        "sql",
+        ".net",
+        "c#"
       ],
-      "published_at": "3 Days Ago",
+      "published_at": "2025-09-30",
       "remote": false,
       "metadata": {},
-      "fingerprint": "2e2607e82f5edd367acf37ac1b1b0163ced04bcb"
+      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target .net developer at PreludeSys by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "summary": "Target .NET Developer at Zeus Learning by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         "SQL",
         "C#",
-        ".Net",
-        "Html",
-        "CSS"
+        ".Net"
       ],
       "missing_resume_keywords": [
         "SQL",
         "C#",
-        ".Net",
-        "Html",
-        "CSS"
+        ".Net"
       ],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
@@ -238,61 +286,6 @@
     }
   },
   {
-    "score": 76,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4398273234",
-      "title": "Dot Net Developer",
-      "company": "Fiddle Leaf Solutions",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-fiddle-leaf-solutions-4398273234",
-      "description": "We are looking for a skilled .NET Developer to design, develop, and maintain high-quality web applications and services. The ideal candidate should have strong experience in Microsoft technologies, including .NET Core / .NET Framework, C#, and ASP.NET, along with a good understanding of front-end technologies and database management. You will be responsible for building scalable solutions, writing clean and efficient code, and collaborating with cross-functional teams to deliver robust applications. The role requires expertise in developing RESTful APIs, working with relational databases like SQL Server, and following best practices in software development, including code reviews, testing, and deployment. Familiarity with modern frameworks, cloud platforms (such as Azure), and Agile methodologies will be an added advantage. Skills:- Dot net, .NET, ASP.NET and Entity Framework",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-04-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "16064c17be34e2df48d83dd484da233ef396817c"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at Fiddle Leaf Solutions by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 64,
     "reasons": [
       "Matched skills: SQL, C#, .Net",
@@ -325,39 +318,36 @@
     }
   },
   {
-    "score": 60,
+    "score": 61,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
-      "Search keyword hit: Azure",
+      "Matched skills: SQL, C#, .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: SQL",
       "Preferred location: India",
-      "Role asks for 12+ years"
+      "Role asks for 7+ years"
     ],
     "matched_skills": [
-      "Azure",
       "SQL",
       "C#",
-      ".Net",
-      "CI/CD Pipelines"
+      ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4415614404",
-      "title": "Senior Dotnet Developer",
-      "company": "Saxo Bank",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-dotnet-developer-at-saxo-bank-4415614404",
-      "description": "Location: Gurugram, India (On\u2011site) Are you passionate about building cutting\u2011edge applications using Microsoft technologies? At Saxo Group India Private Limited, we design and deliver innovative solutions that drive business impact. We\u2019re seeking a talented senior developer to help us build high\u2011quality software on the Microsoft .NET platform and microservices architecture. You will play a key role in designing, implementing, and optimising services and APIs, collaborating closely with product and engineering teams. Responsibilities Design, develop, and maintain ASP.NET web services and applications (ASP.NET Core and .NET Framework). Utilise C#/.NET to build robust, scalable, and secure solutions. Develop and optimise databases and T\u2011SQL stored procedures on Microsoft SQL Server. Design and implement distributed systems using microservices architecture. Build and operate event\u2011based communication using Apache Kafka (producers/consumers, topics/partitions, consumer groups, delivery semantics). Collaborate across teams to refine requirements, produce technical designs, and deliver high\u2011quality code. Ensure reliability, performance, and security through testing, observability, and best practices. Support production deployments and troubleshoot complex issues. Your Profile 10\u201312 years of demonstrated software engineering experience with strong problem\u2011solving skills. Proficiency in C#/.NET and T\u2011SQL programming. Solid experience with .NET Core and Web API for building secure, scalable APIs and services. Hands\u2011on production experience with Apache Kafka for designing efficient, scalable event\u2011driven systems. Understanding of legacy WCF services (service contracts, bindings/endpoints, hosting, security) and experience maintaining or modernising them. Practical experience designing and implementing microservices and distributed systems. Proactive, detail\u2011oriented, and comfortable working collaboratively in a fast\u2011paced environment. Adaptable and open to learning new technologies and methodologies. Preferred Skills Microsoft Azure cloud services (e.g., App Services, AKS, Event Hubs, Key Vault). Redis (caching and performance optimisation). CI/CD pipelines (Azure DevOps/GitHub Actions), automated testing, and code reviews. Observability (structured logging, metrics, tracing) and performance profiling. We get curious people invested in the world When you work at Saxo, you become a Saxonian and part of a purpose-driven organisation, where good ideas are always taken seriously, and where you can make a true impact. We are invested in your development, and you can expect a robust career from day one when you join Saxo \u2013 no matter which role you take on. You will join 2,500 other ambitious colleagues across 11 countries and become part of an international organisation. Working in Saxo, you will get to meet colleagues from many different cultures and backgrounds, and you should know that we value diversity and inclusion and see it as a genuine source of strength to drive growth, foster innovation and position us for long-term success. We encourage an open feedback culture and supportive team environments enabling employees to grow and fulfil their career aspirations. When you bring passion, curiosity, drive and team spirit, your learning journey will be dynamic and your career opportunities in Saxo will be immense. At Saxo we don\u2019t just offer a job \u2013 we offer an opportunity to invest in your future! How To Apply Click here to create an account and upload your resume and a short motivation. We look forward to getting to know you better!",
+      "source_id": "4463302035",
+      "title": ".NET Developer",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
+      "description": "\ud83d\udea8 Hiring: Senior .NET Developer \ud83d\udccd Location: CV Raman Nagar, Bangalore \ud83c\udfe2 Work Mode: 5 Days Work From Office \ud83d\udcbc Experience: 5\u20137 Years We are looking for an experienced Senior .NET Developer with strong hands-on experience in .NET, .NET Core, React, and Microservices . \ud83d\udd11 Key Skills: \u2022 Strong experience in C# / .NET / .NET Core \u2022 Hands-on experience with ASP.NET Core & Web API \u2022 Strong knowledge of React / ReactJS \u2022 Experience developing Microservices architecture \u2022 Good understanding of REST APIs and backend integration \u2022 Experience with SQL Server / Entity Framework \u2022 Knowledge of Git, Agile/Scrum & Design Patterns \u2022 Strong problem-solving and communication skills \ud83c\udfaf Role & Responsibilities: \u2022 Design, develop, and maintain scalable applications using .NET Core \u2022 Build and integrate RESTful APIs and Microservices \u2022 Develop responsive UI components using React \u2022 Participate in code reviews, testing, debugging, and performance optimization \u2022 Collaborate with cross-functional teams to deliver high-quality solutions \ud83d\udce9 Interested candidates can share their updated resumes / DM me for more details. #Hiring #DotNetDeveloper #NETDeveloper #DotNetCore #ReactJS #Microservices #CSharp #SoftwareDeveloper #BangaloreJobs #BangaloreHiring #TechJobs #HiringNow #WFO",
       "tags": [
-        "azure",
         "sql",
         ".net",
-        "c#",
-        "ci/cd"
+        "c#"
       ],
-      "published_at": "2026-09-01",
+      "published_at": "2026-09-04",
       "remote": false,
       "metadata": {},
-      "fingerprint": "3a73524ece99d3a942a163f93c40b2a50a9a5bfb"
+      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
     }
   },
   {
@@ -477,7 +467,7 @@
       "company": "Caterpillar Inc.",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 3 days ago",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 4 days ago",
       "tags": [
         ".net"
       ],
@@ -501,48 +491,19 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4463302035",
-      "title": ".NET Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
+      "source_id": "4458724768",
+      "title": "Senior .NET Developer",
+      "company": "Flight Centre Travel Group",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-flight-centre-travel-group-4458724768",
+      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 6 days ago",
       "tags": [
         ".net"
       ],
-      "published_at": "2026-09-04",
+      "published_at": "2026-09-15",
       "remote": false,
       "metadata": {},
-      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306127282",
-      "title": ".NET Developer",
-      "company": "Zeus Learning",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 11 months ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
+      "fingerprint": "80f12f5add408f6b08f0e111e2466e30acf7ffc6"
     }
   },
   {
@@ -572,42 +533,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Search keyword hit: SQL",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-11247678",
-      "title": "Fulltime Job Opening for Dot NET Developer at IL,TX,CA",
-      "company": "PreludeSys",
-      "location": "",
-      "url": "https://builtin.com/job/fulltime-job-opening-dot-net-developer-il-tx-ca/11247678",
-      "description": "Company Description A CMMI Level 3 and ISO 9001:2008 certified organization for off-shore delivery, PreludeSys is an IT & ITES organization with a presence in USA, India, & Malaysia. Please visit us at www.preludesys.com for more information about our organization. Job Description Hi, Fulltime Job Opening, send me your Fulltime Salary for the below Position Role : .NET Developer or Lead or Senior Location : Chicago,IL or AustinTX, Irvine,CA Duration: Only Fulltime/Permanent + Benefits Only W2, Citizens and those authorized to work with any employer in U.S.A Telephone Interview Mention the Skills or Technologies in the below column. Job Description: Skill Set : C#, ASP.NET, ASP.NET MVC. SQL Server 2008 & above, LINQ, WCF, Entity Framework, Web API, XML, Experience with Design Patterns, Application Blocks, Designing Enterprise applications are a plus. Thanks & Warm Regards, Nirmal Ravindranath Office Number : 949-269-2250, Extn 4070 Qualifications No Qualification Additional Information NIl",
-      "tags": [
-        "3 Days Ago",
-        "Saved",
-        "Information Technology \u2022 Consulting",
-        "Top Skills:",
-        "Application Blocks",
-        "Asp.Net",
-        "Asp.Net Mvc",
-        "C#"
-      ],
-      "published_at": "3 Days Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "058852cf4800c5775e3d767027781a5a5be7dc49"
     }
   },
   {
