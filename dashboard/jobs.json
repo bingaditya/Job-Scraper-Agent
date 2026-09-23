@@ -120,6 +120,63 @@
     }
   },
   {
+    "score": 92,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4469481105",
+      "title": "Sr. Full Stack Dot Net Developer",
+      "company": "JWH Global Private Limited",
+      "location": "Chandigarh, Chandigarh, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-dot-net-developer-at-jwh-global-private-limited-4469481105",
+      "description": "Job description: Senior .NET Developer Location: Chandigarh Experience: 5+ Years Job Type: Full-time Working Hours: 2:00 PM \u2013 11:00 PM, Monday to Friday We are looking for an experienced Senior .NET Developer with 5+ years of hands-on experience in developing, maintaining, and enhancing scalable software applications. Key Responsibilities Analyze requirements and develop efficient, scalable applications using .NET technologies. Design, develop, test, debug, and deploy applications. Work with C#, ASP.NET, MVC, SQL Server, and REST APIs . Develop and optimize relational databases, queries, and stored procedures. Troubleshoot technical issues and improve application performance. Collaborate with development, QA, and other teams throughout the SDLC. Maintain technical documentation and follow coding best practices. Required Skills 5+ years of experience in .NET / Application Development . Strong knowledge of C#, ASP.NET, MVC, SQL Server, and .NET . Experience with HTML5, CSS3, REST APIs , and database development. Understanding of Agile methodologies . Strong problem-solving and communication skills. Qualification B.Tech / B.E / BCA / MCA / M.Tech in Computer Science, IT, or a related field. Work Details Shift: Evening / Fixed / US Shift Location: Chandigarh \u2013 160101 Candidates should be willing to commute or relocate to Chandigarh . To Apply: Share your updated resume at manisha.bains@jwhglobal.com",
+      "tags": [
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "792c4c762299ed361f1d10fd483886ee94644221"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Sr. Full Stack Dot Net Developer at JWH Global Private Limited by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 77,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, CSS",
@@ -263,25 +320,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -314,39 +352,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
-    }
-  },
-  {
-    "score": 61,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 7+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4463302035",
-      "title": ".NET Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": "\ud83d\udea8 Hiring: Senior .NET Developer \ud83d\udccd Location: CV Raman Nagar, Bangalore \ud83c\udfe2 Work Mode: 5 Days Work From Office \ud83d\udcbc Experience: 5\u20137 Years We are looking for an experienced Senior .NET Developer with strong hands-on experience in .NET, .NET Core, React, and Microservices . \ud83d\udd11 Key Skills: \u2022 Strong experience in C# / .NET / .NET Core \u2022 Hands-on experience with ASP.NET Core & Web API \u2022 Strong knowledge of React / ReactJS \u2022 Experience developing Microservices architecture \u2022 Good understanding of REST APIs and backend integration \u2022 Experience with SQL Server / Entity Framework \u2022 Knowledge of Git, Agile/Scrum & Design Patterns \u2022 Strong problem-solving and communication skills \ud83c\udfaf Role & Responsibilities: \u2022 Design, develop, and maintain scalable applications using .NET Core \u2022 Build and integrate RESTful APIs and Microservices \u2022 Develop responsive UI components using React \u2022 Participate in code reviews, testing, debugging, and performance optimization \u2022 Collaborate with cross-functional teams to deliver high-quality solutions \ud83d\udce9 Interested candidates can share their updated resumes / DM me for more details. #Hiring #DotNetDeveloper #NETDeveloper #DotNetCore #ReactJS #Microservices #CSharp #SoftwareDeveloper #BangaloreJobs #BangaloreHiring #TechJobs #HiringNow #WFO",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-09-04",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
     }
   },
   {
@@ -432,35 +437,6 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4468641761",
-      "title": "Software Engineer(Senior .NET Developer)",
-      "company": "Caterpillar Inc.",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 19 hours ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-09-22",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0f19b6b3f4bd2b4a423d5298a8febb93ea3752d3"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
       "source_id": "4467860217",
       "title": "Senior .Net Developer",
       "company": "ePS (eProductivity Software)",
@@ -490,19 +466,19 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4458724768",
-      "title": "Senior .NET Developer",
-      "company": "Flight Centre Travel Group",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-flight-centre-travel-group-4458724768",
-      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 1 week ago",
+      "source_id": "4463302035",
+      "title": ".NET Developer",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net"
       ],
-      "published_at": "2026-09-15",
+      "published_at": "2026-09-04",
       "remote": false,
       "metadata": {},
-      "fingerprint": "80f12f5add408f6b08f0e111e2466e30acf7ffc6"
+      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
     }
   },
   {
@@ -524,7 +500,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 11 months ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 11 months ago",
       "tags": [
         ".net"
       ],
@@ -577,12 +553,42 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4470983271",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions (India)",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-india-4470983271",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 4 hours ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "262679cd3aee699cf334ff44c8d9f7d3d4ad405d"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4443534144",
       "title": "AVP - C# (.net) Developer - Equity Technology",
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 2 weeks ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -612,7 +618,7 @@
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
+      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
       "tags": [
         ".net",
         "c#"
