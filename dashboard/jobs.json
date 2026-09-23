@@ -398,7 +398,7 @@
       "company": "Caterpillar Inc.",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 7 hours ago",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 14 hours ago",
       "tags": [
         ".net"
       ],
@@ -427,7 +427,7 @@
       "company": "ePS (eProductivity Software)",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 4 days ago",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 5 days ago",
       "tags": [
         ".net"
       ],
@@ -464,6 +464,35 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "80f12f5add408f6b08f0e111e2466e30acf7ffc6"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306111792",
+      "title": "ASP.NET Developer",
+      "company": "Expert Solution Technologies",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/asp-net-developer-at-expert-solution-technologies-4306111792",
+      "description": "ASP.NET Developer ASP.NET Developer Expert Solution Technologies Chennai, Tamil Nadu, India 11 months ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "2399e84eb15927234f2b36e67c265a24b5ba478c"
     }
   },
   {
