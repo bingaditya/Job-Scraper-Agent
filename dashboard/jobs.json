@@ -120,6 +120,119 @@
     }
   },
   {
+    "score": 84,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: SQL",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306127282",
+      "title": ".NET Developer",
+      "company": "Zeus Learning",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
+      "description": "Technical Skillsets Asp.Net Core Microservices An added advantage to a candidate who has familiarity with PostgreSQL / MySQL Job Responsibilities Design, build and maintain software applications. Write well-designed, testable, efficient code by using best software development practices. Skills:- ASP.NET, C# and NodeJS (Node.js)",
+      "tags": [
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .NET Developer at Zeus Learning by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 82,
+    "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net, CSS",
+      "Search keyword hit: Azure",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "CSS"
+    ],
+    "job": {
+      "source": "builtin",
+      "source_id": "job-card-11346825",
+      "title": "Senior Engineer- Dot Net",
+      "company": "DNV",
+      "location": "",
+      "url": "https://builtin.com/job/senior-engineer-dot-net/11346825",
+      "description": "The Senior Software Engineer is responsible for designing, developing, testing, deploying, and supporting production-grade software products and shared platform capabilities within DNV\u2019s Digital & Transformation organization. This role sits within the Application Engineering section and contributes to the development and modernization of scalable web applications that support digital delivery across Energy Systems. This role helps to advance how DNV performs Due Diligence, Verification & Assurance, and Renewables Certification work across Energy Systems. This is not a project-based delivery or staff-augmentation role. Engineers are expected to develop deep product knowledge and remain accountable for the quality, maintainability, and operation of the software they build. Working in close partnership with Frontend Engineers, Product leadership, Data & AI Engineering, Solution Engineering, Platform Reliability, Solution Architecture, and Platform Security & Compliance, this role helps bring application capabilities, data services, AI-enabled features, workflows, and APIs into one cohesive platform and product experience. The Senior Software Engineer designs, builds, tests, deploys, and supports scalable software across a modern Microsoft-oriented full-stack environment. The primary stack includes C# and .NET 10, Entity Framework Core, SignalR, MySQL, Redis, TypeScript, React, Redux, Tailwind CSS, Docker, .NET Aspire, Azure Functions, Azure Storage, Azure AI Search, and Azure DevOps. The role requires strong engineering fundamentals, practical cloud experience, and the ability to collaborate effectively across globally distributed teams. This role supports custom software development, application modernization, and integration with low-code or hybrid development environments, helping establish shared patterns, APIs, reusable components, and maintainable application architecture across the platform. **This role is based at our DNV office in Chennai, India. Further details regarding role-specific requirements will be shared during the interview process.** Key Responsibilities Software Engineering & Delivery Design, develop, test, and maintain scalable application and platform capabilities using modern software engineering practices. Build cohesive product experiences across backend services, APIs and platform integrations. Work directly with Product and Architecture stakeholders to shape requirements, evaluate technical approaches, and translate product direction into maintainable, production-ready software. Participate actively in code reviews, technical design discussions, estimation, delivery planning, and implementation decisions. Write clean, well-structured, testable, and maintainable code that supports long-term product quality and team velocity. Own product capabilities through design, implementation, deployment, monitoring, maintenance, and iterative improvement rather than treating delivery as complete when the initial feature is released. .NET Application Development Develop modern API capabilities using C#, .NET 10, Entity Framework Core, SignalR, and related technologies. Develop solutions for Azure and contribute to their deployment and support. Support application modernization efforts, including refactoring, technical debt reduction, framework upgrades, and migration from legacy patterns where appropriate. Develop application capabilities used for structured review workflows, real-time collaboration, issue tracking, customer interaction, reporting, and delivery of technical work products. Partner with Product and design stakeholders to ensure application functionality is intuitive, reliable, and aligned with user workflows. Develop APIs, backend services, frontend components, and integration patterns that support platform interoperability. Help integrate applications with data services, AI-enabled capabilities, workflow configurations, authentication patterns, and enterprise systems. Contribute to reusable development patterns, documentation, and engineering practices that improve team velocity and consistency. Integrate data-driven, search, agentic, and AI-enabled capabilities into production web applications using well-defined APIs and reusable application patterns. Modern Development & AI-Enabled Engineering Use AI-assisted development tools to accelerate coding, testing, debugging, documentation, refactoring, and engineering analysis. Apply strong engineering judgment when using LLM-enabled workflows, ensuring generated or assisted code meets standards for quality, security, maintainability, and performance. Use AI-enabled tools where appropriate to support test generation, code review preparation, technical documentation, and developer productivity. DevOps, Reliability & Security Contribute to Azure DevOps repositories and pipelines, automated testing, deployment automation, environment management, monitoring, and incident readiness. Build software using an Agile methodology, with strong attention to reliability, performance, availability, scalability, and operational support. Support observability practices including logging, monitoring, error handling, and production diagnostics. Follow secure development practices aligned with internal security standards, SOC 2 Type II, ISO 27001, and enterprise security expectations. Collaborate with Platform Reliability, Security, and Global Shared Services teams to support secure, reliable, and maintainable production systems. Collaboration & Technical Ownership Work effectively with Product, Solution Engineering, Data & AI Engineering, Platform Reliability, Architecture, Security, and regional teams in a globally distributed environment. Take ownership of assigned features, services, defects, and technical improvements from design through production support. Communicate technical trade-offs clearly and contribute to pragmatic engineering decisions. Mentor less experienced engineers through code reviews, technical guidance, pairing, and shared engineering practices. Contribute to a culture of accountability, collaboration, continuous improvement, and delivery excellence. Contribute actively within planning and design meetings, speaking up where potential issues arise or where a requirement is poorly defined. Champion potential solutions to problems and communicate them clearly to the team. Responsibilities Flexible work arrangements for better work-life balance Generous Paid Leaves (Annual, Sick, Compassionate, Local Public, Marriage, Maternity, Paternity, Medical leave) Medical benefits ( Insurance and Annual Health Check-up) Pension and Insurance Policies (Group Term Life Insurance, Group Personal Accident Insurance, Travel Insurance) Training and Development Assistance (Training Sponsorship, On-The-Job Training, Training Programme) Additional Benefits (Long Service Awards, Mobile Phone Reimbursement) Company bonus/Profit share. *Benefits may vary based on position, tenure/contract/grade level* DNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to gender, religion, race, national or ethnic origin, cultural background, social group, disability, sexual orientation, gender identity, marital status, age or political opinion. Diversity is fundamental to our culture and we invite you to be part of this diversity. Qualifications Bachelor's or Master's degree in Computer Science, Engineering, Information Systems, or related field, or equivalent experience. 5+ years of experience developing production software in application engineering, software engineering, platform engineering, or related technical roles. Strong production experience developing backend applications and services using C# and modern .NET. Experience designing REST APIs and building distributed or service-oriented application capabilities. Deep understanding of SQL and database optimisation. Experience building, modernizing, or operating scalable web applications in production environments, especially applications that support complex workflows, collaboration, reporting, document review, or customer-facing delivery. Experience building APIs, backend services, frontend components, integrations, and application capabilities in production environments. Experience developing, deploying, and supporting cloud-hosted applications, with practical experience in Microsoft Azure strongly preferred. Strong understanding of software design, testing, code quality, maintainability, security, and performance. Experience with CI/CD, automated testing, source control, code review, and modern software delivery practices. Demonstrated experience using AI-assisted development tools or LLM-enabled coding workflows to improve development productivity. Ability to collaborate with Product, Architecture, Security, Platform Reliability, and cross-functional stakeholders in a matrixed environment. Strong English communication skills and ability to work effectively across globally distributed teams. What is Preferred Experience in Search, RAG or AI integration technologies. Experience of real-time collaboration or data syncing with technologies such as SignalR or WebSockets. Experience in frontend systems such as React or Blazor. Experience in product-led or platform-based organizations. Familiarity with low-code or hybrid development environments. Experience with collaborative due diligence, document review, workflow, reporting, Q&A, risk management, or transaction delivery applications. Experience supporting interoperability across multiple systems or enterprise platforms. Experience working in a broader multi-cloud enterprise environment, including familiarity with AWS. Background in energy, infrastructure, renewables, assurance, certification, or other technically complex industries. Experience with multi-cloud environments spanning Azure and AWS. Experience modernizing legacy applications or integrating acquired software products into a broader enterprise platform. Security and compliance with statutory requirements in the countries in which we operate is essential for DNV. Background checks will be conducted on all final candidates as part of the offer process, in accordance with applicable country-specific laws and practices. About Us About\u00a0Energy Systems We help customers navigate the complex transition to a decarbonized and more sustainable energy future. We do this by assuring that energy systems work safely and effectively, using solutions that are increasingly digital. We also help industries and governments to navigate the many complex, interrelated transitions taking place globally and regionally, in the energy industry.",
+      "tags": [
+        "4 Hours Ago",
+        "Saved",
+        "Other",
+        "Top Skills:",
+        ".Net 10",
+        ".Net Aspire",
+        "AWS",
+        "Azure Ai Search"
+      ],
+      "published_at": "4 Hours Ago",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "206a4fb675c28cce3420223f4e34cdd42efd92a5"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior Engineer- Dot Net at DNV by foregrounding Azure, SQL, C#, .Net, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 77,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, CSS",
@@ -210,27 +323,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "609fc921235b463e49e47038ad890f8a68c91578"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Senior Developer at Infosys by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -263,25 +355,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -437,7 +510,7 @@
       "company": "ePS (eProductivity Software)",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 5 days ago",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 6 days ago",
       "tags": [
         ".net"
       ],
@@ -482,35 +555,6 @@
       "Matched skills: .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: .Net",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306127282",
-      "title": ".NET Developer",
-      "company": "Zeus Learning",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 11 months ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
@@ -539,6 +583,36 @@
     "reasons": [
       "Matched skills: C#, .Net",
       "Search keyword hit: C#",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4469473112",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-4469473112",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions Mumbai Metropolitan Region 20 hours ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "7a0707609683d5e460a1e871e466e01284d9ace2"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
@@ -553,7 +627,7 @@
       "company": "NEC Software Solutions (India)",
       "location": "Mumbai, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-india-4470983271",
-      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 11 hours ago",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 18 hours ago",
       "tags": [
         ".net",
         "c#"
