@@ -181,6 +181,65 @@
     }
   },
   {
+    "score": 77,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 7+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4295671740",
+      "title": "Senior .NET/C# Developer",
+      "company": "Aspire Software",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
+      "description": "Description We are looking for a .NET/C# Developer with hands-on experience to join a small team of passionate developers. You will help transform how enterprises and government organizations manage correspondence. In this role, you will maintain, evolve, and modernize our dotnet based platform using latest AI coding tools. What You\u2019ll Do Your primary mission is to design, maintain, develop, and integrate advanced new features into our platform. You will build new dotnet-based services, refine existing components, and ensure high performance, security, and maintainability across the system. You will also have the opportunity to integrate LLMs and Generative AI inside our platform and work on our new automated workflow product that leverages generative AI to automate correspondence processes. Day-to-Day Breakdown Development & Integration: Build and test a new web platform using .NET/C#, while also migrating our existing Java application to dotnet using AI tools and maintaining an existing platform. Collaboration & Code Quality: Work closely with team members, participate in code reviews, and ensure adherence to best practices in software development. Research & Innovation: Stay updated on emerging AI trends, experiment with new technologies, and continuously propose improvements to our platform. Responsibilities Development & Integration Design and Build Solutions: Architect and implement new modules and services that extend our correspondence-management platform. Migrate Java Application: Leverage AI tools to migrate our existing Java services to dotnet. Maintain & Enhance Platform: Provide ongoing maintenance, updates, and bug fixes for the existing platform to ensure performance and reliability. API & Service Integration: Develop and maintain integrations between RESTful services, messaging queues, third-party APIs, and the core platform. Quality and Documentation: Write clean, efficient, and well-documented code, following the industry\u2019s best practices and coding standards. Collaboration & Continuous Improvement Team Collaboration: Work closely with other developers, product managers, and stakeholders to gather requirements and translate them into technical solutions. Documentation & Best Practices: Create and maintain detailed documentation for system designs, integrations, and technical processes. Requirements Requirements: Technical Skills Proficient in .NET/C# with hands-on experience using dotnet to build production systems. Experience with HTML, CSS, JavaScript, ASP.NET MVC, Angular/React, and Web API is ideal. While you won't be expected to master these technologies from day one, a strong willingness to learn and expand your skillset is essential. Ability to write clean, maintainable, and well-documented code. API Integration & Database Knowledge: Skilled in integrating APIs, working with databases (especially SQL Server and Oracle), and managing web services within enterprise applications. Monitoring & Debugging: Familiarity with tools and techniques for database/application monitoring, debugging, and troubleshooting. AI Development Tools: Familiarity with AI development tools like Cursor, Windsurf, Claude, or similar platforms that enhance and expedite the development process. Soft Skills Autonomy & Adaptability: High level of independence and adaptability; capable of working without direct oversight and proactively taking initiative. Problem-Solving Skills: Strong analytical skills with the ability to troubleshoot and resolve complex technical issues efficiently. Effective Communication: Excellent collaboration and communication skills, with the ability to explain complex concepts to both technical and non-technical stakeholders. Attention to Detail: Commitment to writing high-quality code and ensuring the reliability and performance of applications. Continuous Learning: Proactive in learning new technologies and responsive to shifting priorities. Desired Experience Bachelor\u2019s degree in computer science, engineering, or related field (or equivalent practical experience). 7+ years of experience in software development, with a focus on .NET/C#. Experience with automated testing frameworks and practices to ensure code quality and reliability. Able to work aligned with the Eastern Time (EST).",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-09-11",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 76,
     "reasons": [
       "Matched skills: Azure, SQL, C#, .Net",
@@ -265,25 +324,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -435,7 +475,7 @@
       "company": "ePS (eProductivity Software)",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 6 days ago",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 1 week ago",
       "tags": [
         ".net"
       ],
@@ -493,7 +533,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -533,63 +573,32 @@
     }
   },
   {
-    "score": 50,
+    "score": 54,
     "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
     "matched_skills": [
-      "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4470983271",
-      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
-      "company": "NEC Software Solutions (India)",
-      "location": "Mumbai, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-india-4470983271",
-      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 1 day ago",
+      "source_id": "4159881637",
+      "title": ".NET Developer",
+      "company": "JISA Softech Private Limited",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
+      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
       "tags": [
-        ".net",
-        "c#"
+        ".net"
       ],
-      "published_at": "2026-09-23",
+      "published_at": "2025-02-20",
       "remote": false,
       "metadata": {},
-      "fingerprint": "262679cd3aee699cf334ff44c8d9f7d3d4ad405d"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4295671740",
-      "title": "Senior .NET/C# Developer",
-      "company": "Aspire Software",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 1 week ago",
-      "tags": [
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-09-11",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
+      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
     }
   },
   {
