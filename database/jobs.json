@@ -2,6 +2,65 @@
   {
     "score": 100,
     "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4450710892",
+      "title": "Dotnet Developer\nJaipur",
+      "company": "VertexPlus",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
+      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-08-07",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 100,
+    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net, Html",
       "Search keyword hit: Azure",
       "Preferred location: India",
@@ -83,7 +142,7 @@
       "url": "https://builtin.com/job/senior-engineer-dot-net/11346825",
       "description": "The Senior Software Engineer is responsible for designing, developing, testing, deploying, and supporting production-grade software products and shared platform capabilities within DNV\u2019s Digital & Transformation organization. This role sits within the Application Engineering section and contributes to the development and modernization of scalable web applications that support digital delivery across Energy Systems. This role helps to advance how DNV performs Due Diligence, Verification & Assurance, and Renewables Certification work across Energy Systems. This is not a project-based delivery or staff-augmentation role. Engineers are expected to develop deep product knowledge and remain accountable for the quality, maintainability, and operation of the software they build. Working in close partnership with Frontend Engineers, Product leadership, Data & AI Engineering, Solution Engineering, Platform Reliability, Solution Architecture, and Platform Security & Compliance, this role helps bring application capabilities, data services, AI-enabled features, workflows, and APIs into one cohesive platform and product experience. The Senior Software Engineer designs, builds, tests, deploys, and supports scalable software across a modern Microsoft-oriented full-stack environment. The primary stack includes C# and .NET 10, Entity Framework Core, SignalR, MySQL, Redis, TypeScript, React, Redux, Tailwind CSS, Docker, .NET Aspire, Azure Functions, Azure Storage, Azure AI Search, and Azure DevOps. The role requires strong engineering fundamentals, practical cloud experience, and the ability to collaborate effectively across globally distributed teams. This role supports custom software development, application modernization, and integration with low-code or hybrid development environments, helping establish shared patterns, APIs, reusable components, and maintainable application architecture across the platform. **This role is based at our DNV office in Chennai, India. Further details regarding role-specific requirements will be shared during the interview process.** Key Responsibilities Software Engineering & Delivery Design, develop, test, and maintain scalable application and platform capabilities using modern software engineering practices. Build cohesive product experiences across backend services, APIs and platform integrations. Work directly with Product and Architecture stakeholders to shape requirements, evaluate technical approaches, and translate product direction into maintainable, production-ready software. Participate actively in code reviews, technical design discussions, estimation, delivery planning, and implementation decisions. Write clean, well-structured, testable, and maintainable code that supports long-term product quality and team velocity. Own product capabilities through design, implementation, deployment, monitoring, maintenance, and iterative improvement rather than treating delivery as complete when the initial feature is released. .NET Application Development Develop modern API capabilities using C#, .NET 10, Entity Framework Core, SignalR, and related technologies. Develop solutions for Azure and contribute to their deployment and support. Support application modernization efforts, including refactoring, technical debt reduction, framework upgrades, and migration from legacy patterns where appropriate. Develop application capabilities used for structured review workflows, real-time collaboration, issue tracking, customer interaction, reporting, and delivery of technical work products. Partner with Product and design stakeholders to ensure application functionality is intuitive, reliable, and aligned with user workflows. Develop APIs, backend services, frontend components, and integration patterns that support platform interoperability. Help integrate applications with data services, AI-enabled capabilities, workflow configurations, authentication patterns, and enterprise systems. Contribute to reusable development patterns, documentation, and engineering practices that improve team velocity and consistency. Integrate data-driven, search, agentic, and AI-enabled capabilities into production web applications using well-defined APIs and reusable application patterns. Modern Development & AI-Enabled Engineering Use AI-assisted development tools to accelerate coding, testing, debugging, documentation, refactoring, and engineering analysis. Apply strong engineering judgment when using LLM-enabled workflows, ensuring generated or assisted code meets standards for quality, security, maintainability, and performance. Use AI-enabled tools where appropriate to support test generation, code review preparation, technical documentation, and developer productivity. DevOps, Reliability & Security Contribute to Azure DevOps repositories and pipelines, automated testing, deployment automation, environment management, monitoring, and incident readiness. Build software using an Agile methodology, with strong attention to reliability, performance, availability, scalability, and operational support. Support observability practices including logging, monitoring, error handling, and production diagnostics. Follow secure development practices aligned with internal security standards, SOC 2 Type II, ISO 27001, and enterprise security expectations. Collaborate with Platform Reliability, Security, and Global Shared Services teams to support secure, reliable, and maintainable production systems. Collaboration & Technical Ownership Work effectively with Product, Solution Engineering, Data & AI Engineering, Platform Reliability, Architecture, Security, and regional teams in a globally distributed environment. Take ownership of assigned features, services, defects, and technical improvements from design through production support. Communicate technical trade-offs clearly and contribute to pragmatic engineering decisions. Mentor less experienced engineers through code reviews, technical guidance, pairing, and shared engineering practices. Contribute to a culture of accountability, collaboration, continuous improvement, and delivery excellence. Contribute actively within planning and design meetings, speaking up where potential issues arise or where a requirement is poorly defined. Champion potential solutions to problems and communicate them clearly to the team. Responsibilities Flexible work arrangements for better work-life balance Generous Paid Leaves (Annual, Sick, Compassionate, Local Public, Marriage, Maternity, Paternity, Medical leave) Medical benefits ( Insurance and Annual Health Check-up) Pension and Insurance Policies (Group Term Life Insurance, Group Personal Accident Insurance, Travel Insurance) Training and Development Assistance (Training Sponsorship, On-The-Job Training, Training Programme) Additional Benefits (Long Service Awards, Mobile Phone Reimbursement) Company bonus/Profit share. *Benefits may vary based on position, tenure/contract/grade level* DNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to gender, religion, race, national or ethnic origin, cultural background, social group, disability, sexual orientation, gender identity, marital status, age or political opinion. Diversity is fundamental to our culture and we invite you to be part of this diversity. Qualifications Bachelor's or Master's degree in Computer Science, Engineering, Information Systems, or related field, or equivalent experience. 5+ years of experience developing production software in application engineering, software engineering, platform engineering, or related technical roles. Strong production experience developing backend applications and services using C# and modern .NET. Experience designing REST APIs and building distributed or service-oriented application capabilities. Deep understanding of SQL and database optimisation. Experience building, modernizing, or operating scalable web applications in production environments, especially applications that support complex workflows, collaboration, reporting, document review, or customer-facing delivery. Experience building APIs, backend services, frontend components, integrations, and application capabilities in production environments. Experience developing, deploying, and supporting cloud-hosted applications, with practical experience in Microsoft Azure strongly preferred. Strong understanding of software design, testing, code quality, maintainability, security, and performance. Experience with CI/CD, automated testing, source control, code review, and modern software delivery practices. Demonstrated experience using AI-assisted development tools or LLM-enabled coding workflows to improve development productivity. Ability to collaborate with Product, Architecture, Security, Platform Reliability, and cross-functional stakeholders in a matrixed environment. Strong English communication skills and ability to work effectively across globally distributed teams. What is Preferred Experience in Search, RAG or AI integration technologies. Experience of real-time collaboration or data syncing with technologies such as SignalR or WebSockets. Experience in frontend systems such as React or Blazor. Experience in product-led or platform-based organizations. Familiarity with low-code or hybrid development environments. Experience with collaborative due diligence, document review, workflow, reporting, Q&A, risk management, or transaction delivery applications. Experience supporting interoperability across multiple systems or enterprise platforms. Experience working in a broader multi-cloud enterprise environment, including familiarity with AWS. Background in energy, infrastructure, renewables, assurance, certification, or other technically complex industries. Experience with multi-cloud environments spanning Azure and AWS. Experience modernizing legacy applications or integrating acquired software products into a broader enterprise platform. Security and compliance with statutory requirements in the countries in which we operate is essential for DNV. Background checks will be conducted on all final candidates as part of the offer process, in accordance with applicable country-specific laws and practices. About Us About\u00a0Energy Systems We help customers navigate the complex transition to a decarbonized and more sustainable energy future. We do this by assuring that energy systems work safely and effectively, using solutions that are increasingly digital. We also help industries and governments to navigate the many complex, interrelated transitions taking place globally and regionally, in the energy industry.",
       "tags": [
-        "14 Hours Ago",
+        "Yesterday",
         "Saved",
         "Other",
         "Top Skills:",
@@ -92,7 +151,7 @@
         "AWS",
         "Azure Ai Search"
       ],
-      "published_at": "14 Hours Ago",
+      "published_at": "Yesterday",
       "remote": false,
       "metadata": {},
       "fingerprint": "206a4fb675c28cce3420223f4e34cdd42efd92a5"
@@ -118,65 +177,6 @@
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 77,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 7+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4295671740",
-      "title": "Senior .NET/C# Developer",
-      "company": "Aspire Software",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Description We are looking for a .NET/C# Developer with hands-on experience to join a small team of passionate developers. You will help transform how enterprises and government organizations manage correspondence. In this role, you will maintain, evolve, and modernize our dotnet based platform using latest AI coding tools. What You\u2019ll Do Your primary mission is to design, maintain, develop, and integrate advanced new features into our platform. You will build new dotnet-based services, refine existing components, and ensure high performance, security, and maintainability across the system. You will also have the opportunity to integrate LLMs and Generative AI inside our platform and work on our new automated workflow product that leverages generative AI to automate correspondence processes. Day-to-Day Breakdown Development & Integration: Build and test a new web platform using .NET/C#, while also migrating our existing Java application to dotnet using AI tools and maintaining an existing platform. Collaboration & Code Quality: Work closely with team members, participate in code reviews, and ensure adherence to best practices in software development. Research & Innovation: Stay updated on emerging AI trends, experiment with new technologies, and continuously propose improvements to our platform. Responsibilities Development & Integration Design and Build Solutions: Architect and implement new modules and services that extend our correspondence-management platform. Migrate Java Application: Leverage AI tools to migrate our existing Java services to dotnet. Maintain & Enhance Platform: Provide ongoing maintenance, updates, and bug fixes for the existing platform to ensure performance and reliability. API & Service Integration: Develop and maintain integrations between RESTful services, messaging queues, third-party APIs, and the core platform. Quality and Documentation: Write clean, efficient, and well-documented code, following the industry\u2019s best practices and coding standards. Collaboration & Continuous Improvement Team Collaboration: Work closely with other developers, product managers, and stakeholders to gather requirements and translate them into technical solutions. Documentation & Best Practices: Create and maintain detailed documentation for system designs, integrations, and technical processes. Requirements Requirements: Technical Skills Proficient in .NET/C# with hands-on experience using dotnet to build production systems. Experience with HTML, CSS, JavaScript, ASP.NET MVC, Angular/React, and Web API is ideal. While you won't be expected to master these technologies from day one, a strong willingness to learn and expand your skillset is essential. Ability to write clean, maintainable, and well-documented code. API Integration & Database Knowledge: Skilled in integrating APIs, working with databases (especially SQL Server and Oracle), and managing web services within enterprise applications. Monitoring & Debugging: Familiarity with tools and techniques for database/application monitoring, debugging, and troubleshooting. AI Development Tools: Familiarity with AI development tools like Cursor, Windsurf, Claude, or similar platforms that enhance and expedite the development process. Soft Skills Autonomy & Adaptability: High level of independence and adaptability; capable of working without direct oversight and proactively taking initiative. Problem-Solving Skills: Strong analytical skills with the ability to troubleshoot and resolve complex technical issues efficiently. Effective Communication: Excellent collaboration and communication skills, with the ability to explain complex concepts to both technical and non-technical stakeholders. Attention to Detail: Commitment to writing high-quality code and ensuring the reliability and performance of applications. Continuous Learning: Proactive in learning new technologies and responsive to shifting priorities. Desired Experience Bachelor\u2019s degree in computer science, engineering, or related field (or equivalent practical experience). 7+ years of experience in software development, with a focus on .NET/C#. Experience with automated testing frameworks and practices to ensure code quality and reliability. Able to work aligned with the Eastern Time (EST).",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-09-11",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -319,39 +319,6 @@
     }
   },
   {
-    "score": 61,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 7+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4463302035",
-      "title": ".NET Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": "\ud83d\udea8 Hiring: Senior .NET Developer \ud83d\udccd Location: CV Raman Nagar, Bangalore \ud83c\udfe2 Work Mode: 5 Days Work From Office \ud83d\udcbc Experience: 5\u20137 Years We are looking for an experienced Senior .NET Developer with strong hands-on experience in .NET, .NET Core, React, and Microservices . \ud83d\udd11 Key Skills: \u2022 Strong experience in C# / .NET / .NET Core \u2022 Hands-on experience with ASP.NET Core & Web API \u2022 Strong knowledge of React / ReactJS \u2022 Experience developing Microservices architecture \u2022 Good understanding of REST APIs and backend integration \u2022 Experience with SQL Server / Entity Framework \u2022 Knowledge of Git, Agile/Scrum & Design Patterns \u2022 Strong problem-solving and communication skills \ud83c\udfaf Role & Responsibilities: \u2022 Design, develop, and maintain scalable applications using .NET Core \u2022 Build and integrate RESTful APIs and Microservices \u2022 Develop responsive UI components using React \u2022 Participate in code reviews, testing, debugging, and performance optimization \u2022 Collaborate with cross-functional teams to deliver high-quality solutions \ud83d\udce9 Interested candidates can share their updated resumes / DM me for more details. #Hiring #DotNetDeveloper #NETDeveloper #DotNetCore #ReactJS #Microservices #CSharp #SoftwareDeveloper #BangaloreJobs #BangaloreHiring #TechJobs #HiringNow #WFO",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-09-04",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
-    }
-  },
-  {
     "score": 58,
     "reasons": [
       "Matched skills: SQL, .Net, JavaScript",
@@ -372,7 +339,7 @@
       "url": "https://builtin.com/job/software-engineer-ii/10852776",
       "description": "Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. Whether you\u2019re interested in engineering or development, marketing or sales, or something else \u2013 if this sounds like you, then we\u2019d love to hear from you! We are headquartered in Denver, Colorado, with offices in the US, Canada, and India. $75,000 - $90,000 / year The insurance industry runs on Vertafore. We equip agencies, MGAs, and carriers with the core digital systems, specialized AI, and data-driven foundation to eliminate distribution drag across the insurance lifecycle, spanning sales, servicing, and back-office operations. Underpinned by unmatched speed and performance power, we are the trusted backbone that\u2019s taking the insurance industry from friction to flow with Distribution Velocity \u2013 speed, performance, and trust - to drive growth at scale. With over 95% of the top agencies and insurers and 50% of industry compliance transactions running through Vertafore, we lead at the intersection of innovation and trust, giving insurance professionals the confidence to transform and win in the AI era. Our reach is global, with headquarters in Denver, Colorado, and offices across the U.S., Canada, and India. As a Software Engineer II, you will be working within an energetic agile team implementing solutions that support a wide range of customers. You will develop high quality web-based applications for new and existing features. You will also have the opportunity to bring your creative ideas to the table to deliver better solutions to our users. If you love technology, have a passion for software, are hungry to learn, and are driven to contribute to a world-class team of engineers, you\u2019re who we are looking for. Core Requirements and Responsibilities: Essential job functions included but are not limited to the following: Contributes independently to multiple functional and technical areas within a product Responsible for developing new features and supporting/bug fixing existing features Unit and integration testing Creates artifacts/documents that are valuable to the team Debugging issues across the whole stack - OS, DB, applications, JavaScript, and network Share what they know by mentoring other team members Writes well-designed, testable code Develops new features and supporting/bug fixing in existing and new features for a wide range of products Troubleshoots issues across the whole stack - OS, DB, applications, JavaScript, and network Participates in code reviews, both of your own code and as a reviewer. Provides feedback and suggestions for process and product improvement. Conducts technical research on new technology for possible new aspects of a product or components needing redesign or updating. Prepares product documentation, support materials, and internal documentation. Mentors and inspires others to raise the bar for everyone around them Shares what they know;\u00a0 Prepares internal technical training and information sessions Follows industry trends and the open-source community Knowledge, Skills and Abilities: Adheres to quality/technical team standards Able to diagnose issues and provide solutions for multiple functional and technical areas within a product Can independently frame problems and perform relevant research Collaborate with their peers, designing pragmatic solutions Operate best in a fast-paced, flexible work environment Prepare technical training and information sessions for other staff Enjoy solving problems through the entire application stack Effective communication (written and verbal) and interpersonal skills. Problem solver with strong analytical and critical thinking skills An innate curiosity about how things work; proactively acquires new skills and learns new tools and technologies to troubleshoot issues. A team player and excellent collaborator Cares about quality and knows what it means to ship high-quality code; able to define and adhere to quality/technical team standards Proficient with relevant tools and technologies to troubleshoot and resolve complex issues Qualifications: Bachelor\u2019s degree in Computer Science (or related technical field) or equivalent practical experience 2-3 years of professional experience with Java/.NET and common frameworks Experience with JavaScript.\u00a0 React.js or similar Experience working in an Agile environment required Experience working with relational and NoSQL Databases Experience with RESTful web services Experience in security best practices for software and data platforms Are interested and capable of learning other programming languages as needed. Additional Requirements and Details: Travel required up to 10% of the time. Located and working from an office location. Occasional lifting and/or moving up to 10 pounds. Frequent repetitive hand and arm movements required to operate a computer. Specific vision abilities required by this job include close vision (working on a computer, etc.). Frequent sitting and/or standing. #LI-HYBRID Is this role not an exact fit for you? Keep an eye on our Careers Page for other positions! Vertafore is a drug free workplace and conducts preemployment drug and background screenings . The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics.\u00a0 Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance.\u00a0 Eligibility is determined by several factors including:\u00a0start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs.\u00a0 Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone.\u00a0 if you\u00a0would like to contact us regarding\u00a0the accessibility of our website or need assistance completing the application\u00a0process, please contact\u00a0recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
       "tags": [
-        "29 Days Ago",
+        "One Month Ago",
         "Saved",
         "Information Technology \u2022 Insurance \u2022 Software",
         "Top Skills:",
@@ -381,7 +348,7 @@
         "Java",
         "JavaScript"
       ],
-      "published_at": "29 Days Ago",
+      "published_at": "One Month Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "c6bfde02e5931608803092fca00331edb55998a4"
@@ -439,7 +406,7 @@
       "company": "Caterpillar Inc.",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India Actively Hiring 2 days ago",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 2 days ago",
       "tags": [
         ".net"
       ],
@@ -492,19 +459,19 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4458724768",
+      "source_id": "4463836286",
       "title": "Senior .NET Developer",
-      "company": "Flight Centre Travel Group",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-flight-centre-travel-group-4458724768",
-      "description": "Senior .NET Developer Senior .NET Developer Flight Centre Travel Group Noida, Uttar Pradesh, India 1 week ago",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
       "tags": [
         ".net"
       ],
-      "published_at": "2026-09-15",
+      "published_at": "2026-09-09",
       "remote": false,
       "metadata": {},
-      "fingerprint": "80f12f5add408f6b08f0e111e2466e30acf7ffc6"
+      "fingerprint": "1fa0584082a693fec70feeb922436f10fa99f8a0"
     }
   },
   {
@@ -521,19 +488,19 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4463836286",
-      "title": "Senior .NET Developer",
+      "source_id": "4463302035",
+      "title": ".NET Developer",
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
       "tags": [
         ".net"
       ],
-      "published_at": "2026-09-09",
+      "published_at": "2026-09-04",
       "remote": false,
       "metadata": {},
-      "fingerprint": "1fa0584082a693fec70feeb922436f10fa99f8a0"
+      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
     }
   },
   {
@@ -555,7 +522,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 11 months ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 11 months ago",
       "tags": [
         ".net"
       ],
@@ -609,12 +576,42 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4295671740",
+      "title": "Senior .NET/C# Developer",
+      "company": "Aspire Software",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 1 week ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-11",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4443534144",
       "title": "AVP - C# (.net) Developer - Equity Technology",
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 3 weeks ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 3 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -644,7 +641,7 @@
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
+      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
       "tags": [
         ".net",
         "c#"
