@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T10:58:17.278601+00:00",
+  "generated_at": "2026-09-26T15:58:07.889844+00:00",
   "candidate": "Candidate Name",
-  "raw_jobs": 74,
-  "deduplicated_jobs": 74,
-  "shortlisted_jobs": 14,
+  "raw_jobs": 75,
+  "deduplicated_jobs": 75,
+  "shortlisted_jobs": 16,
   "new_jobs": 0,
   "notifications_sent": 0,
   "notification_error": null,
@@ -11,7 +11,7 @@
   "top_sources": [
     [
       "linkedin",
-      14
+      16
     ]
   ],
   "source_stats": [
@@ -23,7 +23,7 @@
     {
       "source": "remoteok",
       "status": "ok",
-      "jobs_fetched": 14
+      "jobs_fetched": 15
     },
     {
       "source": "linkedin",

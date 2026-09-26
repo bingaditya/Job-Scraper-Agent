@@ -56,6 +56,60 @@
     }
   },
   {
+    "job_id": "f9767c3aee32174788c8cffbde7202a476e9579b",
+    "title": "Senior .NET/C# Developer",
+    "company": "Aspire Software",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "609fc921235b463e49e47038ad890f8a68c91578",
+    "title": ".Net Senior Developer",
+    "company": "Infosys",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Senior Developer at Infosys by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "job_id": "06634cdcd3017295be00e978e1fb3c39f861c60b",
     "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
     "company": "Citrus Informatics (India) Pvt Ltd",
@@ -75,42 +129,6 @@
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "0f19b6b3f4bd2b4a423d5298a8febb93ea3752d3",
-    "title": "Software Engineer(Senior .NET Developer)",
-    "company": "Caterpillar Inc.",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer(Senior .NET Developer) at Caterpillar Inc. by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "8ff866313b76f8aff6a291f3a304b884713afe31",
-    "title": "Senior .Net Developer",
-    "company": "ePS (eProductivity Software)",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .Net Developer at ePS (eProductivity Software) by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
