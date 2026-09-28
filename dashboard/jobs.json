@@ -368,7 +368,7 @@
       "company": "Caterpillar Inc.",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India Actively Hiring 5 days ago",
+      "description": "Software Engineer(Senior .NET Developer) Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 6 days ago",
       "tags": [
         ".net"
       ],
@@ -426,7 +426,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -455,7 +455,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -484,7 +484,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 12 months ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 12 months ago",
       "tags": [
         ".net"
       ],
@@ -492,35 +492,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4159881637",
-      "title": ".NET Developer",
-      "company": "JISA Softech Private Limited",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
-      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2025-02-20",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
     }
   },
   {
@@ -542,7 +513,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 3 days ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 3 days ago",
       "tags": [
         ".net",
         "c#"
@@ -551,6 +522,36 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "4cc3da02b3742fc65c1e90c643c44ae303d61e31"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4470983271",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions (India)",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-india-4470983271",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 5 days ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "262679cd3aee699cf334ff44c8d9f7d3d4ad405d"
     }
   },
   {
