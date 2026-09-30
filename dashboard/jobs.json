@@ -59,67 +59,6 @@
     }
   },
   {
-    "score": 100,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, Html",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4432530808",
-      "title": "Dot Net Developer",
-      "company": "VenPep Group",
-      "location": "Coimbatore, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-venpep-group-4432530808",
-      "description": "NET Developer Job Description (3\u20135 Years Experience) We are looking for a skilled and passionate .NET Developer with 3\u20135 years of experience in developing and maintaining web applications. The ideal candidate should have strong expertise in Microsoft technologies, problem-solving skills, and the ability to work in a collaborative environment. Key Responsibilities Develop, test, and maintain scalable web applications using .NET technologies. Write clean, efficient, and reusable code. Collaborate with cross-functional teams to define and deliver new features. Work on API integration and database management. Troubleshoot, debug, and optimize application performance. Participate in code reviews and technical discussions. Ensure application security, quality, and responsiveness. Required Skills Strong experience in C#, ASP.NET, .NET Core, and MVC. Good knowledge of Web APIs and RESTful services. Experience with SQL Server and database design. Understanding of HTML, CSS, JavaScript, and front-end frameworks. Familiarity with Git/version control tools. Knowledge of Agile/Scrum methodologies. Strong analytical and communication skills. Preferred Skills Experience with Angular or React.js. Knowledge of Azure/cloud platforms. Experience in microservices architecture. Experience 3\u20135 years of relevant experience in .NET development. Location Coimbatore Employment Type Full-Time Skills: .net,database,asp.net",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-06-24",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "6dcb021bcaeede95d22a2175e8de1f5d315290e3"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at VenPep Group by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 64,
     "reasons": [
       "Matched skills: SQL, C#, .Net",
@@ -165,57 +104,6 @@
       ],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 64,
-    "reasons": [
-      "Matched skills: Azure, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306129222",
-      "title": "Dotnet Developer",
-      "company": "VAYUZ Technologies",
-      "location": "Coimbatore, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-vayuz-technologies-4306129222",
-      "description": "Performs implementation of high level design and specifications. Develops low level design, class diagrams, flow charts. Performs Unit testing of individually developed components and fix errors, if any Assist in preparation of design, technical reference & operational documentation, packaging document in collaboration with the Lead. Strives for technology innovation in terms of exploring new and efficient ways of writing code Is responsible for writing simple, reusable code by following coding standards Ensure proper documentation of implementation and reviews. Ensure timely follow ups and escalations with leads with respect to any process gaps/risks/impediments. Skills:- ASP.NET, C# and Microsoft Windows Azure",
-      "tags": [
-        "azure",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
@@ -290,6 +178,19 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "8ff866313b76f8aff6a291f3a304b884713afe31"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .Net Developer at ePS (eProductivity Software) by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -319,6 +220,19 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "1fa0584082a693fec70feeb922436f10fa99f8a0"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .NET Developer at UST by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -348,6 +262,35 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4436494193",
+      "title": "Senior .NET Developer",
+      "company": "Interpath",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-interpath-4436494193",
+      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India 3 months ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-06-08",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f3b8371fcf8761ead7ef0da8d1af502e26a19bcb"
     }
   },
   {
@@ -422,6 +365,36 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4472126627",
+      "title": "Senior Software Engineer \u2013 .NET C# Mandatory",
+      "company": "Siemens",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-mandatory-at-siemens-4472126627",
+      "description": "Senior Software Engineer \u2013 .NET C# Mandatory Senior Software Engineer \u2013 .NET C# Mandatory Siemens Pune Division, Maharashtra, India 4 hours ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "0a4035b6fe6398c162bb398e263df279b0a4fbd0"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4443534144",
       "title": "AVP - C# (.net) Developer - Equity Technology",
       "company": "Jefferies",
@@ -436,6 +409,36 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "4cc3da02b3742fc65c1e90c643c44ae303d61e31"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4469473112",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-4469473112",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions Mumbai Metropolitan Region 6 days ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "7a0707609683d5e460a1e871e466e01284d9ace2"
     }
   },
   {

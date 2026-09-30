@@ -28,34 +28,6 @@
     }
   },
   {
-    "job_id": "6dcb021bcaeede95d22a2175e8de1f5d315290e3",
-    "title": "Dot Net Developer",
-    "company": "VenPep Group",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dot Net Developer at VenPep Group by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "06634cdcd3017295be00e978e1fb3c39f861c60b",
     "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
     "company": "Citrus Informatics (India) Pvt Ltd",
@@ -80,36 +52,48 @@
     }
   },
   {
-    "job_id": "84ce8f1b56bb86d0f392eb9238338c8fe555383f",
-    "title": "Dotnet Developer",
-    "company": "VAYUZ Technologies",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "0f19b6b3f4bd2b4a423d5298a8febb93ea3752d3",
     "title": "Software Engineer(Senior .NET Developer)",
     "company": "Caterpillar Inc.",
     "resume_suggestion": {
       "mode": "rules",
       "summary": "Target Software Engineer(Senior .NET Developer) at Caterpillar Inc. by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "8ff866313b76f8aff6a291f3a304b884713afe31",
+    "title": "Senior .Net Developer",
+    "company": "ePS (eProductivity Software)",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .Net Developer at ePS (eProductivity Software) by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "1fa0584082a693fec70feeb922436f10fa99f8a0",
+    "title": "Senior .NET Developer",
+    "company": "UST",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .NET Developer at UST by foregrounding .Net and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         ".Net"
       ],
