@@ -281,6 +281,39 @@
     }
   },
   {
+    "score": 61,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 7+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4463302035",
+      "title": ".NET Developer",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
+      "description": "\ud83d\udea8 Hiring: Senior .NET Developer \ud83d\udccd Location: CV Raman Nagar, Bangalore \ud83c\udfe2 Work Mode: 5 Days Work From Office \ud83d\udcbc Experience: 5\u20137 Years We are looking for an experienced Senior .NET Developer with strong hands-on experience in .NET, .NET Core, React, and Microservices . \ud83d\udd11 Key Skills: \u2022 Strong experience in C# / .NET / .NET Core \u2022 Hands-on experience with ASP.NET Core & Web API \u2022 Strong knowledge of React / ReactJS \u2022 Experience developing Microservices architecture \u2022 Good understanding of REST APIs and backend integration \u2022 Experience with SQL Server / Entity Framework \u2022 Knowledge of Git, Agile/Scrum & Design Patterns \u2022 Strong problem-solving and communication skills \ud83c\udfaf Role & Responsibilities: \u2022 Design, develop, and maintain scalable applications using .NET Core \u2022 Build and integrate RESTful APIs and Microservices \u2022 Develop responsive UI components using React \u2022 Participate in code reviews, testing, debugging, and performance optimization \u2022 Collaborate with cross-functional teams to deliver high-quality solutions \ud83d\udce9 Interested candidates can share their updated resumes / DM me for more details. #Hiring #DotNetDeveloper #NETDeveloper #DotNetCore #ReactJS #Microservices #CSharp #SoftwareDeveloper #BangaloreJobs #BangaloreHiring #TechJobs #HiringNow #WFO",
+      "tags": [
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-04",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
+    }
+  },
+  {
     "score": 54,
     "reasons": [
       "Matched skills: .Net",
@@ -344,35 +377,6 @@
       "Matched skills: .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4463302035",
-      "title": ".NET Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-09-04",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
       "Preferred location: Mumbai",
       "Experience requirement not strict"
     ],
@@ -394,35 +398,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4159881637",
-      "title": ".NET Developer",
-      "company": "JISA Softech Private Limited",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
-      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2025-02-20",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
     }
   },
   {
@@ -534,7 +509,7 @@
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
+      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
       "tags": [
         ".net",
         "c#"
