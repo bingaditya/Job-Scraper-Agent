@@ -2,65 +2,6 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4450710892",
-      "title": "Dotnet Developer\nJaipur",
-      "company": "VertexPlus",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
-      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-08-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net, Html",
       "Search keyword hit: Azure",
       "Preferred location: India",
@@ -170,6 +111,58 @@
         ".Net",
         "Html",
         "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 66,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 6+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4465411178",
+      "title": ".NET Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-tata-consultancy-services-4465411178",
+      "description": "Greetings from TCS! TCS is hiring for .NET Developer Desired Experience Range: 6+Years Job Location: Gurugram Required Skills 6+ years of experience in .NET development and application design. Strong experience with C#, .NET / .NET Core, ASP.NET Core, Web API , and related technologies. Good knowledge of solution design, application architecture, and design patterns. Experience in designing and developing REST APIs and enterprise applications. Good understanding of databases such as SQL Server. Knowledge of application integration and API-based solutions. Strong analytical, troubleshooting, problem-solving, and communication skills. Ability to convert business requirements into appropriate technical designs.",
+      "tags": [
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-12",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "8696b49bbdade61e3043427151861f10a4975350"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .NET Developer at Tata Consultancy Services by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net"
       ],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
@@ -299,7 +292,7 @@
       "company": "ePS (eProductivity Software)",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 1 week ago",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -397,6 +390,35 @@
     }
   },
   {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4159881637",
+      "title": ".NET Developer",
+      "company": "JISA Softech Private Limited",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-jisa-softech-private-limited-4159881637",
+      "description": ".NET Developer .NET Developer JISA Softech Private Limited Pune Division, Maharashtra, India 1 year ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2025-02-20",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "c9669119ab52ae72d7e116615d4766907f3ce27d"
+    }
+  },
+  {
     "score": 50,
     "reasons": [
       "Matched skills: C#, .Net",
@@ -415,7 +437,7 @@
       "company": "TransUnion",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/sr-developer-c%23-net-apis-at-transunion-4448242656",
-      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India 10 hours ago",
+      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India 18 hours ago",
       "tags": [
         ".net",
         "c#"
