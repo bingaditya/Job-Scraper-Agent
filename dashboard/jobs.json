@@ -120,63 +120,6 @@
     }
   },
   {
-    "score": 92,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4472531981",
-      "title": "Senior Dot Net Developer",
-      "company": "JWH Global Private Limited",
-      "location": "Chandigarh, Chandigarh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-dot-net-developer-at-jwh-global-private-limited-4472531981",
-      "description": "Senior .NET Developer Location: Chandigarh \u2013 160101 Experience: 5+ Years Job Type: Full-time Working Hours: 2:00 PM \u2013 11:00 PM, Monday to Friday Important \u2013 Location Requirement This position is based in Chandigarh. Candidates who are currently based in Chandigarh or are willing and able to commute to or relocate to Chandigarh are encouraged to apply. Job Overview We are seeking an experienced Senior .NET Developer with 5+ years of hands-on experience in developing, maintaining, and enhancing scalable software applications. The ideal candidate should have strong technical expertise in .NET development and be comfortable working in a collaborative environment. Key Responsibilities Analyze requirements and develop efficient, scalable applications using .NET technologies. Design, develop, test, debug, and deploy applications. Work with C#, ASP.NET, MVC, SQL Server, and REST APIs. Develop and optimize relational databases, queries, and stored procedures. Troubleshoot technical issues and improve application performance. Collaborate with development, QA, and other teams throughout the Software Development Life Cycle (SDLC). Maintain technical documentation and follow coding and development best practices. Required Skills 5+ years of professional experience in .NET / Application Development. Strong knowledge of C#, ASP.NET, MVC, SQL Server, and .NET. Hands-on experience with HTML5, CSS3, REST APIs, and database development. Good understanding of Agile methodologies. Strong problem-solving, analytical, and communication skills. Qualification B.Tech / B.E / BCA / MCA / M.Tech in Computer Science, Information Technology, or a related field. Work Details Shift: Evening / Fixed / US Shift Working Hours: 2:00 PM \u2013 11:00 PM Working Days: Monday to Friday Location: Chandigarh \u2013 160101 How to Apply Interested and eligible candidates who meet the above requirements and are comfortable working from Chandigarh are requested to share their updated resume at: manisha.bains@jwhglobal.com",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-10-01",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "ff5f17f979091d7dbf7700907aa545e67dec9e12"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior Dot Net Developer at JWH Global Private Limited by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 77,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, CSS",
@@ -316,6 +259,25 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -366,7 +328,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -395,7 +357,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India 4 weeks ago",
       "tags": [
         ".net"
       ],
@@ -424,7 +386,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
       "tags": [
         ".net"
       ],
@@ -453,7 +415,7 @@
       "company": "TransUnion",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/sr-developer-c%23-net-apis-at-transunion-4448242656",
-      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India Actively Hiring 4 hours ago",
+      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India 10 hours ago",
       "tags": [
         ".net",
         "c#"
@@ -483,7 +445,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 6 days ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 6 days ago",
       "tags": [
         ".net",
         "c#"
@@ -543,7 +505,7 @@
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
+      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
       "tags": [
         ".net",
         "c#"
