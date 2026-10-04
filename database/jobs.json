@@ -2,65 +2,6 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4450710892",
-      "title": "Dotnet Developer\nJaipur",
-      "company": "VertexPlus",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
-      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-08-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 100,
-    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net, Html",
       "Search keyword hit: Azure",
       "Preferred location: India",
@@ -311,6 +252,25 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -369,35 +329,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "1fa0584082a693fec70feeb922436f10fa99f8a0"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4463302035",
-      "title": ".NET Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4463302035",
-      "description": ".NET Developer .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 4 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-09-04",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b0d52a5467edaa5de8e69c3cedf0bcfd6de7a0b8"
     }
   },
   {
@@ -532,12 +463,42 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4470983271",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions (India)",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-india-4470983271",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 1 week ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "262679cd3aee699cf334ff44c8d9f7d3d4ad405d"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4452922583",
       "title": "ASP.NET C# DEVELOPER",
       "company": "Exodesoft Technologies Pvt. Ltd.",
       "location": "Ernakulam, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
-      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 1 month ago",
+      "description": "Company Description Exodesoft Technologies Pvt. Ltd. specializes in delivering high-quality custom software development services for Web, PC, and Mobile Devices with seamless integrations. As a key technology partner, the company primarily caters to the software development needs of its parent company, PHIMED Technologies, a leading U.S.-based medical software provider. By leveraging modern technologies, Exodesoft is committed to building innovative solutions that support and enhance its clients' business operations. Visit PHIMED Technologies for more information about our parent organization. Role Description This is a full-time, on-site role for an ASP.NET C# Developer located at our office in Ernakulam. The developer will be responsible for designing, developing, and maintaining robust software applications using ASP.NET and C#. Daily tasks include implementing back-end functionality, writing clean and efficient code, debugging and troubleshooting applications, and collaborating with cross-functional teams to meet project goals. The role also involves applying object-oriented programming principles to deliver scalable and efficient software solutions. Qualifications Proficiency in Programming, Software Development, and Back-End Web Development Strong understanding of Object-Oriented Programming (OOP) principles and methodologies Background in Computer Science, with the ability to apply foundational concepts Strong analytical skills and problem-solving abilities Excellent collaboration and communication abilities Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field Familiarity with database management and integration is a plus",
       "tags": [
         ".net",
         "c#"
