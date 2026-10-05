@@ -403,36 +403,6 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4448242656",
-      "title": "Sr Developer, C# .NET & APIs",
-      "company": "TransUnion",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-developer-c%23-net-apis-at-transunion-4448242656",
-      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India Actively Hiring 3 days ago",
-      "tags": [
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-10-01",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "c07bdddd724f9fa172a63fb61ca09ca071011f82"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
       "source_id": "4443534144",
       "title": "AVP - C# (.net) Developer - Equity Technology",
       "company": "Jefferies",
