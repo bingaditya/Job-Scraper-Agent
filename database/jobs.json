@@ -321,7 +321,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -350,7 +350,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
       "tags": [
         ".net"
       ],
@@ -403,12 +403,42 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4474285326",
+      "title": "Senior Software Engineer \u2013 .NET / C#",
+      "company": "Leadrat Real Estate CRM - Dubai | India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 2 minutes ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-10-05",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "135dccd8a1b0b639fbf5d97d6cb9cd8743d86b4a"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4443534144",
       "title": "AVP - C# (.net) Developer - Equity Technology",
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 1 week ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 1 week ago",
       "tags": [
         ".net",
         "c#"
