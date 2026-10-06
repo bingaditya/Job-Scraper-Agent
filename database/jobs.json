@@ -329,7 +329,7 @@
       "company": "VitalEdge Technologies",
       "location": "Mumbai, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-vitaledge-technologies-4474627522",
-      "description": ".Net Developer .Net Developer VitalEdge Technologies Mumbai, Maharashtra, India 8 hours ago",
+      "description": ".Net Developer .Net Developer VitalEdge Technologies Mumbai, Maharashtra, India 16 hours ago",
       "tags": [
         ".net"
       ],
@@ -387,7 +387,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
       "tags": [
         ".net"
       ],
@@ -416,7 +416,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
       "tags": [
         ".net"
       ],
@@ -460,6 +460,36 @@
     "reasons": [
       "Matched skills: C#, .Net",
       "Search keyword hit: C#",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4474948010",
+      "title": "Software Engineer - Backend Developer (C#, .NET)",
+      "company": "NielsenIQ",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-backend-developer-c%23-net-at-nielseniq-4474948010",
+      "description": "Software Engineer - Backend Developer (C#, .NET) Software Engineer - Backend Developer (C#, .NET) NielsenIQ Mumbai Metropolitan Region 1 hour ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-10-06",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "3a7c73396975789fac275f5cf60557185195a344"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
@@ -474,7 +504,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 3 days ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 3 days ago",
       "tags": [
         ".net",
         "c#"
@@ -504,7 +534,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 1 week ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 1 week ago",
       "tags": [
         ".net",
         "c#"
