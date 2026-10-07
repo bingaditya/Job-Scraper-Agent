@@ -1,29 +1,29 @@
 [
   {
-    "job_id": "07412545f4da67f609e8259208aee7c99a349287",
-    "title": "Dot Net FullStack developer",
-    "company": "Citi",
+    "job_id": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7",
+    "title": "Dotnet Developer\nJaipur",
+    "company": "VertexPlus",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dot Net FullStack developer at Citi by foregrounding Python, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Python",
         "SQL",
         "C#",
         ".Net",
-        "Html"
+        "Html",
+        "CSS"
       ],
       "missing_resume_keywords": [
-        "Python",
         "SQL",
         "C#",
         ".Net",
-        "Html"
+        "Html",
+        "CSS"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
