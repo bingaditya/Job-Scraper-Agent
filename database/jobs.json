@@ -2,12 +2,13 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
+      "Matched skills: Python, SQL, C#, .Net, Html",
+      "Search keyword hit: Python",
       "Preferred location: India",
-      "Experience requirement not strict"
+      "Experience fit around 2+ years"
     ],
     "matched_skills": [
+      "Python",
       "SQL",
       "C#",
       ".Net",
@@ -17,44 +18,46 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4450710892",
-      "title": "Dotnet Developer\nJaipur",
-      "company": "VertexPlus",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
-      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
+      "source_id": "4474626815",
+      "title": "Dot Net FullStack developer",
+      "company": "Citi",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-fullstack-developer-at-citi-4474626815",
+      "description": "Markets Technology is seeking an enthusiastic, detail-oriented Junior .NET Full Stack Developer to join our engineering team. In this role, you will work alongside senior software engineers, architects, and product owners to design, build, test, and maintain modern web applications and microservices that power our global financial platforms. This position is tailored for early-career developers or recent graduates with solid foundational knowledge in object-oriented programming, .NET technologies, relational databases, and modern front-end web development. You will receive mentorship, structured training, and hands-on exposure to high-performance, enterprise-scale financial technology systems. Key Responsibilities Application Development & Engineering Develop, debug, and maintain scalable backend services and RESTful APIs using C# and .NET Core / .NET 6+. Assist in developing responsive, user-friendly UI components using Angular or React, TypeScript, HTML5, and CSS3. Write efficient SQL queries, stored procedures, and interact with databases using SQL Server. Integrate application components with messaging platforms (e.g., Apache Kafka) and third-party APIs under the mentorship of senior team members. Quality Assurance, Testing & Code Health Write comprehensive unit and integration tests using frameworks such as xUnit, NUnit, Jest, or Jasmine. Participate in peer code reviews to receive constructive feedback, learn enterprise coding standards, and improve code maintainability. Identify, triage, and resolve bugs and performance bottlenecks in existing applications. Agile Collaboration & DevOps Actively participate in Agile/Scrum ceremonies including daily stand-ups, sprint planning, backlog refinement, and sprint retrospectives. Utilize version control systems (Git) following standard branching strategies (e.g., pull request reviews). Learn and interact with CI/CD build and deployment pipelines, containerization (Docker), and automated testing tools. Continuous Learning & AI Enablement Leverage modern AI developer productivity tools (such as GitHub Copilot) responsibly and effectively to accelerate learning and coding velocity. Proactively explore new frameworks, design patterns, and engineering best practices through internal training pathways. Qualifications & Skills Required Technical Skills Core Backend: Strong foundational knowledge of C#, Object-Oriented Programming (OOP) principles, and basic web API development in .NET / .NET Core. Database: Working knowledge of relational databases (e.g., Microsoft SQL Server, PostgreSQL), basic indexing. Frontend Basics: Hands-on understanding of web fundamentals (HTML5, CSS3/SCSS, JavaScript/TypeScript) and familiarity with a modern frontend framework (Angular or React). API Knowledge: Understanding of RESTful architecture, HTTP status codes, and data formats (JSON, XML). Source Control: Basic proficiency with Git (clone, branch, commit, push, merge, pull requests). Desirable / Good-to-Have Skills Familiarity with messaging systems or event-driven concepts (e.g., Apache Kafka, MSMQ). Familiarity with scripting languages (e.g., Python, PowerShell, Bash). Basic understanding of containerization concepts (Docker) and cloud platforms. Experience using developer AI tools (e.g., GitHub Copilot) and prompt techniques for development and testing. Behavioral Competencies Analytical Thinking: Strong problem-solving aptitude, logical reasoning, and attention to detail. Communication Skills: Clear written and verbal communication skills; ability to ask clarifying questions and communicate technical progress. Growth Mindset: High curiosity, eagerness to learn enterprise systems, and receptiveness to mentorship and technical feedback. Collaboration: Ability to work effectively within a cross-functional and culturally diverse global team. Education & Experience Education: Bachelor\u2019s degree in Computer Science, Software Engineering, Information Technology, or a related quantitative field (or equivalent practical experience / coding bootcamp graduation). Experience: 2+ years of relevant software development experience (internships, academic projects, or professional entry-level roles). Why Join Us Mentorship & Growth: Work directly with seasoned technologists and domain experts who are invested in your career progression. Enterprise Scale: Gain exposure to mission-critical financial applications that handle high transaction volumes globally. Structured Learning Programs: Access to continuous technical training, certifications, and internal career mobility opportunities. Inclusive Culture: A collaborative, diverse, and supportive working environment with modern developer tooling. ------------------------------------------------------ Job Family Group: Technology ------------------------------------------------------ Job Family: Applications Development ------------------------------------------------------ Time Type: Full time ------------------------------------------------------ Most Relevant Skills Please see the requirements listed above. ------------------------------------------------------ Other Relevant Skills For complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------ Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi. View Citi\u2019s EEO Policy Statement and the Know Your Rights poster.",
       "tags": [
+        "python",
         "sql",
         ".net",
         "c#",
-        "javascript"
+        "javascript",
+        "ci/cd"
       ],
-      "published_at": "2026-08-07",
+      "published_at": "2026-10-05",
       "remote": false,
       "metadata": {},
-      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
+      "fingerprint": "07412545f4da67f609e8259208aee7c99a349287"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "summary": "Target Dot Net FullStack developer at Citi by foregrounding Python, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
+        "Python",
         "SQL",
         "C#",
         ".Net",
-        "Html",
-        "CSS"
+        "Html"
       ],
       "missing_resume_keywords": [
+        "Python",
         "SQL",
         "C#",
         ".Net",
-        "Html",
-        "CSS"
+        "Html"
       ],
       "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -313,6 +316,40 @@
   {
     "score": 58,
     "reasons": [
+      "Matched skills: Python, SQL, C#",
+      "Search keyword hit: Python",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "C#"
+    ],
+    "job": {
+      "source": "arbeitnow",
+      "source_id": "senior-product-engineer-full-stack-berlin-220595",
+      "title": "Senior Product Engineer (Full Stack)",
+      "company": "Andercore",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-220595",
+      "description": "About Andercore Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond. We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sales, logistics, and embedded financing. For the customer, it feels like buying from their preferred local supplier; for our partners, it is the most convenient and safe way to do business across borders. Behind it, our software and agentic AI do the heavy lifting that used to take an asset-intensive supply chain with four or five intermediaries and weeks of manual coordination. Where we are today: Strong triple-digit-million euro turnover Seven European markets live 80+ people across Berlin (HQ), offices in London, Mumbai, and Shanghai $40M Series B just closed, $75M raised to date from Atomico, Project A, and Inven Capital, institutional financing from international banks. We are building the world's first and last industrial-grade AI operating system for materials, redefining how global trade works in one of the largest and most essential industries on earth. About the role Andercore runs global trade end to end, from sourcing and pricing to sales, logistics and financing, and much of that work is done by AI agents. Agents are only as good as the product around them: reliable data, well-designed APIs, and interfaces where our team can review, correct and approve what an agent proposes before real money and real shipments move. As a Senior Product Engineer, you own business problems end to end. You talk to the people who use what you build, decide with Product what to solve, and ship the whole slice: data model, services, AI agents and the user interface. You work in a domain where prices and stock change daily, supplier data arrives in every possible format, and a wrong number costs money. You set the quality bar for the team and make the engineers around you better. Tech stack Java 21 and Spring Boot 3, Python, LangGraph and LLM APIs (OpenAI, Anthropic, Gemini), PostgreSQL, Kinesis, AWS with Terraform, GitHub Actions, and TypeScript with Node.js, Next.js and React. You don't need to know all of it on day one. We use AI coding tools heavily and expect you to pick up whatever part of the stack the problem needs. What you will do Own a business problem from first conversation to production and beyond, for example making supplier pricing reliable from ingestion all the way to the quote a salesperson sends. Build backend services for pricing, inventory, orders and the integrations that connect suppliers, customers and logistics partners. Build our AI agents and the tools and APIs they use, and make their actions safe through idempotency, validation, audit trails and human review where it matters. Design and build the interfaces where our commercial teams work with agents: reviewing proposals, correcting mistakes and approving decisions quickly. Turn messy external data such as supplier price lists, datasheets and stock feeds into trustworthy data the rest of the business relies on. Measure whether what you shipped works, including evaluating and monitoring LLM-driven workflows in production. Lead technical decisions, write down the trade-offs, and mentor other engineers through code review, pairing and direct feedback. Help us hire by running interviews and defining what good engineering looks like at Andercore. In your first six months, you might Build a pricing engine that scales with our growing assortment and number of markets, and serves correct prices to sales, and later directly to customers, in milliseconds. Automate procurement: turn supplier price lists, quotes and order confirmations into structured data, and let AI agents handle the manual steps between our buyers and suppliers. What you bring At least 5 years of experience building and running software in production, with real users and real consequences when it fails. Strong backend skills at production scale in Java or a comparable language such as Kotlin, C# or Go, and willingness to work in Java and Spring Boot. Experience designing distributed, event-driven systems, with a focus on data correctness and failure modes. Solid command of PostgreSQL and hands-on experience with AWS. Your depth is on the backend, but full-stack delivery is expected: you build frontends in TypeScript and React. You don't need to be a frontend specialist, but you can ship a good interface for the problem you own. Product sense: you ask why before how, you talk to users, and you can turn a vague problem into a clear plan. Experience in a fast-growing company, where priorities shift and you keep shipping while the business changes around you. A track record of solving business problems, not only technical ones. Experience building with LLMs or agent frameworks is a strong plus. Curiosity and good engineering judgment about them is a must. You raise the level of the people around you, and you push back when something doesn't make sense. Experience in trading, marketplaces, supply chain, fintech or other domains where data errors cost money is a bonus. Practical details Location: Berlin, hybrid Working language: English A learning budget for your development Start date: As soon as possible We are an equal-opportunity employer and welcome applicants from all backgrounds, regardless of race, ethnicity, gender identity or expression, sexual orientation, religion, age, disability, or any other characteristic. We believe that diversity drives innovation, creativity, and collective strength. Find Jobs in Germany on Arbeitnow",
+      "tags": [
+        "Platform Development"
+      ],
+      "published_at": "2026-10-07T20:40:08+00:00",
+      "remote": false,
+      "metadata": {
+        "job_types": [
+          "Full Time"
+        ],
+        "raw_location": "Berlin"
+      },
+      "fingerprint": "432a4dc49e8ef398087a6d2d50026f22d6b41535"
+    }
+  },
+  {
+    "score": 58,
+    "reasons": [
       "Matched skills: SQL, .Net, JavaScript",
       "Search keyword hit: SQL",
       "Experience fit around 3+ years"
@@ -365,7 +402,7 @@
       "company": "Sonata Software",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-sonata-software-4476337121",
-      "description": ".NET Full Stack Developer .NET Full Stack Developer Sonata Software Pune Division, Maharashtra, India 20 hours ago",
+      "description": ".NET Full Stack Developer .NET Full Stack Developer Sonata Software Pune Division, Maharashtra, India 1 day ago",
       "tags": [
         ".net"
       ],
@@ -394,7 +431,7 @@
       "company": "VitalEdge Technologies",
       "location": "Mumbai, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-vitaledge-technologies-4474627522",
-      "description": ".Net Developer .Net Developer VitalEdge Technologies Mumbai, Maharashtra, India 1 day ago",
+      "description": ".Net Developer .Net Developer VitalEdge Technologies Mumbai, Maharashtra, India 2 days ago",
       "tags": [
         ".net"
       ],
@@ -452,7 +489,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 3 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 4 weeks ago",
       "tags": [
         ".net"
       ],
@@ -510,7 +547,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 4 days ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 5 days ago",
       "tags": [
         ".net",
         "c#"
