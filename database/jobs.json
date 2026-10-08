@@ -2,13 +2,12 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: Python, SQL, C#, .Net, Html",
-      "Search keyword hit: Python",
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
       "Preferred location: India",
-      "Experience fit around 2+ years"
+      "Experience requirement not strict"
     ],
     "matched_skills": [
-      "Python",
       "SQL",
       "C#",
       ".Net",
@@ -18,46 +17,44 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4474626815",
-      "title": "Dot Net FullStack developer",
-      "company": "Citi",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-fullstack-developer-at-citi-4474626815",
-      "description": "Markets Technology is seeking an enthusiastic, detail-oriented Junior .NET Full Stack Developer to join our engineering team. In this role, you will work alongside senior software engineers, architects, and product owners to design, build, test, and maintain modern web applications and microservices that power our global financial platforms. This position is tailored for early-career developers or recent graduates with solid foundational knowledge in object-oriented programming, .NET technologies, relational databases, and modern front-end web development. You will receive mentorship, structured training, and hands-on exposure to high-performance, enterprise-scale financial technology systems. Key Responsibilities Application Development & Engineering Develop, debug, and maintain scalable backend services and RESTful APIs using C# and .NET Core / .NET 6+. Assist in developing responsive, user-friendly UI components using Angular or React, TypeScript, HTML5, and CSS3. Write efficient SQL queries, stored procedures, and interact with databases using SQL Server. Integrate application components with messaging platforms (e.g., Apache Kafka) and third-party APIs under the mentorship of senior team members. Quality Assurance, Testing & Code Health Write comprehensive unit and integration tests using frameworks such as xUnit, NUnit, Jest, or Jasmine. Participate in peer code reviews to receive constructive feedback, learn enterprise coding standards, and improve code maintainability. Identify, triage, and resolve bugs and performance bottlenecks in existing applications. Agile Collaboration & DevOps Actively participate in Agile/Scrum ceremonies including daily stand-ups, sprint planning, backlog refinement, and sprint retrospectives. Utilize version control systems (Git) following standard branching strategies (e.g., pull request reviews). Learn and interact with CI/CD build and deployment pipelines, containerization (Docker), and automated testing tools. Continuous Learning & AI Enablement Leverage modern AI developer productivity tools (such as GitHub Copilot) responsibly and effectively to accelerate learning and coding velocity. Proactively explore new frameworks, design patterns, and engineering best practices through internal training pathways. Qualifications & Skills Required Technical Skills Core Backend: Strong foundational knowledge of C#, Object-Oriented Programming (OOP) principles, and basic web API development in .NET / .NET Core. Database: Working knowledge of relational databases (e.g., Microsoft SQL Server, PostgreSQL), basic indexing. Frontend Basics: Hands-on understanding of web fundamentals (HTML5, CSS3/SCSS, JavaScript/TypeScript) and familiarity with a modern frontend framework (Angular or React). API Knowledge: Understanding of RESTful architecture, HTTP status codes, and data formats (JSON, XML). Source Control: Basic proficiency with Git (clone, branch, commit, push, merge, pull requests). Desirable / Good-to-Have Skills Familiarity with messaging systems or event-driven concepts (e.g., Apache Kafka, MSMQ). Familiarity with scripting languages (e.g., Python, PowerShell, Bash). Basic understanding of containerization concepts (Docker) and cloud platforms. Experience using developer AI tools (e.g., GitHub Copilot) and prompt techniques for development and testing. Behavioral Competencies Analytical Thinking: Strong problem-solving aptitude, logical reasoning, and attention to detail. Communication Skills: Clear written and verbal communication skills; ability to ask clarifying questions and communicate technical progress. Growth Mindset: High curiosity, eagerness to learn enterprise systems, and receptiveness to mentorship and technical feedback. Collaboration: Ability to work effectively within a cross-functional and culturally diverse global team. Education & Experience Education: Bachelor\u2019s degree in Computer Science, Software Engineering, Information Technology, or a related quantitative field (or equivalent practical experience / coding bootcamp graduation). Experience: 2+ years of relevant software development experience (internships, academic projects, or professional entry-level roles). Why Join Us Mentorship & Growth: Work directly with seasoned technologists and domain experts who are invested in your career progression. Enterprise Scale: Gain exposure to mission-critical financial applications that handle high transaction volumes globally. Structured Learning Programs: Access to continuous technical training, certifications, and internal career mobility opportunities. Inclusive Culture: A collaborative, diverse, and supportive working environment with modern developer tooling. ------------------------------------------------------ Job Family Group: Technology ------------------------------------------------------ Job Family: Applications Development ------------------------------------------------------ Time Type: Full time ------------------------------------------------------ Most Relevant Skills Please see the requirements listed above. ------------------------------------------------------ Other Relevant Skills For complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------ Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi. View Citi\u2019s EEO Policy Statement and the Know Your Rights poster.",
+      "source_id": "4450710892",
+      "title": "Dotnet Developer\nJaipur",
+      "company": "VertexPlus",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
+      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
       "tags": [
-        "python",
         "sql",
         ".net",
         "c#",
-        "javascript",
-        "ci/cd"
+        "javascript"
       ],
-      "published_at": "2026-10-05",
+      "published_at": "2026-08-07",
       "remote": false,
       "metadata": {},
-      "fingerprint": "07412545f4da67f609e8259208aee7c99a349287"
+      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dot Net FullStack developer at Citi by foregrounding Python, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Python",
         "SQL",
         "C#",
         ".Net",
-        "Html"
+        "Html",
+        "CSS"
       ],
       "missing_resume_keywords": [
-        "Python",
         "SQL",
         "C#",
         ".Net",
-        "Html"
+        "Html",
+        "CSS"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -368,7 +365,7 @@
       "url": "https://builtin.com/job/software-engineer-ii-angular-net-mssql/11531514",
       "description": "Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. Whether you\u2019re interested in engineering or development, marketing or sales, or something else \u2013 if this sounds like you, then we\u2019d love to hear from you! We are headquartered in Denver, Colorado, with offices in the US, Canada, and India. $75,000 - $90,000 / year The insurance industry runs on Vertafore. We equip agencies, MGAs, and carriers with the core digital systems, specialized AI, and data-driven foundation to eliminate distribution drag across the insurance lifecycle, spanning sales, servicing, and back-office operations. Underpinned by unmatched speed and performance power, we are the trusted backbone that\u2019s taking the insurance industry from friction to flow with Distribution Velocity \u2013 speed, performance, and trust - to drive growth at scale. With over 95% of the top agencies and insurers and 50% of industry compliance transactions running through Vertafore, we lead at the intersection of innovation and trust, giving insurance professionals the confidence to transform and win in the AI era. Our reach is global, with headquarters in Denver, Colorado, and offices across the U.S., Canada, and India. As a Software Engineer II, you will be working within an energetic agile team implementing solutions that support a wide range of customers. You will develop high quality web-based applications for new and existing features. You will also have the opportunity to bring your creative ideas to the table to deliver better solutions to our users. If you love technology, have a passion for software, are hungry to learn, and are driven to contribute to a world-class team of engineers, you\u2019re who we are looking for. Core Requirements and Responsibilities: Essential job functions included but are not limited to the following: Contributes independently to multiple functional and technical areas within a product Responsible for developing new features and supporting/bug fixing existing features Unit and integration testing Creates artifacts/documents that are valuable to the team Debugging issues across the whole stack - OS, DB, applications, JavaScript, and network Share what they know by mentoring other team members Writes well-designed, testable code Develops new features and supporting/bug fixing in existing and new features for a wide range of products Troubleshoots issues across the whole stack - OS, DB, applications, JavaScript, and network Participates in code reviews, both of your own code and as a reviewer. Provides feedback and suggestions for process and product improvement. Conducts technical research on new technology for possible new aspects of a product or components needing redesign or updating. Prepares product documentation, support materials, and internal documentation. Mentors and inspires others to raise the bar for everyone around them Shares what they know;\u00a0 Prepares internal technical training and information sessions Follows industry trends and the open-source community Knowledge, Skills and Abilities: Adheres to quality/technical team standards Able to diagnose issues and provide solutions for multiple functional and technical areas within a product Can independently frame problems and perform relevant research Collaborate with their peers, designing pragmatic solutions Operate best in a fast-paced, flexible work environment Prepare technical training and information sessions for other staff Enjoy solving problems through the entire application stack Effective communication (written and verbal) and interpersonal skills. Problem solver with strong analytical and critical thinking skills An innate curiosity about how things work; proactively acquires new skills and learns new tools and technologies to troubleshoot issues. A team player and excellent collaborator Cares about quality and knows what it means to ship high-quality code; able to define and adhere to quality/technical team standards Proficient with relevant tools and technologies to troubleshoot and resolve complex issues Qualifications: Bachelor\u2019s degree in Computer Science (or related technical field) or equivalent practical experience 2-3 years of professional experience with Java/.NET and common frameworks Experience with JavaScript.\u00a0 React.js or similar Experience working in an Agile environment required Experience working with relational and NoSQL Databases Experience with RESTful web services Experience in security best practices for software and data platforms Are interested and capable of learning other programming languages as needed. Additional Requirements and Details: Travel required up to 10% of the time. Located and working from an office location. Occasional lifting and/or moving up to 10 pounds. Frequent repetitive hand and arm movements required to operate a computer. Specific vision abilities required by this job include close vision (working on a computer, etc.). Frequent sitting and/or standing. #LI-HYBRID Is this role not an exact fit for you? Keep an eye on our Careers Page for other positions! Vertafore is a drug free workplace and conducts preemployment drug and background screenings . The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics.\u00a0 Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance.\u00a0 Eligibility is determined by several factors including:\u00a0start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs.\u00a0 Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone.\u00a0 if you\u00a0would like to contact us regarding\u00a0the accessibility of our website or need assistance completing the application\u00a0process, please contact\u00a0recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
       "tags": [
-        "Yesterday",
+        "2 Days Ago",
         "Saved",
         "Information Technology \u2022 Insurance \u2022 Software",
         "Top Skills:",
@@ -377,7 +374,7 @@
         "Angular",
         "Java"
       ],
-      "published_at": "Yesterday",
+      "published_at": "2 Days Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "795a77d69197b6d04d1e1fc0b1a14cd8e5dfb35d"
@@ -402,7 +399,7 @@
       "company": "Sonata Software",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-sonata-software-4476337121",
-      "description": ".NET Full Stack Developer .NET Full Stack Developer Sonata Software Pune Division, Maharashtra, India 1 day ago",
+      "description": ".NET Full Stack Developer .NET Full Stack Developer Sonata Software Pune Division, Maharashtra, India Actively Hiring 1 day ago",
       "tags": [
         ".net"
       ],
@@ -489,7 +486,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 4 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 4 weeks ago",
       "tags": [
         ".net"
       ],
@@ -518,7 +515,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
       "tags": [
         ".net"
       ],
@@ -547,7 +544,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 5 days ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 5 days ago",
       "tags": [
         ".net",
         "c#"
@@ -577,7 +574,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 1 week ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 1 week ago",
       "tags": [
         ".net",
         "c#"
