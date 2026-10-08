@@ -313,40 +313,6 @@
   {
     "score": 58,
     "reasons": [
-      "Matched skills: Python, SQL, C#",
-      "Search keyword hit: Python",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "Python",
-      "SQL",
-      "C#"
-    ],
-    "job": {
-      "source": "arbeitnow",
-      "source_id": "senior-product-engineer-full-stack-berlin-220595",
-      "title": "Senior Product Engineer (Full Stack)",
-      "company": "Andercore",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-product-engineer-full-stack-berlin-220595",
-      "description": "About Andercore Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond. We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sales, logistics, and embedded financing. For the customer, it feels like buying from their preferred local supplier; for our partners, it is the most convenient and safe way to do business across borders. Behind it, our software and agentic AI do the heavy lifting that used to take an asset-intensive supply chain with four or five intermediaries and weeks of manual coordination. Where we are today: Strong triple-digit-million euro turnover Seven European markets live 80+ people across Berlin (HQ), offices in London, Mumbai, and Shanghai $40M Series B just closed, $75M raised to date from Atomico, Project A, and Inven Capital, institutional financing from international banks. We are building the world's first and last industrial-grade AI operating system for materials, redefining how global trade works in one of the largest and most essential industries on earth. About the role Andercore runs global trade end to end, from sourcing and pricing to sales, logistics and financing, and much of that work is done by AI agents. Agents are only as good as the product around them: reliable data, well-designed APIs, and interfaces where our team can review, correct and approve what an agent proposes before real money and real shipments move. As a Senior Product Engineer, you own business problems end to end. You talk to the people who use what you build, decide with Product what to solve, and ship the whole slice: data model, services, AI agents and the user interface. You work in a domain where prices and stock change daily, supplier data arrives in every possible format, and a wrong number costs money. You set the quality bar for the team and make the engineers around you better. Tech stack Java 21 and Spring Boot 3, Python, LangGraph and LLM APIs (OpenAI, Anthropic, Gemini), PostgreSQL, Kinesis, AWS with Terraform, GitHub Actions, and TypeScript with Node.js, Next.js and React. You don't need to know all of it on day one. We use AI coding tools heavily and expect you to pick up whatever part of the stack the problem needs. What you will do Own a business problem from first conversation to production and beyond, for example making supplier pricing reliable from ingestion all the way to the quote a salesperson sends. Build backend services for pricing, inventory, orders and the integrations that connect suppliers, customers and logistics partners. Build our AI agents and the tools and APIs they use, and make their actions safe through idempotency, validation, audit trails and human review where it matters. Design and build the interfaces where our commercial teams work with agents: reviewing proposals, correcting mistakes and approving decisions quickly. Turn messy external data such as supplier price lists, datasheets and stock feeds into trustworthy data the rest of the business relies on. Measure whether what you shipped works, including evaluating and monitoring LLM-driven workflows in production. Lead technical decisions, write down the trade-offs, and mentor other engineers through code review, pairing and direct feedback. Help us hire by running interviews and defining what good engineering looks like at Andercore. In your first six months, you might Build a pricing engine that scales with our growing assortment and number of markets, and serves correct prices to sales, and later directly to customers, in milliseconds. Automate procurement: turn supplier price lists, quotes and order confirmations into structured data, and let AI agents handle the manual steps between our buyers and suppliers. What you bring At least 5 years of experience building and running software in production, with real users and real consequences when it fails. Strong backend skills at production scale in Java or a comparable language such as Kotlin, C# or Go, and willingness to work in Java and Spring Boot. Experience designing distributed, event-driven systems, with a focus on data correctness and failure modes. Solid command of PostgreSQL and hands-on experience with AWS. Your depth is on the backend, but full-stack delivery is expected: you build frontends in TypeScript and React. You don't need to be a frontend specialist, but you can ship a good interface for the problem you own. Product sense: you ask why before how, you talk to users, and you can turn a vague problem into a clear plan. Experience in a fast-growing company, where priorities shift and you keep shipping while the business changes around you. A track record of solving business problems, not only technical ones. Experience building with LLMs or agent frameworks is a strong plus. Curiosity and good engineering judgment about them is a must. You raise the level of the people around you, and you push back when something doesn't make sense. Experience in trading, marketplaces, supply chain, fintech or other domains where data errors cost money is a bonus. Practical details Location: Berlin, hybrid Working language: English A learning budget for your development Start date: As soon as possible We are an equal-opportunity employer and welcome applicants from all backgrounds, regardless of race, ethnicity, gender identity or expression, sexual orientation, religion, age, disability, or any other characteristic. We believe that diversity drives innovation, creativity, and collective strength. Find Jobs in Germany on Arbeitnow",
-      "tags": [
-        "Platform Development"
-      ],
-      "published_at": "2026-10-07T20:40:08+00:00",
-      "remote": false,
-      "metadata": {
-        "job_types": [
-          "Full Time"
-        ],
-        "raw_location": "Berlin"
-      },
-      "fingerprint": "432a4dc49e8ef398087a6d2d50026f22d6b41535"
-    }
-  },
-  {
-    "score": 58,
-    "reasons": [
       "Matched skills: SQL, .Net, JavaScript",
       "Search keyword hit: SQL",
       "Experience fit around 3+ years"
@@ -399,7 +365,7 @@
       "company": "Sonata Software",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-sonata-software-4476337121",
-      "description": ".NET Full Stack Developer .NET Full Stack Developer Sonata Software Pune Division, Maharashtra, India Actively Hiring 1 day ago",
+      "description": ".NET Full Stack Developer .NET Full Stack Developer Sonata Software Pune Division, Maharashtra, India 1 day ago",
       "tags": [
         ".net"
       ],
@@ -486,7 +452,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ust-4463836286",
-      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India Actively Hiring 4 weeks ago",
+      "description": "Senior .NET Developer Senior .NET Developer UST Bengaluru, Karnataka, India 4 weeks ago",
       "tags": [
         ".net"
       ],
@@ -515,7 +481,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
       "tags": [
         ".net"
       ],
@@ -544,7 +510,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 5 days ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 5 days ago",
       "tags": [
         ".net",
         "c#"
@@ -574,7 +540,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 1 week ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 1 week ago",
       "tags": [
         ".net",
         "c#"
