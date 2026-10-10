@@ -365,7 +365,7 @@
       "company": "ePS (eProductivity Software)",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-eps-eproductivity-software-4467860217",
-      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 16 hours ago",
+      "description": "Senior .Net Developer Senior .Net Developer ePS (eProductivity Software) Bengaluru East, Karnataka, India 1 day ago",
       "tags": [
         ".net"
       ],
@@ -489,6 +489,42 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net",
+      "Search keyword hit: SQL",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "builtin",
+      "source_id": "job-card-8907156",
+      "title": "Sr. Software Engineer (Tech Lead) - .NET/C#",
+      "company": "Bloomerang",
+      "location": "",
+      "url": "https://builtin.com/job/sr-software-engineer/8907156",
+      "description": "At Bloomerang, we believe change happens on purpose. We champion the power and potential of nonprofits, igniting next-level impact with the team and technology built for purpose. Our powerful giving platform and stellar support enable tens of thousands of nonprofits to raise more, recruit more, and retain more, fueling maximum impact and raising the bar on what\u2019s possible for the nonprofit sector. That's why, even as the nonprofit sector sees declines in giving, Bloomerang customers raise more year over year. We're also in the business of creating thriving employees. Join a mission-driven culture built on our core values of Simplify, Care and Act. We know our people are the key to our success, and we're proud to be home to some of the most innovative and skilled individuals in the workforce today. Come feel invigorated and unstoppable with us! The Role As a Senior Software Engineer (Technical Lead) at Bloomerang, you are the senior-most technical engineer on a delivery team and a key driver of the team\u2019s technical success.\u00a0 You are a hands-on engineer who writes code, solves difficult problems, shapes technical direction, and helps the team consistently deliver high-quality software for the nonprofits we serve. This is an opportunity to help define what great engineering looks like in an AI-first world. AI is changing what individual engineers and entire teams can accomplish, and we're actively exploring how to use that leverage to build better software, automate the work around software development, and give our engineers more time to focus on the problems that matter. You'll be one of the technical leaders helping turn that opportunity into everyday engineering practice. You will own the technical outcomes for your team, partnering with Product, QA, and Engineering to turn ambiguous problems into practical solutions. You'll lead through technical excellence by mentoring engineers, raising the team's engineering standards, and using AI and automation to increase team leverage, improve engineering workflows, and ultimately help us build better products for the nonprofits that depend on us. What You Will Do Own the team's technical outcomes. Set a high bar for code quality, reliability, maintainability, security, and technical execution, and make sure the team follows through on what it ships. Lead technical direction and design within your team\u2019s domain. Translate product and business problems into pragmatic technical solutions, independently shaping the approach for small-to-moderately scoped features and driving them through implementation. Partner with Staff Engineers and architects when decisions have broader cross-team or cross-product implications. Make the team better. Mentor engineers across experience levels, provide actionable technical feedback, identify opportunities for growth, and help engineers develop the judgment and skills to solve increasingly complex problems independently. Champion AI-driven engineering and automation. Use AI tools such as Claude Code and other emerging tools as part of your daily development workflow, while identifying opportunities to automate repetitive or high-friction engineering work. Experiment with new approaches, measure their effectiveness, and turn successful practices into repeatable workflows that increase team leverage, improve quality, and accelerate delivery. Balance delivery with long-term technical health. Proactively identify technical debt, architectural risks, performance concerns, and reliability issues, and work with the team to address them while staying focused on product outcomes. Diagnose and resolve complex technical problems. Use deep debugging, observability, and system-level knowledge to find root causes and improve the systems and practices that prevent issues from recurring. Own quality end to end. Build quality into the development process through appropriate automated testing, code review, observability, and continuous feedback. What You Need to Succeed Technical Depth Strong, recent experience building and shipping production software as a hands-on engineer. Deep proficiency in .NET/C# and TypeScript/Node, with strong experience in React and modern web development. Strong understanding of distributed systems, event-driven architecture, SQL, asynchronous programming, automated testing, and production debugging/observability. The ability to make pragmatic architectural decisions that balance scalability, reliability, maintainability, and delivery speed. Helpful, but not required: Experience with .NET Core, NestJS, Kafka, AWS/cloud infrastructure, or CRM platforms. Technical Leadership & Autonomy Experience serving as the senior technical engineer or technical lead on a team, influencing technical direction without relying on formal management authority. The ability to take an ambiguous or moderately scoped problem, develop the technical approach, make sound tradeoffs, and drive it through implementation and delivery. A strong ownership mindset; you care about the quality, reliability, maintainability, and long-term health of what your team ships. The judgment to know when to make decisions independently and when to bring in broader architectural or organizational expertise. AI Fluency & Engineering Leverage Genuine, hands-on fluency with AI development tools such as Claude Code, GitHub Copilot, or similar tools. Experience using AI meaningfully in day-to-day engineering work, including coding, debugging, research, code analysis, and problem-solving. The ability to identify opportunities to use AI and automation to improve engineering workflows, increase team leverage, and raise quality\u2014not simply to write code faster. Curiosity about emerging AI capabilities and a willingness to experiment, learn, and turn useful practices into repeatable team workflows. Team Leadership & Collaboration A track record of mentoring engineers and raising the technical capability and confidence of the people around you. The ability to communicate technical decisions and tradeoffs clearly with Engineering, Product, QA, and other partners. A continuous-improvement mindset and willingness to challenge existing practices when there is a better way to build, test, operate, or deliver software. A collaborative approach to technical leadership: you can drive a decision while still seeking input and bringing others along. Nice to Haves But Not Required Experience with .NET Core Experience with NestJS and Kafka Cloud Infrastructure (AWS) CRM experience Benefits Health + Wellness You\u2019ll have access to generous health, vision, and dental insurance options as well as HealthiestYou, a healthcare service that offers convenient, confidential access to quality doctors 24/7, anytime, anywhere. Time Off You'll get a competitive PTO package that includes 20 PTO days, 3 flex days, 4 optional volunteer days, 12 paid holidays, as well as paid parental leave. More is more! 401k You'll receive a 401k match to help invest in your future. Equipment Everything you need to be successful, shipped right to your door. You got this. We got you. Compensation The salary range for this position is $114,800 - $191,400. You may also be eligible for a discretionary bonus. Actual compensation within the range will be dependent on your skills, experience, qualifications, and location, as well as applicable employment laws Location This is a permanent, full-time, fully remote position (within the U.S. and select Canadian Provinces only). Employees living in Indianapolis, IN are welcome to work from our company headquarters. We do not offer Visa sponsorship or relocation assistance at this time. Accommodations Applicants who require accommodations may contact careers@bloomerang.com to request an accommodation in completing an application. Bloomerang is an Equal Opportunity Employer. Individuals seeking employment at Bloomerang are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.",
+      "tags": [
+        "Reposted 7 Hours Ago",
+        "Saved",
+        "Financial Services",
+        "Top Skills:",
+        ".Net (C#)",
+        ".Net Core",
+        "Ai Tools",
+        "AWS"
+      ],
+      "published_at": "Reposted 7 Hours Ago",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "4aaf0d9e4b3e15c515421994ce589f00e3ba7b7d"
     }
   },
   {
