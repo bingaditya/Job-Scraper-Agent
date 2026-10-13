@@ -1,10 +1,11 @@
 [
   {
-    "score": 94,
+    "score": 100,
     "reasons": [
       "Matched skills: SQL, C#, .Net, Html, CSS",
       "Search keyword hit: SQL",
-      "Experience fit around 4+ years"
+      "Preferred location: India",
+      "Experience requirement not strict"
     ],
     "matched_skills": [
       "SQL",
@@ -15,31 +16,27 @@
       "JavaScript"
     ],
     "job": {
-      "source": "builtin",
-      "source_id": "job-card-11613815",
-      "title": "Senior Software Engineer \u2013 .NET & Dynamics 365",
-      "company": "Ryan",
-      "location": "",
-      "url": "https://builtin.com/job/senior-software-engineer-net-dynamics-365/11613815",
-      "description": "Why Ryan? Competitive Compensation and Benefits Business Connectivity Reimbursement (Phone/Internet) Gym Membership or Equipment Reimbursement LinkedIn Learning Subscription Flexible Work Environment Tuition Reimbursement After One Year of Service Accelerated Career Path Award-Winning Culture & Community Outreach The Senior Software Engineer position requires a motivated, enthusiastic, and proactive engineer with a strong \u201ccan-do\u201d attitude. As part of the software development team, the Senior Software Engineer will be responsible for the development and support of Corporate Tax Workstation products, with a strong focus on the Microsoft technology stack, including Dynamics 365, Power Automate flows, .NET, C#, ASP.NET, SQL Server, and related Microsoft development tools. The role will be responsible for assigned areas of the product and will ensure individual and team deadlines are met. The Senior Software Engineer will also contribute to the system\u2019s performance, stability, scalability, and security, while supporting technical design, development, testing, troubleshooting, and deployment activities. The position also requires the ability to mentor, coach, and motivate other team members. Duties and Responsibilities, as they align to Ryan\u2019s Key Results People: Create a positive team experience. Participate in peer code review processes. Provide regular status updates to the Project Lead and Project Manager. Mentor, coach, and support other developers within the team. Client: Provide proactive work status updates to International / India liaison teams. Collaborate with internal stakeholders to understand technical and business requirements. Value: Estimate, design, code, and test applications using Microsoft .NET technologies, primarily C# . Develop and support solutions using Dynamics 365 , including plugins and related customizations . Create application design specifications and document coding efforts. Analyze medium to complex business and technical problems and provide practical solutions. Participate in technical design discussions and prepare clear design documentation. Troubleshoot and debug technical issues across application, database, and integration layers. Create and implement unit test plans and unit test cases. Support release and deployment activities into production environments. Ensure assigned deliverables are completed on time and with quality. Education and Experience: Bachelor\u2019s degree in Information Systems, Computer Science, Accounting, or equivalent work experience preferred. At least 4 years of hands-on experience in Microsoft development environments, including: .NET / C# ASP.NET Microsoft SQL Server Dynamics 365 development Dynamics 365 plugins Powerflows IIS Administration Microsoft certifications would be considered an advantage. Technical Skills: 4+ years of full-time experience in .NET Framework / C# development. Experience with Microsoft Dynamics 365 development, including plugins and customizations. Experience with Power Automate flows and related workflow customizations. Front-end development experience using HTML, DHTML, JavaScript, and CSS. React experience would be considered a nice-to-have. Strong SQL skills, preferably with Microsoft SQL Server. Experience using GitHub or similar source control/release management tools. Understanding of release and deployment processes into production environments. Strong experience in object-oriented design, relational database design, and XML design. Ability to troubleshoot, debug, and resolve technical issues. Ability to collaborate and brainstorm with other developers in a team environment. Strong analytical, problem-solving, task management, and organizational skills. Proficiency in Microsoft Word, Excel, and PowerPoint. Strong written and verbal English communication skills. #Li-hybrid #Li-DR1",
+      "source": "linkedin",
+      "source_id": "4450710892",
+      "title": "Dotnet Developer\nJaipur",
+      "company": "VertexPlus",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
+      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
       "tags": [
-        "Yesterday",
-        "Saved",
-        "Fintech \u2022 Consulting",
-        "Top Skills:",
-        "Asp.Net",
-        "C#",
-        "CSS",
-        "Dhtml"
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
       ],
-      "published_at": "Yesterday",
+      "published_at": "2026-08-07",
       "remote": false,
       "metadata": {},
-      "fingerprint": "310ab4c61e419aeb53d42d72ab60a53170cbe755"
+      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Senior Software Engineer \u2013 .NET & Dynamics 365 at Ryan by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         "SQL",
         "C#",
@@ -57,6 +54,161 @@
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 100,
+    "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net, JavaScript",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: Azure",
+      "Experience fit around 5+ years"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "builtin",
+      "source_id": "job-card-11643342",
+      "title": "Full Stack .NET Developer",
+      "company": "Simon & Schuster, LLC",
+      "location": "",
+      "url": "https://builtin.com/job/full-stack-net-developer/11643342",
+      "description": "Simon & Schuster was named to Forbes magazine list of America's Best Mid-Size Employers 2022. Simon & Schuster is a global leader in general interest publishing, dedicated to providing the best in fiction and nonfiction for readers of all ages, and in all printed, digital and audio formats. Its distinguished roster of authors includes many of the world's most popular and widely recognized writers, and winners of the most prestigious literary honors and awards. It is home to numerous well-known imprints and divisions such as Simon & Schuster, Scribner, Atria Books, Gallery Books, Pocket Books, Adams Media, Simon & Schuster Children's Publishing and Simon & Schuster Audio and international companies in Australia, Canada, India and the United Kingdom, and proudly brings the works of its authors to readers in more than 200 countries and territories. For more information visit our website at www.simonandschuster.com. About the Role Simon & Schuster, one of the world's leading publishers, is investing in a multi-year modernization of the core systems that power order management, fulfillment, partner integration, and financial transactions. We are replacing long-established technology with modern .NET and SQL solutions using an AI-assisted approach. The program is already delivering measurable performance improvements in production. The Full-Stack .NET Developer is the hands-on builder on the modernization team. You will take legacy batch programs and, working from documented business requirements, replace them with modern, production-grade .NET services and SQL solutions that are validated in parallel against the existing system before every cutover. As the program advances, the role extends to modern web front ends that replace legacy green-screen workflows, which is why full-stack capability matters. AI tooling is central to how this team works: AI assists with legacy analysis, code generation, test generation, and documentation. You will use these tools daily \u2014 and you will be expected to review, refine, and validate AI-generated code critically rather than accept it blindly. Key Responsibilities Build modern replacements \u2014 Implement .NET worker services, APIs, and T-SQL stored procedures that replace legacy COBOL batch programs while preserving required business behavior. Review and refine AI-generated code \u2014 Use AI-assisted development for speed, then apply engineering judgment: correctness, edge cases, error handling, performance, and maintainability are yours to guarantee. Implement target architecture patterns \u2014 Apply the program's established patterns: structured logging and run telemetry, configuration-driven behavior, parallel-run (\"shadow\") support, restartability, and clean integration contracts. Support validation and cutover \u2014 Instrument every replacement for reconciliation against legacy output; work with the QA / Test Automation Engineer to drive each package to a clean validation gate before production cutover. Resolve complex conversion issues \u2014 Debug behavioral differences between legacy and modern implementations, working with legacy specialists to understand what the original code actually does. Front-end development \u2014 Build and maintain modern web UI components as the program modernizes user-facing workflows (browser-based replacements for legacy green-screen transactions). Contribute to engineering standards \u2014 Capture lessons learned, improve shared frameworks and templates, and help raise the quality bar as the team scales. Required Qualifications 5+ years of professional full-stack .NET development \u2014 C#, .NET (modern .NET 6+ preferred), building and operating production services. Experience using AI tools to assist development \u2014 e.g., AI-assisted code generation, code review, test generation, or documentation \u2014 with the judgment to critically validate generated output before it ships. Strong SQL Server / T-SQL skills \u2014 stored procedures, set-based logic, transactions, and query-performance fundamentals. Back-end service experience \u2014 background/worker services, scheduled or batch processing, structured logging, and configuration management. Front-end web development experience \u2014 modern web UI with ASP.NET Core (Razor/Blazor) or a JavaScript/TypeScript framework (React, Angular, or similar). Production mindset \u2014 experience owning code that runs unattended in production: error handling, restartability, observability, and safe deployment practices. Strong debugging and problem-solving skills, including reasoning about data-level differences between two systems. Clear written communication \u2014 design notes, code review feedback, and operational documentation. Preferred Qualifications Experience on a legacy-modernization, system-replacement, or platform-migration program. Exposure to legacy or mainframe-style environments (e.g., COBOL-era batch systems) \u2014 enough familiarity to work effectively with legacy specialists when analyzing existing behavior. No COBOL programming required. Order processing, fulfillment, supply-chain, or EDI domain experience. Data-access frameworks such as Dapper or Entity Framework Core. Batch scheduling environments (AutoSys or similar) and overnight batch operations. Azure experience \u2014 SQL Server on Azure VMs, Azure SQL Managed Instance, or Azure-hosted services. Automated testing practices \u2014 unit testing, integration testing, or test-driven development. What Success Looks Like Replacement packages move through build and validation at a steady cadence, passing reconciliation against legacy output with few surprises. AI-assisted speed without AI-assisted defects: generated code is consistently caught, corrected, and hardened before it reaches production. Replacements demonstrate measurable improvements \u2014 faster runtimes, fewer failures, less database contention \u2014 over the legacy processes they retire. Shared patterns and lessons learned make each successive package cheaper and safer than the last. Simon & Schuster US is an equal opportunity employer (EOE). At Simon & Schuster US, the spirit of inclusion feeds into everything that we do. From employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. We are committed to equal employment opportunity regardless of race, color, national origin, religion, creed, sex (including pregnancy, sexual orientation, gender, gender identity or expression), age, citizenship status, marital status, and Veteran status where protected by law or any other characteristic protected by applicable federal, state, or local law. The hiring salary range for this position applies to New York City, California, Colorado, Washington state, and most other geographies. Starting pay for the successful applicant depends on a variety of job-related factors, including but not limited to geographic location, market demands, experience, training, and education. The benefits available for this position include medical, dental, vision, 401(k) plan, life insurance coverage, disability benefits, tuition assistance program and PTO or, if applicable. Additionally, employees have access to our industry-first, Broad Based Ownership program, which makes all employees partners in our shared success. We are committed to providing reasonable accommodations to qualified individuals in accordance with applicable law. If you need a reasonable accommodation during the application or interview process, please contact us at ssrecruitment@simonandschuster.com. Unrelated emails, such as following up on an application, will not receive a response. Candidates hired for this or any other posted Simon & Schuster role will be employees of Simon & Schuster, LLC, subject to all policies , including the Workplace Privacy Notice , and eligible solely for the benefits plans thereof.",
+      "tags": [
+        "5 Hours Ago",
+        "Saved",
+        "Digital Media \u2022 News + Entertainment",
+        "Top Skills:",
+        ".Net 6+",
+        "Angular",
+        "Asp.Net Core",
+        "Autosys"
+      ],
+      "published_at": "5 Hours Ago",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "b5cbd43eb3f64944a163afbf0506ddcc8cf9f7b3"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack .NET Developer at Simon & Schuster, LLC by foregrounding Azure, SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 64,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4405007228",
+      "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
+      "company": "Citrus Informatics (India) Pvt Ltd",
+      "location": "Kochi, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-asp-net-c%23-sql-server-at-citrus-informatics-india-pvt-ltd-4405007228",
+      "description": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] Citrus Informatics (India) Pvt Ltd Kochi, Kerala, India 5 months ago",
+      "tags": [
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-04-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 58,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience fit around 2+ years"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "3882088531",
+      "title": "Senior .Net Developer",
+      "company": "ARS Traffic & Transport Technology (India)",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ars-traffic-transport-technology-india-3882088531",
+      "description": "Senior .Net Developer Senior .Net Developer ARS Traffic & Transport Technology (India) Trivandrum, Kerala, India 2 years ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2024-04-03",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f13123ef4b0307ae00083df6463ac78f65781e40"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .Net Developer at ARS Traffic & Transport Technology (India) by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
@@ -114,6 +266,361 @@
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4475947681",
+      "title": ".net developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 5 days ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-10-08",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "830667ff8f505b6b797cd0bfc284a8680464dc1d"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4473621570",
+      "title": "Lead II - Software Engineering (.Net Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
+      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India Actively Hiring 1 week ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-10-05",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4469801441",
+      "title": ".Net Developer",
+      "company": "AutomateBuddy Technologies Private Limited",
+      "location": "Navi Mumbai, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-automatebuddy-technologies-private-limited-4469801441",
+      "description": ".Net Developer .Net Developer AutomateBuddy Technologies Private Limited Navi Mumbai, Maharashtra, India 3 weeks ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-09-20",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "665fd4832df0657b3d8dd97ce567c40696de2b08"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4436494193",
+      "title": "Senior .NET Developer",
+      "company": "Interpath",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-interpath-4436494193",
+      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India 4 months ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-06-08",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f3b8371fcf8761ead7ef0da8d1af502e26a19bcb"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306127282",
+      "title": ".NET Developer",
+      "company": "Zeus Learning",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4474285326",
+      "title": "Senior Software Engineer \u2013 .NET / C#",
+      "company": "Leadrat Real Estate CRM - Dubai | India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Actively Hiring 1 week ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-10-05",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "135dccd8a1b0b639fbf5d97d6cb9cd8743d86b4a"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4295671740",
+      "title": "Senior .NET/C# Developer",
+      "company": "Aspire Software",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 1 week ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-10-02",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4472126627",
+      "title": "Senior Software Engineer \u2013 .NET C# Mandatory",
+      "company": "Siemens",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-mandatory-at-siemens-4472126627",
+      "description": "Senior Software Engineer \u2013 .NET C# Mandatory Senior Software Engineer \u2013 .NET C# Mandatory Siemens Pune Division, Maharashtra, India Actively Hiring 1 week ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "0a4035b6fe6398c162bb398e263df279b0a4fbd0"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4443534144",
+      "title": "AVP - C# (.net) Developer - Equity Technology",
+      "company": "Jefferies",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 2 weeks ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-25",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "4cc3da02b3742fc65c1e90c643c44ae303d61e31"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: Mumbai",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4469473112",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-4469473112",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions Mumbai Metropolitan Region 2 weeks ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "7a0707609683d5e460a1e871e466e01284d9ace2"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4470983271",
+      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
+      "company": "NEC Software Solutions (India)",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-india-4470983271",
+      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions (India) Mumbai, Maharashtra, India 2 weeks ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-09-23",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "262679cd3aee699cf334ff44c8d9f7d3d4ad405d"
+    }
+  },
+  {
+    "score": 50,
+    "reasons": [
+      "Matched skills: C#, .Net",
+      "Search keyword hit: C#",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4452922583",
+      "title": "ASP.NET C# DEVELOPER",
+      "company": "Exodesoft Technologies Pvt. Ltd.",
+      "location": "Ernakulam, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/asp-net-c%23-developer-at-exodesoft-technologies-pvt-ltd-4452922583",
+      "description": "ASP.NET C# DEVELOPER ASP.NET C# DEVELOPER Exodesoft Technologies Pvt. Ltd. Ernakulam, Kerala, India 2 months ago",
+      "tags": [
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-08-13",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "a4d9e5a971e6620048a61f03e463785f5f9aea34"
     }
   }
 ]
