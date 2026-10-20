@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7",
+    "title": "Dotnet Developer\nJaipur",
+    "company": "VertexPlus",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "job_id": "b5cbd43eb3f64944a163afbf0506ddcc8cf9f7b3",
     "title": "Full Stack .NET Developer",
     "company": "Simon & Schuster, LLC",
@@ -97,30 +125,6 @@
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "795a77d69197b6d04d1e1fc0b1a14cd8e5dfb35d",
-    "title": "Software Engineer II (Angular/.NET/MsSql)",
-    "company": "Vertafore",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer II (Angular/.NET/MsSql) at Vertafore by foregrounding SQL, .Net, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        ".Net",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        ".Net",
-        "JavaScript"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }

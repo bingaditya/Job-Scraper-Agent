@@ -2,6 +2,65 @@
   {
     "score": 100,
     "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4450710892",
+      "title": "Dotnet Developer\nJaipur",
+      "company": "VertexPlus",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
+      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-08-07",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 100,
+    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net, JavaScript",
       "Preferred title match: .net Developer",
       "Search keyword hit: Azure",
@@ -23,7 +82,7 @@
       "url": "https://builtin.com/job/full-stack-net-developer/11643342",
       "description": "Simon & Schuster was named to Forbes magazine list of America's Best Mid-Size Employers 2022. Simon & Schuster is a global leader in general interest publishing, dedicated to providing the best in fiction and nonfiction for readers of all ages, and in all printed, digital and audio formats. Its distinguished roster of authors includes many of the world's most popular and widely recognized writers, and winners of the most prestigious literary honors and awards. It is home to numerous well-known imprints and divisions such as Simon & Schuster, Scribner, Atria Books, Gallery Books, Pocket Books, Adams Media, Simon & Schuster Children's Publishing and Simon & Schuster Audio and international companies in Australia, Canada, India and the United Kingdom, and proudly brings the works of its authors to readers in more than 200 countries and territories. For more information visit our website at www.simonandschuster.com. About the Role Simon & Schuster, one of the world's leading publishers, is investing in a multi-year modernization of the core systems that power order management, fulfillment, partner integration, and financial transactions. We are replacing long-established technology with modern .NET and SQL solutions using an AI-assisted approach. The program is already delivering measurable performance improvements in production. The Full-Stack .NET Developer is the hands-on builder on the modernization team. You will take legacy batch programs and, working from documented business requirements, replace them with modern, production-grade .NET services and SQL solutions that are validated in parallel against the existing system before every cutover. As the program advances, the role extends to modern web front ends that replace legacy green-screen workflows, which is why full-stack capability matters. AI tooling is central to how this team works: AI assists with legacy analysis, code generation, test generation, and documentation. You will use these tools daily \u2014 and you will be expected to review, refine, and validate AI-generated code critically rather than accept it blindly. Key Responsibilities Build modern replacements \u2014 Implement .NET worker services, APIs, and T-SQL stored procedures that replace legacy COBOL batch programs while preserving required business behavior. Review and refine AI-generated code \u2014 Use AI-assisted development for speed, then apply engineering judgment: correctness, edge cases, error handling, performance, and maintainability are yours to guarantee. Implement target architecture patterns \u2014 Apply the program's established patterns: structured logging and run telemetry, configuration-driven behavior, parallel-run (\"shadow\") support, restartability, and clean integration contracts. Support validation and cutover \u2014 Instrument every replacement for reconciliation against legacy output; work with the QA / Test Automation Engineer to drive each package to a clean validation gate before production cutover. Resolve complex conversion issues \u2014 Debug behavioral differences between legacy and modern implementations, working with legacy specialists to understand what the original code actually does. Front-end development \u2014 Build and maintain modern web UI components as the program modernizes user-facing workflows (browser-based replacements for legacy green-screen transactions). Contribute to engineering standards \u2014 Capture lessons learned, improve shared frameworks and templates, and help raise the quality bar as the team scales. Required Qualifications 5+ years of professional full-stack .NET development \u2014 C#, .NET (modern .NET 6+ preferred), building and operating production services. Experience using AI tools to assist development \u2014 e.g., AI-assisted code generation, code review, test generation, or documentation \u2014 with the judgment to critically validate generated output before it ships. Strong SQL Server / T-SQL skills \u2014 stored procedures, set-based logic, transactions, and query-performance fundamentals. Back-end service experience \u2014 background/worker services, scheduled or batch processing, structured logging, and configuration management. Front-end web development experience \u2014 modern web UI with ASP.NET Core (Razor/Blazor) or a JavaScript/TypeScript framework (React, Angular, or similar). Production mindset \u2014 experience owning code that runs unattended in production: error handling, restartability, observability, and safe deployment practices. Strong debugging and problem-solving skills, including reasoning about data-level differences between two systems. Clear written communication \u2014 design notes, code review feedback, and operational documentation. Preferred Qualifications Experience on a legacy-modernization, system-replacement, or platform-migration program. Exposure to legacy or mainframe-style environments (e.g., COBOL-era batch systems) \u2014 enough familiarity to work effectively with legacy specialists when analyzing existing behavior. No COBOL programming required. Order processing, fulfillment, supply-chain, or EDI domain experience. Data-access frameworks such as Dapper or Entity Framework Core. Batch scheduling environments (AutoSys or similar) and overnight batch operations. Azure experience \u2014 SQL Server on Azure VMs, Azure SQL Managed Instance, or Azure-hosted services. Automated testing practices \u2014 unit testing, integration testing, or test-driven development. What Success Looks Like Replacement packages move through build and validation at a steady cadence, passing reconciliation against legacy output with few surprises. AI-assisted speed without AI-assisted defects: generated code is consistently caught, corrected, and hardened before it reaches production. Replacements demonstrate measurable improvements \u2014 faster runtimes, fewer failures, less database contention \u2014 over the legacy processes they retire. Shared patterns and lessons learned make each successive package cheaper and safer than the last. Simon & Schuster US is an equal opportunity employer (EOE). At Simon & Schuster US, the spirit of inclusion feeds into everything that we do. From employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. We are committed to equal employment opportunity regardless of race, color, national origin, religion, creed, sex (including pregnancy, sexual orientation, gender, gender identity or expression), age, citizenship status, marital status, and Veteran status where protected by law or any other characteristic protected by applicable federal, state, or local law. The hiring salary range for this position applies to New York City, California, Colorado, Washington state, and most other geographies. Starting pay for the successful applicant depends on a variety of job-related factors, including but not limited to geographic location, market demands, experience, training, and education. The benefits available for this position include medical, dental, vision, 401(k) plan, life insurance coverage, disability benefits, tuition assistance program and PTO or, if applicable. Additionally, employees have access to our industry-first, Broad Based Ownership program, which makes all employees partners in our shared success. We are committed to providing reasonable accommodations to qualified individuals in accordance with applicable law. If you need a reasonable accommodation during the application or interview process, please contact us at ssrecruitment@simonandschuster.com. Unrelated emails, such as following up on an application, will not receive a response. Candidates hired for this or any other posted Simon & Schuster role will be employees of Simon & Schuster, LLC, subject to all policies , including the Workplace Privacy Notice , and eligible solely for the benefits plans thereof.",
       "tags": [
-        "Reposted 2 Days Ago",
+        "Reposted 3 Days Ago",
         "Saved",
         "Digital Media \u2022 News + Entertainment",
         "Top Skills:",
@@ -32,7 +91,7 @@
         "Asp.Net Core",
         "Autosys"
       ],
-      "published_at": "Reposted 2 Days Ago",
+      "published_at": "Reposted 3 Days Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "b5cbd43eb3f64944a163afbf0506ddcc8cf9f7b3"
@@ -84,7 +143,7 @@
       "url": "https://builtin.com/job/principal-software-engineer/11730923",
       "description": "Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. Whether you\u2019re interested in engineering or development, marketing or sales, or something else \u2013 if this sounds like you, then we\u2019d love to hear from you! We are headquartered in Denver, Colorado, with offices in the US, Canada, and India. $140,000 - $165,000 + VIP Bonus The insurance industry runs on Vertafore. We equip agencies, MGAs, and carriers with the core digital systems, specialized AI, and data-driven foundation to eliminate distribution drag across the insurance lifecycle, spanning sales, servicing, and back-office operations. Underpinned by unmatched speed and performance power, we are the trusted backbone that\u2019s taking the insurance industry from friction to flow with Distribution Velocity \u2013 speed, performance, and trust - to drive growth at scale. With over 95% of the top agencies and insurers and 50% of industry compliance transactions running through Vertafore, we lead at the intersection of innovation and trust, giving insurance professionals the confidence to transform and win in the AI era. Our reach is global, with headquarters in Denver, Colorado, and offices across the U.S., Canada, and India. As a Principal Software Engineer , you will shape and improve the experience of key Vertafore customers. You will work cross-functionally across Vertafore, including Customer Support, Account Management, Product Management and Product Development to help guide customers and also contribute to the future growth of your team. You will work with a fast-paced, skilled team of business analysts, conversion engineers, developers and quality assurance engineers across multiple high-profile projects with development responsibility of assigned projects. Much of your success in this role will be dependent upon timely, clear, concise and effective verbal and written communication along with the development of solutions that fully meet customer expectations with no/minimal defects or rework. Although not a primary duty compared to developing and supporting code, a software engineer at Vertafore also works directly with customers as part of a cross-functional team, which means you need to be a proactive self-starter, able to multi-task in a fast-paced environment and be service-focused to help nurture the customer experience. Additionally, you're a mentor and consultant, as well as a customer champion within Vertafore. Essential job functions included but are not limited to the following: Innovates and crafts clean code Helps lead and mitigates the impact of technical decisions across the entire product Coordinates with Experience Design and software development teams across the department in designing and implementing pragmatic and best-fit solutions Takes ownership of vision and development of technologies, infrastructure, and common components across our tech stack. Mentors other developers and teams Fosters and develops a community of practice across the entire development organization Evaluates and recommends tools, technologies and processes ensuring highest quality product platform Provides support for existing products and developing new products Contributes to defining and enforcing procedures, standards, and methodologies related to software development Troubleshoot code problems quickly and efficiently. Interacts with customers to gather insights and translate technical concepts Is as a role model and mentors other team members technically and culturally Lead, join in, and shepherd teams through implementation goals including fostering best practices in creation of code Other duties as assigned Knowledge, Skills and Abilities: Advanced communication and interpersonal skills, able to diffuse tension and drive productive conversation, internally and externally. Strategic problem solver, analytical, with critical thinking skills An innate curiosity about how things work; Proactively acquires new skills and learns new tools and technologies to troubleshoot complex issues. Able to define, communicate and ensure adherence to quality/technical team standards Comfortable and effective at making decisions across the product that help long-term maintainability, reuse, and security. and performance Must be able to work with global, distributed teams In-tune with high performance and high availability design/programming Highly proficient with multiple database technologies Strong in both design and implementation at an enterprise level Must be able to work with and help non-development departments communicate with development depart Communicate clearly to explain and defend design decisions Mentor, lead, and direct multiple teams in implementation best practices lead collaboration with the business, designing pragmatic solutions Qualifications: \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 10+ years of professional experience developing software with C# and .NET (modern .NET /.NET Core) \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Proven experience working in Agile/Scrum development environments \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Bachelor\u2019s degree in computer science, Engineering , or equivalent practical experience \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience applying security best practices for software and data platforms (e.g., secure coding, authentication/authorization, data protection) \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience designing and implementing RESTful APIs \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience with enterprise-scale system design, architecture, and implementation \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hands-on experience designing and building microservices , event-driven architectures , and distributed systems \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Strong experience with cloud platforms , with AWS preferred (Azure or GCP acceptable), including cloud\u2011native application design and deployment \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Practical, hands-on experience leading and scaling AI-driven software development practices , including: o\u00a0\u00a0\u00a0 Driving adoption of spec-driven and AI-assisted development methodologies to improve engineering velocity, quality, and delivery predictability. o\u00a0\u00a0\u00a0 Defining and evolving workflows that combine developers, AI agents, MCP-enabled tools, and automation frameworks throughout the software development lifecycle.o\u00a0\u00a0\u00a0 Establishing standards and best practices for context management, prompt engineering, validation, testing, governance, and responsible AI usage in enterprise software development. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience with modern JavaScript and TypeScript development, including Angular and/or React (This role does not require deep UI specialization but does require the ability to make architectural decisions, review designs, and contribute meaningfully to front-end solutions.) \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience working with database technologies , including relational and/or NoSQL systems (e.g., SQL Server, PostgreSQL, Oracle, Cassandra) Additional Requirements and Details: Travel required up to 10% of the time. WFH Flexible Occasional lifting and/or moving up to 10 pounds. Frequent repetitive hand and arm movements required to operate a computer. Specific vision abilities required by this job include close vision (working on a computer, etc.). Frequent sitting and/or standing. #LI-Hybrid Is this role not an exact fit for you? Keep an eye on our Careers Page for other positions! Vertafore is a drug free workplace and conducts preemployment drug and background screenings . The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics.\u00a0 Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance.\u00a0 Eligibility is determined by several factors including:\u00a0start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs.\u00a0 Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone.\u00a0 if you\u00a0would like to contact us regarding\u00a0the accessibility of our website or need assistance completing the application\u00a0process, please contact\u00a0recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
       "tags": [
-        "3 Days Ago",
+        "4 Days Ago",
         "Saved",
         "Information Technology \u2022 Insurance \u2022 Software",
         "Top Skills:",
@@ -93,7 +152,7 @@
         "Cassandra",
         "Java"
       ],
-      "published_at": "3 Days Ago",
+      "published_at": "4 Days Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "3a3621b223dae2f6590d671fab15779cee9d7d01"
@@ -142,7 +201,7 @@
       "company": "Siemens Healthineers",
       "location": "Pune District, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/c%23-net-developer-at-siemens-healthineers-4478447324",
-      "description": "C# .NET Developer C# .NET Developer Siemens Healthineers Pune District, Maharashtra, India Actively Hiring 3 days ago",
+      "description": "C# .NET Developer C# .NET Developer Siemens Healthineers Pune District, Maharashtra, India 3 days ago",
       "tags": [
         ".net",
         "c#"
@@ -241,7 +300,7 @@
       "url": "https://builtin.com/job/software-engineer-ii-angular-net-mssql/11531514",
       "description": "Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. Whether you\u2019re interested in engineering or development, marketing or sales, or something else \u2013 if this sounds like you, then we\u2019d love to hear from you! We are headquartered in Denver, Colorado, with offices in the US, Canada, and India. $75,000 - $90,000 / year The insurance industry runs on Vertafore. We equip agencies, MGAs, and carriers with the core digital systems, specialized AI, and data-driven foundation to eliminate distribution drag across the insurance lifecycle, spanning sales, servicing, and back-office operations. Underpinned by unmatched speed and performance power, we are the trusted backbone that\u2019s taking the insurance industry from friction to flow with Distribution Velocity \u2013 speed, performance, and trust - to drive growth at scale. With over 95% of the top agencies and insurers and 50% of industry compliance transactions running through Vertafore, we lead at the intersection of innovation and trust, giving insurance professionals the confidence to transform and win in the AI era. Our reach is global, with headquarters in Denver, Colorado, and offices across the U.S., Canada, and India. As a Software Engineer II, you will be working within an energetic agile team implementing solutions that support a wide range of customers. You will develop high quality web-based applications for new and existing features. You will also have the opportunity to bring your creative ideas to the table to deliver better solutions to our users. If you love technology, have a passion for software, are hungry to learn, and are driven to contribute to a world-class team of engineers, you\u2019re who we are looking for. Core Requirements and Responsibilities: Essential job functions included but are not limited to the following: Contributes independently to multiple functional and technical areas within a product Responsible for developing new features and supporting/bug fixing existing features Unit and integration testing Creates artifacts/documents that are valuable to the team Debugging issues across the whole stack - OS, DB, applications, JavaScript, and network Share what they know by mentoring other team members Writes well-designed, testable code Develops new features and supporting/bug fixing in existing and new features for a wide range of products Troubleshoots issues across the whole stack - OS, DB, applications, JavaScript, and network Participates in code reviews, both of your own code and as a reviewer. Provides feedback and suggestions for process and product improvement. Conducts technical research on new technology for possible new aspects of a product or components needing redesign or updating. Prepares product documentation, support materials, and internal documentation. Mentors and inspires others to raise the bar for everyone around them Shares what they know;\u00a0 Prepares internal technical training and information sessions Follows industry trends and the open-source community Knowledge, Skills and Abilities: Adheres to quality/technical team standards Able to diagnose issues and provide solutions for multiple functional and technical areas within a product Can independently frame problems and perform relevant research Collaborate with their peers, designing pragmatic solutions Operate best in a fast-paced, flexible work environment Prepare technical training and information sessions for other staff Enjoy solving problems through the entire application stack Effective communication (written and verbal) and interpersonal skills. Problem solver with strong analytical and critical thinking skills An innate curiosity about how things work; proactively acquires new skills and learns new tools and technologies to troubleshoot issues. A team player and excellent collaborator Cares about quality and knows what it means to ship high-quality code; able to define and adhere to quality/technical team standards Proficient with relevant tools and technologies to troubleshoot and resolve complex issues Qualifications: Bachelor\u2019s degree in Computer Science (or related technical field) or equivalent practical experience 2-3 years of professional experience with Java/.NET and common frameworks Experience with JavaScript.\u00a0 React.js or similar Experience working in an Agile environment required Experience working with relational and NoSQL Databases Experience with RESTful web services Experience in security best practices for software and data platforms Are interested and capable of learning other programming languages as needed. Additional Requirements and Details: Travel required up to 10% of the time. Located and working from an office location. Occasional lifting and/or moving up to 10 pounds. Frequent repetitive hand and arm movements required to operate a computer. Specific vision abilities required by this job include close vision (working on a computer, etc.). Frequent sitting and/or standing. #LI-HYBRID Is this role not an exact fit for you? Keep an eye on our Careers Page for other positions! Vertafore is a drug free workplace and conducts preemployment drug and background screenings . The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics.\u00a0 Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance.\u00a0 Eligibility is determined by several factors including:\u00a0start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs.\u00a0 Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone.\u00a0 if you\u00a0would like to contact us regarding\u00a0the accessibility of our website or need assistance completing the application\u00a0process, please contact\u00a0recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
       "tags": [
-        "13 Days Ago",
+        "14 Days Ago",
         "Saved",
         "Information Technology \u2022 Insurance \u2022 Software",
         "Top Skills:",
@@ -250,29 +309,10 @@
         "Angular",
         "Java"
       ],
-      "published_at": "13 Days Ago",
+      "published_at": "14 Days Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "795a77d69197b6d04d1e1fc0b1a14cd8e5dfb35d"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer II (Angular/.NET/MsSql) at Vertafore by foregrounding SQL, .Net, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        ".Net",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        ".Net",
-        "JavaScript"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -294,7 +334,7 @@
       "company": "BNP Paribas",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-bnp-paribas-4479274770",
-      "description": ".Net Developer .Net Developer BNP Paribas Chennai, Tamil Nadu, India Actively Hiring 5 days ago",
+      "description": ".Net Developer .Net Developer BNP Paribas Chennai, Tamil Nadu, India 5 days ago",
       "tags": [
         ".net"
       ],
@@ -323,7 +363,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 1 week ago",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 1 week ago",
       "tags": [
         ".net"
       ],
@@ -352,7 +392,7 @@
       "company": "UST",
       "location": "Trivandrum, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
-      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India Actively Hiring 2 weeks ago",
+      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -439,7 +479,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
       "tags": [
         ".net"
       ],
@@ -468,7 +508,7 @@
       "company": "BNP Paribas",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/full-stack-c%23-net-software-engineer-at-bnp-paribas-4480926092",
-      "description": "Full Stack C# .Net Software Engineer Full Stack C# .Net Software Engineer BNP Paribas Bengaluru, Karnataka, India Actively Hiring 1 day ago",
+      "description": "Full Stack C# .Net Software Engineer Full Stack C# .Net Software Engineer BNP Paribas Bengaluru, Karnataka, India 1 day ago",
       "tags": [
         ".net",
         "c#"
@@ -498,7 +538,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4443534144",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 3 days ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 3 days ago",
       "tags": [
         ".net",
         "c#"
@@ -528,7 +568,7 @@
       "company": "Leadrat Real Estate CRM - Dubai | India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -558,7 +598,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -588,7 +628,7 @@
       "company": "Siemens",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-mandatory-at-siemens-4472126627",
-      "description": "Senior Software Engineer \u2013 .NET C# Mandatory Senior Software Engineer \u2013 .NET C# Mandatory Siemens Pune Division, Maharashtra, India Actively Hiring 2 weeks ago",
+      "description": "Senior Software Engineer \u2013 .NET C# Mandatory Senior Software Engineer \u2013 .NET C# Mandatory Siemens Pune Division, Maharashtra, India 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -687,6 +727,40 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "a4d9e5a971e6620048a61f03e463785f5f9aea34"
+    }
+  },
+  {
+    "score": 48,
+    "reasons": [
+      "Matched skills: Azure, SQL, C#, .Net",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Role asks for 10+ years"
+    ],
+    "matched_skills": [
+      "Azure",
+      "SQL",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4415791714",
+      "title": "Senior Software Engineer .NET",
+      "company": "Fingent",
+      "location": "Kochi, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-fingent-4415791714",
+      "description": "At Fingent, we believe that technology can make a meaningful difference to the lives around us. The lives of those who use it, the lives of those who build it and to society at large. We create and provide software which is beautiful, usable and compelling, to solve complex business challenges. We nurture smart people who bring out the best in themselves, their peers, and their clients. Skill Set Preferred Build new Web-based systems with .NET Core, C#.NET, Web API. SQL ASP.NET. Must have strong experience in OOPS concepts, Entity Framework, LINQ, Third party API Integration. Good to have exposure to Cloud computing, MS Azure, SQL Azure. Strong knowledge of software implementation best practices. Strong experience designing and working with scalable architectures. The ability to quickly learn new concepts and software is necessary. Roles & Responsibilities Produce well-organized, optimized, and documented source code. Should be well versed in development platforms and best practices. Provide ongoing maintenance, support, and enhancements in existing systems and platforms. Attend client calls to know customer needs and feedback on items delivered. Collaborate cross-functionally with business users, project managers, and other engineers to deliver elegant solutions to customers. Provide recommendations for continuous improvement. Work alongside other engineers on the team to elevate technology and consistently apply best practices. Attention to detail is essential and all tasks must be carried out to the highest standard. Candidates who can join immediately or within a short notice period are preferred. More Information Experience 6 - 10 years",
+      "tags": [
+        "azure",
+        "sql",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2026-05-19",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "a73d1e74f2b9fdf5793cd9a5c33f83b15408d724"
     }
   }
 ]
