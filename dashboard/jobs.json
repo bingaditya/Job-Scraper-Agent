@@ -59,123 +59,6 @@
     }
   },
   {
-    "score": 82,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, JavaScript",
-      "Search keyword hit: Azure",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "builtin",
-      "source_id": "job-card-11730923",
-      "title": "Principal Software Engineer (.NET/AWS)",
-      "company": "Vertafore",
-      "location": "",
-      "url": "https://builtin.com/job/principal-software-engineer/11730923",
-      "description": "Our fast-paced and collaborative environment inspires us to create, think, and challenge each other in ways that make our solutions and our teams better. Whether you\u2019re interested in engineering or development, marketing or sales, or something else \u2013 if this sounds like you, then we\u2019d love to hear from you! We are headquartered in Denver, Colorado, with offices in the US, Canada, and India. $140,000 - $165,000 + VIP Bonus The insurance industry runs on Vertafore. We equip agencies, MGAs, and carriers with the core digital systems, specialized AI, and data-driven foundation to eliminate distribution drag across the insurance lifecycle, spanning sales, servicing, and back-office operations. Underpinned by unmatched speed and performance power, we are the trusted backbone that\u2019s taking the insurance industry from friction to flow with Distribution Velocity \u2013 speed, performance, and trust - to drive growth at scale. With over 95% of the top agencies and insurers and 50% of industry compliance transactions running through Vertafore, we lead at the intersection of innovation and trust, giving insurance professionals the confidence to transform and win in the AI era. Our reach is global, with headquarters in Denver, Colorado, and offices across the U.S., Canada, and India. As a Principal Software Engineer , you will shape and improve the experience of key Vertafore customers. You will work cross-functionally across Vertafore, including Customer Support, Account Management, Product Management and Product Development to help guide customers and also contribute to the future growth of your team. You will work with a fast-paced, skilled team of business analysts, conversion engineers, developers and quality assurance engineers across multiple high-profile projects with development responsibility of assigned projects. Much of your success in this role will be dependent upon timely, clear, concise and effective verbal and written communication along with the development of solutions that fully meet customer expectations with no/minimal defects or rework. Although not a primary duty compared to developing and supporting code, a software engineer at Vertafore also works directly with customers as part of a cross-functional team, which means you need to be a proactive self-starter, able to multi-task in a fast-paced environment and be service-focused to help nurture the customer experience. Additionally, you're a mentor and consultant, as well as a customer champion within Vertafore. Essential job functions included but are not limited to the following: Innovates and crafts clean code Helps lead and mitigates the impact of technical decisions across the entire product Coordinates with Experience Design and software development teams across the department in designing and implementing pragmatic and best-fit solutions Takes ownership of vision and development of technologies, infrastructure, and common components across our tech stack. Mentors other developers and teams Fosters and develops a community of practice across the entire development organization Evaluates and recommends tools, technologies and processes ensuring highest quality product platform Provides support for existing products and developing new products Contributes to defining and enforcing procedures, standards, and methodologies related to software development Troubleshoot code problems quickly and efficiently. Interacts with customers to gather insights and translate technical concepts Is as a role model and mentors other team members technically and culturally Lead, join in, and shepherd teams through implementation goals including fostering best practices in creation of code Other duties as assigned Knowledge, Skills and Abilities: Advanced communication and interpersonal skills, able to diffuse tension and drive productive conversation, internally and externally. Strategic problem solver, analytical, with critical thinking skills An innate curiosity about how things work; Proactively acquires new skills and learns new tools and technologies to troubleshoot complex issues. Able to define, communicate and ensure adherence to quality/technical team standards Comfortable and effective at making decisions across the product that help long-term maintainability, reuse, and security. and performance Must be able to work with global, distributed teams In-tune with high performance and high availability design/programming Highly proficient with multiple database technologies Strong in both design and implementation at an enterprise level Must be able to work with and help non-development departments communicate with development depart Communicate clearly to explain and defend design decisions Mentor, lead, and direct multiple teams in implementation best practices lead collaboration with the business, designing pragmatic solutions Qualifications: \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 10+ years of professional experience developing software with C# and .NET (modern .NET /.NET Core) \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Proven experience working in Agile/Scrum development environments \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Bachelor\u2019s degree in computer science, Engineering , or equivalent practical experience \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience applying security best practices for software and data platforms (e.g., secure coding, authentication/authorization, data protection) \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience designing and implementing RESTful APIs \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience with enterprise-scale system design, architecture, and implementation \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hands-on experience designing and building microservices , event-driven architectures , and distributed systems \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Strong experience with cloud platforms , with AWS preferred (Azure or GCP acceptable), including cloud\u2011native application design and deployment \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Practical, hands-on experience leading and scaling AI-driven software development practices , including: o\u00a0\u00a0\u00a0 Driving adoption of spec-driven and AI-assisted development methodologies to improve engineering velocity, quality, and delivery predictability. o\u00a0\u00a0\u00a0 Defining and evolving workflows that combine developers, AI agents, MCP-enabled tools, and automation frameworks throughout the software development lifecycle.o\u00a0\u00a0\u00a0 Establishing standards and best practices for context management, prompt engineering, validation, testing, governance, and responsible AI usage in enterprise software development. \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Experience with modern JavaScript and TypeScript development, including Angular and/or React (This role does not require deep UI specialization but does require the ability to make architectural decisions, review designs, and contribute meaningfully to front-end solutions.) \u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 5+ years of experience working with database technologies , including relational and/or NoSQL systems (e.g., SQL Server, PostgreSQL, Oracle, Cassandra) Additional Requirements and Details: Travel required up to 10% of the time. WFH Flexible Occasional lifting and/or moving up to 10 pounds. Frequent repetitive hand and arm movements required to operate a computer. Specific vision abilities required by this job include close vision (working on a computer, etc.). Frequent sitting and/or standing. #LI-Hybrid Is this role not an exact fit for you? Keep an eye on our Careers Page for other positions! Vertafore is a drug free workplace and conducts preemployment drug and background screenings . The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us. Why Vertafore is the place for you: *Canada Only The opportunity to work in a space where modern technology meets a stable and vital industry Medical, vision & dental plans Life, AD&D Short Term and Long Term Disability Pension Plan & Employer Match Maternity, Paternity and Parental Leave Employee and Family Assistance Program (EFAP) Education Assistance Additional programs - Employee Referral and Internal Recognition Why Vertafore is the place for you: *US Only The opportunity to work in a space where modern technology meets a stable and vital industry We have a Flexible First work environment! Our North America team members use our offices for collaboration, community and team-building, with members asked to sometimes come into an office and/or travel depending on job responsibilities. Other times, our teams work from home or a similar environment. Medical, vision & dental plans PPO & high-deductible options Health Savings Account & Flexible Spending Accounts Options: Health Care FSA Dental & Vision FSA Dependent Care FSA Commuter FSA Life, AD&D (Basic & Supplemental), and Disability 401(k) Retirement Savings Plain & Employer Match Supplemental Plans - Pet insurance, Hospital Indemnity, and Accident Insurance Parental Leave & Adoption Assistance Employee Assistance Program (EAP) Education & Legal Assistance Additional programs - Tuition Reimbursement, Employee Referral, Internal Recognition, and Wellness Commuter Benefits (Denver) The selected candidate must be legally authorized to work in the United States. The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all the job responsibilities, duties, skill, or working conditions. In addition, this document does not create an employment contract, implied or otherwise, other than an \"at will\" relationship. Vertafore strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law. The Professional Services (PS) and Customer Success (CX) bonus plans are a quarterly monetary bonus plan based upon individual and practice performance against specific business metrics.\u00a0 Eligibility is determined by several factors including: start date, good standing in the company, and actives status at time of payout. The Vertafore Incentive Plan (VIP) is an annual monetary bonus for eligible employees based on both individual and company performance.\u00a0 Eligibility is determined by several factors including:\u00a0start date, good standing in the company, and actives status at time of payout. Commission plans are tailored to each sales role but common components include quota, MBO's and ABPMs.\u00a0 Salespeople receive their formal compensation plan within 30 days of hire. Vertafore is a drug free workplace and conducts preemployment drug and background screenings. We do not accept resumes from agencies, headhunters or other suppliers who have not signed a formal agreement with us. We want to make sure our recruiting process is accessible for everyone.\u00a0 if you\u00a0would like to contact us regarding\u00a0the accessibility of our website or need assistance completing the application\u00a0process, please contact\u00a0recruiting@vertafore.com Just a note, this contact information is for accommodation requests only.",
-      "tags": [
-        "10 Days Ago",
-        "Saved",
-        "Information Technology \u2022 Insurance \u2022 Software",
-        "Top Skills:",
-        ".Net",
-        "Angular",
-        "Cassandra",
-        "Java"
-      ],
-      "published_at": "10 Days Ago",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "3a3621b223dae2f6590d671fab15779cee9d7d01"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Principal Software Engineer (.NET/AWS) at Vertafore by foregrounding Azure, SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "JavaScript"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 68,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, JavaScript",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 9+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4473621570",
-      "title": "Lead II - Software Engineering (.Net Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
-      "description": "Role Description Experience: 7 to 9 years . We are looking for a highly motivated and experienced Senior .NET Developer with expertise in ASP.NET using C#. This role is ideal for a seasoned backend engineer who is passionate about expanding their skillset and transitioning into a Full Stack Developer role. You will be instrumental in building robust backend systems while actively learning and contributing to our modern front-end frameworks, specifically React. Strong emphasis on ASP.NET (Web Forms, MVC, or Core) and C#. - Proficiency in database design and development, including SQL Server (or other relational databases like PostgreSQL, MySQL), T-SQL, stored procedures, and query optimization. - Solid understanding of Object-Oriented Programming (OOP) principles, design patterns, and clean architecture. - Experience with RESTful API design and development. - Familiarity with version control systems, particularly Git. - Understanding of software testing principles (unit, integration, end-to-end testing). - A strong eagerness and proven capacity to learn and adapt to new technologies, specifically modern JavaScript frameworks like React. Experience in the financial domain or understanding of investment banking workflows. Excellent problem-solving, analytical, and debugging skills. Skills NET, C#, Microsoft SQL Server, REST, React, Git, Unit Testing",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-10-26",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "JavaScript"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 64,
     "reasons": [
       "Matched skills: SQL, C#, .Net",
@@ -294,12 +177,54 @@
     ],
     "job": {
       "source": "linkedin",
+      "source_id": "4473621570",
+      "title": "Lead II - Software Engineering (.Net Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
+      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India Actively Hiring 12 hours ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-10-26",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
       "source_id": "4479274770",
       "title": ".Net Developer",
       "company": "BNP Paribas",
       "location": "Chennai, Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-bnp-paribas-4479274770",
-      "description": ".Net Developer .Net Developer BNP Paribas Chennai, Tamil Nadu, India 1 week ago",
+      "description": ".Net Developer .Net Developer BNP Paribas Chennai, Tamil Nadu, India Actively Hiring 1 week ago",
       "tags": [
         ".net"
       ],
@@ -307,6 +232,19 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "7ed819b3ab67f38746e1373462b511ec4d1ac719"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target .Net Developer at BNP Paribas by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -328,7 +266,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 2 weeks ago",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -386,7 +324,7 @@
       "company": "Interpath",
       "location": "Gurugram, Haryana, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-interpath-4436494193",
-      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India Be an early applicant 4 months ago",
+      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India 4 months ago",
       "tags": [
         ".net"
       ],
@@ -415,7 +353,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
       "tags": [
         ".net"
       ],
@@ -444,7 +382,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 1 day ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 2 days ago",
       "tags": [
         ".net",
         "c#"
@@ -474,7 +412,7 @@
       "company": "Citi",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/senior-c%23-net-engineer-assistant-vice-president-at-citi-4481972136",
-      "description": "Senior C#.NET Engineer - Assistant Vice President Senior C#.NET Engineer - Assistant Vice President Citi Pune Division, Maharashtra, India 2 days ago",
+      "description": "Senior C#.NET Engineer - Assistant Vice President Senior C#.NET Engineer - Assistant Vice President Citi Pune Division, Maharashtra, India Actively Hiring 3 days ago",
       "tags": [
         ".net",
         "c#"
@@ -504,7 +442,7 @@
       "company": "BNP Paribas",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/full-stack-c%23-net-software-engineer-at-bnp-paribas-4480926092",
-      "description": "Full Stack C# .Net Software Engineer Full Stack C# .Net Software Engineer BNP Paribas Bengaluru, Karnataka, India 1 week ago",
+      "description": "Full Stack C# .Net Software Engineer Full Stack C# .Net Software Engineer BNP Paribas Bengaluru, Karnataka, India Actively Hiring 1 week ago",
       "tags": [
         ".net",
         "c#"
@@ -534,7 +472,7 @@
       "company": "Leadrat Real Estate CRM - Dubai | India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India 2 weeks ago",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Actively Hiring 3 weeks ago",
       "tags": [
         ".net",
         "c#"

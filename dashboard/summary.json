@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T12:25:32.285576+00:00",
+  "generated_at": "2026-10-26T22:23:29.752726+00:00",
   "candidate": "Candidate Name",
   "raw_jobs": 80,
   "deduplicated_jobs": 80,
-  "shortlisted_jobs": 18,
+  "shortlisted_jobs": 17,
   "new_jobs": 0,
   "notifications_sent": 0,
   "notification_error": null,
@@ -15,7 +15,7 @@
     ],
     [
       "builtin",
-      2
+      1
     ]
   ],
   "source_stats": [
