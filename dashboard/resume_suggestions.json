@@ -1,84 +1,110 @@
 [
   {
-    "job_id": "06634cdcd3017295be00e978e1fb3c39f861c60b",
-    "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
-    "company": "Citrus Informatics (India) Pvt Ltd",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "f13123ef4b0307ae00083df6463ac78f65781e40",
-    "title": "Senior .Net Developer",
-    "company": "ARS Traffic & Transport Technology (India)",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .Net Developer at ARS Traffic & Transport Technology (India) by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "9db69977ca6f730f53073ae8797b43ca117a7277",
-    "title": "Software Engineer II (MsSQL/.NET/C#)",
-    "company": "Vertafore",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer II (MsSQL/.NET/C#) at Vertafore by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "92983c6146bbf14affd01d05ac3eacd6ae1851d1",
+    "job_id": "7ed819b3ab67f38746e1373462b511ec4d1ac719",
     "title": ".Net Developer",
-    "company": "Kavi India",
+    "company": "BNP Paribas",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target .Net Developer at Kavi India by foregrounding .Net and mirroring the role language without adding new claims.",
+      "summary": "Target .Net Developer at BNP Paribas by foregrounding SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        ".Net"
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
       ],
       "missing_resume_keywords": [
-        ".Net"
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines"
       ],
       "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7",
+    "title": "Dotnet Developer\nJaipur",
+    "company": "VertexPlus",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "b5a6aaa05f6e6d696e64773d9b2f94b098f874fb",
+    "title": "Full Stack C# .Net Software Engineer",
+    "company": "BNP Paribas",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Full Stack C# .Net Software Engineer at BNP Paribas by foregrounding SQL, C#, .Net, CI/CD Pipelines, Html and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines",
+        "Html"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "CI/CD Pipelines",
+        "Html"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "8a8e45be2d17a6fb1d3fc263f9c352b20ef77981",
+    "title": "Dot Net Developer",
+    "company": "Worldline",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at Worldline by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
@@ -89,14 +115,22 @@
     "company": "UST",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding .Net and mirroring the role language without adding new claims.",
+      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        ".Net"
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
       ],
       "missing_resume_keywords": [
-        ".Net"
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
       ],
       "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
