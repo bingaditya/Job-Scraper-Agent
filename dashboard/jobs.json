@@ -56,65 +56,6 @@
     }
   },
   {
-    "score": 100,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4450710892",
-      "title": "Dotnet Developer\nJaipur",
-      "company": "VertexPlus",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
-      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-08-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 84,
     "reasons": [
       "Matched skills: SQL, C#, .Net, CI/CD Pipelines, Html",
@@ -167,6 +108,66 @@
         ".Net",
         "CI/CD Pipelines",
         "Html"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "score": 72,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 10+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4478508605",
+      "title": "Dot Net Developer",
+      "company": "Worldline",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-developer-at-worldline-4478508605",
+      "description": "Who We Are Worldline helps businesses of all shapes and sizes to accelerate their growth journey - quickly, simply, and securely. We are the innovators at the heart of the payments technology industry, shaping how the world pays and gets paid. Our technology powers the growth of millions of businesses across 5 continents. And just as we help our customers accelerate their business, we are committed to helping our people accelerate their careers. Together, we shape the evolution. Overview The successful candidate will be responsible for the maintenance, improvement, and development of features for our existing web application \"Compliance Manager\". The role involves working with technologies such as ASP.NET MVC, C#, Telerik Kendo UI, MS SSIS and various other tools within our CI/CD pipeline with experience of 6-10 years. Tasks And Responsibilities Maintain and enhance the functionality of the existing Compliance Manager web application Oversee the ongoing maintenance of the MMP Service, focusing on seamless integration with SAP Ensure the stability and performance of the Compliance Manager, allowing users to configure terminal hardware and software specifications Development of New Features Collaborate with the team to develop new features for the existing web application and new architecture Participate in the design and implementation of new architecture components Systems and Modules Web application with Telerik Kendo UI by Progress Utilizes ASP.NET MVC, C#, and Kendo UI Server-side data-transfer and transformation with MS SSIS New Architecture Create RESTful API of Compliance Manager data Write adaptor to prepare data transformation (replacement of SSIS) Write service to load changes from RESTful API for master data system Using Kafka for queuing changes of terminal information Write adaptor for distributing changes in master data system Keycloak \u2013 Identity Provider Integration with Identity Provider for secure authentication Uses technologies such as SAML, OpenIDConnect over RHSSO/Keycloak CI/CD Pipeline Utilize tools such as TeamCity (build server) and Octopus Deploy (deployment server) for continuous integration and deployment Required Development Skills Capability to understand and work with existing code bases Ability to improve and enhance different parts of the system Programming Languages Proficiency in .NET and C# programming Web Development Experience with ASP.NET MVC for web and API development Familiarity with ASP.NET Web Forms APIs and Protocols Experience with RESTful and SOAP-based APIs Familiarity with SAML, OpenIDConnect over RHSSO/Keycloak Database General understanding of Windows Server and Internet Information Server (IIS) MSSQL database development skills MS SSIS experience for extracting and transforming data for managing terminal data from customers Queuing Experience using Kafka to send and receive changes Nice-to-Have Skills Experience with API gateways Frontend development skills (Bootstrap, CSS, HTML, and JavaScript) Shape the evolution We are on an exciting journey towards the next frontiers of payments technology, and we look for big thinkers, people with passion, can-do attitude and a hunger to learn and grow. Here you'll work with ambitious colleagues from around the world, take on unique challenges as a team, and make a real impact on the society. With an empowering culture, strong technology and extensive training opportunities, we help you accelerate your career - wherever you decide to go. Join our global team of 18,000 innovators and shape a tomorrow that is yours to own. Learn more about life at Worldline at jobs.worldline.com We are proud to be an Equal Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity, gender expression, age, status as an individual with a disability, or any applicable legally protected characteristics.",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript",
+        "ci/cd"
+      ],
+      "published_at": "2026-10-12",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "8a8e45be2d17a6fb1d3fc263f9c352b20ef77981"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer at Worldline by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
       ],
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
@@ -401,7 +402,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 14 hours ago",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 22 hours ago",
       "tags": [
         ".net"
       ],
@@ -488,7 +489,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4484952637",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 15 hours ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 23 hours ago",
       "tags": [
         ".net",
         "c#"
@@ -578,7 +579,7 @@
       "company": "Leadrat Real Estate CRM - Dubai | India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India 3 weeks ago",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 3 weeks ago",
       "tags": [
         ".net",
         "c#"
