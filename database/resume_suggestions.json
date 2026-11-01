@@ -1,29 +1,5 @@
 [
   {
-    "job_id": "06634cdcd3017295be00e978e1fb3c39f861c60b",
-    "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
-    "company": "Citrus Informatics (India) Pvt Ltd",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] at Citrus Informatics (India) Pvt Ltd by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "9db69977ca6f730f53073ae8797b43ca117a7277",
     "title": "Software Engineer II (MsSQL/.NET/C#)",
     "company": "Vertafore",
@@ -43,60 +19,6 @@
       "bullet_suggestions": [
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "830667ff8f505b6b797cd0bfc284a8680464dc1d",
-    "title": ".net developer",
-    "company": "Infosys",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .net developer at Infosys by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "92983c6146bbf14affd01d05ac3eacd6ae1851d1",
-    "title": ".Net Developer",
-    "company": "Kavi India",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at Kavi India by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c",
-    "title": "Lead II - Software Engineering (.Net Developer)",
-    "company": "UST",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
