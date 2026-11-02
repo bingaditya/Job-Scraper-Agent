@@ -182,7 +182,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 3 days ago",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 4 days ago",
       "tags": [
         ".net"
       ],
@@ -266,7 +266,7 @@
       "company": "UST",
       "location": "Trivandrum, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
-      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India 6 days ago",
+      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India 1 week ago",
       "tags": [
         ".net"
       ],
@@ -303,6 +303,35 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "7ed819b3ab67f38746e1373462b511ec4d1ac719"
+    }
+  },
+  {
+    "score": 54,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4477830244",
+      "title": ".Net developer",
+      "company": "Sonata Software",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-developer-at-sonata-software-4477830244",
+      "description": ".Net developer .Net developer Sonata Software Pune Division, Maharashtra, India 3 weeks ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2026-10-09",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "29b651708a5f1b812997e5335279016718b9da01"
     }
   },
   {
@@ -353,7 +382,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4484952637",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 3 days ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 4 days ago",
       "tags": [
         ".net",
         "c#"
@@ -473,7 +502,7 @@
       "company": "Leadrat Real Estate CRM - Dubai | India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 3 weeks ago",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 4 weeks ago",
       "tags": [
         ".net",
         "c#"
