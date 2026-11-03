@@ -353,6 +353,40 @@
   {
     "score": 56,
     "reasons": [
+      "Matched skills: Python, C#, .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: Python",
+      "Preferred location: India",
+      "Role asks for 9+ years"
+    ],
+    "matched_skills": [
+      "Python",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4486057923",
+      "title": "Senior .NET Developer",
+      "company": "Citi",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-citi-4486057923",
+      "description": "As a Senior .NET Developer, you will build and maintain the real-time risk and PnL systems that equities traders rely on to manage risk every day. You will join the Equities Live Risk, PnL and TradeFeeds team, working with grid computing and messaging technologies to deliver business-critical data across a globally distributed organization spanning Europe and India. This role places you at the center of Citi's trading technology, solving complex problems in high-volume, low-latency financial systems. Responsibilities Design and build scalable .NET applications that power real-time risk generation and PnL reporting for equities trading. Write comprehensive unit tests using frameworks such as NUnit, xUnit, or Shouldly to maintain code quality and reliability. Conduct performance testing and profiling to keep applications robust and scalable under high-volume financial data processing. Troubleshoot, diagnose, and resolve code issues and performance bottlenecks across live trading systems. Apply design patterns and system architecture principles to solve complex technical problems within a distributed messaging environment. Identify and define system enhancements by analyzing and interpreting existing application code. Collaborate with a globally distributed development team across Europe and India with minimal supervision. Act as a subject matter expert, guiding senior stakeholders and team members through technical decisions. Required Qualifications & Skills Hold a bachelor's degree in computer science, information technology, engineering, or a related field. Bring 5 to 9 years of developer experience delivering large and complex software projects. Apply strong C# skills across both .NET Framework 4.5.2+ and .NET 5+ environments. Write comprehensive unit tests using frameworks such as NUnit, xUnit, or Shouldly. Analyze and optimize .NET application performance to support high-volume, low-latency systems. Build and consume REST APIs using web technologies such as OpenAPI, Swagger, authentication protocols, and TLS. Use version control and CI/CD tools such as Git and GitLab or GitHub to manage code delivery. Beneficial Skills & Qualifications Experience or familiarity with high-volume, low-latency, highly available financial systems, trading platforms, or financial data processing. Exposure to additional programming languages such as Python, Java, or Bash, and operating systems such as Linux. Understanding of one or more messaging technologies such as Kafka, RabbitMQ, or Solace. Clear understanding of design patterns and how to apply them to solve complex technical problems. What We Offer At Citi, you will work alongside a globally distributed engineering team tackling complex challenges in real-time risk and trading technology, with room to deepen your technical expertise and build a long-term career. A hybrid work model with 3 days in the office and 2 days working remotely. Opportunities to deepen your technical expertise on complex, high-volume financial systems. Exposure to a globally distributed engineering team spanning Europe and India. Access to learning and development programs that support long-term career growth. Programs supporting financial wellbeing and work-life balance. Apply now to build the real-time risk and trading technology that powers Citi's global equities business. ------------------------------------------------------ Job Family Group: Technology ------------------------------------------------------ Job Family: Applications Development ------------------------------------------------------ Time Type: Full time ------------------------------------------------------ Most Relevant Skills Please see the requirements listed above. ------------------------------------------------------ Other Relevant Skills For complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------ Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi. View Citi\u2019s EEO Policy Statement and the Know Your Rights poster.",
+      "tags": [
+        "python",
+        ".net",
+        "c#",
+        "ci/cd"
+      ],
+      "published_at": "2026-11-03",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "2c8a367a3ddbd6dfef56cd99fe23f9884b8afdfb"
+    }
+  },
+  {
+    "score": 56,
+    "reasons": [
       "Matched skills: SQL, C#, .Net",
       "Preferred title match: Full Stack Developer",
       "Search keyword hit: SQL",
@@ -402,7 +436,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 4 days ago",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 5 days ago",
       "tags": [
         ".net"
       ],
@@ -608,7 +642,7 @@
       "company": "Leadrat Real Estate CRM - Dubai | India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 4 weeks ago",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Actively Hiring 4 weeks ago",
       "tags": [
         ".net",
         "c#"
