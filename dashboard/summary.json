@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:53:49.107114+00:00",
+  "generated_at": "2026-11-08T21:46:55.047832+00:00",
   "candidate": "Candidate Name",
   "raw_jobs": 80,
   "deduplicated_jobs": 80,
@@ -11,11 +11,7 @@
   "top_sources": [
     [
       "linkedin",
-      17
-    ],
-    [
-      "arbeitnow",
-      2
+      19
     ],
     [
       "remoteok",
