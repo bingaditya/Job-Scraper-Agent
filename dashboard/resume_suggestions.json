@@ -28,6 +28,62 @@
     }
   },
   {
+    "job_id": "328f9e5378d6255a3910bc781d270802b5972657",
+    "title": "Senior Staff Software Engineer, Agentic Platform",
+    "company": "tide",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior Staff Software Engineer, Agentic Platform at tide by foregrounding Python, SQL, .Net, DataDog, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "SQL",
+        ".Net",
+        "DataDog",
+        "CI/CD Pipelines"
+      ],
+      "missing_resume_keywords": [
+        "Python",
+        "SQL",
+        ".Net",
+        "DataDog",
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "5b9016126f00cb7bee3adbc510514e5a3cd56836",
+    "title": "Staff Software Engineer, Agentic Platform",
+    "company": "tide",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Staff Software Engineer, Agentic Platform at tide by foregrounding Python, SQL, .Net, DataDog, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Python",
+        "SQL",
+        ".Net",
+        "DataDog",
+        "CI/CD Pipelines"
+      ],
+      "missing_resume_keywords": [
+        "Python",
+        "SQL",
+        ".Net",
+        "DataDog",
+        "CI/CD Pipelines"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "job_id": "06634cdcd3017295be00e978e1fb3c39f861c60b",
     "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
     "company": "Citrus Informatics (India) Pvt Ltd",
@@ -52,62 +108,26 @@
     }
   },
   {
-    "job_id": "9db69977ca6f730f53073ae8797b43ca117a7277",
-    "title": "Software Engineer II (MsSQL/.NET/C#)",
-    "company": "Vertafore",
+    "job_id": "f465c28a3209d10e1daa8b937d87c7c936fea15b",
+    "title": "AI Developer",
+    "company": "Salvo Software",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Software Engineer II (MsSQL/.NET/C#) at Vertafore by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "summary": "Target AI Developer at Salvo Software by foregrounding Python, Azure, CI/CD Pipelines and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
+        "Python",
+        "Azure",
+        "CI/CD Pipelines"
       ],
       "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
+        "Python",
+        "Azure",
+        "CI/CD Pipelines"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "15297321d630aa1ed5f6425ae1067309f6c1c411",
-    "title": "Senior .NET Developer",
-    "company": "Citi",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .NET Developer at Citi by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "job_id": "ebb87c9dcf9615d1fc1db7a0d89788ea7824adef",
-    "title": "Senior .NET Developer",
-    "company": "Alfa Laval",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .NET Developer at Alfa Laval by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
