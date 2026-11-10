@@ -106,26 +106,26 @@
     }
   },
   {
-    "job_id": "f465c28a3209d10e1daa8b937d87c7c936fea15b",
-    "title": "AI Developer",
-    "company": "Salvo Software",
+    "job_id": "84ce8f1b56bb86d0f392eb9238338c8fe555383f",
+    "title": "Dotnet Developer",
+    "company": "VAYUZ Technologies",
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target AI Developer at Salvo Software by foregrounding Python, Azure, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Python",
         "Azure",
-        "CI/CD Pipelines"
+        "C#",
+        ".Net"
       ],
       "missing_resume_keywords": [
-        "Python",
         "Azure",
-        "CI/CD Pipelines"
+        "C#",
+        ".Net"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect CI/CD Pipelines to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   }
