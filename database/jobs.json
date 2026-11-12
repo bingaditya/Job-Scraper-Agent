@@ -59,63 +59,58 @@
     }
   },
   {
-    "score": 82,
+    "score": 68,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, CI/CD Pipelines",
-      "Search keyword hit: Azure",
-      "Experience fit around 4+ years"
+      "Matched skills: SQL, C#, .Net, JavaScript",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 9+ years"
     ],
     "matched_skills": [
-      "Azure",
       "SQL",
       "C#",
       ".Net",
-      "CI/CD Pipelines"
+      "JavaScript"
     ],
     "job": {
-      "source": "builtin",
-      "source_id": "job-card-12144047",
-      "title": "Software Development Engineer I (Full stack - .NET, Angular, AI-Assisted Development)",
-      "company": "Spektra Systems LLC",
-      "location": "",
-      "url": "https://builtin.com/job/software-development-engineer-i-full-stack-net-angular-ai-assisted-development/12144047",
-      "description": "This is a remote position. Location: Remote across India; may transition to onsite in the future \u200b Spektra Systems is looking for a passionate and highly motivated Software Development Engineer \u2013 I (SDE-1) to join our engineering team. The ideal candidate should have strong hands-on experience in Microsoft technologies and modern web application development, along with a learning mindset and the ability to work in a fast-paced product engineering environment. The candidate will work closely with cross-functional teams to build scalable, high-quality software solutions and contribute across the complete software development lifecycle. Experience 2 to 4 years of software development experience Previous experience working with AI-assisted development tools (such as GitHub Copilot, ChatGPT, Cursor, Claude, or similar AI productivity tools) is preferred Responsibilities: Analyze, design, develop, test, release, and maintain products in a .NET-centric environment Rapidly implement features aligned with the product roadmap Quickly evaluate and learn modern technologies, libraries, and development concepts Plan and manage integrations with third-party software and services Work in a fast-paced engineering environment with continuous iteration based on user feedback Collaborate effectively with a highly qualified development team as a strong team player Support fellow developers in troubleshooting and solving technical problems Participate in code reviews, debugging, performance optimization, and deployment activities Ensure adherence to coding standards, best practices, and software quality processes Requirements Required Skills Strong expertise in C# and .NET Stack development Experience in developing and consuming REST APIs Good knowledge of Microsoft SQL Server Experience in web application development Hands-on experience with Source Code Management (SCM) tools Experience with Azure development and cloud-based services Working knowledge of Visual Studio Online / Azure DevOps / Visual Studio Team Services / Github Understanding of JSON, CI/CD pipelines, Build and Release processes Good hands-on experience with jQuery Experience working with Angular 17+ frameworks Preferred Skills Familiarity with Agile/Scrum development methodologies Understanding of AI-assisted software development workflows and productivity tools Strong analytical and problem-solving skills Good communication and collaboration abilities What We Expect Self-driven and eager to learn new technologies Ability to adapt quickly in a product engineering environment Ownership mindset with attention to quality and delivery Strong collaboration and communication skills",
+      "source": "linkedin",
+      "source_id": "4473621570",
+      "title": "Lead II - Software Engineering (.Net Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
+      "description": "Role Description Experience: 7 to 9 years . We are looking for a highly motivated and experienced Senior .NET Developer with expertise in ASP.NET using C#. This role is ideal for a seasoned backend engineer who is passionate about expanding their skillset and transitioning into a Full Stack Developer role. You will be instrumental in building robust backend systems while actively learning and contributing to our modern front-end frameworks, specifically React. Strong emphasis on ASP.NET (Web Forms, MVC, or Core) and C#. - Proficiency in database design and development, including SQL Server (or other relational databases like PostgreSQL, MySQL), T-SQL, stored procedures, and query optimization. - Solid understanding of Object-Oriented Programming (OOP) principles, design patterns, and clean architecture. - Experience with RESTful API design and development. - Familiarity with version control systems, particularly Git. - Understanding of software testing principles (unit, integration, end-to-end testing). - A strong eagerness and proven capacity to learn and adapt to new technologies, specifically modern JavaScript frameworks like React. Experience in the financial domain or understanding of investment banking workflows. Excellent problem-solving, analytical, and debugging skills. Skills NET, C#, Microsoft SQL Server, REST, React, Git, Unit Testing",
       "tags": [
-        "3 Days Ago",
-        "Saved",
-        "Cloud \u2022 Edtech \u2022 Professional Services \u2022 Consulting",
-        "Top Skills:",
-        ".Net",
-        "Angular 17+",
-        "Azure",
-        "Azure Devops"
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
       ],
-      "published_at": "3 Days Ago",
+      "published_at": "2026-10-26",
       "remote": false,
       "metadata": {},
-      "fingerprint": "c3ba0d012d4de87bbbb3de55115dbd63db465f16"
+      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Software Development Engineer I (Full stack - .NET, Angular, AI-Assisted Development) at Spektra Systems LLC by foregrounding Azure, SQL, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
+      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Azure",
         "SQL",
         "C#",
         ".Net",
-        "CI/CD Pipelines"
+        "JavaScript"
       ],
       "missing_resume_keywords": [
-        "Azure",
         "SQL",
         "C#",
         ".Net",
-        "CI/CD Pipelines"
+        "JavaScript"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -171,6 +166,57 @@
     }
   },
   {
+    "score": 64,
+    "reasons": [
+      "Matched skills: Azure, C#, .Net",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "Azure",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306129222",
+      "title": "Dotnet Developer",
+      "company": "VAYUZ Technologies",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-vayuz-technologies-4306129222",
+      "description": "Performs implementation of high level design and specifications. Develops low level design, class diagrams, flow charts. Performs Unit testing of individually developed components and fix errors, if any Assist in preparation of design, technical reference & operational documentation, packaging document in collaboration with the Lead. Strives for technology innovation in terms of exploring new and efficient ways of writing code Is responsible for writing simple, reusable code by following coding standards Ensure proper documentation of implementation and reviews. Ensure timely follow ups and escalations with leads with respect to any process gaps/risks/impediments. Skills:- ASP.NET, C# and Microsoft Windows Azure",
+      "tags": [
+        "azure",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 58,
     "reasons": [
       "Matched skills: Python, Azure, CI/CD Pipelines",
@@ -189,7 +235,7 @@
       "company": "Salvo Software",
       "location": "Remote",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-      "description": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence. We're growing our AI department and are looking for a hands-on AI Developer to help build it. Role Overview We are looking for an AI Developer to join and strengthen our AI department. Your core work will be building and operating LLM-powered systems: serving open-source models with Ollama and llama.cpp, building RAG pipelines, and developing MCP integrations that connect large language models to real tools and data. Solid DevOps fundamentals - Docker, CI/CD, Azure - support this work, but AI engineering is the heart of the role. You don't need to be a deep ML researcher. What matters is production-grade Python, strong fundamentals, and the aptitude to learn fast. You'll work closely with our engineering and product teams to take LLM-powered features from prototype to reliably deployed systems, with mentorship available as you ramp up in areas like RAG architecture, Kafka, and advanced MCP work. Key Responsibilities AI / LLM Engineering (core focus) Serve and operate open-source LLMs using Ollama and llama.cpp, locally and in on-prem environments. Build and maintain RAG pipelines: embeddings, vector databases, chunking strategies, and retrieval quality. Develop MCP (Model Context Protocol) integrations connecting LLMs to internal tools and data sources. Build backend services in Python that power ML inference and AI-driven product features. Parse and process structured and semi-structured data (XML/XSD, Office document formats) as pipeline inputs. Grow into model optimization over time: quantization (GGUF), GPU/CUDA tuning, and offline/air-gapped deployments. DevOps & Infrastructure (supporting) Build and maintain CI/CD pipelines for AI services (Azure DevOps preferred; GitHub Actions / GitLab CI also used). Deploy AI workloads to Microsoft Azure,AWS and containerize services with Docker. Automate operational tasks with Python, Bash and/or PowerShell scripting. Troubleshoot across the stack - dig into root causes rather than patching symptoms. Support event-driven architectures using Apache Kafka (producers/consumers). 3\u00e2\u0080\u00935+ years engineering experience with production-level Python for building real services, LLM inference, RAG pipelines, and automated tooling. Hands-on LLM & AI integration serving models via Ollama/llama.cpp, implementing vector retrieval/RAG, and developing MCP integrations (GPU/CUDA tuning & model quantization nice to have). Cloud & Infrastructure expertise covering Azure/AWS deployments, Docker containerization, Linux/Windows admin, and CI/CD automation (Azure DevOps, GitHub Actions, or GitLab CI), with Terraform, Kubernetes, Kafka, or systems languages (Go, Rust, C++) as a plus. DevOps, Security & Operations awareness, including Git workflows, scripting (Python, Bash, PowerShell), observability tools (Prometheus/Grafana), DevSecOps, and compliance frameworks (SOC 2, ISO 27001, Zero Trust). Strong problem-solving & communication with a root-cause troubleshooting mindset, self-directed learning, strong ownership, and seamless remote/distributed team collaboration. Please mention the word **BREAKTHROUGHS** and tag RNTIuMTU3LjMzLjE2Ng== when applying to show you read the job post completely (#RNTIuMTU3LjMzLjE2Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence. We're growing our AI department and are looking for a hands-on AI Developer to help build it. Role Overview We are looking for an AI Developer to join and strengthen our AI department. Your core work will be building and operating LLM-powered systems: serving open-source models with Ollama and llama.cpp, building RAG pipelines, and developing MCP integrations that connect large language models to real tools and data. Solid DevOps fundamentals - Docker, CI/CD, Azure - support this work, but AI engineering is the heart of the role. You don't need to be a deep ML researcher. What matters is production-grade Python, strong fundamentals, and the aptitude to learn fast. You'll work closely with our engineering and product teams to take LLM-powered features from prototype to reliably deployed systems, with mentorship available as you ramp up in areas like RAG architecture, Kafka, and advanced MCP work. Key Responsibilities AI / LLM Engineering (core focus) Serve and operate open-source LLMs using Ollama and llama.cpp, locally and in on-prem environments. Build and maintain RAG pipelines: embeddings, vector databases, chunking strategies, and retrieval quality. Develop MCP (Model Context Protocol) integrations connecting LLMs to internal tools and data sources. Build backend services in Python that power ML inference and AI-driven product features. Parse and process structured and semi-structured data (XML/XSD, Office document formats) as pipeline inputs. Grow into model optimization over time: quantization (GGUF), GPU/CUDA tuning, and offline/air-gapped deployments. DevOps & Infrastructure (supporting) Build and maintain CI/CD pipelines for AI services (Azure DevOps preferred; GitHub Actions / GitLab CI also used). Deploy AI workloads to Microsoft Azure,AWS and containerize services with Docker. Automate operational tasks with Python, Bash and/or PowerShell scripting. Troubleshoot across the stack - dig into root causes rather than patching symptoms. Support event-driven architectures using Apache Kafka (producers/consumers). 3\u00e2\u0080\u00935+ years engineering experience with production-level Python for building real services, LLM inference, RAG pipelines, and automated tooling. Hands-on LLM & AI integration serving models via Ollama/llama.cpp, implementing vector retrieval/RAG, and developing MCP integrations (GPU/CUDA tuning & model quantization nice to have). Cloud & Infrastructure expertise covering Azure/AWS deployments, Docker containerization, Linux/Windows admin, and CI/CD automation (Azure DevOps, GitHub Actions, or GitLab CI), with Terraform, Kubernetes, Kafka, or systems languages (Go, Rust, C++) as a plus. DevOps, Security & Operations awareness, including Git workflows, scripting (Python, Bash, PowerShell), observability tools (Prometheus/Grafana), DevSecOps, and compliance frameworks (SOC 2, ISO 27001, Zero Trust). Strong problem-solving & communication with a root-cause troubleshooting mindset, self-directed learning, strong ownership, and seamless remote/distributed team collaboration. Please mention the word **BREAKTHROUGHS** and tag RNDAuNzYuMTE5Ljg0 when applying to show you read the job post completely (#RNDAuNzYuMTE5Ljg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "dev",
         "grafana",
@@ -274,25 +320,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "9db69977ca6f730f53073ae8797b43ca117a7277"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Software Engineer II (MsSQL/.NET/C#) at Vertafore by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -314,7 +341,7 @@
       "company": "BNP Paribas",
       "location": "Tamil Nadu, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-bnp-paribas-4479274770",
-      "description": ".Net Developer .Net Developer BNP Paribas Tamil Nadu, India Actively Hiring 1 day ago",
+      "description": ".Net Developer .Net Developer BNP Paribas Tamil Nadu, India 2 days ago",
       "tags": [
         ".net"
       ],
@@ -343,7 +370,7 @@
       "company": "SE Mentor Solutions",
       "location": "Kochi, Kerala, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-sj-iq-at-se-mentor-solutions-4489602477",
-      "description": ".NET Developer (SJ-IQ) .NET Developer (SJ-IQ) SE Mentor Solutions Kochi, Kerala, India Actively Hiring 2 days ago",
+      "description": ".NET Developer (SJ-IQ) .NET Developer (SJ-IQ) SE Mentor Solutions Kochi, Kerala, India 2 days ago",
       "tags": [
         ".net"
       ],
@@ -372,7 +399,7 @@
       "company": "Alfa Laval",
       "location": "Pune City, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-alfa-laval-4487247462",
-      "description": "Senior .NET Developer Senior .NET Developer Alfa Laval Pune City, Maharashtra, India Actively Hiring 1 week ago",
+      "description": "Senior .NET Developer Senior .NET Developer Alfa Laval Pune City, Maharashtra, India 1 week ago",
       "tags": [
         ".net"
       ],
@@ -401,7 +428,7 @@
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4486024681",
-      "description": ".Net Developer .Net Developer UST Bengaluru, Karnataka, India Actively Hiring 1 week ago",
+      "description": ".Net Developer .Net Developer UST Bengaluru, Karnataka, India 1 week ago",
       "tags": [
         ".net"
       ],
@@ -430,7 +457,7 @@
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 1 week ago",
+      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India 2 weeks ago",
       "tags": [
         ".net"
       ],
@@ -483,41 +510,12 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4473621570",
-      "title": "Lead II - Software Engineering (.Net Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
-      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India Actively Hiring 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-10-26",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
       "source_id": "4477830244",
       "title": ".Net developer",
       "company": "Sonata Software",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-sonata-software-4477830244",
-      "description": ".Net developer .Net developer Sonata Software Pune Division, Maharashtra, India Actively Hiring 1 month ago",
+      "description": ".Net developer .Net developer Sonata Software Pune Division, Maharashtra, India 1 month ago",
       "tags": [
         ".net"
       ],
@@ -575,7 +573,7 @@
       "company": "Zeus Learning",
       "location": "Mumbai Metropolitan Region",
       "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
+      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region 1 year ago",
       "tags": [
         ".net"
       ],
@@ -604,7 +602,7 @@
       "company": "BNP Paribas",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/full-stack-c%23-net-software-engineer-at-bnp-paribas-4480926092",
-      "description": "Full Stack C# .Net Software Engineer Full Stack C# .Net Software Engineer BNP Paribas Bengaluru, Karnataka, India Actively Hiring 2 days ago",
+      "description": "Full Stack C# .Net Software Engineer Full Stack C# .Net Software Engineer BNP Paribas Bengaluru, Karnataka, India 3 days ago",
       "tags": [
         ".net",
         "c#"
@@ -634,7 +632,7 @@
       "company": "Citi",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/senior-c%23-net-engineer-assistant-vice-president-at-citi-4486914682",
-      "description": "Senior C#.NET Engineer - Assistant Vice President Senior C#.NET Engineer - Assistant Vice President Citi Pune Division, Maharashtra, India Actively Hiring 6 days ago",
+      "description": "Senior C#.NET Engineer - Assistant Vice President Senior C#.NET Engineer - Assistant Vice President Citi Pune Division, Maharashtra, India 6 days ago",
       "tags": [
         ".net",
         "c#"
@@ -664,7 +662,7 @@
       "company": "Jefferies",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/avp-c%23-net-developer-equity-technology-at-jefferies-4484952637",
-      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India Actively Hiring 1 week ago",
+      "description": "AVP - C# (.net) Developer - Equity Technology AVP - C# (.net) Developer - Equity Technology Jefferies Pune Division, Maharashtra, India 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -694,7 +692,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 2 weeks ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India 2 weeks ago",
       "tags": [
         ".net",
         "c#"
@@ -736,33 +734,37 @@
     }
   },
   {
-    "score": 50,
+    "score": 48,
     "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
+      "Matched skills: Azure, SQL, C#, .Net",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Role asks for 10+ years"
     ],
     "matched_skills": [
+      "Azure",
+      "SQL",
       "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4469473112",
-      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
-      "company": "NEC Software Solutions",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-4469473112",
-      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions Mumbai Metropolitan Region 1 month ago",
+      "source_id": "4415791714",
+      "title": "Senior Software Engineer .NET",
+      "company": "Fingent",
+      "location": "Kochi, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-fingent-4415791714",
+      "description": "At Fingent, we believe that technology can make a meaningful difference to the lives around us. The lives of those who use it, the lives of those who build it and to society at large. We create and provide software which is beautiful, usable and compelling, to solve complex business challenges. We nurture smart people who bring out the best in themselves, their peers, and their clients. Skill Set Preferred Build new Web-based systems with .NET Core, C#.NET, Web API. SQL ASP.NET. Must have strong experience in OOPS concepts, Entity Framework, LINQ, Third party API Integration. Good to have exposure to Cloud computing, MS Azure, SQL Azure. Strong knowledge of software implementation best practices. Strong experience designing and working with scalable architectures. The ability to quickly learn new concepts and software is necessary. Roles & Responsibilities Produce well-organized, optimized, and documented source code. Should be well versed in development platforms and best practices. Provide ongoing maintenance, support, and enhancements in existing systems and platforms. Attend client calls to know customer needs and feedback on items delivered. Collaborate cross-functionally with business users, project managers, and other engineers to deliver elegant solutions to customers. Provide recommendations for continuous improvement. Work alongside other engineers on the team to elevate technology and consistently apply best practices. Attention to detail is essential and all tasks must be carried out to the highest standard. Candidates who can join immediately or within a short notice period are preferred. More Information Experience 6 - 10 years",
       "tags": [
+        "azure",
+        "sql",
         ".net",
         "c#"
       ],
-      "published_at": "2026-09-23",
+      "published_at": "2026-05-19",
       "remote": false,
       "metadata": {},
-      "fingerprint": "7a0707609683d5e460a1e871e466e01284d9ace2"
+      "fingerprint": "a73d1e74f2b9fdf5793cd9a5c33f83b15408d724"
     }
   }
 ]
