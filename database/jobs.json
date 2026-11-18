@@ -61,62 +61,6 @@
   {
     "score": 96,
     "reasons": [
-      "Matched skills: Azure, C#, .Net, CI/CD Pipelines",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "C#",
-      ".Net",
-      "CI/CD Pipelines"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4487247462",
-      "title": "Senior .NET Developer",
-      "company": "Alfa Laval",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-alfa-laval-4487247462",
-      "description": "At Alfa Laval, we go the extra mile to overcome the toughest challenges. Our driving force is to accelerate success for our customers, people, and the planet. Curiosity is the spark behind great ideas - and great ideas drive progress. Alfa Laval is on an active Digital Transformation journey. As part of this, we are building modern, cloud-native applications used by order handlers across our factories globally. About The Job We are looking for a Senior .NET Developer to join a global agile development team working within the SAFe framework. You will collaborate closely with developers, a solution architect, a scrum master, a product owner, and testers to deliver high-quality software solutions across our global business organization. Your responsibilities will span the full software development lifecycle including refinement, development, debugging, testing, and system configuration \u2014 with a strong focus on clean, maintainable code and continuous improvement. What You\u2019ll Do Design, develop, and maintain C# / .NET applications in a microservices architecture Build and consume REST APIs and integrate with Azure services Participate in code reviews, ensuring adherence to SOLID principles and design patterns Write and maintain unit and integration tests Contribute to CI/CD pipelines in Azure DevOps Collaborate directly with stakeholders to refine and clarify requirements Debug and improve existing systems and configurations Technical Requirements Strong proficiency in C# and .NET Hands-on experience with Azure (App Service, Key Vault, Managed Identity, Azure Functions, ARM/Bicep) Experience with Azure DevOps build and release pipelines Solid understanding of software design patterns and SOLID principles Proficient with Git and branching strategies Experience writing unit and integration tests Experience with microservices architecture is a plus Knowledge of React & TypeScript is a plus What We're Looking For Bachelor\u2019s degree in computer science or a related field Excellent communication skills in English (written and spoken) Ability to work independently and take initiative Comfortable navigating a large, global organizational landscape A problem-solving mindset and a positive, collaborative attitude What's in It for You? We offer a challenging position in an open, inclusive environment where we invest in your growth. At Alfa Laval, our greatest asset is our people. We encourage lifelong learning, provide the tools to advance your career, and support your well-being through a flexible and sustainable work environment. Your work will have a direct and meaningful impact on Alfa Laval's digital transformation and on the experience of customers worldwide. Join a global team of specialists \u2014 together, we can do more.",
-      "tags": [
-        "azure",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-11-04",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "ebb87c9dcf9615d1fc1db7a0d89788ea7824adef"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .NET Developer at Alfa Laval by foregrounding Azure, C#, .Net, CI/CD Pipelines and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 96,
-    "reasons": [
       "Matched skills: Azure, SQL, C#, .Net",
       "Preferred title match: .net Developer",
       "Search keyword hit: Azure",
@@ -324,6 +268,27 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   },
   {
@@ -593,7 +558,7 @@
       "company": "TransUnion",
       "location": "Pune Division, Maharashtra, India",
       "url": "https://in.linkedin.com/jobs/view/sr-developer-c%23-net-apis-at-transunion-4489255869",
-      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India Actively Hiring 5 days ago",
+      "description": "Sr Developer, C# .NET & APIs Sr Developer, C# .NET & APIs TransUnion Pune Division, Maharashtra, India Actively Hiring 6 days ago",
       "tags": [
         ".net",
         "c#"
@@ -602,36 +567,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "01f0b25a00d1a07688550af415757ff09894c818"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4486914682",
-      "title": "Senior C#.NET Engineer - Assistant Vice President",
-      "company": "Citi",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-c%23-net-engineer-assistant-vice-president-at-citi-4486914682",
-      "description": "Senior C#.NET Engineer - Assistant Vice President Senior C#.NET Engineer - Assistant Vice President Citi Pune Division, Maharashtra, India Actively Hiring 1 week ago",
-      "tags": [
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-11-05",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "1ab2c64002d5c067bd12c3dc9cd6aad16f359033"
     }
   },
   {
@@ -683,7 +618,7 @@
       "company": "Leadrat Real Estate CRM - Dubai | India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 1 month ago",
+      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Actively Hiring 1 month ago",
       "tags": [
         ".net",
         "c#"
