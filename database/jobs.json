@@ -2,13 +2,12 @@
   {
     "score": 100,
     "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net, Html",
-      "Search keyword hit: Azure",
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
       "Preferred location: India",
-      "Experience fit around 5+ years"
+      "Experience requirement not strict"
     ],
     "matched_skills": [
-      "Azure",
       "SQL",
       "C#",
       ".Net",
@@ -18,45 +17,44 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4491109606",
-      "title": "Dotnet Developer",
-      "company": "iZOOlogic",
+      "source_id": "4450710892",
+      "title": "Dotnet Developer\nJaipur",
+      "company": "VertexPlus",
       "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-izoologic-4491109606",
-      "description": "Position: .NET Developer Experience: 1\u20135 Years Location: Jaipur, Rajasthan Work Mode: Onsite (Work from Office) Employment Type: Full-Time Joining Preference: Immediate Joiners / Short Notice Preferred About iZOOlogic iZOOlogic is a US-based cybersecurity company specializing in advanced anti-fraud and digital risk protection solutions for banks and financial institutions worldwide. Our expertise includes Cyber Threat Intelligence (CTI), Digital Risk Protection (DRP), External Attack Surface Management, Third-Party Risk Management, and 24\u00d77\u00d7365 Incident Response. We are committed to developing innovative technology solutions that help organizations strengthen their digital security and protect their online assets. About the Role We are looking for a motivated and technically proficient .NET Developer with hands-on experience in C#, ASP.NET, and Microsoft SQL Server to join our growing engineering team in Jaipur. The ideal candidate should have a strong foundation in backend development, database management, and web application development. The candidate will be responsible for designing, developing, maintaining, and optimizing scalable web-based applications while ensuring code quality, performance, and reliability. This role requires someone with good problem-solving abilities, a willingness to learn, and the ability to collaborate effectively with cross-functional teams. Key Responsibilities Design, develop, test, and maintain web applications using C#, .NET Framework, ASP.NET MVC, and ASP.NET Core. Write clean, scalable, reusable, and efficient code following established coding standards and best practices. Design, develop, and maintain Microsoft SQL Server databases. Create, manage, and optimize stored procedures, functions, views, triggers, and complex SQL queries. Develop and integrate RESTful APIs and third-party web services. Troubleshoot, debug, and resolve application issues and performance bottlenecks. Optimize application and database performance to ensure scalability and reliability. Collaborate with product managers, developers, QA engineers, and other stakeholders to understand business requirements. Participate in code reviews and contribute to continuous improvement initiatives. Implement application security measures and follow secure coding practices. Maintain technical documentation and support application maintenance activities. Required Technical Skills 1. Programming & .NET Development Strong knowledge of C# and Object-Oriented Programming (OOP) concepts. Hands-on experience with ASP.NET MVC, ASP.NET Core, .NET Core, or .NET Framework. Understanding of application architecture, debugging, and exception handling. Knowledge of software development principles and coding standards. 2. Database & SQL Server Good hands-on experience with Microsoft SQL Server. Strong understanding of SQL queries, joins, subqueries, and database relationships. Practical experience in developing and optimizing: Stored Procedures Functions Views Triggers Complex SQL Queries Understanding of database design, indexing, and query performance optimization. 3. API & Web Development Understanding of RESTful APIs and Web Services. Experience with API development and third-party API integration. Familiarity with JSON, HTTP/HTTPS, and API communication. Working knowledge of HTML, CSS, JavaScript, jQuery, and Bootstrap. 4. Development Tools & Practices Experience with Git or other version control systems. Understanding of debugging, testing, and application deployment. Familiarity with Agile/Scrum development methodologies. Ability to write maintainable and well-structured code. Preferred Skills (Good to Have) Experience with Entity Framework / Entity Framework Core and LINQ. Knowledge of Microsoft Azure or other cloud platforms. Exposure to microservices architecture. Understanding of application security and secure coding practices. Experience working on enterprise-level or SaaS-based applications. What We\u2019re Looking For Strong analytical, logical, and problem-solving abilities. Good understanding of software development fundamentals. Ability to independently handle assigned development tasks. Strong debugging and troubleshooting skills. Attention to detail and commitment to code quality. Good communication and interpersonal skills. Ability to work collaboratively in a fast-paced product development environment. Willingness to learn, adapt, and work with evolving technologies. Education Bachelor\u2019s or Master\u2019s degree in Computer Science, Information Technology, Engineering, or a related technical discipline is preferred. Why Join iZOOlogic? Opportunity to work on enterprise-grade cybersecurity products and technology solutions. Exposure to real-world application development in the cybersecurity domain. Collaborative and growth-oriented engineering environment. Opportunities to enhance technical expertise and work with modern development technologies. Work Location: Jaipur, Rajasthan (Onsite) Interested candidates are requested to share their updated resumes along with their current CTC, expected CTC, notice period, and relevant .NET development experience. Immediate joiners and candidates serving a short notice period will be preferred.",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
+      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
       "tags": [
-        "azure",
         "sql",
         ".net",
         "c#",
         "javascript"
       ],
-      "published_at": "2026-11-17",
+      "published_at": "2026-08-07",
       "remote": false,
       "metadata": {},
-      "fingerprint": "df12ab9183dfc508c368a2d6a174bf339ef1b0f5"
+      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dotnet Developer at iZOOlogic by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
+      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "Azure",
         "SQL",
         "C#",
         ".Net",
-        "Html"
+        "Html",
+        "CSS"
       ],
       "missing_resume_keywords": [
-        "Azure",
         "SQL",
         "C#",
         ".Net",
-        "Html"
+        "Html",
+        "CSS"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
   },
@@ -235,6 +233,65 @@
     }
   },
   {
+    "score": 77,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, Html, CSS",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 7+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4295671740",
+      "title": "Senior .NET/C# Developer",
+      "company": "Aspire Software",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
+      "description": "Description We are looking for a .NET/C# Developer with hands-on experience to join a small team of passionate developers. You will help transform how enterprises and government organizations manage correspondence. In this role, you will maintain, evolve, and modernize our dotnet based platform using latest AI coding tools. What You\u2019ll Do Your primary mission is to design, maintain, develop, and integrate advanced new features into our platform. You will build new dotnet-based services, refine existing components, and ensure high performance, security, and maintainability across the system. You will also have the opportunity to integrate LLMs and Generative AI inside our platform and work on our new automated workflow product that leverages generative AI to automate correspondence processes. Day-to-Day Breakdown Development & Integration: Build and test a new web platform using .NET/C#, while also migrating our existing Java application to dotnet using AI tools and maintaining an existing platform. Collaboration & Code Quality: Work closely with team members, participate in code reviews, and ensure adherence to best practices in software development. Research & Innovation: Stay updated on emerging AI trends, experiment with new technologies, and continuously propose improvements to our platform. Responsibilities Development & Integration Design and Build Solutions: Architect and implement new modules and services that extend our correspondence-management platform. Migrate Java Application: Leverage AI tools to migrate our existing Java services to dotnet. Maintain & Enhance Platform: Provide ongoing maintenance, updates, and bug fixes for the existing platform to ensure performance and reliability. API & Service Integration: Develop and maintain integrations between RESTful services, messaging queues, third-party APIs, and the core platform. Quality and Documentation: Write clean, efficient, and well-documented code, following the industry\u2019s best practices and coding standards. Collaboration & Continuous Improvement Team Collaboration: Work closely with other developers, product managers, and stakeholders to gather requirements and translate them into technical solutions. Documentation & Best Practices: Create and maintain detailed documentation for system designs, integrations, and technical processes. Requirements Requirements: Technical Skills Proficient in .NET/C# with hands-on experience using dotnet to build production systems. Experience with HTML, CSS, JavaScript, ASP.NET MVC, Angular/React, and Web API is ideal. While you won't be expected to master these technologies from day one, a strong willingness to learn and expand your skillset is essential. Ability to write clean, maintainable, and well-documented code. API Integration & Database Knowledge: Skilled in integrating APIs, working with databases (especially SQL Server and Oracle), and managing web services within enterprise applications. Monitoring & Debugging: Familiarity with tools and techniques for database/application monitoring, debugging, and troubleshooting. AI Development Tools: Familiarity with AI development tools like Cursor, Windsurf, Claude, or similar platforms that enhance and expedite the development process. Soft Skills Autonomy & Adaptability: High level of independence and adaptability; capable of working without direct oversight and proactively taking initiative. Problem-Solving Skills: Strong analytical skills with the ability to troubleshoot and resolve complex technical issues efficiently. Effective Communication: Excellent collaboration and communication skills, with the ability to explain complex concepts to both technical and non-technical stakeholders. Attention to Detail: Commitment to writing high-quality code and ensuring the reliability and performance of applications. Continuous Learning: Proactive in learning new technologies and responsive to shifting priorities. Desired Experience Bachelor\u2019s degree in computer science, engineering, or related field (or equivalent practical experience). 7+ years of experience in software development, with a focus on .NET/C#. Experience with automated testing frameworks and practices to ensure code quality and reliability. Able to work aligned with the Eastern Time (EST).",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-11-14",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "Html",
+        "CSS"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 68,
     "reasons": [
       "Matched skills: SQL, C#, .Net, JavaScript",
@@ -267,27 +324,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "JavaScript"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "JavaScript"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
@@ -494,35 +530,6 @@
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4475947681",
-      "title": ".net developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4475947681",
-      "description": ".net developer .net developer Infosys Bengaluru East, Karnataka, India Actively Hiring 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-10-29",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "830667ff8f505b6b797cd0bfc284a8680464dc1d"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
       "source_id": "4477830244",
       "title": ".Net developer",
       "company": "Sonata Software",
@@ -565,36 +572,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4295671740",
-      "title": "Senior .NET/C# Developer",
-      "company": "Aspire Software",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 3 days ago",
-      "tags": [
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-11-14",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
     }
   },
   {
@@ -750,40 +727,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "4826128f8cf743b3ead77f54f1e4830636225fb0"
-    }
-  },
-  {
-    "score": 48,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Role asks for 10+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4415791714",
-      "title": "Senior Software Engineer .NET",
-      "company": "Fingent",
-      "location": "Kochi, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-fingent-4415791714",
-      "description": "At Fingent, we believe that technology can make a meaningful difference to the lives around us. The lives of those who use it, the lives of those who build it and to society at large. We create and provide software which is beautiful, usable and compelling, to solve complex business challenges. We nurture smart people who bring out the best in themselves, their peers, and their clients. Skill Set Preferred Build new Web-based systems with .NET Core, C#.NET, Web API. SQL ASP.NET. Must have strong experience in OOPS concepts, Entity Framework, LINQ, Third party API Integration. Good to have exposure to Cloud computing, MS Azure, SQL Azure. Strong knowledge of software implementation best practices. Strong experience designing and working with scalable architectures. The ability to quickly learn new concepts and software is necessary. Roles & Responsibilities Produce well-organized, optimized, and documented source code. Should be well versed in development platforms and best practices. Provide ongoing maintenance, support, and enhancements in existing systems and platforms. Attend client calls to know customer needs and feedback on items delivered. Collaborate cross-functionally with business users, project managers, and other engineers to deliver elegant solutions to customers. Provide recommendations for continuous improvement. Work alongside other engineers on the team to elevate technology and consistently apply best practices. Attention to detail is essential and all tasks must be carried out to the highest standard. Candidates who can join immediately or within a short notice period are preferred. More Information Experience 6 - 10 years",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-05-19",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "a73d1e74f2b9fdf5793cd9a5c33f83b15408d724"
     }
   }
 ]
