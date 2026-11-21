@@ -183,6 +183,62 @@
     }
   },
   {
+    "score": 68,
+    "reasons": [
+      "Matched skills: SQL, C#, .Net, JavaScript",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: SQL",
+      "Preferred location: India",
+      "Role asks for 9+ years"
+    ],
+    "matched_skills": [
+      "SQL",
+      "C#",
+      ".Net",
+      "JavaScript"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4473621570",
+      "title": "Lead II - Software Engineering (.Net Developer)",
+      "company": "UST",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
+      "description": "Role Description Experience: 7 to 9 years . We are looking for a highly motivated and experienced Senior .NET Developer with expertise in ASP.NET using C#. This role is ideal for a seasoned backend engineer who is passionate about expanding their skillset and transitioning into a Full Stack Developer role. You will be instrumental in building robust backend systems while actively learning and contributing to our modern front-end frameworks, specifically React. Strong emphasis on ASP.NET (Web Forms, MVC, or Core) and C#. - Proficiency in database design and development, including SQL Server (or other relational databases like PostgreSQL, MySQL), T-SQL, stored procedures, and query optimization. - Solid understanding of Object-Oriented Programming (OOP) principles, design patterns, and clean architecture. - Experience with RESTful API design and development. - Familiarity with version control systems, particularly Git. - Understanding of software testing principles (unit, integration, end-to-end testing). - A strong eagerness and proven capacity to learn and adapt to new technologies, specifically modern JavaScript frameworks like React. Experience in the financial domain or understanding of investment banking workflows. Excellent problem-solving, analytical, and debugging skills. Skills NET, C#, Microsoft SQL Server, REST, React, Git, Unit Testing",
+      "tags": [
+        "sql",
+        ".net",
+        "c#",
+        "javascript"
+      ],
+      "published_at": "2026-11-16",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding SQL, C#, .Net, JavaScript and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net",
+        "JavaScript"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 64,
     "reasons": [
       "Matched skills: SQL, C#, .Net",
@@ -234,74 +290,35 @@
     }
   },
   {
-    "score": 54,
+    "score": 64,
     "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
+      "Matched skills: Azure, C#, .Net",
+      "Search keyword hit: Azure",
       "Preferred location: India",
       "Experience requirement not strict"
     ],
     "matched_skills": [
+      "Azure",
+      "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "4473621570",
-      "title": "Lead II - Software Engineering (.Net Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
-      "description": "Lead II - Software Engineering (.Net Developer) Lead II - Software Engineering (.Net Developer) UST Trivandrum, Kerala, India Actively Hiring 5 days ago",
+      "source_id": "4306129222",
+      "title": "Dotnet Developer",
+      "company": "VAYUZ Technologies",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-vayuz-technologies-4306129222",
+      "description": "Performs implementation of high level design and specifications. Develops low level design, class diagrams, flow charts. Performs Unit testing of individually developed components and fix errors, if any Assist in preparation of design, technical reference & operational documentation, packaging document in collaboration with the Lead. Strives for technology innovation in terms of exploring new and efficient ways of writing code Is responsible for writing simple, reusable code by following coding standards Ensure proper documentation of implementation and reviews. Ensure timely follow ups and escalations with leads with respect to any process gaps/risks/impediments. Skills:- ASP.NET, C# and Microsoft Windows Azure",
       "tags": [
-        ".net"
+        "azure",
+        ".net",
+        "c#"
       ],
-      "published_at": "2026-11-16",
+      "published_at": "2025-09-30",
       "remote": false,
       "metadata": {},
-      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4489742291",
-      "title": "Sr .NET Developer - Wissen",
-      "company": "Wissen Technology",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-net-developer-wissen-at-wissen-technology-4489742291",
-      "description": "Sr .NET Developer - Wissen Sr .NET Developer - Wissen Wissen Technology Pune Division, Maharashtra, India Actively Hiring 5 days ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-11-16",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "62ac355539bdeed9d9b34e7911b40e7554bd8b7c"
+      "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
     }
   },
   {
@@ -439,7 +456,7 @@
       "company": "Interpath",
       "location": "Gurugram, Haryana, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-interpath-4436494193",
-      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India Be an early applicant 5 months ago",
+      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India 5 months ago",
       "tags": [
         ".net"
       ],
@@ -497,7 +514,7 @@
       "company": "Aspire Software",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 6 days ago",
+      "description": "Senior .NET/C# Developer Senior .NET/C# Developer Aspire Software Bengaluru, Karnataka, India Actively Hiring 1 week ago",
       "tags": [
         ".net",
         "c#"
