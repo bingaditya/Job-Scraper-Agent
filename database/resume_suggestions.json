@@ -28,34 +28,6 @@
     }
   },
   {
-    "job_id": "710c917d10cb27e7b262acf361a14c2d4c82ce15",
-    "title": "Sr Engineer, Software (.Net)",
-    "company": "Dover Corporation",
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Sr Engineer, Software (.Net) at Dover Corporation by foregrounding Azure, SQL, C#, .Net, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net",
-        "Html"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "job_id": "310ab4c61e419aeb53d42d72ab60a53170cbe755",
     "title": "Senior Software Engineer \u2013 .NET & Dynamics 365",
     "company": "Ryan",
@@ -114,6 +86,24 @@
     "resume_suggestion": {
       "mode": "rules",
       "summary": "Target Lead II - Software Engineering (.Net Developer) at UST by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
+    "job_id": "62ac355539bdeed9d9b34e7911b40e7554bd8b7c",
+    "title": "Sr .NET Developer - Wissen",
+    "company": "Wissen Technology",
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Sr .NET Developer - Wissen at Wissen Technology by foregrounding .Net and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
         ".Net"
       ],
