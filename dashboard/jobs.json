@@ -110,6 +110,48 @@
     }
   },
   {
+    "score": 58,
+    "reasons": [
+      "Matched skills: .Net",
+      "Preferred title match: .net Developer",
+      "Search keyword hit: .Net",
+      "Preferred location: India",
+      "Experience fit around 2+ years"
+    ],
+    "matched_skills": [
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "3882088531",
+      "title": "Senior .Net Developer",
+      "company": "ARS Traffic & Transport Technology (India)",
+      "location": "Trivandrum, Kerala, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ars-traffic-transport-technology-india-3882088531",
+      "description": "Senior .Net Developer Senior .Net Developer ARS Traffic & Transport Technology (India) Trivandrum, Kerala, India 2 years ago",
+      "tags": [
+        ".net"
+      ],
+      "published_at": "2024-04-03",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "f13123ef4b0307ae00083df6463ac78f65781e40"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Senior .Net Developer at ARS Traffic & Transport Technology (India) by foregrounding .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 54,
     "reasons": [
       "Matched skills: .Net",
@@ -220,19 +262,6 @@
       "remote": false,
       "metadata": {},
       "fingerprint": "7ed819b3ab67f38746e1373462b511ec4d1ac719"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at BNP Paribas by foregrounding .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
     }
   },
   {
