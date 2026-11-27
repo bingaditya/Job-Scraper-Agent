@@ -1,571 +1,53 @@
 [
   {
-    "score": 100,
+    "score": 58,
     "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
+      "Matched skills: Python, Azure, JavaScript",
+      "Search keyword hit: Python",
+      "Experience fit around 4+ years"
     ],
     "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
+      "Python",
+      "Azure",
       "JavaScript"
     ],
     "job": {
-      "source": "linkedin",
-      "source_id": "4450710892",
-      "title": "Dotnet Developer\nJaipur",
-      "company": "VertexPlus",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
-      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
+      "source": "remoteok",
+      "source_id": "1138170",
+      "title": "Developer Advocate - Network APIs",
+      "company": "aduna",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-developer-advocate-network-apis-aduna-1138170",
+      "description": "All Together, Extraordinary adunaglobal.com Aduna is the Connector of networks, bringing together leading telecom operators and technology partners to simplify global access to Network APIs. Through a single, unified platform, we enable businesses and developers to build more secure, seamless and innovative digital services. We are looking for a Developer Advocate to become Aduna's public-facing voice within the global developer community as part of our Demand Generation team. As Aduna\u00e2\u0080\u0099s voice in the developer community, you\u00e2\u0080\u0099ll bring network APIs closer to developers and turn awareness into real adoption. You\u00e2\u0080\u0099ll grow and engage developer audiences across AWS, Microsoft Azure, Google Cloud and independent communities including GitHub, Stack Overflow, YouTube and Discord, using technical content, events, demos and hands-on engagement to take developers from curiosity to their first successful API call. What You'll Do Grow an engaged developer audience for network APIs across your own and Aduna's channels: technical videos, livestreams, blog posts, social media and newsletters. Speak at developer conferences, meetups and hackathons, with live coding and live demos on the Aduna sandbox as your signature format. Build and publish sample apps, starter kits and tutorials on GitHub that developers actually use and star. Run community programmes: hackathons, workshops, office hours and developer challenges, in your region and beyond. Feed what developers tell you back to Product and Engineering, and work with our use-case experts to keep content technically accurate. Own and report your numbers: audience growth, content reach and engagement, sandbox sign-ups, time to first API call and active developers. What You bring: A proven public developer audience. For example, a substantial following on LinkedIn, X, YouTube or GitHub, a blog or newsletter with regular readers, or an active community you run or co-lead. Please include links and numbers in your application. A track record as a speaker at developer conferences or meetups, with recordings we can watch, and confidence doing live demos in front of a technical audience. 4+ years in developer relations, technical evangelism or hands-on engineering with public-facing work. The ability to write and ship working code (JavaScript/TypeScript, Python or Java), not just describe it. Familiarity with cloud platforms (AWS, Azure or GCP) and REST APIs. A results mindset: you set goals for reach and adoption, measure them and adjust. Plus: experience with CPaaS, telecom APIs, identity, authentication or fraud prevention, and existing ties to developer communities in India or Central and Eastern Europe Why Join Aduna? Be the public voice of a company shaping the future of programmable connectivity. Build a Developer Advocacy function from the ground up and have a direct impact on strategy. Work at the intersection of telecommunications, cloud platforms, APIs, and developer ecosystems. Collaborate with global technology leaders, hyperscalers, and innovative partners. Gain visibility across Product, Engineering, Sales, Marketing, and executive leadership. Help define how developers interact with one of the most exciting new technology categories in the market. What We Offer Competitive compensation package. Opportunity to work with a globally distributed team of industry experts. Flexible working arrangements. Professional development and conference participation opportunities. Exposure to cutting-edge technologies and global-scale initiatives. The chance to shape a rapidly growing company and make a visible impact from day one. How to apply: Please include links to your public profiles (GitHub, LinkedIn, YouTube or blog) and at least one recording of a talk or live demo. Applications without public references won't be considered. Shortlisted candidates will give a 10-minute live demo in the interview. \u00c2 Aduna is committed to fostering a diverse and inclusive workplace. We welcome applicants from all backgrounds who are passionate about driving the next wave of innovation in telecommunications. Please mention the word **STATUESQUE** and tag RNDguMjE3LjM2LjUy when applying to show you read the job post completely (#RNDguMjE3LjM2LjUy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
+        "marketing"
       ],
-      "published_at": "2026-08-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
+      "published_at": "2026-11-26T06:40:33+00:00",
+      "remote": true,
+      "metadata": {
+        "salary_min": 0,
+        "salary_max": 0
+      },
+      "fingerprint": "15d8625e552083bb0c7f42178add135d8c216a6c"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
+      "summary": "Target Developer Advocate - Network APIs at aduna by foregrounding Python, Azure, JavaScript and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
+        "Python",
+        "Azure",
+        "JavaScript"
       ],
       "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
+        "Python",
+        "Azure",
+        "JavaScript"
       ],
       "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 96,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4486024681",
-      "title": ".Net Developer",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-ust-4486024681",
-      "description": "\ud83d\ude80 We\u2019re Hiring | Senior .NET Developer | Bangalore We are looking for experienced .NET Developers with strong backend development expertise and exposure to Microsoft Azure technologies. \ud83d\udccd Location: CV Raman Nagar, Bangalore \ud83d\udcbc Experience: 5-8Years Must-Have Skills: \u2705 C# & OOPS \u2705 .NET Core / ASP.NET \u2705 REST API Development \u2705 Microservices \u2705 SQL & LINQ \u2705 Entity Framework Core \u2705 Unit Testing \u2705 Microsoft Azure \u2705 Angular \u2705 SOLID Principles & Design Patterns Secondary Skills: Azure DevOps, CI/CD, SonarQube Good to Have: Agile/Scrum & Azure Red Hat OpenShift We are looking for candidates with strong communication, collaboration, quality focus, and experience working with multiple stakeholders. \ud83d\udce9 Interested candidates can DM me or share their updated resume. #Hiring #DotNetDeveloper #CSharp #DotNetCore #Microservices #Azure #Angular #SQL #RESTAPI #AzureDevOps #BangaloreJobs #CVRamanNagar #TechHiring",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-11-03",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "971a6f48609ec5ec2085640af2b48fa41472914c"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target .Net Developer at UST by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Python to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+        "Rewrite one impact bullet to connect JavaScript to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
-    }
-  },
-  {
-    "score": 84,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, CI/CD Pipelines, Html",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 10+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "CI/CD Pipelines",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4480926092",
-      "title": "Full Stack C# .Net Software Engineer",
-      "company": "BNP Paribas",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-c%23-net-software-engineer-at-bnp-paribas-4480926092",
-      "description": "Job Title: Full Stack C# .Net Software Engineer Department : GMIT Referential About Business line/Function: GMIT Position Purpose: We are seeking an experienced senior developer with strong proficiency in C# .NET framework, MSSQL and Web development technologies such as ASP.NET, MVC, REST & Angular. The ideal candidate is an individual contributor with excellent problem-solving skills who can independently work on large database architecture applications and who has the ability to mentor and develop others. As a team player, you will collaborate with cross-cultural teams, participate in design discussions, and contribute to the development of high-quality software solutions. These applications are manned by a team of developers and application production support, spread across Chennai, Bangalore, Mumbai and London, with program management in London. Responsibilities Direct Responsibilities Writing clean, scalable, and efficient code using the C# .NET. Testing and debugging applications to ensure optimal performance and reliability. Participating in system integration, troubleshooting, and performance optimization. Handle queries from clients and support teams, providing timely and effective solutions Collaborate with cross-functional teams, including development, QA, and design teams Analyze and troubleshoot complex technical issues, providing root cause analysis and recommendations for improvement Develop and maintain technical documentation, including design documents, user manuals, and troubleshooting guides Write and optimize SQL queries, stored procedures, and database schema designs to support application development Do significant new developments and re-factorization for performance improvements and optimization, extensive analysis, Maintenance, and bug fixes. Report functionally to specific application Team Lead based in Chennai/London Required to frequently interact (by mail / chat / phone / Video Conference) with other developers, users, other teams, and production support in multiple locations, mostly in London/Paris. Required to perform 3rd line support whenever needed. Expected to take on tasks independently and own them across all stages of the SDLC and deliver with high quality. Contributing Responsibilities Participate in design discussions, code reviews, and implementations to ensure high-quality deliverable. Participate and contribute to the projects\u2019 estimation, development, DEVOPS, release and post release activities. Maintain the team\u2019s practices and processes, retrospectives Mentor and develop junior team members, sharing knowledge and expertise to enhance team capabilities Status reporting to technical and functional managers Stay up-to-date with industry trends, new technologies, and best practices, applying this knowledge to improve existing systems and processes Identify opportunities for optimizing and refactoring existing code to improve performance Technical & Behavioral Competencies Sound knowledge of Software Engineering and Object-Oriented programming Strong understanding of the C# multi-threaded applications and services. High level of comfort and expertise in Microsoft dotnet technologies, SQL & MSSQL server Detail-oriented with a focus on delivering high-quality and efficient software solutions. Excellent in investigating issues and providing solutions. Clear verbal and written skills to translate complex technical concepts for business stakeholders Possess the ability to explain and articulate solutions and work constructively with others including more senior and junior members in the team to implement the same. Demonstrate the ability to show initiative and take the lead solving business focused technical problems. Have a can-do attitude that focuses on resolving the overall problem in the medium and long term as well as meeting the short-term objectives. Knowledge of CI/CD pipelines and agile tools such as jira, confluence Active participation in Scrum/Kanban frameworks, backlog grooming, and sprint planning. Specific Qualifications 10+ years\u2019 work experience in IT development Strong hands-on development in C# dotnet & MSSQL technologies Expertise in building distributed, decoupled systems with clear design and architectural skills. Strong knowledge in database schema design, performance fine tuning in SQL Server Experience with front-end technologies & web framework Experience in using middleware technologies Working know-how of security protocols & security best practices in software development Working knowledge on DEVOPS and Testing frameworks. Knowledge on SSIS or any ETL tool or big data skill is a plus Technical Skills Skills Referential ( Required knowledge, skills and abilities) Primary Skills C# Dotnet SQL/MSSQL Entity Framework Core (EF Core), Dapper, and raw ADO.NET ASP.NET Core Web API, MVC, REST Angular, HTML, CSS, JavaScript Nice To Have Skills SSIS or any ETL tool Hands on knowledge on C++/Java is an added advantage SQL skill on Oracle database Oracle IMDG coherence Knowledge on ONETICK API Behavioral Skills Ownership/Autonomy \u2013 You proactively identify gaps, define technical requirements, and see tasks through to completion Analytical Thinking & Problem Solving \u2013 You possess a strong curiosity for complex logic. You enjoy deconstructing ambiguous, large-scale problems and finding elegant, scalable solutions. Strong Asynchronous Communication: As an independent driver, you write clear documentation, maintain transparent ticketing habits, and communicate complex technical concepts effectively to both technical and non-technical stakeholders. Resilience & Adaptability: You thrive in an environment dealing with cutting-edge or experimental software work, comfortably pivoting when technical requirements or project directions evolve. Pragmatic Technical Decision Making - You can effectively balance the desire for perfect code with the business need for product delivery, making smart architectural trade-offs when necessary. Education Level: Bachelor\u2019s degree in engineering or equivalent Location: Bangalore About BNP Paribas Group BNP Paribas is the European Union\u2019s leading bank and key player in international banking. It operates in 65 countries and has nearly 185,000 employees, including more than 145,000 in Europe. The Group has key positions in its three main fields of activity: Commercial, Personal Banking & Services for the Group\u2019s commercial & personal banking and several specialized businesses including BNP Paribas Personal Finance and Arval; Investment & Protection Services for savings, investment, and protection solutions; and Corporate & Institutional Banking, focused on corporate and institutional clients. Based on its strong diversified and integrated model, the Group helps all its clients (individuals, community associations, entrepreneurs, SMEs, corporates and institutional clients) to realize their projects through solutions spanning financing, investment, savings and protection insurance. In Europe, BNP Paribas has four domestic markets: Belgium, France, Italy, and Luxembourg. The Group is rolling out its integrated commercial & personal banking model across several Mediterranean countries, Turkey, and Eastern Europe. As a key player in international banking, the Group has leading platforms and business lines in Europe, a strong presence in the Americas as well as a solid and fast-growing business in Asia-Pacific. BNP Paribas has implemented a Corporate Social Responsibility approach in all its activities, enabling it to contribute to the construction of a sustainable future, while ensuring the Group's performance and stability. About BNP Paribas India Solutions Established in 2005, BNP Paribas India Solutions is a wholly owned subsidiary of BNP Paribas SA, European Union\u2019s leading bank with an international reach. With delivery centers located in Bengaluru, Chennai and Mumbai, we are a 24x7 global delivery center. India Solutions services three business lines: Corporate and Institutional Banking, Investment Solutions and Retail Banking for BNP Paribas across the Group. Driving innovation and growth, we are harnessing the potential of over 10000 employees, to provide support and develop best-in-class solutions. Commitment to Diversity and Inclusion At BNP Paribas, we passionately embrace diversity and are committed to fostering an inclusive workplace where all employees are valued, respected and can bring their authentic selves to work. We prohibit Discrimination and Harassment of any kind and our policies promote equal employment opportunity for all employees and applicants, irrespective of, but not limited to their gender, gender identity, sex, sexual orientation, ethnicity, race, colour, national origin, age, religion, social status, mental or physical disabilities, veteran status etc. As a global Bank, we truly believe that inclusion and diversity of our teams is key to our success in serving our clients and the communities we operate in. As a global Bank, we truly believe that inclusion and diversity of our teams is key to our success in serving our clients and the communities we operate in.",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript",
-        "ci/cd"
-      ],
-      "published_at": "2026-11-09",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "b5a6aaa05f6e6d696e64773d9b2f94b098f874fb"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Full Stack C# .Net Software Engineer at BNP Paribas by foregrounding SQL, C#, .Net, CI/CD Pipelines, Html and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines",
-        "Html"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "CI/CD Pipelines",
-        "Html"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 80,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience fit around 5+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4492690722",
-      "title": "Senior .NET Backend Developer",
-      "company": "Northern Trust",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-backend-developer-at-northern-trust-4492690722",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world\u2019s most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we call partners, and to provide to our clients and the communities we serve worldwide. With more than 135 years of financial experience and over 24,000 partners, we serve the world\u2019s most sophisticated clients using leading technology and exceptional service. About Northern Trust And Omnium Northern Trust provides innovative financial services and guidance to corporations, institutions, affluent families, and individuals globally. With more than 130 years of financial experience and nearly 20,000 partners, we serve some of the world\u2019s most sophisticated clients through leading technology and exceptional service. The Omnium technology organization develops and supports mission-critical financial platforms serving complex investment and asset servicing needs. Omnium supports capabilities across areas including pricing, accounting, trading, financial instrument processing, and regulatory functions. The platform combines internally developed technology with best-in-class partner solutions while maintaining an integrated system of record that provides transparency, control, and operational efficiency. The technologists building and supporting Omnium are thought leaders who work directly with the people who use our software every day. We value engineering ownership, pragmatic innovation, collaboration, continuous learning, and high-quality delivery. Our engineers are expected to understand the business problems they are solving, take ownership of their solutions, and continuously improve the resiliency, performance, security, and maintainability of the platform. Role We are looking for an experienced Senior .NET Backend Developer to join the Omnium engineering team and contribute to the continued modernization and enhancement of our platform. The successful candidate will bring 10+ years of software engineering experience with strong hands-on expertise in C# and .NET backend development. The individual will work on a large and complex codebase supporting critical pricing, accounting, regulatory, and financial-processing capabilities . The role will involve both functional development and technical modernization, including enhancements to existing services, development of new backend capabilities, framework and dependency upgrades, performance improvements, security remediation, and improvements to the overall maintainability and resiliency of the platform. This is a hands-on individual contributor role requiring the ability to independently own complex technical initiatives from analysis and design through implementation, testing, deployment, and production support. The candidate should be comfortable working with minimal technical supervision while collaborating effectively with cross-functional engineering, architecture, product, and business teams. Overall Experience: 10+ years Required Qualifications 10+ years of professional software engineering experience, with significant experience developing enterprise applications and backend services. 5+ years of strong hands-on development experience using C# and modern .NET / .NET Core. Strong experience designing, building, enhancing, and maintaining backend services, REST APIs, and enterprise applications. Strong understanding of ASP.NET Core, including RESTful API development, dependency injection, configuration, middleware, authentication, and authorization. Experience with .NET technologies and frameworks such as ASP.NET Core, Entity Framework Core, and Microsoft authentication and security libraries. Strong experience with SQL Server and T-SQL, including relational data modeling, query development, troubleshooting, and performance optimization. Experience working with large, mature enterprise codebases, including modernization and enhancement of existing applications. Strong understanding of software engineering fundamentals, including object-oriented design, SOLID principles, design patterns, asynchronous programming, concurrency, error handling, and application resiliency. Experience designing and developing secure, scalable, performant, maintainable, and testable production applications. Strong experience with unit testing, debugging, code reviews, source control, automated builds, and CI/CD-based software delivery. Demonstrated ability to independently analyze complex technical problems and drive solutions through completion. Ability to understand business requirements and translate them into well-designed technical solutions. Experience collaborating effectively across engineering, architecture, product, infrastructure, and business teams. Key Responsibilities Design, develop, test, deploy, and maintain backend services and APIs using C# and modern .NET technologies. Enhance and modernize existing Omnium applications supporting pricing, accounting, regulatory, and related financial-processing capabilities. Develop new backend capabilities and extend existing applications to support evolving business and client requirements. Take ownership of complex technical changes from initial analysis and solution design through implementation and production deployment. Develop reusable backend components, services, and libraries that improve engineering consistency and accelerate future development. Produce secure, efficient, maintainable, well-documented, and well-tested code consistent with enterprise engineering standards. Modernize legacy components and dependencies, including .NET framework and runtime upgrades and remediation of technical debt. Identify and address performance, scalability, reliability, security, and resiliency issues across backend applications and services. Troubleshoot complex application and production issues and perform effective root-cause analysis. Participate actively in solution design, technical discussions, code reviews, testing, and continuous improvement of engineering practices. Work closely with other Omnium and enterprise technology teams on cross-application dependencies and strategic technology initiatives. Contribute to improvements in automated testing, CI/CD, observability, application monitoring, and overall software delivery quality. Participate in production support and ensure applications meet appropriate operational, resiliency, and service-level expectations. Proactively identify opportunities to simplify the technology landscape, reduce technical debt, and improve engineering efficiency. Financial Services Experience working within financial services, capital markets, asset servicing, investment accounting, pricing, or trading platforms. Experience developing systems supporting high-volume or complex financial transactions. Understanding of financial instruments, pricing, accounting, or regulatory processing is advantageous. Azure and Cloud Hands-on experience with Microsoft Azure, particularly building, deploying, or supporting enterprise applications and backend services in Azure. Familiarity with Azure technologies such as Azure Kubernetes Service (AKS), App Service, Azure Functions, Azure SQL, Storage, Key Vault, API Management, and Azure Monitor/Application Insights. Experience with cloud-native and containerized application development, including Docker and Kubernetes. Familiarity with cloud architecture principles involving scalability, resiliency, security, observability, and automated deployment. Experience with messaging or event-driven architectures using technologies such as Kafka or Azure messaging services. AI and Generative AI Exposure to Artificial Intelligence, Generative AI, and Large Language Model technologies is a plus. Experience integrating enterprise applications with LLMs, AI APIs, or AI-enabled services is advantageous. Familiarity with Azure AI services, Azure OpenAI, or similar enterprise AI platforms. Understanding of how AI capabilities can be securely integrated into existing enterprise applications and engineering workflows. Familiarity with AI engineering concepts such as prompt engineering, evaluation, observability, security, responsible AI, and production integration is desirable. Interest in identifying practical opportunities to apply AI to improve software engineering, operational processes, or financial-services workflows. Additional Technology Experience with application observability, telemetry, logging, and production monitoring. Familiarity with distributed systems, microservices, and event-driven architectures. Exposure to Go or Node.js development is a plus. Professional Skills Highly motivated, self-directed, and accountable for delivering results. Strong analytical, problem-solving, and critical-thinking skills. Demonstrates the ability to investigate beyond the immediate symptoms of a problem and identify underlying technical or process issues. Able to understand complex technical and business concepts quickly. Detail-oriented while maintaining an understanding of broader architectural and business impacts. Comfortable working in a complex technology environment with changing priorities and multiple concurrent deliverables. Demonstrated ability to independently manage complex assignments and drive them through completion. Proactively identifies opportunities to improve engineering quality, operational efficiency, platform stability, and maintainability. Strong written and verbal communication skills. Able to communicate complex technical concepts and recommendations clearly to both technical and non-technical stakeholders. Strong collaboration and interpersonal skills, with the ability to work effectively across teams and organizational boundaries. Demonstrates a strong sense of ownership, accountability, engineering discipline, and commitment to quality. Working with Us As a Northern Trust partner, you will be part of a flexible and collaborative work culture, which has a strong history of financial strength and stability. Movement within the organization is encouraged, senior leaders are accessible, and you can take pride in working for a company committed to an inclusive workplace and assisting the communities we serve. Philanthropy is deeply rooted in Northern Trust\u2019s history and is an essential element of our culture. Employees around the world give their time and talent to work for the greater good of their communities. Reasonable Accommodation Northern Trust is committed to working with and providing adjustments to individuals with health conditions and disabilities. If you need a reasonable accommodation for any part of the employment process, please email our HR Service Center at MyHRHelp@ntrs.com, or alternatively you can discuss your individual requirements with the recruiter you are working with. About Our Bangalore Office The Northern Trust Bangalore office, established in 2005, is home to over 5,600 employees. In this stunning office space, we offer fantastic amenities which include our Arrival Hub - Jungle, the GameZone, and the Employee Experience Zone that appeal to both clients and employees. Learn more.",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-11-24",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "25a0900a5a34b79bdfede5a1b2399fb83a040de2"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .NET Backend Developer at Northern Trust by foregrounding Azure, SQL, C#, .Net and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "missing_resume_keywords": [
-        "Azure",
-        "SQL",
-        "C#",
-        ".Net"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 77,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 7+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4295671740",
-      "title": "Senior .NET/C# Developer",
-      "company": "Aspire Software",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-c%23-developer-at-aspire-software-4295671740",
-      "description": "Description We are looking for a .NET/C# Developer with hands-on experience to join a small team of passionate developers. You will help transform how enterprises and government organizations manage correspondence. In this role, you will maintain, evolve, and modernize our dotnet based platform using latest AI coding tools. What You\u2019ll Do Your primary mission is to design, maintain, develop, and integrate advanced new features into our platform. You will build new dotnet-based services, refine existing components, and ensure high performance, security, and maintainability across the system. You will also have the opportunity to integrate LLMs and Generative AI inside our platform and work on our new automated workflow product that leverages generative AI to automate correspondence processes. Day-to-Day Breakdown Development & Integration: Build and test a new web platform using .NET/C#, while also migrating our existing Java application to dotnet using AI tools and maintaining an existing platform. Collaboration & Code Quality: Work closely with team members, participate in code reviews, and ensure adherence to best practices in software development. Research & Innovation: Stay updated on emerging AI trends, experiment with new technologies, and continuously propose improvements to our platform. Responsibilities Development & Integration Design and Build Solutions: Architect and implement new modules and services that extend our correspondence-management platform. Migrate Java Application: Leverage AI tools to migrate our existing Java services to dotnet. Maintain & Enhance Platform: Provide ongoing maintenance, updates, and bug fixes for the existing platform to ensure performance and reliability. API & Service Integration: Develop and maintain integrations between RESTful services, messaging queues, third-party APIs, and the core platform. Quality and Documentation: Write clean, efficient, and well-documented code, following the industry\u2019s best practices and coding standards. Collaboration & Continuous Improvement Team Collaboration: Work closely with other developers, product managers, and stakeholders to gather requirements and translate them into technical solutions. Documentation & Best Practices: Create and maintain detailed documentation for system designs, integrations, and technical processes. Requirements Requirements: Technical Skills Proficient in .NET/C# with hands-on experience using dotnet to build production systems. Experience with HTML, CSS, JavaScript, ASP.NET MVC, Angular/React, and Web API is ideal. While you won't be expected to master these technologies from day one, a strong willingness to learn and expand your skillset is essential. Ability to write clean, maintainable, and well-documented code. API Integration & Database Knowledge: Skilled in integrating APIs, working with databases (especially SQL Server and Oracle), and managing web services within enterprise applications. Monitoring & Debugging: Familiarity with tools and techniques for database/application monitoring, debugging, and troubleshooting. AI Development Tools: Familiarity with AI development tools like Cursor, Windsurf, Claude, or similar platforms that enhance and expedite the development process. Soft Skills Autonomy & Adaptability: High level of independence and adaptability; capable of working without direct oversight and proactively taking initiative. Problem-Solving Skills: Strong analytical skills with the ability to troubleshoot and resolve complex technical issues efficiently. Effective Communication: Excellent collaboration and communication skills, with the ability to explain complex concepts to both technical and non-technical stakeholders. Attention to Detail: Commitment to writing high-quality code and ensuring the reliability and performance of applications. Continuous Learning: Proactive in learning new technologies and responsive to shifting priorities. Desired Experience Bachelor\u2019s degree in computer science, engineering, or related field (or equivalent practical experience). 7+ years of experience in software development, with a focus on .NET/C#. Experience with automated testing frameworks and practices to ensure code quality and reliability. Able to work aligned with the Eastern Time (EST).",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-11-14",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "f9767c3aee32174788c8cffbde7202a476e9579b"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Senior .NET/C# Developer at Aspire Software by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
-    "score": 68,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, JavaScript",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Role asks for 9+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4473621570",
-      "title": "Lead II - Software Engineering (.Net Developer)",
-      "company": "UST",
-      "location": "Trivandrum, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-net-developer-at-ust-4473621570",
-      "description": "Role Description Experience: 7 to 9 years . We are looking for a highly motivated and experienced Senior .NET Developer with expertise in ASP.NET using C#. This role is ideal for a seasoned backend engineer who is passionate about expanding their skillset and transitioning into a Full Stack Developer role. You will be instrumental in building robust backend systems while actively learning and contributing to our modern front-end frameworks, specifically React. Strong emphasis on ASP.NET (Web Forms, MVC, or Core) and C#. - Proficiency in database design and development, including SQL Server (or other relational databases like PostgreSQL, MySQL), T-SQL, stored procedures, and query optimization. - Solid understanding of Object-Oriented Programming (OOP) principles, design patterns, and clean architecture. - Experience with RESTful API design and development. - Familiarity with version control systems, particularly Git. - Understanding of software testing principles (unit, integration, end-to-end testing). - A strong eagerness and proven capacity to learn and adapt to new technologies, specifically modern JavaScript frameworks like React. Experience in the financial domain or understanding of investment banking workflows. Excellent problem-solving, analytical, and debugging skills. Skills NET, C#, Microsoft SQL Server, REST, React, Git, Unit Testing",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-11-16",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "eed67c0fd1d9b74ce6fa1ef72b2d680b5d6f843c"
-    }
-  },
-  {
-    "score": 64,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4405007228",
-      "title": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server]",
-      "company": "Citrus Informatics (India) Pvt Ltd",
-      "location": "Kochi, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-software-engineer-asp-net-c%23-sql-server-at-citrus-informatics-india-pvt-ltd-4405007228",
-      "description": "Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] Software Engineer/Senior Software Engineer [ASP.NET/C#/SQL Server] Citrus Informatics (India) Pvt Ltd Kochi, Kerala, India 7 months ago",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-04-23",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "06634cdcd3017295be00e978e1fb3c39f861c60b"
-    }
-  },
-  {
-    "score": 64,
-    "reasons": [
-      "Matched skills: Azure, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "Azure",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306129222",
-      "title": "Dotnet Developer",
-      "company": "VAYUZ Technologies",
-      "location": "Coimbatore, Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-vayuz-technologies-4306129222",
-      "description": "Performs implementation of high level design and specifications. Develops low level design, class diagrams, flow charts. Performs Unit testing of individually developed components and fix errors, if any Assist in preparation of design, technical reference & operational documentation, packaging document in collaboration with the Lead. Strives for technology innovation in terms of exploring new and efficient ways of writing code Is responsible for writing simple, reusable code by following coding standards Ensure proper documentation of implementation and reviews. Ensure timely follow ups and escalations with leads with respect to any process gaps/risks/impediments. Skills:- ASP.NET, C# and Microsoft Windows Azure",
-      "tags": [
-        "azure",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
-    }
-  },
-  {
-    "score": 56,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net",
-      "Preferred title match: Full Stack Developer",
-      "Search keyword hit: SQL",
-      "Preferred location: Pune",
-      "Role asks for 8+ years"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4455316930",
-      "title": "Dot Net Full Stack Developer",
-      "company": "FIS",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-developer-at-fis-4455316930",
-      "description": "Position Type Full time Type Of Hire Experienced (relevant combo of work and education) Education Desired Bachelor of Information Technology Dot Net Full Stack Developer \u2013 6 to 8 Yrs of Experience \u2013 Pune Location \u2013 General Shift About The Role As a Senior Software Engineer, you will design, build, and support high-performance backend solutions for a complex trading platform environment. You will work closely with product, business, quality engineering, and operations teams to deliver scalable, secure, and reliable applications that support critical business functions. Success in this role requires strong software engineering expertise, analytical thinking, and the ability to translate business requirements into robust technical solutions. What You Will Be Doing Design, develop, test, implement, maintain, and support enterprise-grade software applications and services Analyze business requirements and translate them into scalable, maintainable technical solutions Develop high-quality backend applications using C#, .NET Framework, .NET Core, and .NET 8+ Build and maintain RESTful APIs, web services, and microservices-based solutions Collaborate with product owners, business analysts, QA, and DevOps teams throughout the delivery lifecycle Participate in architecture reviews, solution design discussions, and application modernization initiatives Optimize application performance, scalability, availability, and reliability across distributed systems Create and maintain technical specifications, design documentation, and implementation artifacts Troubleshoot production issues, perform root cause analysis, and drive timely resolutions Conduct code reviews, promote engineering best practices, and mentor less experienced developers Lead small to medium-sized development initiatives and coordinate technical deliverables Contribute to Agile ceremonies and support continuous improvement across development teams What You Will Bring Typically requires 6 to 8 years of professional software engineering experience Experience designing and developing enterprise software applications using C#, .NET Framework, .NET Core, and .NET 8+ Strong knowledge of ASP.NET, Web API development, and REST-based integrations Hands-on experience with unit testing frameworks such as xUnit, NUnit, or MSTest Experience working with relational databases such as SQL Server, Oracle, or similar database technologies Strong understanding of microservices architecture, distributed systems, and modern software design principles Experience with Git-based source control and collaborative development practices Strong understanding of Software Development Life Cycle (SDLC) methodologies including Agile, Iterative, and Waterfall Proven analytical, problem-solving, debugging, and technical troubleshooting skills Ability to create technical documentation, solution designs, and implementation plans Excellent verbal and written communication skills with the ability to collaborate across technical and business teams. Nice To Have Skills/knowledge Exposure to Java or Perl development environments Experience supporting trading platforms, financial technology applications, or transaction-processing systems Experience managing multiple priorities and working across concurrent initiatives Experience providing technical leadership, mentoring, and team support Ability to resolve production issues with urgency and a strong customer-focused mindset What We Offer You At FIS, we are as committed to growing our employees\u2019 careers as our own business. We offer~ Opportunities to innovate in fintech Inclusive and diverse team atmosphere Professional and personal development Resources to contribute to your community Competitive salary and benefits Privacy Statement FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice. Sourcing Model Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company. #pridepass",
-      "tags": [
-        "sql",
-        ".net",
-        "c#"
-      ],
-      "published_at": "2026-11-21",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "2efcf67377535b627fbdd01040c5a836f0903046"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4479274770",
-      "title": ".Net Developer",
-      "company": "BNP Paribas",
-      "location": "Tamil Nadu, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-bnp-paribas-4479274770",
-      "description": ".Net Developer .Net Developer BNP Paribas Tamil Nadu, India Actively Hiring 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-11-10",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "7ed819b3ab67f38746e1373462b511ec4d1ac719"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4489602477",
-      "title": ".NET Developer (SJ-IQ)",
-      "company": "SE Mentor Solutions",
-      "location": "Kochi, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-sj-iq-at-se-mentor-solutions-4489602477",
-      "description": ".NET Developer (SJ-IQ) .NET Developer (SJ-IQ) SE Mentor Solutions Kochi, Kerala, India Actively Hiring 2 weeks ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-11-10",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "db22f23f51470a53230e976a60185a2235cc05ec"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4469801441",
-      "title": ".Net Developer",
-      "company": "AutomateBuddy Technologies Private Limited",
-      "location": "Navi Mumbai, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-automatebuddy-technologies-private-limited-4469801441",
-      "description": ".Net Developer .Net Developer AutomateBuddy Technologies Private Limited Navi Mumbai, Maharashtra, India 2 months ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-09-20",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "665fd4832df0657b3d8dd97ce567c40696de2b08"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4436494193",
-      "title": "Senior .NET Developer",
-      "company": "Interpath",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-interpath-4436494193",
-      "description": "Senior .NET Developer Senior .NET Developer Interpath Gurugram, Haryana, India 5 months ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2026-06-08",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "f3b8371fcf8761ead7ef0da8d1af502e26a19bcb"
-    }
-  },
-  {
-    "score": 54,
-    "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4306127282",
-      "title": ".NET Developer",
-      "company": "Zeus Learning",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-zeus-learning-4306127282",
-      "description": ".NET Developer .NET Developer Zeus Learning Mumbai Metropolitan Region Actively Hiring 1 year ago",
-      "tags": [
-        ".net"
-      ],
-      "published_at": "2025-09-30",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "0284245282fb71ec8bc71f34335c303a9055f373"
     }
   },
   {
@@ -589,7 +71,7 @@
       "url": "https://builtin.com/job/dot-net-developer-healthcare/12502611",
       "description": "Company Description We specialize in Staffing, Consulting, Software Development, and Training along with IT services to small to medium size companies. AG's primary objective is to help companies maximize their IT resources and meet the ever-changing IT needs and challenges. In addition, AG offers enterprise resource planning and enterprise application integration, supply-chain management, e-commerce solutions, and B2B public exchanges and B2B process integration solutions. Our company provides application analysis, design, development and programming, software engineering, systems development, testing, integration, and implementation, and management consulting services to various clients \u2013 including governmental agencies and private companies \u2013 throughout the United States and India. We provide these services in multiple computing environments and use technologies such as client/server architecture, object-oriented programming languages and tools, distributed database management systems, state-of-the-art networking, and communications infrastructures. Our honest and realistic approach to recruiting dictates that AG does not entice or lure engineers from their employers. We represent only high caliber technical professionals who have committed to making a change required by career. Job Description Responsibilities: Provide software architecture research and recommend/ implement the approved design. Good command of ..Net and produces quality code Required Skills: Strong experience as VB .Net developer Experience in MySQL and Entity Framework Experience in Kendo, Visual Studio 2012 Experience in C# and SSAS Experience in Java/J2ee Additional Information GOOD COMMUNICATION SKILLS DURATION: Long Term Contract INTERVIEW: PHONE & SKYPE Consultant must be willing to relocate anywhere in the USA",
       "tags": [
-        "7 Hours Ago",
+        "Yesterday",
         "Saved",
         "Information Technology \u2022 Professional Services \u2022 Software \u2022 Consulting",
         "Top Skills:",
@@ -598,105 +80,29 @@
         "Entity Framework",
         "J2Ee"
       ],
-      "published_at": "7 Hours Ago",
+      "published_at": "Yesterday",
       "remote": false,
       "metadata": {},
       "fingerprint": "6260c165dd731321e3f1d9f06bcafa8033f72263"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4474285326",
-      "title": "Senior Software Engineer \u2013 .NET / C#",
-      "company": "Leadrat Real Estate CRM - Dubai | India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-c%23-at-leadrat-real-estate-crm-dubai-india-4474285326",
-      "description": "Senior Software Engineer \u2013 .NET / C# Senior Software Engineer \u2013 .NET / C# Leadrat Real Estate CRM - Dubai | India Bengaluru, Karnataka, India Be an early applicant 1 month ago",
-      "tags": [
-        ".net",
-        "c#"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dot Net Developer  with Healthcare at Atria Group LLC by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "SQL",
+        "C#",
+        ".Net"
       ],
-      "published_at": "2026-10-05",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "135dccd8a1b0b639fbf5d97d6cb9cd8743d86b4a"
-    }
-  },
-  {
-    "score": 50,
-    "reasons": [
-      "Matched skills: C#, .Net",
-      "Search keyword hit: C#",
-      "Preferred location: Mumbai",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4469473112",
-      "title": "Senior Software Engineer- .Net C# Restful API backend Dev",
-      "company": "NEC Software Solutions",
-      "location": "Mumbai Metropolitan Region",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-c%23-restful-api-backend-dev-at-nec-software-solutions-4469473112",
-      "description": "Senior Software Engineer- .Net C# Restful API backend Dev Senior Software Engineer- .Net C# Restful API backend Dev NEC Software Solutions Mumbai Metropolitan Region 2 months ago",
-      "tags": [
-        ".net",
-        "c#"
+      "missing_resume_keywords": [
+        "SQL",
+        "C#",
+        ".Net"
       ],
-      "published_at": "2026-09-23",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "7a0707609683d5e460a1e871e466e01284d9ace2"
-    }
-  },
-  {
-    "score": 48,
-    "reasons": [
-      "Matched skills: Azure, SQL, C#, .Net",
-      "Search keyword hit: Azure",
-      "Preferred location: India",
-      "Role asks for 10+ years"
-    ],
-    "matched_skills": [
-      "Azure",
-      "SQL",
-      "C#",
-      ".Net"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4484949044",
-      "title": "Dotnet Developer",
-      "company": "Saxo Bank",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-saxo-bank-4484949044",
-      "description": "Location: Gurugram (Onsite) We are looking for a Software Engineer with 6\u201310 years of experience to join our Regulatory Reporting team. The ideal candidate will have strong expertise in developing enterprise applications and a passion for building scalable, high-quality solutions. Key Responsibilities Design, develop, and maintain applications using C# and .NET technologies. Collaborate with business and technology stakeholders to deliver solutions. Develop APIs, microservices, and event-driven integrations. Support production systems and drive continuous improvements. Participate in solution design, code reviews, and Agile delivery processes. Required Skills 6\u201310 years of software development experience. Strong hands-on experience with C#, .NET/.NET Core, and SQL Server. Experience with REST APIs, microservices, and Kafka. Knowledge of Azure Cloud and CI/CD practices. Strong analytical and problem-solving skills. Preferred Experience in financial services, capital markets, or regulatory reporting. Exposure to cloud-native architectures and DevOps practices. Join us in building modern, scalable platforms that support critical regulatory reporting and business processes. We get curious people invested in the world When you work at Saxo, you become a Saxonian and part of a purpose-driven organisation, where good ideas are always taken seriously, and where you can make a true impact. We are invested in your development, and you can expect a robust career from day one when you join Saxo \u2013 no matter which role you take on. You will join 2,500 other ambitious colleagues across 11 countries and become part of an international organisation. Working in Saxo, you will get to meet colleagues from many different cultures and backgrounds, and you should know that we value diversity and inclusion and see it as a genuine source of strength to drive growth, foster innovation and position us for long-term success. We encourage an open feedback culture and supportive team environments enabling employees to grow and fulfil their career aspirations. When you bring passion, curiosity, drive and team spirit, your learning journey will be dynamic and your career opportunities in Saxo will be immense. At Saxo we don\u2019t just offer a job \u2013 we offer an opportunity to invest in your future! How To Apply Click here to create an account and upload your resume and a short motivation. We look forward to getting to know you better!",
-      "tags": [
-        "azure",
-        "sql",
-        ".net",
-        "c#",
-        "ci/cd"
-      ],
-      "published_at": "2026-11-19",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "4826128f8cf743b3ead77f54f1e4830636225fb0"
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
     }
   }
 ]
