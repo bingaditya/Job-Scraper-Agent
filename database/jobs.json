@@ -1,64 +1,5 @@
 [
   {
-    "score": 100,
-    "reasons": [
-      "Matched skills: SQL, C#, .Net, Html, CSS",
-      "Search keyword hit: SQL",
-      "Preferred location: India",
-      "Experience requirement not strict"
-    ],
-    "matched_skills": [
-      "SQL",
-      "C#",
-      ".Net",
-      "Html",
-      "CSS",
-      "JavaScript"
-    ],
-    "job": {
-      "source": "linkedin",
-      "source_id": "4450710892",
-      "title": "Dotnet Developer\nJaipur",
-      "company": "VertexPlus",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://in.linkedin.com/jobs/view/dotnet-developer%0Ajaipur-at-vertexplus-4450710892",
-      "description": "Description Hello, Greetings of the day..!! Currently we are hiring for dotnet developer, Below are the details. Role: Dotnet Developer Experience: 1+ Year Key Responsibilities Develop, test, and maintain applications using .NET / .NET Core / ASP.NET MVC / Web API Write clean, scalable, and efficient code following best practices Participate in requirement analysis and design discussions Debug, troubleshoot, and resolve application issues Collaborate with front-end developers, QA teams, and other stakeholders Work with databases to design and optimize queries Maintain documentation for code, processes, and workflows Ensure application performance, quality, and responsiveness Required Skills Strong knowledge of C# and .NET Framework / .NET Core Experience with ASP.NET MVC, Web API, or .NET Core APIs Basic understanding of HTML, CSS, JavaScript Hands-on experience with SQL Server / MySQL Knowledge of Entity Framework / LINQ Familiarity with RESTful APIs Understanding of OOP concepts and design patterns Basic knowledge of Git or version control systems",
-      "tags": [
-        "sql",
-        ".net",
-        "c#",
-        "javascript"
-      ],
-      "published_at": "2026-08-07",
-      "remote": false,
-      "metadata": {},
-      "fingerprint": "bae448b8cef31d6e0a23958a39611bcfa1d5a0c7"
-    },
-    "resume_suggestion": {
-      "mode": "rules",
-      "summary": "Target Dotnet Developer\nJaipur at VertexPlus by foregrounding SQL, C#, .Net, Html, CSS and mirroring the role language without adding new claims.",
-      "keywords_to_emphasize": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "missing_resume_keywords": [
-        "SQL",
-        "C#",
-        ".Net",
-        "Html",
-        "CSS"
-      ],
-      "bullet_suggestions": [
-        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
-        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
-      ]
-    }
-  },
-  {
     "score": 68,
     "reasons": [
       "Matched skills: SQL, C#, .Net, JavaScript",
@@ -166,6 +107,57 @@
     }
   },
   {
+    "score": 64,
+    "reasons": [
+      "Matched skills: Azure, C#, .Net",
+      "Search keyword hit: Azure",
+      "Preferred location: India",
+      "Experience requirement not strict"
+    ],
+    "matched_skills": [
+      "Azure",
+      "C#",
+      ".Net"
+    ],
+    "job": {
+      "source": "linkedin",
+      "source_id": "4306129222",
+      "title": "Dotnet Developer",
+      "company": "VAYUZ Technologies",
+      "location": "Coimbatore, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/dotnet-developer-at-vayuz-technologies-4306129222",
+      "description": "Performs implementation of high level design and specifications. Develops low level design, class diagrams, flow charts. Performs Unit testing of individually developed components and fix errors, if any Assist in preparation of design, technical reference & operational documentation, packaging document in collaboration with the Lead. Strives for technology innovation in terms of exploring new and efficient ways of writing code Is responsible for writing simple, reusable code by following coding standards Ensure proper documentation of implementation and reviews. Ensure timely follow ups and escalations with leads with respect to any process gaps/risks/impediments. Skills:- ASP.NET, C# and Microsoft Windows Azure",
+      "tags": [
+        "azure",
+        ".net",
+        "c#"
+      ],
+      "published_at": "2025-09-30",
+      "remote": false,
+      "metadata": {},
+      "fingerprint": "84ce8f1b56bb86d0f392eb9238338c8fe555383f"
+    },
+    "resume_suggestion": {
+      "mode": "rules",
+      "summary": "Target Dotnet Developer at VAYUZ Technologies by foregrounding Azure, C#, .Net and mirroring the role language without adding new claims.",
+      "keywords_to_emphasize": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "missing_resume_keywords": [
+        "Azure",
+        "C#",
+        ".Net"
+      ],
+      "bullet_suggestions": [
+        "Rewrite one impact bullet to connect Azure to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
+      ]
+    }
+  },
+  {
     "score": 58,
     "reasons": [
       "Matched skills: Python, Azure, JavaScript",
@@ -184,7 +176,7 @@
       "company": "aduna",
       "location": "US Only",
       "url": "https://remoteOK.com/remote-jobs/remote-developer-advocate-network-apis-aduna-1138170",
-      "description": "All Together, Extraordinary adunaglobal.com Aduna is the Connector of networks, bringing together leading telecom operators and technology partners to simplify global access to Network APIs. Through a single, unified platform, we enable businesses and developers to build more secure, seamless and innovative digital services. We are looking for a Developer Advocate to become Aduna's public-facing voice within the global developer community as part of our Demand Generation team. As Aduna\u00e2\u0080\u0099s voice in the developer community, you\u00e2\u0080\u0099ll bring network APIs closer to developers and turn awareness into real adoption. You\u00e2\u0080\u0099ll grow and engage developer audiences across AWS, Microsoft Azure, Google Cloud and independent communities including GitHub, Stack Overflow, YouTube and Discord, using technical content, events, demos and hands-on engagement to take developers from curiosity to their first successful API call. What You'll Do Grow an engaged developer audience for network APIs across your own and Aduna's channels: technical videos, livestreams, blog posts, social media and newsletters. Speak at developer conferences, meetups and hackathons, with live coding and live demos on the Aduna sandbox as your signature format. Build and publish sample apps, starter kits and tutorials on GitHub that developers actually use and star. Run community programmes: hackathons, workshops, office hours and developer challenges, in your region and beyond. Feed what developers tell you back to Product and Engineering, and work with our use-case experts to keep content technically accurate. Own and report your numbers: audience growth, content reach and engagement, sandbox sign-ups, time to first API call and active developers. What You bring: A proven public developer audience. For example, a substantial following on LinkedIn, X, YouTube or GitHub, a blog or newsletter with regular readers, or an active community you run or co-lead. Please include links and numbers in your application. A track record as a speaker at developer conferences or meetups, with recordings we can watch, and confidence doing live demos in front of a technical audience. 4+ years in developer relations, technical evangelism or hands-on engineering with public-facing work. The ability to write and ship working code (JavaScript/TypeScript, Python or Java), not just describe it. Familiarity with cloud platforms (AWS, Azure or GCP) and REST APIs. A results mindset: you set goals for reach and adoption, measure them and adjust. Plus: experience with CPaaS, telecom APIs, identity, authentication or fraud prevention, and existing ties to developer communities in India or Central and Eastern Europe Why Join Aduna? Be the public voice of a company shaping the future of programmable connectivity. Build a Developer Advocacy function from the ground up and have a direct impact on strategy. Work at the intersection of telecommunications, cloud platforms, APIs, and developer ecosystems. Collaborate with global technology leaders, hyperscalers, and innovative partners. Gain visibility across Product, Engineering, Sales, Marketing, and executive leadership. Help define how developers interact with one of the most exciting new technology categories in the market. What We Offer Competitive compensation package. Opportunity to work with a globally distributed team of industry experts. Flexible working arrangements. Professional development and conference participation opportunities. Exposure to cutting-edge technologies and global-scale initiatives. The chance to shape a rapidly growing company and make a visible impact from day one. How to apply: Please include links to your public profiles (GitHub, LinkedIn, YouTube or blog) and at least one recording of a talk or live demo. Applications without public references won't be considered. Shortlisted candidates will give a 10-minute live demo in the interview. \u00c2 Aduna is committed to fostering a diverse and inclusive workplace. We welcome applicants from all backgrounds who are passionate about driving the next wave of innovation in telecommunications. Please mention the word **STATUESQUE** and tag RMjAuMjkuMjIyLjky when applying to show you read the job post completely (#RMjAuMjkuMjIyLjky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "All Together, Extraordinary adunaglobal.com Aduna is the Connector of networks, bringing together leading telecom operators and technology partners to simplify global access to Network APIs. Through a single, unified platform, we enable businesses and developers to build more secure, seamless and innovative digital services. We are looking for a Developer Advocate to become Aduna's public-facing voice within the global developer community as part of our Demand Generation team. As Aduna\u00e2\u0080\u0099s voice in the developer community, you\u00e2\u0080\u0099ll bring network APIs closer to developers and turn awareness into real adoption. You\u00e2\u0080\u0099ll grow and engage developer audiences across AWS, Microsoft Azure, Google Cloud and independent communities including GitHub, Stack Overflow, YouTube and Discord, using technical content, events, demos and hands-on engagement to take developers from curiosity to their first successful API call. What You'll Do Grow an engaged developer audience for network APIs across your own and Aduna's channels: technical videos, livestreams, blog posts, social media and newsletters. Speak at developer conferences, meetups and hackathons, with live coding and live demos on the Aduna sandbox as your signature format. Build and publish sample apps, starter kits and tutorials on GitHub that developers actually use and star. Run community programmes: hackathons, workshops, office hours and developer challenges, in your region and beyond. Feed what developers tell you back to Product and Engineering, and work with our use-case experts to keep content technically accurate. Own and report your numbers: audience growth, content reach and engagement, sandbox sign-ups, time to first API call and active developers. What You bring: A proven public developer audience. For example, a substantial following on LinkedIn, X, YouTube or GitHub, a blog or newsletter with regular readers, or an active community you run or co-lead. Please include links and numbers in your application. A track record as a speaker at developer conferences or meetups, with recordings we can watch, and confidence doing live demos in front of a technical audience. 4+ years in developer relations, technical evangelism or hands-on engineering with public-facing work. The ability to write and ship working code (JavaScript/TypeScript, Python or Java), not just describe it. Familiarity with cloud platforms (AWS, Azure or GCP) and REST APIs. A results mindset: you set goals for reach and adoption, measure them and adjust. Plus: experience with CPaaS, telecom APIs, identity, authentication or fraud prevention, and existing ties to developer communities in India or Central and Eastern Europe Why Join Aduna? Be the public voice of a company shaping the future of programmable connectivity. Build a Developer Advocacy function from the ground up and have a direct impact on strategy. Work at the intersection of telecommunications, cloud platforms, APIs, and developer ecosystems. Collaborate with global technology leaders, hyperscalers, and innovative partners. Gain visibility across Product, Engineering, Sales, Marketing, and executive leadership. Help define how developers interact with one of the most exciting new technology categories in the market. What We Offer Competitive compensation package. Opportunity to work with a globally distributed team of industry experts. Flexible working arrangements. Professional development and conference participation opportunities. Exposure to cutting-edge technologies and global-scale initiatives. The chance to shape a rapidly growing company and make a visible impact from day one. How to apply: Please include links to your public profiles (GitHub, LinkedIn, YouTube or blog) and at least one recording of a talk or live demo. Applications without public references won't be considered. Shortlisted candidates will give a 10-minute live demo in the interview. \u00c2 Aduna is committed to fostering a diverse and inclusive workplace. We welcome applicants from all backgrounds who are passionate about driving the next wave of innovation in telecommunications. Please mention the word **STATUESQUE** and tag RMTcyLjE4Mi4yMjYuMzM= when applying to show you read the job post completely (#RMTcyLjE4Mi4yMjYuMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "tags": [
         "marketing"
       ],
@@ -217,43 +209,53 @@
     }
   },
   {
-    "score": 58,
+    "score": 56,
     "reasons": [
-      "Matched skills: .Net",
-      "Preferred title match: .net Developer",
-      "Search keyword hit: .Net",
-      "Preferred location: India",
-      "Experience fit around 2+ years"
+      "Matched skills: SQL, C#, .Net",
+      "Preferred title match: Full Stack Developer",
+      "Search keyword hit: SQL",
+      "Preferred location: Pune",
+      "Role asks for 8+ years"
     ],
     "matched_skills": [
+      "SQL",
+      "C#",
       ".Net"
     ],
     "job": {
       "source": "linkedin",
-      "source_id": "3882088531",
-      "title": "Senior .Net Developer",
-      "company": "ARS Traffic & Transport Technology (India)",
-      "location": "Trivandrum, Kerala, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-developer-at-ars-traffic-transport-technology-india-3882088531",
-      "description": "Senior .Net Developer Senior .Net Developer ARS Traffic & Transport Technology (India) Trivandrum, Kerala, India 2 years ago",
+      "source_id": "4455316930",
+      "title": "Dot Net Full Stack Developer",
+      "company": "FIS",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-developer-at-fis-4455316930",
+      "description": "Position Type Full time Type Of Hire Experienced (relevant combo of work and education) Education Desired Bachelor of Information Technology Dot Net Full Stack Developer \u2013 6 to 8 Yrs of Experience \u2013 Pune Location \u2013 General Shift About The Role As a Senior Software Engineer, you will design, build, and support high-performance backend solutions for a complex trading platform environment. You will work closely with product, business, quality engineering, and operations teams to deliver scalable, secure, and reliable applications that support critical business functions. Success in this role requires strong software engineering expertise, analytical thinking, and the ability to translate business requirements into robust technical solutions. What You Will Be Doing Design, develop, test, implement, maintain, and support enterprise-grade software applications and services Analyze business requirements and translate them into scalable, maintainable technical solutions Develop high-quality backend applications using C#, .NET Framework, .NET Core, and .NET 8+ Build and maintain RESTful APIs, web services, and microservices-based solutions Collaborate with product owners, business analysts, QA, and DevOps teams throughout the delivery lifecycle Participate in architecture reviews, solution design discussions, and application modernization initiatives Optimize application performance, scalability, availability, and reliability across distributed systems Create and maintain technical specifications, design documentation, and implementation artifacts Troubleshoot production issues, perform root cause analysis, and drive timely resolutions Conduct code reviews, promote engineering best practices, and mentor less experienced developers Lead small to medium-sized development initiatives and coordinate technical deliverables Contribute to Agile ceremonies and support continuous improvement across development teams What You Will Bring Typically requires 6 to 8 years of professional software engineering experience Experience designing and developing enterprise software applications using C#, .NET Framework, .NET Core, and .NET 8+ Strong knowledge of ASP.NET, Web API development, and REST-based integrations Hands-on experience with unit testing frameworks such as xUnit, NUnit, or MSTest Experience working with relational databases such as SQL Server, Oracle, or similar database technologies Strong understanding of microservices architecture, distributed systems, and modern software design principles Experience with Git-based source control and collaborative development practices Strong understanding of Software Development Life Cycle (SDLC) methodologies including Agile, Iterative, and Waterfall Proven analytical, problem-solving, debugging, and technical troubleshooting skills Ability to create technical documentation, solution designs, and implementation plans Excellent verbal and written communication skills with the ability to collaborate across technical and business teams. Nice To Have Skills/knowledge Exposure to Java or Perl development environments Experience supporting trading platforms, financial technology applications, or transaction-processing systems Experience managing multiple priorities and working across concurrent initiatives Experience providing technical leadership, mentoring, and team support Ability to resolve production issues with urgency and a strong customer-focused mindset What We Offer You At FIS, we are as committed to growing our employees\u2019 careers as our own business. We offer~ Opportunities to innovate in fintech Inclusive and diverse team atmosphere Professional and personal development Resources to contribute to your community Competitive salary and benefits Privacy Statement FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice. Sourcing Model Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company. #pridepass",
       "tags": [
-        ".net"
+        "sql",
+        ".net",
+        "c#"
       ],
-      "published_at": "2024-04-03",
+      "published_at": "2026-11-21",
       "remote": false,
       "metadata": {},
-      "fingerprint": "f13123ef4b0307ae00083df6463ac78f65781e40"
+      "fingerprint": "2efcf67377535b627fbdd01040c5a836f0903046"
     },
     "resume_suggestion": {
       "mode": "rules",
-      "summary": "Target Senior .Net Developer at ARS Traffic & Transport Technology (India) by foregrounding .Net and mirroring the role language without adding new claims.",
+      "summary": "Target Dot Net Full Stack Developer at FIS by foregrounding SQL, C#, .Net and mirroring the role language without adding new claims.",
       "keywords_to_emphasize": [
+        "SQL",
+        "C#",
         ".Net"
       ],
       "missing_resume_keywords": [
+        "SQL",
+        "C#",
         ".Net"
       ],
       "bullet_suggestions": [
+        "Rewrite one impact bullet to connect SQL to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
+        "Rewrite one impact bullet to connect C# to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes.",
         "Rewrite one impact bullet to connect .Net to a measurable delivery, such as data pipelines, platform automation, or analytics outcomes."
       ]
     }
@@ -511,7 +513,7 @@
       "url": "https://builtin.com/job/dot-net-developer-healthcare/12502611",
       "description": "Company Description We specialize in Staffing, Consulting, Software Development, and Training along with IT services to small to medium size companies. AG's primary objective is to help companies maximize their IT resources and meet the ever-changing IT needs and challenges. In addition, AG offers enterprise resource planning and enterprise application integration, supply-chain management, e-commerce solutions, and B2B public exchanges and B2B process integration solutions. Our company provides application analysis, design, development and programming, software engineering, systems development, testing, integration, and implementation, and management consulting services to various clients \u2013 including governmental agencies and private companies \u2013 throughout the United States and India. We provide these services in multiple computing environments and use technologies such as client/server architecture, object-oriented programming languages and tools, distributed database management systems, state-of-the-art networking, and communications infrastructures. Our honest and realistic approach to recruiting dictates that AG does not entice or lure engineers from their employers. We represent only high caliber technical professionals who have committed to making a change required by career. Job Description Responsibilities: Provide software architecture research and recommend/ implement the approved design. Good command of ..Net and produces quality code Required Skills: Strong experience as VB .Net developer Experience in MySQL and Entity Framework Experience in Kendo, Visual Studio 2012 Experience in C# and SSAS Experience in Java/J2ee Additional Information GOOD COMMUNICATION SKILLS DURATION: Long Term Contract INTERVIEW: PHONE & SKYPE Consultant must be willing to relocate anywhere in the USA",
       "tags": [
-        "Yesterday",
+        "2 Days Ago",
         "Saved",
         "Information Technology \u2022 Professional Services \u2022 Software \u2022 Consulting",
         "Top Skills:",
@@ -520,7 +522,7 @@
         "Entity Framework",
         "J2Ee"
       ],
-      "published_at": "Yesterday",
+      "published_at": "2 Days Ago",
       "remote": false,
       "metadata": {},
       "fingerprint": "6260c165dd731321e3f1d9f06bcafa8033f72263"
